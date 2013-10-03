@@ -1,0 +1,142 @@
+"FID_1,N,9,0","Id,N,9,0","Nom,C,254","Adresse,C,254","QUARTMNO,C,2","LIBQUART,C,32","SQUARTMNO,C,3","LIBSQUART,C,25","Année,N,9,0"
+17,0,C59.04,Lapeyronie,HO,HOPITAUX-FACULTES,HOP,Hopitaux-Facultés,2004
+18,0,C94.07,Rond point de la Lyre,HO,HOPITAUX-FACULTES,PQS,Plan des 4 Seigneurs,2007
+19,0,C70.05,Avenue Agropolis,HO,HOPITAUX-FACULTES,AIG,Aiguelongue,2005
+20,0,C104.08,Avenue de Fès,HO,HOPITAUX-FACULTES,PQS,Plan des 4 Seigneurs,2008
+34,0,C21.00,Pont Vincent Badie,MO,MOSSON,PAH,Les Hauts de Massane,2000
+36,0,C37.02,Rue de la Narbonnaise,MO,MOSSON,PAH,Les Hauts de Massane,2002
+37,0,C45.03,Rue Guilhem de Poitiers,MO,MOSSON,PAH,Les Hauts de Massane,2003
+41,0,C80.05,Rue Pierre Cardenal,MO,MOSSON,PAH,Les Hauts de Massane,2005
+44,0,C84.06,Palais des sports Pierre de Coubertin,MO,MOSSON,PAH,Les Hauts de Massane,2006
+45,0,C85.06,Centre Commercial Triton,MO,MOSSON,PAH,Les Hauts de Massane,2006
+46,0,C95.07,Rue de Bologne,MO,MOSSON,PAH,Les Hauts de Massane,2007
+47,0,C105.08,Avenue Aglaé Adanson,MO,MOSSON,PAH,Les Hauts de Massane,2008
+21,0,C16.00,Rue d'Alco,CV,LES CEVENNES,CVA,Alco,2000
+22,0,C17.00,Rue Rimbaud,CV,LES CEVENNES,CVA,Alco,2000
+23,0,C26.00,Avenue Louis Ravas,CV,LES CEVENNES,CVA,Alco,2000
+24,0,C38.02,Impasse Edmond,CV,LES CEVENNES,CVA,Alco,2002
+25,0,C44.02,Rue des Araucarias,CV,LES CEVENNES,CVA,Alco,2002
+26,0,C55.03,Rue Jacques Dalcroze,CV,LES CEVENNES,CVA,Alco,2003
+28,0,C96.07,Rue Rimbaud,CV,LES CEVENNES,CVA,Alco,2007
+29,0,C97.07,Avenue Bringuier,CV,LES CEVENNES,CVA,Alco,2007
+35,0,C36.02,Esplanade Celleneuve,MO,MOSSON,CVA,Alco,2002
+31,0,C18.00,Le Grand Mail,MO,MOSSON,PAI,Mosson,2000
+32,0,C19.00,Rue Heildelberg,MO,MOSSON,PAI,Mosson,2000
+33,0,C20.00,Rue de Bologne,MO,MOSSON,PAI,Mosson,2000
+38,0,C46.03,Avenue de Barcelone,MO,MOSSON,PAI,Mosson,2003
+39,0,C47.03,Rue d'Oxford,MO,MOSSON,PAI,Mosson,2003
+40,0,C79.05,Rond point Schuman,MO,MOSSON,PAI,Mosson,2005
+42,0,C81.05,Rue de Tipasa,MO,MOSSON,PAI,Mosson,2005
+43,0,C83.06,Avenue Heidelberg / Louisville,MO,MOSSON,PAI,Mosson,2006
+48,0,C106.08,Collège Rabelais,MO,MOSSON,PAI,Mosson,2008
+49,0,C114.08,Rue Saragosse/Salamanque,MO,MOSSON,PAI,Mosson,2008
+113,0,C48.03,Rue de Leyde,MO,MOSSON,PAI,Mosson,2003
+115,0,C118.11,Rond point René Char,MO,MOSSON,PAI,Mosson,2011
+15,0,C64.04,Avenue Albert Einstein,MI,MILLENAIRE,MIG,Grammont,2004
+27,0,C60.04,Voie Domitienne,MC,MONTPELLIER CENTRE,MCB,Boutonnet,2004
+109,0,C102.07,Faubourg Saint Jaumes,MC,MONTPELLIER CENTRE,MCB,Boutonnet,2007
+62,0,C13.00,Allée des Républicains espagnols,MC,MONTPELLIER CENTRE,MCX,Les Beaux - Arts,2000
+63,0,C14.00,Place du 11 Novembre,MC,MONTPELLIER CENTRE,MCX,Les Beaux - Arts,2000
+64,0,C15.00,Place Albert 1er,MC,MONTPELLIER CENTRE,MCX,Les Beaux - Arts,2000
+72,0,C33.02,Rue de l'Aiguillerie,MC,MONTPELLIER CENTRE,MCX,Les Beaux - Arts,2002
+89,0,C68.04,Rue du Pila Saint Gely,MC,MONTPELLIER CENTRE,MCX,Les Beaux - Arts,2004
+90,0,C69.04,Quai du Verdanson,MC,MONTPELLIER CENTRE,MCX,Les Beaux - Arts,2004
+92,0,C72.05,Place de la Chapelle Neuve,MC,MONTPELLIER CENTRE,MCX,Les Beaux - Arts,2005
+107,0,C100.07,Rue Proudhon,MC,MONTPELLIER CENTRE,MCX,Les Beaux - Arts,2007
+110,0,C103.07,Corum/Station Tramway,MC,MONTPELLIER CENTRE,MCX,Les Beaux - Arts,2007
+112,0,C113.08,Boulevard Louis Blanc,MC,MONTPELLIER CENTRE,MCX,Les Beaux - Arts,2008
+16,0,C87.06,Pompignane,MI,MILLENAIRE,MIP,La Pompignane,2006
+119,0,C123.11,Rond-point du Zenith,MI,MILLENAIRE,MIL,Millénaire,2011
+116,0,C120.11,Carrefour Paul-Henri SPAAK,MO,MOSSON,PAC,Celleneuve,2011
+66,0,C24.00,Rue Hilaire Ricard,MC,MONTPELLIER CENTRE,MCA,Les Arceaux,2000
+71,0,C32.02,Place Leroy Beaulieu,MC,MONTPELLIER CENTRE,MCA,Les Arceaux,2002
+50,0,C01.00,Place des Martyrs de la Résistance,MC,MONTPELLIER CENTRE,MCH,Centre Historique,2000
+51,0,C02.00,Place Jean Jaurès,MC,MONTPELLIER CENTRE,MCH,Centre Historique,2000
+60,0,C11.00,Place Giral,MC,MONTPELLIER CENTRE,MCH,Centre Historique,2000
+68,0,C29.00,Place du marché aux fleurs,MC,MONTPELLIER CENTRE,MCH,Centre Historique,2000
+73,0,C34.02,Rue de l'Huile,MC,MONTPELLIER CENTRE,MCH,Centre Historique,2002
+74,0,C35.02,Rue du Palais des Guilhem,MC,MONTPELLIER CENTRE,MCH,Centre Historique,2002
+76,0,C41.02,Rue du Cannau,MC,MONTPELLIER CENTRE,MCH,Centre Historique,2002
+79,0,C49.03,Rue Foch,MC,MONTPELLIER CENTRE,MCH,Centre Historique,2003
+88,0,C67.04,Rue Bonnier d'Alco,MC,MONTPELLIER CENTRE,MCH,Centre Historique,2004
+93,0,C73.05,Rue Saint Pierre,MC,MONTPELLIER CENTRE,MCH,Centre Historique,2005
+94,0,C74.05,Boulevard Henri IV,MC,MONTPELLIER CENTRE,MCH,Centre Historique,2005
+98,0,C78.05,Rue Foch,MC,MONTPELLIER CENTRE,MCH,Centre Historique,2005
+100,0,C88.06,Faubourg du Courreau,MC,MONTPELLIER CENTRE,MCH,Centre Historique,2006
+103,0,C91.06,Rue de lCandolle,MC,MONTPELLIER CENTRE,MCH,Centre Historique,2006
+104,0,C92.06,Rue de l'Université,MC,MONTPELLIER CENTRE,MCH,Centre Historique,2006
+123,0,C115.09,Place d'Aviler,MC,MONTPELLIER CENTRE,MCH,Centre Historique,2009
+124,0,C116.09,Place Pierre Flotte,MC,MONTPELLIER CENTRE,MCH,Centre Historique,2009
+61,0,C12.00,Place Paul Bec,MC,MONTPELLIER CENTRE,MCN,Antigone,2000
+70,0,C31.02,Rue de Thèbes,MC,MONTPELLIER CENTRE,MCN,Antigone,2002
+83,0,C58.03,Pont de Chauliac,MC,MONTPELLIER CENTRE,MCN,Antigone,2003
+84,0,C61.04,Place de Thessalie,MC,MONTPELLIER CENTRE,MCN,Antigone,2004
+52,0,C82.05,Place de la Comédie,MC,MONTPELLIER CENTRE,MCC,Comédie,2000
+53,0,C04.00,Place de la Comédie,MC,MONTPELLIER CENTRE,MCC,Comédie,2000
+57,0,C08.00,Rue de Verdun,MC,MONTPELLIER CENTRE,MCC,Comédie,2000
+65,0,C23.00,Rue Saint Côme,MC,MONTPELLIER CENTRE,MCC,Comédie,2000
+69,0,C30.02,Rue Boussairolles,MC,MONTPELLIER CENTRE,MCC,Comédie,2002
+75,0,C40.02,Hôtel de Ville,MC,MONTPELLIER CENTRE,MCC,Comédie,2002
+77,0,C42.02,Passage Bruyas,MC,MONTPELLIER CENTRE,MCC,Comédie,2002
+78,0,C43.02,Place Molière,MC,MONTPELLIER CENTRE,MCC,Comédie,2002
+85,0,C62.04,Passage de l'Horloge,MC,MONTPELLIER CENTRE,MCC,Comédie,2004
+86,0,C65.04,Grand rue Jean Moulin,MC,MONTPELLIER CENTRE,MCC,Comédie,2004
+87,0,C66.04,Rue Valedau,MC,MONTPELLIER CENTRE,MCC,Comédie,2004
+91,0,C71.05,Place Fancis Ponge,MC,MONTPELLIER CENTRE,MCC,Comédie,2005
+96,0,C76.05,Rue de l'Aiguillerie,MC,MONTPELLIER CENTRE,MCC,Comédie,2005
+97,0,C77.05,Esplanade Charles de Gaulle,MC,MONTPELLIER CENTRE,MCC,Comédie,2005
+99,0,C03.00,Théatre de la Comédie,MC,MONTPELLIER CENTRE,MCC,Comédie,2005
+14,0,C56.03,Rue de Vendémiaire,MI,MILLENAIRE,MIP,Port Marianne,2003
+106,0,C99.07,Pont Juvénal,MC,MONTPELLIER CENTREAIRE,MIP,Port Marianne,2007
+117,0,C121.11,Pont Jean Zuccarelli,MI,MILLENAIRE,MIP,Port Marianne,2011
+118,0,C122.11,Avenue Professeur Etienne Antonnelli,MI,MILLENAIRE,MIP,Port Marianne,2011
+120,0,C124.11,Place Odysseum,MI,MILLENAIRE,MIP,Port Marianne,2011
+121,0,C125.11,Boulevard de Pénélope,MI,MILLENAIRE,MIP,Port Marianne,2011
+122,0,C126.11,Lycée Mendes France,MI,MILLENAIRE,MIP,Port Marianne,2011
+59,0,C10.00,Boulevard du Jeu de Paume,MC,MONTPELLIER CENTRE,MCG,Gambetta,2000
+81,0,C51.03,Place Saint Denis,MC,MONTPELLIER CENTRE,MCG,Gambetta,2003
+95,0,C75.05,Avenue Georges Clemenceau,MC,MONTPELLIER CENTRE,MCG,Gambetta,2005
+101,0,C89.06,Cours Gambetta,MC,MONTPELLIER CENTRE,MCG,Gambetta,2006
+105,0,C93.06,Rue Rondelet,MC,MONTPELLIER CENTRE,MCG,Gambetta,2006
+67,0,C27.00,Rue Coppée,MC,MONTPELLIER CENTRE,MCF,Figuerolles,2000
+82,0,C52.03,Place Salengro,MC,MONTPELLIER CENTRE,MCF,Figuerolles,2003
+108,0,C101.07,Rue Joachim du Bellay,MC,MONTPELLIER CENTRE,MCF,Figuerolles,2007
+54,0,C05.00,Place Auguste Gibert,MC,MONTPELLIER CENTRE,MCS,Gares,2000
+55,0,C06.00,Rue Jules Ferry,MC,MONTPELLIER CENTRE,MCS,Gares,2000
+56,0,C07.00,Rue du Grand Saint Jean,MC,MONTPELLIER CENTRE,MCS,Gares,2000
+58,0,C09.00,Boulevard de l'Observatoire,MC,MONTPELLIER CENTRE,MCS,Gares,2000
+80,0,C50.03,Place François Jaume,MC,MONTPELLIER CENTRE,MCS,Gares,2003
+102,0,C90.06,Rue Aristide Ollivier,MC,MONTPELLIER CENTRE,MCS,Gares,2006
+111,0,C112.08,Pont de Lattes,MC,MONTPELLIER CENTRE,MCS,Gares,2008
+114,0,C117.11,Pont de Sète,MC,MONTPELLIER CENTRE,MCS,Gares,2011
+5,0,C108.08,Rond point Flandres Dunkerque,CX,CROIX D ARGENT,CXE,Estanove,2008
+30,0,C107.08,Route de Lavérune,CV,LES CEVENNES,CVA,Estanove,2008
+12,0,C63.04,Rond point Près d'Arènes,PR,PRES D ARENES,PRA,Aiguerelles,2004
+10,0,C22.00,Rue Vachet,PR,PRES D ARENES,PRM,Saint Martin,2000
+11,0,C57.04,Rue des Razeteurs,PR,PRES D ARENES,PRM,Saint Martin,2004
+8,0,C25.00,Avenue Pedro de Luna,CX,CROIX D ARGENT,CXM,Lemasson,2000
+9,0,C86.06,Place du 8 mai 1945,CX,CROIX D ARGENT,CXM,Lemasson,2006
+0,0,C28.00,Avenue de Vanières,CX,CROIX D ARGENT,CXP,Pas du Loup,2000
+1,0,C39.02,Rue du Pas du Loup,CX,CROIX D ARGENT,CXP,Pas du Loup,2002
+2,0,C53.03,Place Fourier,CX,CROIX D ARGENT,CXP,Pas du Loup,2003
+6,0,C109.08,Cité Paul Valery,CX,CROIX D ARGENT,CXP,Pas du Loup,2008
+7,0,C110.08,Val de Croze,CX,CROIX D ARGENT,CXP,Pas du Loup,2008
+3,0,C54.03,Avenue Villeneuve d'Angoulême,CX,CROIX D ARGENT,CXA,Lemasson,2003
+4,0,C98.07,Rue Colucci,CX,CROIX D ARGENT,CXA,Lemasson,2007
+13,0,C111.08,Rond point Tournezy,PR,PRES D ARENES,PRE,Près d'Arènes,2008
+119,0,C119.11,Avenue de l'Europe,MO,MOSSON,PAH,Les Hauts de Massane,2011
+0,0,C127.12,Stade de la Mosson/Heidelberg,MO,MOSSON,MOS,Mosson,2012
+0,0,C128.12,Stade de la Mosson/Surville,MO,MOSSON,MOS,Mosson,2012
+0,0,C129.12,Stade de la Mosson/Espace Mosson,MO,MOSSON,MOS,Mosson,2012
+0,0,C130.12,Av de Lodève/Av du Petit Bard,CV,LES CEVENNES,CVA,Alco,2012
+0,0,C131.12,Rd-Pt de l'Oasis,CV,LES CEVENNES,CVA,Alco,2012
+0,0,C132.12,Av des Garrats/Av de Lodève,CV,LES CEVENNES,CVA,Alco,2012
+0,0,C133.12,Rd-Pt d'Alco/Av du Professeur Blayac,CV,LES CEVENNES,CVA,Alco,2012
+0,0,C134.12,Rd-Pt d'Alco/Av des Moulins,CV,LES CEVENNES,CVA,Alco,2012
+0,0,C135.12,Chemin de Moularès/Av du Prof. Antonelli,MI,MILLENAIRE,MIP,Port Marianne,2012
+0,0,C136.12,Place Ernest Granier,MI,MILLENAIRE,MIP,Port Marianne,2012
+0,0,C137.12,Av Raymond Dugrand/Bassin Jacques Coeur,MI,MILLENAIRE,MIP,Port Marianne,2012
+0,0,C138.12,Rd-Pt Pablo Picasso,MI,MILLENAIRE,MIP,Port Marianne,2012
+0,0,C139.12,Pont de la République,MI,MILLENAIRE,MIP,Port Marianne,2012
+0,0,C140.12,Place Edouard Adam,MC,MONTPELLIER CENTRE,ECU,Ecusson,2012
+0,0,C141.12,Rue André Michel/Bvd Jeu de Paume,MC,MONTPELLIER CENTRE,ECU,Ecusson,2012

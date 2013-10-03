@@ -1,0 +1,2978 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>VilleMTP_MTP_AffichageLibre</name>
+<Schema name="VilleMTP_MTP_AffichageLibre" id="VilleMTP_MTP_AffichageLibre">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="OBJECTID_1" type="int"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="NOMOBJ" type="string"></SimpleField>
+	<SimpleField name="NUMOBJ" type="float"></SimpleField>
+	<SimpleField name="MARQUE" type="string"></SimpleField>
+	<SimpleField name="SUPPORT" type="string"></SimpleField>
+	<SimpleField name="DIM" type="string"></SimpleField>
+	<SimpleField name="CDCOM" type="float"></SimpleField>
+	<SimpleField name="BISTER" type="string"></SimpleField>
+	<SimpleField name="CDRUE" type="float"></SimpleField>
+	<SimpleField name="NORUE" type="float"></SimpleField>
+	<SimpleField name="METRAGE" type="float"></SimpleField>
+	<SimpleField name="QUART" type="string"></SimpleField>
+	<SimpleField name="SSQUART" type="string"></SimpleField>
+	<SimpleField name="CANTON" type="string"></SimpleField>
+	<SimpleField name="OBSERV" type="string"></SimpleField>
+	<SimpleField name="HISTO0" type="string"></SimpleField>
+	<SimpleField name="photo" type="string"></SimpleField>
+	<SimpleField name="Coord_x" type="string"></SimpleField>
+	<SimpleField name="Coord_y" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">1</SimpleData>
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">359.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">618.00000000000</SimpleData>
+		<SimpleData name="NORUE">161.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">3</SimpleData>
+		<SimpleData name="SSQUART">9</SimpleData>
+		<SimpleData name="CANTON">10</SimpleData>
+		<SimpleData name="HISTO0">901462</SimpleData>
+		<SimpleData name="photo">359</SimpleData>
+		<SimpleData name="Coord_x">3,83295549076395</SimpleData>
+		<SimpleData name="Coord_y">43,606299264524</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.832955490763948,43.606299264523877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">2</SimpleData>
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">338.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1781.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">3</SimpleData>
+		<SimpleData name="SSQUART">9</SimpleData>
+		<SimpleData name="CANTON">8</SimpleData>
+		<SimpleData name="HISTO0">900faf</SimpleData>
+		<SimpleData name="photo">338</SimpleData>
+		<SimpleData name="Coord_x">3,83791687340067</SimpleData>
+		<SimpleData name="Coord_y">43,6069187679286</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.837916873400665,43.60691876792847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">3</SimpleData>
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">335.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1781.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">3</SimpleData>
+		<SimpleData name="SSQUART">9</SimpleData>
+		<SimpleData name="CANTON">8</SimpleData>
+		<SimpleData name="HISTO0">90100d</SimpleData>
+		<SimpleData name="photo">335</SimpleData>
+		<SimpleData name="Coord_x">3,83794159675615</SimpleData>
+		<SimpleData name="Coord_y">43,6070746382555</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.837941596756151,43.607074638255362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">4</SimpleData>
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">337.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1781.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">3</SimpleData>
+		<SimpleData name="SSQUART">9</SimpleData>
+		<SimpleData name="CANTON">8</SimpleData>
+		<SimpleData name="HISTO0">90114a</SimpleData>
+		<SimpleData name="photo">337</SimpleData>
+		<SimpleData name="Coord_x">3,83805436498562</SimpleData>
+		<SimpleData name="Coord_y">43,6069817675208</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.838054364985616,43.606981767520708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">5</SimpleData>
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">336.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1781.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">3</SimpleData>
+		<SimpleData name="SSQUART">9</SimpleData>
+		<SimpleData name="CANTON">8</SimpleData>
+		<SimpleData name="HISTO0">9011dd</SimpleData>
+		<SimpleData name="photo">336</SimpleData>
+		<SimpleData name="Coord_x">3,83806965275494</SimpleData>
+		<SimpleData name="Coord_y">43,6071516271985</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.83806965275494,43.607151627198363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">6</SimpleData>
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">348.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">857.00000000000</SimpleData>
+		<SimpleData name="NORUE">65.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">2</SimpleData>
+		<SimpleData name="SSQUART">6</SimpleData>
+		<SimpleData name="CANTON">10</SimpleData>
+		<SimpleData name="HISTO0">900dec</SimpleData>
+		<SimpleData name="photo">348</SimpleData>
+		<SimpleData name="Coord_x">3,82956433922027</SimpleData>
+		<SimpleData name="Coord_y">43,6119754950398</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.829564339220272,43.611975495039673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">8</SimpleData>
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">378.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1568.00000000000</SimpleData>
+		<SimpleData name="NORUE">2300.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">2</SimpleData>
+		<SimpleData name="CANTON">9</SimpleData>
+		<SimpleData name="HISTO0">900c5d</SimpleData>
+		<SimpleData name="photo">378</SimpleData>
+		<SimpleData name="Coord_x">3,83409485340617</SimpleData>
+		<SimpleData name="Coord_y">43,621334158507</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.834094853406173,43.621334158506841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">9</SimpleData>
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">361.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">2300.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">2</SimpleData>
+		<SimpleData name="CANTON">9</SimpleData>
+		<SimpleData name="HISTO0">90129a</SimpleData>
+		<SimpleData name="photo">361</SimpleData>
+		<SimpleData name="Coord_x">3,83398529627437</SimpleData>
+		<SimpleData name="Coord_y">43,6212058146268</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.83398529627437,43.621205814626684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">10</SimpleData>
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">282.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1794.00000000000</SimpleData>
+		<SimpleData name="NORUE">388.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">4</SimpleData>
+		<SimpleData name="SSQUART">14</SimpleData>
+		<SimpleData name="CANTON">6</SimpleData>
+		<SimpleData name="HISTO0">900a3b</SimpleData>
+		<SimpleData name="photo">282</SimpleData>
+		<SimpleData name="Coord_x">3,85603640027075</SimpleData>
+		<SimpleData name="Coord_y">43,5848001044581</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.856036400270745,43.584800104457962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">11</SimpleData>
+		<SimpleData name="OBJECTID">40</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">209.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">2100.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">4</SimpleData>
+		<SimpleData name="SSQUART">13</SimpleData>
+		<SimpleData name="CANTON">8</SimpleData>
+		<SimpleData name="HISTO0">900a81</SimpleData>
+		<SimpleData name="photo">209</SimpleData>
+		<SimpleData name="Coord_x">3,84496653473665</SimpleData>
+		<SimpleData name="Coord_y">43,5964275564169</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.844966534736652,43.596427556416828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">12</SimpleData>
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">324.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1363.00000000000</SimpleData>
+		<SimpleData name="NORUE">25.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">3</SimpleData>
+		<SimpleData name="SSQUART">9</SimpleData>
+		<SimpleData name="CANTON">8</SimpleData>
+		<SimpleData name="HISTO0">90132e</SimpleData>
+		<SimpleData name="photo">324</SimpleData>
+		<SimpleData name="Coord_x">3,84276829959789</SimpleData>
+		<SimpleData name="Coord_y">43,5994272327286</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.842768299597889,43.599427232728452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">13</SimpleData>
+		<SimpleData name="OBJECTID">46</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">331.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">864.00000000000</SimpleData>
+		<SimpleData name="NORUE">803.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">3</SimpleData>
+		<SimpleData name="SSQUART">10</SimpleData>
+		<SimpleData name="CANTON">8</SimpleData>
+		<SimpleData name="HISTO0">901260</SimpleData>
+		<SimpleData name="photo">331</SimpleData>
+		<SimpleData name="Coord_x">3,84461925522359</SimpleData>
+		<SimpleData name="Coord_y">43,6043525360166</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.844619255223594,43.604352536016521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">14</SimpleData>
+		<SimpleData name="OBJECTID">48</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">213.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1695.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">3</SimpleData>
+		<SimpleData name="SSQUART">10</SimpleData>
+		<SimpleData name="CANTON">8</SimpleData>
+		<SimpleData name="HISTO0">900c7a</SimpleData>
+		<SimpleData name="photo">213</SimpleData>
+		<SimpleData name="Coord_x">3,81758913608854</SimpleData>
+		<SimpleData name="Coord_y">43,6230021551578</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.817589136088539,43.623002155157678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">15</SimpleData>
+		<SimpleData name="OBJECTID">49</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">212.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1695.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">3</SimpleData>
+		<SimpleData name="SSQUART">10</SimpleData>
+		<SimpleData name="CANTON">8</SimpleData>
+		<SimpleData name="HISTO0">901084</SimpleData>
+		<SimpleData name="photo">212</SimpleData>
+		<SimpleData name="Coord_x">3,8176620339727</SimpleData>
+		<SimpleData name="Coord_y">43,6245037046097</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.817662033972702,43.624503704609545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">16</SimpleData>
+		<SimpleData name="OBJECTID">50</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">211.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1363.00000000000</SimpleData>
+		<SimpleData name="NORUE">40.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">3</SimpleData>
+		<SimpleData name="SSQUART">9</SimpleData>
+		<SimpleData name="CANTON">8</SimpleData>
+		<SimpleData name="HISTO0">9009e1</SimpleData>
+		<SimpleData name="photo">211</SimpleData>
+		<SimpleData name="Coord_x">3,85361975300545</SimpleData>
+		<SimpleData name="Coord_y">43,6022887338773</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.853619753005451,43.60228873387716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">17</SimpleData>
+		<SimpleData name="OBJECTID">51</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">321.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1046.00000000000</SimpleData>
+		<SimpleData name="NORUE">575.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">4</SimpleData>
+		<SimpleData name="SSQUART">11</SimpleData>
+		<SimpleData name="CANTON">8</SimpleData>
+		<SimpleData name="HISTO0">900ac0</SimpleData>
+		<SimpleData name="photo">321</SimpleData>
+		<SimpleData name="Coord_x">3,85581290117038</SimpleData>
+		<SimpleData name="Coord_y">43,5995080116618</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.855812901170376,43.599508011661726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">18</SimpleData>
+		<SimpleData name="OBJECTID">52</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">210.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1046.00000000000</SimpleData>
+		<SimpleData name="NORUE">268.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">4</SimpleData>
+		<SimpleData name="SSQUART">11</SimpleData>
+		<SimpleData name="CANTON">7</SimpleData>
+		<SimpleData name="HISTO0">900f37</SimpleData>
+		<SimpleData name="photo">210</SimpleData>
+		<SimpleData name="Coord_x">3,85705846658253</SimpleData>
+		<SimpleData name="Coord_y">43,6017683854292</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.857058466582531,43.601768385429096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">19</SimpleData>
+		<SimpleData name="OBJECTID">53</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">319.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1363.00000000000</SimpleData>
+		<SimpleData name="NORUE">30.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">3</SimpleData>
+		<SimpleData name="SSQUART">9</SimpleData>
+		<SimpleData name="CANTON">8</SimpleData>
+		<SimpleData name="OBSERV">ANGLE/ROC DE PEZENAS</SimpleData>
+		<SimpleData name="HISTO0">900fc9</SimpleData>
+		<SimpleData name="photo">319</SimpleData>
+		<SimpleData name="Coord_x">3,85554226615621</SimpleData>
+		<SimpleData name="Coord_y">43,6029045295862</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.855542266156208,43.602904529586112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">20</SimpleData>
+		<SimpleData name="OBJECTID">57</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">246.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1062.00000000000</SimpleData>
+		<SimpleData name="NORUE">3.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">4</SimpleData>
+		<SimpleData name="SSQUART">12</SimpleData>
+		<SimpleData name="CANTON">6</SimpleData>
+		<SimpleData name="HISTO0">901052</SimpleData>
+		<SimpleData name="photo">246</SimpleData>
+		<SimpleData name="Coord_x">3,86904232110115</SimpleData>
+		<SimpleData name="Coord_y">43,592677252504</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869042321101152,43.592677252503869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">21</SimpleData>
+		<SimpleData name="OBJECTID">58</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">247.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">2139.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">4</SimpleData>
+		<SimpleData name="SSQUART">12</SimpleData>
+		<SimpleData name="CANTON">6</SimpleData>
+		<SimpleData name="HISTO0">9010fb</SimpleData>
+		<SimpleData name="photo">247</SimpleData>
+		<SimpleData name="Coord_x">3,86649511394502</SimpleData>
+		<SimpleData name="Coord_y">43,5932051254901</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.866495113945018,43.59320512549003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">22</SimpleData>
+		<SimpleData name="OBJECTID">61</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">41.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">710.00000000000</SimpleData>
+		<SimpleData name="NORUE">7.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">5</SimpleData>
+		<SimpleData name="SSQUART">15</SimpleData>
+		<SimpleData name="CANTON">5</SimpleData>
+		<SimpleData name="HISTO0">900ba1</SimpleData>
+		<SimpleData name="photo">41</SimpleData>
+		<SimpleData name="Coord_x">3,883993556619</SimpleData>
+		<SimpleData name="Coord_y">43,5921007973824</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883993556618998,43.59210079738228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">23</SimpleData>
+		<SimpleData name="OBJECTID">62</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">291.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1298.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">5</SimpleData>
+		<SimpleData name="SSQUART">15</SimpleData>
+		<SimpleData name="CANTON">5</SimpleData>
+		<SimpleData name="HISTO0">900c13</SimpleData>
+		<SimpleData name="photo">291</SimpleData>
+		<SimpleData name="Coord_x">3,88512683107035</SimpleData>
+		<SimpleData name="Coord_y">43,5922751743818</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.885126831070351,43.592275174381669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">24</SimpleData>
+		<SimpleData name="OBJECTID">63</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">233.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1298.00000000000</SimpleData>
+		<SimpleData name="NORUE">21.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">5</SimpleData>
+		<SimpleData name="SSQUART">15</SimpleData>
+		<SimpleData name="CANTON">5</SimpleData>
+		<SimpleData name="HISTO0">900e5e</SimpleData>
+		<SimpleData name="photo">233</SimpleData>
+		<SimpleData name="Coord_x">3,88265221485897</SimpleData>
+		<SimpleData name="Coord_y">43,5931744085013</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882652214858967,43.593174408501248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">25</SimpleData>
+		<SimpleData name="OBJECTID">64</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">230.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1446.00000000000</SimpleData>
+		<SimpleData name="NORUE">980.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">5</SimpleData>
+		<SimpleData name="SSQUART">15</SimpleData>
+		<SimpleData name="CANTON">5</SimpleData>
+		<SimpleData name="HISTO0">900b6a</SimpleData>
+		<SimpleData name="photo">230</SimpleData>
+		<SimpleData name="Coord_x">3,88729858165536</SimpleData>
+		<SimpleData name="Coord_y">43,5922902715629</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.887298581655361,43.592290271562831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">26</SimpleData>
+		<SimpleData name="OBJECTID">67</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">157.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1929.00000000000</SimpleData>
+		<SimpleData name="NORUE">18.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">04</SimpleData>
+		<SimpleData name="SSQUART">12</SimpleData>
+		<SimpleData name="CANTON">06</SimpleData>
+		<SimpleData name="HISTO0">900e72</SimpleData>
+		<SimpleData name="photo">157</SimpleData>
+		<SimpleData name="Coord_x">3,86987252498863</SimpleData>
+		<SimpleData name="Coord_y">43,5987877167503</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869872524988632,43.598787716750195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">27</SimpleData>
+		<SimpleData name="OBJECTID">68</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">261.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1511.00000000000</SimpleData>
+		<SimpleData name="NORUE">864.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">4</SimpleData>
+		<SimpleData name="SSQUART">12</SimpleData>
+		<SimpleData name="CANTON">6</SimpleData>
+		<SimpleData name="HISTO0">9013f6</SimpleData>
+		<SimpleData name="photo">261</SimpleData>
+		<SimpleData name="Coord_x">3,87462909754208</SimpleData>
+		<SimpleData name="Coord_y">43,5969073060586</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874629097542084,43.596907306058533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">28</SimpleData>
+		<SimpleData name="OBJECTID">69</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">258.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1511.00000000000</SimpleData>
+		<SimpleData name="NORUE">712.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">4</SimpleData>
+		<SimpleData name="SSQUART">12</SimpleData>
+		<SimpleData name="CANTON">6</SimpleData>
+		<SimpleData name="HISTO0">900d4e</SimpleData>
+		<SimpleData name="photo">258</SimpleData>
+		<SimpleData name="Coord_x">3,87610780589968</SimpleData>
+		<SimpleData name="Coord_y">43,5967652863286</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876107805899682,43.596765286328512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">29</SimpleData>
+		<SimpleData name="OBJECTID">70</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">259.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1511.00000000000</SimpleData>
+		<SimpleData name="NORUE">712.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">4</SimpleData>
+		<SimpleData name="SSQUART">12</SimpleData>
+		<SimpleData name="CANTON">6</SimpleData>
+		<SimpleData name="HISTO0">900da7</SimpleData>
+		<SimpleData name="photo">259</SimpleData>
+		<SimpleData name="Coord_x">3,87612378514384</SimpleData>
+		<SimpleData name="Coord_y">43,5968357760258</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876123785143844,43.596835776025664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">30</SimpleData>
+		<SimpleData name="OBJECTID">71</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">260.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1511.00000000000</SimpleData>
+		<SimpleData name="NORUE">712.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">4</SimpleData>
+		<SimpleData name="SSQUART">12</SimpleData>
+		<SimpleData name="CANTON">6</SimpleData>
+		<SimpleData name="HISTO0">900de1</SimpleData>
+		<SimpleData name="photo">260</SimpleData>
+		<SimpleData name="Coord_x">3,87591799037315</SimpleData>
+		<SimpleData name="Coord_y">43,5968207239888</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.875917990373145,43.596820723988699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">31</SimpleData>
+		<SimpleData name="OBJECTID">72</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">263.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">2139.00000000000</SimpleData>
+		<SimpleData name="NORUE">130.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">4</SimpleData>
+		<SimpleData name="SSQUART">12</SimpleData>
+		<SimpleData name="CANTON">6</SimpleData>
+		<SimpleData name="HISTO0">9011a9</SimpleData>
+		<SimpleData name="photo">263</SimpleData>
+		<SimpleData name="Coord_x">3,87282035720232</SimpleData>
+		<SimpleData name="Coord_y">43,5985462438127</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872820357202325,43.598546243812628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">32</SimpleData>
+		<SimpleData name="OBJECTID">73</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">262.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">2139.00000000000</SimpleData>
+		<SimpleData name="NORUE">130.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">4</SimpleData>
+		<SimpleData name="SSQUART">12</SimpleData>
+		<SimpleData name="CANTON">6</SimpleData>
+		<SimpleData name="HISTO0">90119a</SimpleData>
+		<SimpleData name="photo">262</SimpleData>
+		<SimpleData name="Coord_x">3,87268335668336</SimpleData>
+		<SimpleData name="Coord_y">43,5986181195003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872683356683358,43.598618119500131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">33</SimpleData>
+		<SimpleData name="OBJECTID">74</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">264.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">2139.00000000000</SimpleData>
+		<SimpleData name="NORUE">130.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">4</SimpleData>
+		<SimpleData name="SSQUART">12</SimpleData>
+		<SimpleData name="CANTON">6</SimpleData>
+		<SimpleData name="HISTO0">90124d</SimpleData>
+		<SimpleData name="photo">264</SimpleData>
+		<SimpleData name="Coord_x">3,87270597331904</SimpleData>
+		<SimpleData name="Coord_y">43,5986047339072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872705973319035,43.598604733907088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">34</SimpleData>
+		<SimpleData name="OBJECTID">75</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">311.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1242.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">4</SimpleData>
+		<SimpleData name="SSQUART">11</SimpleData>
+		<SimpleData name="CANTON">7</SimpleData>
+		<SimpleData name="HISTO0">901073</SimpleData>
+		<SimpleData name="photo">311</SimpleData>
+		<SimpleData name="Coord_x">3,898874212686</SimpleData>
+		<SimpleData name="Coord_y">43,6092679950956</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898874212685995,43.609267995095479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">35</SimpleData>
+		<SimpleData name="OBJECTID">78</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">269.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1242.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">4</SimpleData>
+		<SimpleData name="SSQUART">11</SimpleData>
+		<SimpleData name="CANTON">7</SimpleData>
+		<SimpleData name="HISTO0">900a5a</SimpleData>
+		<SimpleData name="photo">269</SimpleData>
+		<SimpleData name="Coord_x">3,89913872827395</SimpleData>
+		<SimpleData name="Coord_y">43,603151463894</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.899138728273948,43.60315146389388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">36</SimpleData>
+		<SimpleData name="OBJECTID">79</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">266.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1242.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">4</SimpleData>
+		<SimpleData name="SSQUART">11</SimpleData>
+		<SimpleData name="CANTON">7</SimpleData>
+		<SimpleData name="HISTO0">900a4c</SimpleData>
+		<SimpleData name="photo">266</SimpleData>
+		<SimpleData name="Coord_x">3,87234438180365</SimpleData>
+		<SimpleData name="Coord_y">43,5881868062541</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872344381803654,43.588186806253937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">37</SimpleData>
+		<SimpleData name="OBJECTID">80</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">310.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1242.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">4</SimpleData>
+		<SimpleData name="SSQUART">11</SimpleData>
+		<SimpleData name="CANTON">7</SimpleData>
+		<SimpleData name="HISTO0">900fb3</SimpleData>
+		<SimpleData name="photo">310</SimpleData>
+		<SimpleData name="Coord_x">3,85572828795796</SimpleData>
+		<SimpleData name="Coord_y">43,6313811101245</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.85572828795796,43.631381110124352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">38</SimpleData>
+		<SimpleData name="OBJECTID">81</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">313.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1143.00000000000</SimpleData>
+		<SimpleData name="NORUE">31.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">29</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="HISTO0">9011b4</SimpleData>
+		<SimpleData name="photo">313</SimpleData>
+		<SimpleData name="Coord_x">3,8721740552613</SimpleData>
+		<SimpleData name="Coord_y">43,6032926474423</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872174055261302,43.603292647442245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">39</SimpleData>
+		<SimpleData name="OBJECTID">83</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">235.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1854.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">5</SimpleData>
+		<SimpleData name="SSQUART">15</SimpleData>
+		<SimpleData name="CANTON">5</SimpleData>
+		<SimpleData name="HISTO0">900b69</SimpleData>
+		<SimpleData name="photo">235</SimpleData>
+		<SimpleData name="Coord_x">3,88415278619057</SimpleData>
+		<SimpleData name="Coord_y">43,5955299120819</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.884152786190572,43.595529912081822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">40</SimpleData>
+		<SimpleData name="OBJECTID">84</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">241.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1360.00000000000</SimpleData>
+		<SimpleData name="NORUE">21.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">5</SimpleData>
+		<SimpleData name="SSQUART">15</SimpleData>
+		<SimpleData name="CANTON">5</SimpleData>
+		<SimpleData name="HISTO0">90117b</SimpleData>
+		<SimpleData name="photo">241</SimpleData>
+		<SimpleData name="Coord_x">3,88212508794006</SimpleData>
+		<SimpleData name="Coord_y">43,5985525875945</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882125087940059,43.598552587594348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">41</SimpleData>
+		<SimpleData name="OBJECTID">86</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">238.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1640.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">5</SimpleData>
+		<SimpleData name="SSQUART">15</SimpleData>
+		<SimpleData name="CANTON">5</SimpleData>
+		<SimpleData name="HISTO0">900ff6</SimpleData>
+		<SimpleData name="photo">238</SimpleData>
+		<SimpleData name="Coord_x">3,8865430168863</SimpleData>
+		<SimpleData name="Coord_y">43,5972334316227</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.886543016886296,43.597233431622548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">42</SimpleData>
+		<SimpleData name="OBJECTID">87</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">239.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1640.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">5</SimpleData>
+		<SimpleData name="SSQUART">15</SimpleData>
+		<SimpleData name="CANTON">5</SimpleData>
+		<SimpleData name="HISTO0">901008</SimpleData>
+		<SimpleData name="photo">239</SimpleData>
+		<SimpleData name="Coord_x">3,88670914133183</SimpleData>
+		<SimpleData name="Coord_y">43,5972765611607</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.886709141331826,43.597276561160648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">43</SimpleData>
+		<SimpleData name="OBJECTID">88</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">236.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1784.00000000000</SimpleData>
+		<SimpleData name="NORUE">460.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">5</SimpleData>
+		<SimpleData name="SSQUART">16</SimpleData>
+		<SimpleData name="CANTON">5</SimpleData>
+		<SimpleData name="HISTO0">900de9</SimpleData>
+		<SimpleData name="photo">236</SimpleData>
+		<SimpleData name="Coord_x">3,88977281065054</SimpleData>
+		<SimpleData name="Coord_y">43,5988766664228</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.889772810650538,43.598876666422662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">44</SimpleData>
+		<SimpleData name="OBJECTID">89</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">237.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1784.00000000000</SimpleData>
+		<SimpleData name="NORUE">465.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">5</SimpleData>
+		<SimpleData name="SSQUART">16</SimpleData>
+		<SimpleData name="CANTON">5</SimpleData>
+		<SimpleData name="HISTO0">900fb8</SimpleData>
+		<SimpleData name="photo">237</SimpleData>
+		<SimpleData name="Coord_x">3,88991251176987</SimpleData>
+		<SimpleData name="Coord_y">43,5989299514758</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88991251176987,43.598929951475718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">45</SimpleData>
+		<SimpleData name="OBJECTID">90</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">7.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1133.00000000000</SimpleData>
+		<SimpleData name="NORUE">19.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">30</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">900e22</SimpleData>
+		<SimpleData name="photo">7</SimpleData>
+		<SimpleData name="Coord_x">3,88077836870163</SimpleData>
+		<SimpleData name="Coord_y">43,6036218182927</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88077836870163,43.603621818292588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">46</SimpleData>
+		<SimpleData name="OBJECTID">91</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">8.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">431.00000000000</SimpleData>
+		<SimpleData name="NORUE">7.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">30</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">900f0b</SimpleData>
+		<SimpleData name="photo">8</SimpleData>
+		<SimpleData name="Coord_x">3,88137401995989</SimpleData>
+		<SimpleData name="Coord_y">43,603891302652</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881374019959885,43.603891302651881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">47</SimpleData>
+		<SimpleData name="OBJECTID">92</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">278.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1640.00000000000</SimpleData>
+		<SimpleData name="NORUE">4.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">5</SimpleData>
+		<SimpleData name="SSQUART">15</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">900c21</SimpleData>
+		<SimpleData name="photo">278</SimpleData>
+		<SimpleData name="Coord_x">3,88476036853924</SimpleData>
+		<SimpleData name="Coord_y">43,6030995558657</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.884760368539243,43.60309955586559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">48</SimpleData>
+		<SimpleData name="OBJECTID">95</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">333.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">806.00000000000</SimpleData>
+		<SimpleData name="NORUE">314.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">3</SimpleData>
+		<SimpleData name="SSQUART">10</SimpleData>
+		<SimpleData name="CANTON">8</SimpleData>
+		<SimpleData name="HISTO0">900f3c</SimpleData>
+		<SimpleData name="photo">333</SimpleData>
+		<SimpleData name="Coord_x">3,842017113151</SimpleData>
+		<SimpleData name="Coord_y">43,6058437733792</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.842017113151004,43.605843773379107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">49</SimpleData>
+		<SimpleData name="OBJECTID">97</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">329.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1525.00000000000</SimpleData>
+		<SimpleData name="NORUE">30.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">3</SimpleData>
+		<SimpleData name="SSQUART">10</SimpleData>
+		<SimpleData name="CANTON">8</SimpleData>
+		<SimpleData name="HISTO0">901180</SimpleData>
+		<SimpleData name="photo">329</SimpleData>
+		<SimpleData name="Coord_x">3,84633343301512</SimpleData>
+		<SimpleData name="Coord_y">43,6057612064447</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.846333433015119,43.605761206444633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">50</SimpleData>
+		<SimpleData name="OBJECTID">104</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">314.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1012.00000000000</SimpleData>
+		<SimpleData name="NORUE">68.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">28</SimpleData>
+		<SimpleData name="CANTON">7</SimpleData>
+		<SimpleData name="HISTO0">901111</SimpleData>
+		<SimpleData name="photo">314</SimpleData>
+		<SimpleData name="Coord_x">3,86430786325126</SimpleData>
+		<SimpleData name="Coord_y">43,6064332618054</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.864307863251264,43.606433261805329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">51</SimpleData>
+		<SimpleData name="OBJECTID">105</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">315.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1012.00000000000</SimpleData>
+		<SimpleData name="NORUE">57.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">28</SimpleData>
+		<SimpleData name="CANTON">7</SimpleData>
+		<SimpleData name="HISTO0">901156</SimpleData>
+		<SimpleData name="photo">315</SimpleData>
+		<SimpleData name="Coord_x">3,86447850511655</SimpleData>
+		<SimpleData name="Coord_y">43,6063900500582</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.864478505116547,43.606390050058117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">53</SimpleData>
+		<SimpleData name="OBJECTID">109</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">387.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1817.00000000000</SimpleData>
+		<SimpleData name="NORUE">969.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">3</SimpleData>
+		<SimpleData name="SSQUART">7</SimpleData>
+		<SimpleData name="CANTON">7</SimpleData>
+		<SimpleData name="HISTO0">900e6e</SimpleData>
+		<SimpleData name="photo">387</SimpleData>
+		<SimpleData name="Coord_x">3,84538585187448</SimpleData>
+		<SimpleData name="Coord_y">43,6223460110671</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.84538585187448,43.622346011067023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">54</SimpleData>
+		<SimpleData name="OBJECTID">110</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">384.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1676.00000000000</SimpleData>
+		<SimpleData name="NORUE">527.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">03</SimpleData>
+		<SimpleData name="SSQUART">07</SimpleData>
+		<SimpleData name="CANTON">09</SimpleData>
+		<SimpleData name="HISTO0">901033</SimpleData>
+		<SimpleData name="photo">384</SimpleData>
+		<SimpleData name="Coord_x">3,85082777671799</SimpleData>
+		<SimpleData name="Coord_y">43,6199484406977</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.850827776717985,43.619948440697542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">55</SimpleData>
+		<SimpleData name="OBJECTID">111</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">394.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">511.00000000000</SimpleData>
+		<SimpleData name="NORUE">60.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">22</SimpleData>
+		<SimpleData name="CANTON">10</SimpleData>
+		<SimpleData name="HISTO0">9011c4</SimpleData>
+		<SimpleData name="photo">394</SimpleData>
+		<SimpleData name="Coord_x">3,86247669040563</SimpleData>
+		<SimpleData name="Coord_y">43,6162655450651</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.862476690405627,43.616265545064998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">56</SimpleData>
+		<SimpleData name="OBJECTID">113</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">395.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1407.00000000000</SimpleData>
+		<SimpleData name="NORUE">5.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">22</SimpleData>
+		<SimpleData name="CANTON">10</SimpleData>
+		<SimpleData name="HISTO0">900c34</SimpleData>
+		<SimpleData name="photo">395</SimpleData>
+		<SimpleData name="Coord_x">3,86328639434179</SimpleData>
+		<SimpleData name="Coord_y">43,6163478761695</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.863286394341785,43.616347876169435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">57</SimpleData>
+		<SimpleData name="OBJECTID">114</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">391.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1219.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">3</SimpleData>
+		<SimpleData name="SSQUART">7</SimpleData>
+		<SimpleData name="CANTON">10</SimpleData>
+		<SimpleData name="HISTO0">900d7a</SimpleData>
+		<SimpleData name="photo">391</SimpleData>
+		<SimpleData name="Coord_x">3,85774502144303</SimpleData>
+		<SimpleData name="Coord_y">43,6205785427013</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.857745021443026,43.62057854270121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">58</SimpleData>
+		<SimpleData name="OBJECTID">115</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">390.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1699.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">2</SimpleData>
+		<SimpleData name="CANTON">10</SimpleData>
+		<SimpleData name="HISTO0">900d92</SimpleData>
+		<SimpleData name="photo">390</SimpleData>
+		<SimpleData name="Coord_x">3,86211263661373</SimpleData>
+		<SimpleData name="Coord_y">43,6236839235529</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.862112636613725,43.623683923552811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">59</SimpleData>
+		<SimpleData name="OBJECTID">118</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">285.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">962.00000000000</SimpleData>
+		<SimpleData name="NORUE">2.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">25</SimpleData>
+		<SimpleData name="CANTON">10</SimpleData>
+		<SimpleData name="HISTO0">900fd2</SimpleData>
+		<SimpleData name="photo">285</SimpleData>
+		<SimpleData name="Coord_x">3,81440911471083</SimpleData>
+		<SimpleData name="Coord_y">43,641851437243</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.814409114710826,43.641851437242899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">60</SimpleData>
+		<SimpleData name="OBJECTID">121</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">31.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">120 X 160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">2130.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">25</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="HISTO0">900a65</SimpleData>
+		<SimpleData name="photo">31</SimpleData>
+		<SimpleData name="Coord_x">3,87374895933896</SimpleData>
+		<SimpleData name="Coord_y">43,609232621681</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87374895933896,43.609232621680903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">61</SimpleData>
+		<SimpleData name="OBJECTID">123</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">22.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">120 X 160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">934.00000000000</SimpleData>
+		<SimpleData name="NORUE">7.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">25</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="HISTO0">900baa</SimpleData>
+		<SimpleData name="photo">22</SimpleData>
+		<SimpleData name="Coord_x">3,87637419159981</SimpleData>
+		<SimpleData name="Coord_y">43,6137383511282</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876374191599812,43.613738351128092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">62</SimpleData>
+		<SimpleData name="OBJECTID">124</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">23.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">120 X 160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">934.00000000000</SimpleData>
+		<SimpleData name="NORUE">7.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">25</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="HISTO0">900bfb</SimpleData>
+		<SimpleData name="photo">23</SimpleData>
+		<SimpleData name="Coord_x">3,87522443356058</SimpleData>
+		<SimpleData name="Coord_y">43,6138778120707</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.875224433560584,43.613877812070648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">63</SimpleData>
+		<SimpleData name="OBJECTID">125</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">9.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1531.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">26</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="HISTO0">901275</SimpleData>
+		<SimpleData name="photo">9</SimpleData>
+		<SimpleData name="Coord_x">3,88445904577082</SimpleData>
+		<SimpleData name="Coord_y">43,6077261018464</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.884459045770823,43.607726101846247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">64</SimpleData>
+		<SimpleData name="OBJECTID">126</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">5.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1515.00000000000</SimpleData>
+		<SimpleData name="NORUE">47.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">30</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">901304</SimpleData>
+		<SimpleData name="photo">5</SimpleData>
+		<SimpleData name="Coord_x">3,88602154248256</SimpleData>
+		<SimpleData name="Coord_y">43,6048798402922</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.886021542482556,43.604879840292149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">65</SimpleData>
+		<SimpleData name="OBJECTID">127</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">4.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">2037.00000000000</SimpleData>
+		<SimpleData name="NORUE">5.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">30</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">90135f</SimpleData>
+		<SimpleData name="photo">4</SimpleData>
+		<SimpleData name="Coord_x">3,88631599509918</SimpleData>
+		<SimpleData name="Coord_y">43,6048449372488</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.886315995099178,43.60484493724865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">66</SimpleData>
+		<SimpleData name="OBJECTID">128</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">223.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1008.00000000000</SimpleData>
+		<SimpleData name="NORUE">85.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">27</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">900e47</SimpleData>
+		<SimpleData name="photo">223</SimpleData>
+		<SimpleData name="Coord_x">3,83994157464954</SimpleData>
+		<SimpleData name="Coord_y">43,6045958887942</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.839941574649544,43.604595888794115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">67</SimpleData>
+		<SimpleData name="OBJECTID">130</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">2.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1607.00000000000</SimpleData>
+		<SimpleData name="NORUE">140.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">27</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="HISTO0">900e8e</SimpleData>
+		<SimpleData name="photo">2</SimpleData>
+		<SimpleData name="Coord_x">3,88863796688289</SimpleData>
+		<SimpleData name="Coord_y">43,6070882184005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.888637966882885,43.607088218400378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">68</SimpleData>
+		<SimpleData name="OBJECTID">131</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">10.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">555.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">26</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="HISTO0">900c07</SimpleData>
+		<SimpleData name="photo">10</SimpleData>
+		<SimpleData name="Coord_x">3,88609903660807</SimpleData>
+		<SimpleData name="Coord_y">43,6089103656148</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.886099036608075,43.608910365614655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">69</SimpleData>
+		<SimpleData name="OBJECTID">133</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">45.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">519.00000000000</SimpleData>
+		<SimpleData name="NORUE">300.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">22</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">901307</SimpleData>
+		<SimpleData name="photo">45</SimpleData>
+		<SimpleData name="Coord_x">3,87054359085606</SimpleData>
+		<SimpleData name="Coord_y">43,6163859060215</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870543590856063,43.616385906021357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">70</SimpleData>
+		<SimpleData name="OBJECTID">134</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">46.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">519.00000000000</SimpleData>
+		<SimpleData name="NORUE">300.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">22</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">901423</SimpleData>
+		<SimpleData name="photo">46</SimpleData>
+		<SimpleData name="Coord_x">3,87039986681039</SimpleData>
+		<SimpleData name="Coord_y">43,6164403972226</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870399866810389,43.616440397222483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">71</SimpleData>
+		<SimpleData name="OBJECTID">135</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">27.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">120 X 160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">686.00000000000</SimpleData>
+		<SimpleData name="NORUE">16.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">25</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="HISTO0">9013c3</SimpleData>
+		<SimpleData name="photo">27</SimpleData>
+		<SimpleData name="Coord_x">3,87419343133736</SimpleData>
+		<SimpleData name="Coord_y">43,6140061456475</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874193431337364,43.614006145647402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">72</SimpleData>
+		<SimpleData name="OBJECTID">141</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">83.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">619.00000000000</SimpleData>
+		<SimpleData name="NORUE">12.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">22</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">900d98</SimpleData>
+		<SimpleData name="photo">83</SimpleData>
+		<SimpleData name="Coord_x">3,83674550680908</SimpleData>
+		<SimpleData name="Coord_y">43,6086155310027</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.836745506809079,43.60861553100262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">73</SimpleData>
+		<SimpleData name="OBJECTID">144</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">47.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1440.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">22</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">901173</SimpleData>
+		<SimpleData name="photo">47</SimpleData>
+		<SimpleData name="Coord_x">3,86978595833981</SimpleData>
+		<SimpleData name="Coord_y">43,6193757787083</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869785958339806,43.619375778708182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">74</SimpleData>
+		<SimpleData name="OBJECTID">145</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">48.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">935.00000000000</SimpleData>
+		<SimpleData name="NORUE">8.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">22</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">900e89</SimpleData>
+		<SimpleData name="photo">48</SimpleData>
+		<SimpleData name="Coord_x">3,86808443089571</SimpleData>
+		<SimpleData name="Coord_y">43,6206410016766</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868084430895704,43.620641001676518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">75</SimpleData>
+		<SimpleData name="OBJECTID">147</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">133.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1815.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">6</SimpleData>
+		<SimpleData name="SSQUART">18</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">900da0</SimpleData>
+		<SimpleData name="photo">133</SimpleData>
+		<SimpleData name="Coord_x">3,8834003241309</SimpleData>
+		<SimpleData name="Coord_y">43,6145697920362</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883400324130904,43.614569792036079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">76</SimpleData>
+		<SimpleData name="OBJECTID">148</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">131.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1815.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">6</SimpleData>
+		<SimpleData name="SSQUART">18</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">900f59</SimpleData>
+		<SimpleData name="photo">131</SimpleData>
+		<SimpleData name="Coord_x">3,88353103983556</SimpleData>
+		<SimpleData name="Coord_y">43,6144996306259</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883531039835559,43.614499630625801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">77</SimpleData>
+		<SimpleData name="OBJECTID">149</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">132.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1815.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">6</SimpleData>
+		<SimpleData name="SSQUART">18</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">900f6f</SimpleData>
+		<SimpleData name="photo">132</SimpleData>
+		<SimpleData name="Coord_x">3,88346370205949</SimpleData>
+		<SimpleData name="Coord_y">43,6145361433272</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883463702059494,43.614536143327051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">78</SimpleData>
+		<SimpleData name="OBJECTID">153</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">149.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">866.00000000000</SimpleData>
+		<SimpleData name="NORUE">202.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">7</SimpleData>
+		<SimpleData name="SSQUART">27</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="HISTO0">9013e7</SimpleData>
+		<SimpleData name="photo">149</SimpleData>
+		<SimpleData name="Coord_x">3,89177920491268</SimpleData>
+		<SimpleData name="Coord_y">43,6143157045247</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.891779204912676,43.614315704524635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">79</SimpleData>
+		<SimpleData name="OBJECTID">154</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">139.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">978.00000000000</SimpleData>
+		<SimpleData name="NORUE">49.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">6</SimpleData>
+		<SimpleData name="SSQUART">18</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">900d9e</SimpleData>
+		<SimpleData name="photo">139</SimpleData>
+		<SimpleData name="Coord_x">3,89086142270228</SimpleData>
+		<SimpleData name="Coord_y">43,6174722521923</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89086142270228,43.617472252192236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">80</SimpleData>
+		<SimpleData name="OBJECTID">157</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">137.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1570.00000000000</SimpleData>
+		<SimpleData name="NORUE">20.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">6</SimpleData>
+		<SimpleData name="SSQUART">18</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">900a78</SimpleData>
+		<SimpleData name="photo">137</SimpleData>
+		<SimpleData name="Coord_x">3,8908566390605</SimpleData>
+		<SimpleData name="Coord_y">43,619031114179</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.890856639060496,43.61903111417891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">81</SimpleData>
+		<SimpleData name="OBJECTID">158</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">277.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">2199.00000000000</SimpleData>
+		<SimpleData name="NORUE">420.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">5</SimpleData>
+		<SimpleData name="SSQUART">16</SimpleData>
+		<SimpleData name="CANTON">5</SimpleData>
+		<SimpleData name="HISTO0">901408</SimpleData>
+		<SimpleData name="photo">277</SimpleData>
+		<SimpleData name="Coord_x">3,89693576303891</SimpleData>
+		<SimpleData name="Coord_y">43,5905968483009</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.896935763038911,43.590596848300756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">82</SimpleData>
+		<SimpleData name="OBJECTID">166</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">144.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1777.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">6</SimpleData>
+		<SimpleData name="SSQUART">19</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">900dce</SimpleData>
+		<SimpleData name="photo">144</SimpleData>
+		<SimpleData name="Coord_x">3,89906218804543</SimpleData>
+		<SimpleData name="Coord_y">43,609433925898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.899062188045432,43.609433925897868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">83</SimpleData>
+		<SimpleData name="OBJECTID">167</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">145.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1777.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">6</SimpleData>
+		<SimpleData name="SSQUART">19</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">900db3</SimpleData>
+		<SimpleData name="photo">145</SimpleData>
+		<SimpleData name="Coord_x">3,8988677068793</SimpleData>
+		<SimpleData name="Coord_y">43,6092960164603</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898867706879299,43.609296016460185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">84</SimpleData>
+		<SimpleData name="OBJECTID">168</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">142.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1777.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">6</SimpleData>
+		<SimpleData name="SSQUART">19</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">900e01</SimpleData>
+		<SimpleData name="photo">142</SimpleData>
+		<SimpleData name="Coord_x">3,89910815418813</SimpleData>
+		<SimpleData name="Coord_y">43,6093077226423</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.899108154188129,43.609307722642235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">85</SimpleData>
+		<SimpleData name="OBJECTID">170</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">158.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1777.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">6</SimpleData>
+		<SimpleData name="SSQUART">19</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">900f36</SimpleData>
+		<SimpleData name="photo">158</SimpleData>
+		<SimpleData name="Coord_x">3,89885249552939</SimpleData>
+		<SimpleData name="Coord_y">43,6093401006761</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898852495529385,43.609340100676015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">86</SimpleData>
+		<SimpleData name="OBJECTID">171</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">143.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1777.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">6</SimpleData>
+		<SimpleData name="SSQUART">19</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">900f56</SimpleData>
+		<SimpleData name="photo">143</SimpleData>
+		<SimpleData name="Coord_x">3,89908917811242</SimpleData>
+		<SimpleData name="Coord_y">43,6093671225198</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.899089178112418,43.609367122519679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">87</SimpleData>
+		<SimpleData name="OBJECTID">172</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">159.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">2324.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">6</SimpleData>
+		<SimpleData name="SSQUART">19</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">901000</SimpleData>
+		<SimpleData name="photo">159</SimpleData>
+		<SimpleData name="Coord_x">3,90841242572326</SimpleData>
+		<SimpleData name="Coord_y">43,6094841283778</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.908412425723258,43.609484128377687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">88</SimpleData>
+		<SimpleData name="OBJECTID">174</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">155.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1748.00000000000</SimpleData>
+		<SimpleData name="NORUE">826.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">6</SimpleData>
+		<SimpleData name="SSQUART">19</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">900bc5</SimpleData>
+		<SimpleData name="photo">155</SimpleData>
+		<SimpleData name="Coord_x">3,90367672226855</SimpleData>
+		<SimpleData name="Coord_y">43,6157159237051</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.903676722268548,43.615715923705032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">89</SimpleData>
+		<SimpleData name="OBJECTID">175</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">138.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">MUR</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1921.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">6</SimpleData>
+		<SimpleData name="SSQUART">18</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">900d3d</SimpleData>
+		<SimpleData name="photo">138</SimpleData>
+		<SimpleData name="Coord_x">3,8937972661891</SimpleData>
+		<SimpleData name="Coord_y">43,6185386158348</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.893797266189102,43.618538615834645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">90</SimpleData>
+		<SimpleData name="OBJECTID">176</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">136.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">2018.00000000000</SimpleData>
+		<SimpleData name="NORUE">20.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">6</SimpleData>
+		<SimpleData name="SSQUART">18</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">900e19</SimpleData>
+		<SimpleData name="photo">136</SimpleData>
+		<SimpleData name="Coord_x">3,89237046892456</SimpleData>
+		<SimpleData name="Coord_y">43,6188298112307</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.892370468924559,43.618829811230633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">91</SimpleData>
+		<SimpleData name="OBJECTID">177</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">400.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">463.00000000000</SimpleData>
+		<SimpleData name="NORUE">130.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">6</SimpleData>
+		<SimpleData name="SSQUART">19</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">901418</SimpleData>
+		<SimpleData name="photo">400</SimpleData>
+		<SimpleData name="Coord_x">3,89858938541943</SimpleData>
+		<SimpleData name="Coord_y">43,6188555263182</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898589385419431,43.618855526318136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">92</SimpleData>
+		<SimpleData name="OBJECTID">178</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">396.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1954.00000000000</SimpleData>
+		<SimpleData name="NORUE">52.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">6</SimpleData>
+		<SimpleData name="SSQUART">18</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="HISTO0">900a9d</SimpleData>
+		<SimpleData name="photo">396</SimpleData>
+		<SimpleData name="Coord_x">3,89476882633458</SimpleData>
+		<SimpleData name="Coord_y">43,6216131224711</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.894768826334583,43.621613122471054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">93</SimpleData>
+		<SimpleData name="OBJECTID">181</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">357.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1412.00000000000</SimpleData>
+		<SimpleData name="NORUE">431.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">2</SimpleData>
+		<SimpleData name="SSQUART">5</SimpleData>
+		<SimpleData name="CANTON">9</SimpleData>
+		<SimpleData name="HISTO0">900e3e</SimpleData>
+		<SimpleData name="photo">357</SimpleData>
+		<SimpleData name="Coord_x">3,81551268698933</SimpleData>
+		<SimpleData name="Coord_y">43,6252327831433</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.815512686989331,43.625232783143232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">94</SimpleData>
+		<SimpleData name="OBJECTID">183</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">375.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">539.00000000000</SimpleData>
+		<SimpleData name="NORUE">223.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">2</SimpleData>
+		<SimpleData name="SSQUART">4</SimpleData>
+		<SimpleData name="CANTON">9</SimpleData>
+		<SimpleData name="HISTO0">901264</SimpleData>
+		<SimpleData name="photo">375</SimpleData>
+		<SimpleData name="Coord_x">3,8702183740332</SimpleData>
+		<SimpleData name="Coord_y">43,6307154272725</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8702183740332,43.630715427272364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">95</SimpleData>
+		<SimpleData name="OBJECTID">187</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">363.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1359.00000000000</SimpleData>
+		<SimpleData name="NORUE">70.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">2</SimpleData>
+		<SimpleData name="SSQUART">5</SimpleData>
+		<SimpleData name="CANTON">9</SimpleData>
+		<SimpleData name="HISTO0">900c27</SimpleData>
+		<SimpleData name="photo">363</SimpleData>
+		<SimpleData name="Coord_x">3,81981319986559</SimpleData>
+		<SimpleData name="Coord_y">43,6275804037296</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.819813199865592,43.627580403729532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">96</SimpleData>
+		<SimpleData name="OBJECTID">193</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">368.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1840.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">2</SimpleData>
+		<SimpleData name="SSQUART">4</SimpleData>
+		<SimpleData name="CANTON">9</SimpleData>
+		<SimpleData name="HISTO0">900c31</SimpleData>
+		<SimpleData name="photo">368</SimpleData>
+		<SimpleData name="Coord_x">3,81826971694562</SimpleData>
+		<SimpleData name="Coord_y">43,6362045007304</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.818269716945615,43.63620450073028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">97</SimpleData>
+		<SimpleData name="OBJECTID">194</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">369.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1730.00000000000</SimpleData>
+		<SimpleData name="NORUE">167.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">2</SimpleData>
+		<SimpleData name="SSQUART">4</SimpleData>
+		<SimpleData name="CANTON">9</SimpleData>
+		<SimpleData name="HISTO0">900c29</SimpleData>
+		<SimpleData name="photo">369</SimpleData>
+		<SimpleData name="Coord_x">3,81873456806586</SimpleData>
+		<SimpleData name="Coord_y">43,6383283056213</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.818734568065857,43.638328305621222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">98</SimpleData>
+		<SimpleData name="OBJECTID">196</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">372.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1190.00000000000</SimpleData>
+		<SimpleData name="NORUE">25.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">2</SimpleData>
+		<SimpleData name="SSQUART">4</SimpleData>
+		<SimpleData name="CANTON">9</SimpleData>
+		<SimpleData name="HISTO0">900fcf</SimpleData>
+		<SimpleData name="photo">372</SimpleData>
+		<SimpleData name="Coord_x">3,81795580728462</SimpleData>
+		<SimpleData name="Coord_y">43,6408171814215</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.817955807284624,43.640817181421404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">99</SimpleData>
+		<SimpleData name="OBJECTID">197</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">371.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1730.00000000000</SimpleData>
+		<SimpleData name="NORUE">400.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">2</SimpleData>
+		<SimpleData name="SSQUART">4</SimpleData>
+		<SimpleData name="CANTON">9</SimpleData>
+		<SimpleData name="HISTO0">901099</SimpleData>
+		<SimpleData name="photo">371</SimpleData>
+		<SimpleData name="Coord_x">3,81949450009396</SimpleData>
+		<SimpleData name="Coord_y">43,6402152141973</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.819494500093955,43.640215214197163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">101</SimpleData>
+		<SimpleData name="OBJECTID">200</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">56.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1261.00000000000</SimpleData>
+		<SimpleData name="NORUE">37.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">2</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">900ad3</SimpleData>
+		<SimpleData name="photo">56</SimpleData>
+		<SimpleData name="Coord_x">3,89964237185869</SimpleData>
+		<SimpleData name="Coord_y">43,6057986122353</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.899642371858687,43.605798612235183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">102</SimpleData>
+		<SimpleData name="OBJECTID">201</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">57.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1261.00000000000</SimpleData>
+		<SimpleData name="NORUE">107.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">2</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">900bdb</SimpleData>
+		<SimpleData name="photo">57</SimpleData>
+		<SimpleData name="Coord_x">3,86407260463495</SimpleData>
+		<SimpleData name="Coord_y">43,6261534587722</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.864072604634953,43.626153458772073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">103</SimpleData>
+		<SimpleData name="OBJECTID">208</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">67.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">408.00000000000</SimpleData>
+		<SimpleData name="NORUE">20.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">1</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">900ce3</SimpleData>
+		<SimpleData name="photo">67</SimpleData>
+		<SimpleData name="Coord_x">3,86026552649539</SimpleData>
+		<SimpleData name="Coord_y">43,6322874280063</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.860265526495395,43.632287428006236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">104</SimpleData>
+		<SimpleData name="OBJECTID">209</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">66.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">886.00000000000</SimpleData>
+		<SimpleData name="NORUE">2.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">2</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">900d36</SimpleData>
+		<SimpleData name="photo">66</SimpleData>
+		<SimpleData name="Coord_x">3,86021877013156</SimpleData>
+		<SimpleData name="Coord_y">43,6322181947055</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.860218770131564,43.632218194705338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">105</SimpleData>
+		<SimpleData name="OBJECTID">211</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">63.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">997.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">2</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="OBSERV">ENTREE RESTO UNIVERS</SimpleData>
+		<SimpleData name="HISTO0">900d6d</SimpleData>
+		<SimpleData name="photo">63</SimpleData>
+		<SimpleData name="Coord_x">3,86056729750177</SimpleData>
+		<SimpleData name="Coord_y">43,6307740751883</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.860567297501769,43.630774075188178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">106</SimpleData>
+		<SimpleData name="OBJECTID">214</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">69.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1616.00000000000</SimpleData>
+		<SimpleData name="NORUE">99.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">2</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">90120e</SimpleData>
+		<SimpleData name="photo">69</SimpleData>
+		<SimpleData name="Coord_x">3,85026543685436</SimpleData>
+		<SimpleData name="Coord_y">43,6347940023241</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.850265436854355,43.634794002324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">107</SimpleData>
+		<SimpleData name="OBJECTID">215</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">68.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1616.00000000000</SimpleData>
+		<SimpleData name="NORUE">99.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">2</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">9012ba</SimpleData>
+		<SimpleData name="photo">68</SimpleData>
+		<SimpleData name="Coord_x">3,85061645122952</SimpleData>
+		<SimpleData name="Coord_y">43,6348853740154</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.850616451229522,43.634885374015255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">108</SimpleData>
+		<SimpleData name="OBJECTID">216</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">286.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">641.00000000000</SimpleData>
+		<SimpleData name="NORUE">453.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">1</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">9013b5</SimpleData>
+		<SimpleData name="photo">286</SimpleData>
+		<SimpleData name="Coord_x">3,85431010409177</SimpleData>
+		<SimpleData name="Coord_y">43,6393104342932</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.85431010409177,43.639310434293066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">109</SimpleData>
+		<SimpleData name="OBJECTID">217</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">104.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">120 X 160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">408.00000000000</SimpleData>
+		<SimpleData name="NORUE">543.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">1</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">901376</SimpleData>
+		<SimpleData name="photo">104</SimpleData>
+		<SimpleData name="Coord_x">3,85987656590263</SimpleData>
+		<SimpleData name="Coord_y">43,6368089909109</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.859876565902626,43.636808990910758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">110</SimpleData>
+		<SimpleData name="OBJECTID">218</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">72.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">120 X 160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1277.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">1</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">900e2a</SimpleData>
+		<SimpleData name="photo">72</SimpleData>
+		<SimpleData name="Coord_x">3,85771422434494</SimpleData>
+		<SimpleData name="Coord_y">43,6406956562173</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.85771422434494,43.640695656217169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">111</SimpleData>
+		<SimpleData name="OBJECTID">219</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">73.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">120 X 160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1277.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">1</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">901300</SimpleData>
+		<SimpleData name="photo">73</SimpleData>
+		<SimpleData name="Coord_x">3,85812069042125</SimpleData>
+		<SimpleData name="Coord_y">43,6403915300672</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.85812069042125,43.640391530067063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">112</SimpleData>
+		<SimpleData name="OBJECTID">221</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">53.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">635.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">2</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="HISTO0">900aab</SimpleData>
+		<SimpleData name="photo">53</SimpleData>
+		<SimpleData name="Coord_x">3,87018230218857</SimpleData>
+		<SimpleData name="Coord_y">43,6267256355877</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87018230218857,43.62672563558759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">113</SimpleData>
+		<SimpleData name="OBJECTID">222</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">52.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">635.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">2</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="HISTO0">900d8c</SimpleData>
+		<SimpleData name="photo">52</SimpleData>
+		<SimpleData name="Coord_x">3,8702517998243</SimpleData>
+		<SimpleData name="Coord_y">43,6268082653472</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870251799824302,43.626808265347137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">114</SimpleData>
+		<SimpleData name="OBJECTID">223</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">99.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1337.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">3</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="HISTO0">900ba2</SimpleData>
+		<SimpleData name="photo">99</SimpleData>
+		<SimpleData name="Coord_x">3,87742807247941</SimpleData>
+		<SimpleData name="Coord_y">43,6261777840895</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877428072479412,43.626177784089435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">115</SimpleData>
+		<SimpleData name="OBJECTID">224</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">77.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1337.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">3</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="HISTO0">900c80</SimpleData>
+		<SimpleData name="photo">77</SimpleData>
+		<SimpleData name="Coord_x">3,87929930218556</SimpleData>
+		<SimpleData name="Coord_y">43,6256994204683</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87929930218556,43.62569942046823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">116</SimpleData>
+		<SimpleData name="OBJECTID">225</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">97.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1518.00000000000</SimpleData>
+		<SimpleData name="NORUE">735.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">1</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">901383</SimpleData>
+		<SimpleData name="photo">97</SimpleData>
+		<SimpleData name="Coord_x">3,86997057321997</SimpleData>
+		<SimpleData name="Coord_y">43,6291336213424</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869970573219969,43.629133621342319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">117</SimpleData>
+		<SimpleData name="OBJECTID">227</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">91.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">2142.00000000000</SimpleData>
+		<SimpleData name="NORUE">145.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">2</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">9012d8</SimpleData>
+		<SimpleData name="photo">91</SimpleData>
+		<SimpleData name="Coord_x">3,87037205038449</SimpleData>
+		<SimpleData name="Coord_y">43,6304773930556</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870372050384494,43.630477393055521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">118</SimpleData>
+		<SimpleData name="OBJECTID">231</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">70.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1749.00000000000</SimpleData>
+		<SimpleData name="NORUE">1180.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">3</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="HISTO0">9010d2</SimpleData>
+		<SimpleData name="photo">70</SimpleData>
+		<SimpleData name="Coord_x">3,87864268659928</SimpleData>
+		<SimpleData name="Coord_y">43,6306083156065</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.878642686599279,43.630608315606402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">119</SimpleData>
+		<SimpleData name="OBJECTID">234</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">93.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1545.00000000000</SimpleData>
+		<SimpleData name="NORUE">675.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">3</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="HISTO0">90130d</SimpleData>
+		<SimpleData name="photo">93</SimpleData>
+		<SimpleData name="Coord_x">3,88139223610077</SimpleData>
+		<SimpleData name="Coord_y">43,6282782072069</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881392236100773,43.628278207206769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">120</SimpleData>
+		<SimpleData name="OBJECTID">236</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">32.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1811.00000000000</SimpleData>
+		<SimpleData name="NORUE">2.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">2</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">9013d4</SimpleData>
+		<SimpleData name="photo">32</SimpleData>
+		<SimpleData name="Coord_x">3,86785298513453</SimpleData>
+		<SimpleData name="Coord_y">43,6348401194874</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.867852985134533,43.634840119487322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">121</SimpleData>
+		<SimpleData name="OBJECTID">240</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">103.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">457.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">2</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">900c09</SimpleData>
+		<SimpleData name="photo">103</SimpleData>
+		<SimpleData name="Coord_x">3,86951973003255</SimpleData>
+		<SimpleData name="Coord_y">43,6381616985166</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869519730032554,43.63816169851647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">122</SimpleData>
+		<SimpleData name="OBJECTID">243</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">90.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">2093.00000000000</SimpleData>
+		<SimpleData name="NORUE">1000.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">1</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">901455</SimpleData>
+		<SimpleData name="photo">90</SimpleData>
+		<SimpleData name="Coord_x">3,8736836514132</SimpleData>
+		<SimpleData name="Coord_y">43,6383703335099</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873683651413197,43.638370333509762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">123</SimpleData>
+		<SimpleData name="OBJECTID">244</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">71.00000000000</SimpleData>
+		<SimpleData name="MARQUE">MATRIX</SimpleData>
+		<SimpleData name="SUPPORT">POTEAUX IPN</SimpleData>
+		<SimpleData name="DIM">240 X160</SimpleData>
+		<SimpleData name="CDCOM">34172.00000000000</SimpleData>
+		<SimpleData name="CDRUE">1834.00000000000</SimpleData>
+		<SimpleData name="NORUE">153.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="QUART">1</SimpleData>
+		<SimpleData name="SSQUART">1</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="HISTO0">901064</SimpleData>
+		<SimpleData name="photo">71</SimpleData>
+		<SimpleData name="Coord_x">3,85619634374706</SimpleData>
+		<SimpleData name="Coord_y">43,6418633070162</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.856196343747063,43.641863307016095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">124</SimpleData>
+		<SimpleData name="OBJECTID">246</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">160.00000000000</SimpleData>
+		<SimpleData name="CDCOM">0.00000000000</SimpleData>
+		<SimpleData name="CDRUE">0.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="photo">160</SimpleData>
+		<SimpleData name="Coord_x">3,89852898917823</SimpleData>
+		<SimpleData name="Coord_y">43,6044082509115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898528989178233,43.60440825091144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">125</SimpleData>
+		<SimpleData name="OBJECTID">247</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">161.00000000000</SimpleData>
+		<SimpleData name="CDCOM">0.00000000000</SimpleData>
+		<SimpleData name="CDRUE">0.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="photo">161</SimpleData>
+		<SimpleData name="Coord_x">3,89853645521277</SimpleData>
+		<SimpleData name="Coord_y">43,604356015531</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898536455212771,43.604356015530904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">126</SimpleData>
+		<SimpleData name="OBJECTID">248</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">256.00000000000</SimpleData>
+		<SimpleData name="CDCOM">0.00000000000</SimpleData>
+		<SimpleData name="CDRUE">0.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="photo">256</SimpleData>
+		<SimpleData name="Coord_x">3,89884025009808</SimpleData>
+		<SimpleData name="Coord_y">43,6064292985333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898840250098082,43.6064292985332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P.A.L</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_AffichageLibre">
+		<SimpleData name="OBJECTID_1">127</SimpleData>
+		<SimpleData name="OBJECTID">249</SimpleData>
+		<SimpleData name="NOMOBJ">P.A.L</SimpleData>
+		<SimpleData name="NUMOBJ">273.00000000000</SimpleData>
+		<SimpleData name="CDCOM">0.00000000000</SimpleData>
+		<SimpleData name="CDRUE">0.00000000000</SimpleData>
+		<SimpleData name="NORUE">0.00000000000</SimpleData>
+		<SimpleData name="METRAGE">0.00000000000</SimpleData>
+		<SimpleData name="photo">273</SimpleData>
+		<SimpleData name="Coord_x">3,85816856407988</SimpleData>
+		<SimpleData name="Coord_y">43,6318531784806</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.858168564079876,43.631853178480462</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

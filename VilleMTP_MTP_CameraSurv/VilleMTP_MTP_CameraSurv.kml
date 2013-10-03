@@ -1,0 +1,2132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>VilleMTP_MTP_CameraSurv</name>
+<Schema name="VilleMTP_MTP_CameraSurv" id="VilleMTP_MTP_CameraSurv">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="FID_1" type="int"></SimpleField>
+	<SimpleField name="Id" type="int"></SimpleField>
+	<SimpleField name="Nom" type="string"></SimpleField>
+	<SimpleField name="Adresse" type="string"></SimpleField>
+	<SimpleField name="QUARTMNO" type="string"></SimpleField>
+	<SimpleField name="LIBQUART" type="string"></SimpleField>
+	<SimpleField name="SQUARTMNO" type="string"></SimpleField>
+	<SimpleField name="LIBSQUART" type="string"></SimpleField>
+	<SimpleField name="Année" type="int"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>Lapeyronie</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">17</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C59.04</SimpleData>
+		<SimpleData name="Adresse">Lapeyronie</SimpleData>
+		<SimpleData name="QUARTMNO">HO</SimpleData>
+		<SimpleData name="LIBQUART">HOPITAUX-FACULTES</SimpleData>
+		<SimpleData name="SQUARTMNO">HOP</SimpleData>
+		<SimpleData name="LIBSQUART">Hopitaux-Facultés</SimpleData>
+		<SimpleData name="Année">2004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.853717198025545,43.631168360694907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rond point de la Lyre</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">18</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C94.07</SimpleData>
+		<SimpleData name="Adresse">Rond point de la Lyre</SimpleData>
+		<SimpleData name="QUARTMNO">HO</SimpleData>
+		<SimpleData name="LIBQUART">HOPITAUX-FACULTES</SimpleData>
+		<SimpleData name="SQUARTMNO">PQS</SimpleData>
+		<SimpleData name="LIBSQUART">Plan des 4 Seigneurs</SimpleData>
+		<SimpleData name="Année">2007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.846776738945433,43.639736341449421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avenue Agropolis</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">19</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C70.05</SimpleData>
+		<SimpleData name="Adresse">Avenue Agropolis</SimpleData>
+		<SimpleData name="QUARTMNO">HO</SimpleData>
+		<SimpleData name="LIBQUART">HOPITAUX-FACULTES</SimpleData>
+		<SimpleData name="SQUARTMNO">AIG</SimpleData>
+		<SimpleData name="LIBSQUART">Aiguelongue</SimpleData>
+		<SimpleData name="Année">2005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872842942176828,43.640148558463132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avenue de Fès</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">20</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C104.08</SimpleData>
+		<SimpleData name="Adresse">Avenue de Fès</SimpleData>
+		<SimpleData name="QUARTMNO">HO</SimpleData>
+		<SimpleData name="LIBQUART">HOPITAUX-FACULTES</SimpleData>
+		<SimpleData name="SQUARTMNO">PQS</SimpleData>
+		<SimpleData name="LIBSQUART">Plan des 4 Seigneurs</SimpleData>
+		<SimpleData name="Année">2008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.832669992729819,43.633651407163704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pont Vincent Badie</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">34</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C21.00</SimpleData>
+		<SimpleData name="Adresse">Pont Vincent Badie</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAH</SimpleData>
+		<SimpleData name="LIBSQUART">Les Hauts de Massane</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.822595854400043,43.630645355826374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue de la Narbonnaise</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">36</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C37.02</SimpleData>
+		<SimpleData name="Adresse">Rue de la Narbonnaise</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAH</SimpleData>
+		<SimpleData name="LIBSQUART">Les Hauts de Massane</SimpleData>
+		<SimpleData name="Année">2002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.819901446933877,43.632748313734744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Guilhem de Poitiers</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">37</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C45.03</SimpleData>
+		<SimpleData name="Adresse">Rue Guilhem de Poitiers</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAH</SimpleData>
+		<SimpleData name="LIBSQUART">Les Hauts de Massane</SimpleData>
+		<SimpleData name="Année">2003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.818385421551127,43.641763696403842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Pierre Cardenal</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">41</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C80.05</SimpleData>
+		<SimpleData name="Adresse">Rue Pierre Cardenal</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAH</SimpleData>
+		<SimpleData name="LIBSQUART">Les Hauts de Massane</SimpleData>
+		<SimpleData name="Année">2005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.818734192147725,43.638269519484354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Palais des sports Pierre de Coubertin</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">44</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C84.06</SimpleData>
+		<SimpleData name="Adresse">Palais des sports Pierre de Coubertin</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAH</SimpleData>
+		<SimpleData name="LIBSQUART">Les Hauts de Massane</SimpleData>
+		<SimpleData name="Année">2006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.815142107140296,43.638326650904453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Centre Commercial Triton</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">45</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C85.06</SimpleData>
+		<SimpleData name="Adresse">Centre Commercial Triton</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAH</SimpleData>
+		<SimpleData name="LIBSQUART">Les Hauts de Massane</SimpleData>
+		<SimpleData name="Année">2006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.814006449962733,43.641839276872709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue de Bologne</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">46</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C95.07</SimpleData>
+		<SimpleData name="Adresse">Rue de Bologne</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAH</SimpleData>
+		<SimpleData name="LIBSQUART">Les Hauts de Massane</SimpleData>
+		<SimpleData name="Année">2007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.819154311932814,43.630675878266835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avenue Aglaé Adanson</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">47</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C105.08</SimpleData>
+		<SimpleData name="Adresse">Avenue Aglaé Adanson</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAH</SimpleData>
+		<SimpleData name="LIBSQUART">Les Hauts de Massane</SimpleData>
+		<SimpleData name="Année">2008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.830797366795667,43.632421554594202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue d'Alco</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">21</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C16.00</SimpleData>
+		<SimpleData name="Adresse">Rue d'Alco</SimpleData>
+		<SimpleData name="QUARTMNO">CV</SimpleData>
+		<SimpleData name="LIBQUART">LES CEVENNES</SimpleData>
+		<SimpleData name="SQUARTMNO">CVA</SimpleData>
+		<SimpleData name="LIBSQUART">Alco</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.839587662880777,43.617917234128889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Rimbaud</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">22</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C17.00</SimpleData>
+		<SimpleData name="Adresse">Rue Rimbaud</SimpleData>
+		<SimpleData name="QUARTMNO">CV</SimpleData>
+		<SimpleData name="LIBQUART">LES CEVENNES</SimpleData>
+		<SimpleData name="SQUARTMNO">CVA</SimpleData>
+		<SimpleData name="LIBSQUART">Alco</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.836050588463575,43.616663721565914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avenue Louis Ravas</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">23</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C26.00</SimpleData>
+		<SimpleData name="Adresse">Avenue Louis Ravas</SimpleData>
+		<SimpleData name="QUARTMNO">CV</SimpleData>
+		<SimpleData name="LIBQUART">LES CEVENNES</SimpleData>
+		<SimpleData name="SQUARTMNO">CVA</SimpleData>
+		<SimpleData name="LIBSQUART">Alco</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.847060343935379,43.62189048941157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Impasse Edmond</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">24</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C38.02</SimpleData>
+		<SimpleData name="Adresse">Impasse Edmond</SimpleData>
+		<SimpleData name="QUARTMNO">CV</SimpleData>
+		<SimpleData name="LIBQUART">LES CEVENNES</SimpleData>
+		<SimpleData name="SQUARTMNO">CVA</SimpleData>
+		<SimpleData name="LIBSQUART">Alco</SimpleData>
+		<SimpleData name="Année">2002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.84180995084047,43.622051158658323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue des Araucarias</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">25</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C44.02</SimpleData>
+		<SimpleData name="Adresse">Rue des Araucarias</SimpleData>
+		<SimpleData name="QUARTMNO">CV</SimpleData>
+		<SimpleData name="LIBQUART">LES CEVENNES</SimpleData>
+		<SimpleData name="SQUARTMNO">CVA</SimpleData>
+		<SimpleData name="LIBSQUART">Alco</SimpleData>
+		<SimpleData name="Année">2002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.838327673189234,43.615828997824849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Jacques Dalcroze</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">26</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C55.03</SimpleData>
+		<SimpleData name="Adresse">Rue Jacques Dalcroze</SimpleData>
+		<SimpleData name="QUARTMNO">CV</SimpleData>
+		<SimpleData name="LIBQUART">LES CEVENNES</SimpleData>
+		<SimpleData name="SQUARTMNO">CVA</SimpleData>
+		<SimpleData name="LIBSQUART">Alco</SimpleData>
+		<SimpleData name="Année">2003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.847382593454543,43.62110248809126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Rimbaud</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">28</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C96.07</SimpleData>
+		<SimpleData name="Adresse">Rue Rimbaud</SimpleData>
+		<SimpleData name="QUARTMNO">CV</SimpleData>
+		<SimpleData name="LIBQUART">LES CEVENNES</SimpleData>
+		<SimpleData name="SQUARTMNO">CVA</SimpleData>
+		<SimpleData name="LIBSQUART">Alco</SimpleData>
+		<SimpleData name="Année">2007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.847898266264394,43.619092845916242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avenue Bringuier</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">29</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C97.07</SimpleData>
+		<SimpleData name="Adresse">Avenue Bringuier</SimpleData>
+		<SimpleData name="QUARTMNO">CV</SimpleData>
+		<SimpleData name="LIBQUART">LES CEVENNES</SimpleData>
+		<SimpleData name="SQUARTMNO">CVA</SimpleData>
+		<SimpleData name="LIBSQUART">Alco</SimpleData>
+		<SimpleData name="Année">2007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.839563307922839,43.614868036589343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Esplanade Celleneuve</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">35</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C36.02</SimpleData>
+		<SimpleData name="Adresse">Esplanade Celleneuve</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">CVA</SimpleData>
+		<SimpleData name="LIBSQUART">Alco</SimpleData>
+		<SimpleData name="Année">2002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.830578326401454,43.614829389513105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Le Grand Mail</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">31</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C18.00</SimpleData>
+		<SimpleData name="Adresse">Le Grand Mail</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAI</SimpleData>
+		<SimpleData name="LIBSQUART">Mosson</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.816783382673506,43.626016165816608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Heildelberg</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">32</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C19.00</SimpleData>
+		<SimpleData name="Adresse">Rue Heildelberg</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAI</SimpleData>
+		<SimpleData name="LIBSQUART">Mosson</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.815665114463031,43.621218260935471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue de Bologne</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">33</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C20.00</SimpleData>
+		<SimpleData name="Adresse">Rue de Bologne</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAI</SimpleData>
+		<SimpleData name="LIBSQUART">Mosson</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.817587891869261,43.628437316720436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avenue de Barcelone</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">38</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C46.03</SimpleData>
+		<SimpleData name="Adresse">Avenue de Barcelone</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAI</SimpleData>
+		<SimpleData name="LIBSQUART">Mosson</SimpleData>
+		<SimpleData name="Année">2003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.817406126510117,43.623800347739575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue d'Oxford</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">39</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C47.03</SimpleData>
+		<SimpleData name="Adresse">Rue d'Oxford</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAI</SimpleData>
+		<SimpleData name="LIBSQUART">Mosson</SimpleData>
+		<SimpleData name="Année">2003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.820301316971804,43.627082730343055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rond point Schuman</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">40</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C79.05</SimpleData>
+		<SimpleData name="Adresse">Rond point Schuman</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAI</SimpleData>
+		<SimpleData name="LIBSQUART">Mosson</SimpleData>
+		<SimpleData name="Année">2005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.817629974636839,43.620064237661516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue de Tipasa</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">42</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C81.05</SimpleData>
+		<SimpleData name="Adresse">Rue de Tipasa</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAI</SimpleData>
+		<SimpleData name="LIBSQUART">Mosson</SimpleData>
+		<SimpleData name="Année">2005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.816663919659722,43.629000689971214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avenue Heidelberg / Louisville</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">43</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C83.06</SimpleData>
+		<SimpleData name="Adresse">Avenue Heidelberg / Louisville</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAI</SimpleData>
+		<SimpleData name="LIBSQUART">Mosson</SimpleData>
+		<SimpleData name="Année">2006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.815646337161969,43.627076518491123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Collège Rabelais</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">48</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C106.08</SimpleData>
+		<SimpleData name="Adresse">Collège Rabelais</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAI</SimpleData>
+		<SimpleData name="LIBSQUART">Mosson</SimpleData>
+		<SimpleData name="Année">2008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.83254521762283,43.625497998414374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Saragosse/Salamanque</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">49</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C114.08</SimpleData>
+		<SimpleData name="Adresse">Rue Saragosse/Salamanque</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAI</SimpleData>
+		<SimpleData name="LIBSQUART">Mosson</SimpleData>
+		<SimpleData name="Année">2008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.818567361313916,43.624671093450566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue de Leyde</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">113</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C48.03</SimpleData>
+		<SimpleData name="Adresse">Rue de Leyde</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAI</SimpleData>
+		<SimpleData name="LIBSQUART">Mosson</SimpleData>
+		<SimpleData name="Année">2003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.816555362662274,43.623681425337459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rond point René Char</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">115</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C118.11</SimpleData>
+		<SimpleData name="Adresse">Rond point René Char</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAI</SimpleData>
+		<SimpleData name="LIBSQUART">Mosson</SimpleData>
+		<SimpleData name="Année">2011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.826608893748805,43.624914304601177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avenue Albert Einstein</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">15</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C64.04</SimpleData>
+		<SimpleData name="Adresse">Avenue Albert Einstein</SimpleData>
+		<SimpleData name="QUARTMNO">MI</SimpleData>
+		<SimpleData name="LIBQUART">MILLENAIRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MIG</SimpleData>
+		<SimpleData name="LIBSQUART">Grammont</SimpleData>
+		<SimpleData name="Année">2004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.930097472000393,43.612196587987654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Voie Domitienne</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">27</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C60.04</SimpleData>
+		<SimpleData name="Adresse">Voie Domitienne</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCB</SimpleData>
+		<SimpleData name="LIBSQUART">Boutonnet</SimpleData>
+		<SimpleData name="Année">2004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.858089856051966,43.620709994375538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Faubourg Saint Jaumes</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">109</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C102.07</SimpleData>
+		<SimpleData name="Adresse">Faubourg Saint Jaumes</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCB</SimpleData>
+		<SimpleData name="LIBSQUART">Boutonnet</SimpleData>
+		<SimpleData name="Année">2007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869514603255326,43.615405647158425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Allée des Républicains espagnols</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">62</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C13.00</SimpleData>
+		<SimpleData name="Adresse">Allée des Républicains espagnols</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCX</SimpleData>
+		<SimpleData name="LIBSQUART">Les Beaux - Arts</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881917037382029,43.612510148236311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place du 11 Novembre</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">63</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C14.00</SimpleData>
+		<SimpleData name="Adresse">Place du 11 Novembre</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCX</SimpleData>
+		<SimpleData name="LIBSQUART">Les Beaux - Arts</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883055802545062,43.614827420935036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place Albert 1er</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">64</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C15.00</SimpleData>
+		<SimpleData name="Adresse">Place Albert 1er</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCX</SimpleData>
+		<SimpleData name="LIBSQUART">Les Beaux - Arts</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874825813232818,43.616258857675078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue de l'Aiguillerie</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">72</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C33.02</SimpleData>
+		<SimpleData name="Adresse">Rue de l'Aiguillerie</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCX</SimpleData>
+		<SimpleData name="LIBSQUART">Les Beaux - Arts</SimpleData>
+		<SimpleData name="Année">2002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.879157336972296,43.612204800181722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue du Pila Saint Gely</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">89</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C68.04</SimpleData>
+		<SimpleData name="Adresse">Rue du Pila Saint Gely</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCX</SimpleData>
+		<SimpleData name="LIBSQUART">Les Beaux - Arts</SimpleData>
+		<SimpleData name="Année">2004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880326882483366,43.613857474349686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quai du Verdanson</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">90</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C69.04</SimpleData>
+		<SimpleData name="Adresse">Quai du Verdanson</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCX</SimpleData>
+		<SimpleData name="LIBSQUART">Les Beaux - Arts</SimpleData>
+		<SimpleData name="Année">2004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877355150396458,43.615170941477565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place de la Chapelle Neuve</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">92</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C72.05</SimpleData>
+		<SimpleData name="Adresse">Place de la Chapelle Neuve</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCX</SimpleData>
+		<SimpleData name="LIBSQUART">Les Beaux - Arts</SimpleData>
+		<SimpleData name="Année">2005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.879167238515555,43.612987667976803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Proudhon</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">107</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C100.07</SimpleData>
+		<SimpleData name="Adresse">Rue Proudhon</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCX</SimpleData>
+		<SimpleData name="LIBSQUART">Les Beaux - Arts</SimpleData>
+		<SimpleData name="Année">2007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880933448087481,43.61587838826086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Corum/Station Tramway</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">110</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C103.07</SimpleData>
+		<SimpleData name="Adresse">Corum/Station Tramway</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCX</SimpleData>
+		<SimpleData name="LIBSQUART">Les Beaux - Arts</SimpleData>
+		<SimpleData name="Année">2007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881574217633216,43.61427935999869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boulevard Louis Blanc</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">112</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C113.08</SimpleData>
+		<SimpleData name="Adresse">Boulevard Louis Blanc</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCX</SimpleData>
+		<SimpleData name="LIBSQUART">Les Beaux - Arts</SimpleData>
+		<SimpleData name="Année">2008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877467250325867,43.614889938668739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pompignane</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">16</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C87.06</SimpleData>
+		<SimpleData name="Adresse">Pompignane</SimpleData>
+		<SimpleData name="QUARTMNO">MI</SimpleData>
+		<SimpleData name="LIBQUART">MILLENAIRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MIP</SimpleData>
+		<SimpleData name="LIBSQUART">La Pompignane</SimpleData>
+		<SimpleData name="Année">2006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.897313043423134,43.618097538264834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rond-point du Zenith</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">119</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C123.11</SimpleData>
+		<SimpleData name="Adresse">Rond-point du Zenith</SimpleData>
+		<SimpleData name="QUARTMNO">MI</SimpleData>
+		<SimpleData name="LIBQUART">MILLENAIRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MIL</SimpleData>
+		<SimpleData name="LIBSQUART">Millénaire</SimpleData>
+		<SimpleData name="Année">2011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.92890147946203,43.608270276726635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Carrefour Paul-Henri SPAAK</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">116</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C120.11</SimpleData>
+		<SimpleData name="Adresse">Carrefour Paul-Henri SPAAK</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAC</SimpleData>
+		<SimpleData name="LIBSQUART">Celleneuve</SimpleData>
+		<SimpleData name="Année">2011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.821031214062165,43.615339386058864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Hilaire Ricard</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">66</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C24.00</SimpleData>
+		<SimpleData name="Adresse">Rue Hilaire Ricard</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCA</SimpleData>
+		<SimpleData name="LIBSQUART">Les Arceaux</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868202337902034,43.611849038522976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place Leroy Beaulieu</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">71</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C32.02</SimpleData>
+		<SimpleData name="Adresse">Place Leroy Beaulieu</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCA</SimpleData>
+		<SimpleData name="LIBSQUART">Les Arceaux</SimpleData>
+		<SimpleData name="Année">2002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.866915052862176,43.608937083146053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place des Martyrs de la Résistance</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">50</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C01.00</SimpleData>
+		<SimpleData name="Adresse">Place des Martyrs de la Résistance</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCH</SimpleData>
+		<SimpleData name="LIBSQUART">Centre Historique</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87690564103206,43.610631182245299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place Jean Jaurès</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">51</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C02.00</SimpleData>
+		<SimpleData name="Adresse">Place Jean Jaurès</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCH</SimpleData>
+		<SimpleData name="LIBSQUART">Centre Historique</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87715394447556,43.610065881967984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place Giral</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">60</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C11.00</SimpleData>
+		<SimpleData name="Adresse">Place Giral</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCH</SimpleData>
+		<SimpleData name="LIBSQUART">Centre Historique</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.871610612970782,43.610410983007689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place du marché aux fleurs</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">68</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C29.00</SimpleData>
+		<SimpleData name="Adresse">Place du marché aux fleurs</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCH</SimpleData>
+		<SimpleData name="LIBSQUART">Centre Historique</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877173647348609,43.611134659399589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue de l'Huile</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">73</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C34.02</SimpleData>
+		<SimpleData name="Adresse">Rue de l'Huile</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCH</SimpleData>
+		<SimpleData name="LIBSQUART">Centre Historique</SimpleData>
+		<SimpleData name="Année">2002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873963741269886,43.610141340942135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue du Palais des Guilhem</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">74</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C35.02</SimpleData>
+		<SimpleData name="Adresse">Rue du Palais des Guilhem</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCH</SimpleData>
+		<SimpleData name="LIBSQUART">Centre Historique</SimpleData>
+		<SimpleData name="Année">2002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874399927737694,43.611401782934209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue du Cannau</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">76</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C41.02</SimpleData>
+		<SimpleData name="Adresse">Rue du Cannau</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCH</SimpleData>
+		<SimpleData name="LIBSQUART">Centre Historique</SimpleData>
+		<SimpleData name="Année">2002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.878041958071932,43.611799367523211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Foch</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">79</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C49.03</SimpleData>
+		<SimpleData name="Adresse">Rue Foch</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCH</SimpleData>
+		<SimpleData name="LIBSQUART">Centre Historique</SimpleData>
+		<SimpleData name="Année">2003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873802319003472,43.611090617797551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Bonnier d'Alco</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">88</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C67.04</SimpleData>
+		<SimpleData name="Adresse">Rue Bonnier d'Alco</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCH</SimpleData>
+		<SimpleData name="LIBSQUART">Centre Historique</SimpleData>
+		<SimpleData name="Année">2004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87636586467409,43.611853032956461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Saint Pierre</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">93</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C73.05</SimpleData>
+		<SimpleData name="Adresse">Rue Saint Pierre</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCH</SimpleData>
+		<SimpleData name="LIBSQUART">Centre Historique</SimpleData>
+		<SimpleData name="Année">2005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87483688102128,43.612346599506147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boulevard Henri IV</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">94</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C74.05</SimpleData>
+		<SimpleData name="Adresse">Boulevard Henri IV</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCH</SimpleData>
+		<SimpleData name="LIBSQUART">Centre Historique</SimpleData>
+		<SimpleData name="Année">2005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872779240893642,43.612888880779153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Foch</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">98</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C78.05</SimpleData>
+		<SimpleData name="Adresse">Rue Foch</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCH</SimpleData>
+		<SimpleData name="LIBSQUART">Centre Historique</SimpleData>
+		<SimpleData name="Année">2005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872445691459379,43.611249630006348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Faubourg du Courreau</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">100</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C88.06</SimpleData>
+		<SimpleData name="Adresse">Faubourg du Courreau</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCH</SimpleData>
+		<SimpleData name="LIBSQUART">Centre Historique</SimpleData>
+		<SimpleData name="Année">2006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870820291795515,43.608457182215737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue de lCandolle</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">103</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C91.06</SimpleData>
+		<SimpleData name="Adresse">Rue de lCandolle</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCH</SimpleData>
+		<SimpleData name="LIBSQUART">Centre Historique</SimpleData>
+		<SimpleData name="Année">2006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87609102893107,43.61316099684587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue de l'Université</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">104</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C92.06</SimpleData>
+		<SimpleData name="Adresse">Rue de l'Université</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCH</SimpleData>
+		<SimpleData name="LIBSQUART">Centre Historique</SimpleData>
+		<SimpleData name="Année">2006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877373298330568,43.614231422660019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place d'Aviler</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">123</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C115.09</SimpleData>
+		<SimpleData name="Adresse">Place d'Aviler</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCH</SimpleData>
+		<SimpleData name="LIBSQUART">Centre Historique</SimpleData>
+		<SimpleData name="Année">2009</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872460868057408,43.611976188680934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place Pierre Flotte</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">124</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C116.09</SimpleData>
+		<SimpleData name="Adresse">Place Pierre Flotte</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCH</SimpleData>
+		<SimpleData name="LIBSQUART">Centre Historique</SimpleData>
+		<SimpleData name="Année">2009</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868765261209173,43.61015597028036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place Paul Bec</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">61</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C12.00</SimpleData>
+		<SimpleData name="Adresse">Place Paul Bec</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCN</SimpleData>
+		<SimpleData name="LIBSQUART">Antigone</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.886241409559394,43.608206420828175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue de Thèbes</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">70</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C31.02</SimpleData>
+		<SimpleData name="Adresse">Rue de Thèbes</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCN</SimpleData>
+		<SimpleData name="LIBSQUART">Antigone</SimpleData>
+		<SimpleData name="Année">2002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88858187485926,43.60823525369473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pont de Chauliac</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">83</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C58.03</SimpleData>
+		<SimpleData name="Adresse">Pont de Chauliac</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCN</SimpleData>
+		<SimpleData name="LIBSQUART">Antigone</SimpleData>
+		<SimpleData name="Année">2003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.896974513114398,43.60902967663192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place de Thessalie</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">84</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C61.04</SimpleData>
+		<SimpleData name="Adresse">Place de Thessalie</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCN</SimpleData>
+		<SimpleData name="LIBSQUART">Antigone</SimpleData>
+		<SimpleData name="Année">2004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.890919393228943,43.607987180238297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place de la Comédie</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">52</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C82.05</SimpleData>
+		<SimpleData name="Adresse">Place de la Comédie</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCC</SimpleData>
+		<SimpleData name="LIBSQUART">Comédie</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87968448600036,43.608420918491305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place de la Comédie</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">53</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C04.00</SimpleData>
+		<SimpleData name="Adresse">Place de la Comédie</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCC</SimpleData>
+		<SimpleData name="LIBSQUART">Comédie</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881303110061568,43.609417876849008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue de Verdun</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">57</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C08.00</SimpleData>
+		<SimpleData name="Adresse">Rue de Verdun</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCC</SimpleData>
+		<SimpleData name="LIBSQUART">Comédie</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880713392368678,43.607060300873073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Saint Côme</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">65</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C23.00</SimpleData>
+		<SimpleData name="Adresse">Rue Saint Côme</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCC</SimpleData>
+		<SimpleData name="LIBSQUART">Comédie</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.875944500208234,43.608460272913661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Boussairolles</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">69</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C30.02</SimpleData>
+		<SimpleData name="Adresse">Rue Boussairolles</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCC</SimpleData>
+		<SimpleData name="LIBSQUART">Comédie</SimpleData>
+		<SimpleData name="Année">2002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880834319293843,43.608272927552974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hôtel de Ville</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">75</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C40.02</SimpleData>
+		<SimpleData name="Adresse">Hôtel de Ville</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCC</SimpleData>
+		<SimpleData name="LIBSQUART">Comédie</SimpleData>
+		<SimpleData name="Année">2002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883978506865351,43.609713568740133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Passage Bruyas</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">77</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C42.02</SimpleData>
+		<SimpleData name="Adresse">Passage Bruyas</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCC</SimpleData>
+		<SimpleData name="LIBSQUART">Comédie</SimpleData>
+		<SimpleData name="Année">2002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880175720971182,43.609274982459084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place Molière</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">78</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C43.02</SimpleData>
+		<SimpleData name="Adresse">Place Molière</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCC</SimpleData>
+		<SimpleData name="LIBSQUART">Comédie</SimpleData>
+		<SimpleData name="Année">2002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877922082153757,43.607669726875649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Passage de l'Horloge</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">85</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C62.04</SimpleData>
+		<SimpleData name="Adresse">Passage de l'Horloge</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCC</SimpleData>
+		<SimpleData name="LIBSQUART">Comédie</SimpleData>
+		<SimpleData name="Année">2004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883521010113868,43.608651717439521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grand rue Jean Moulin</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">86</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C65.04</SimpleData>
+		<SimpleData name="Adresse">Grand rue Jean Moulin</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCC</SimpleData>
+		<SimpleData name="LIBSQUART">Comédie</SimpleData>
+		<SimpleData name="Année">2004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877610573535467,43.608047507694295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Valedau</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">87</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C66.04</SimpleData>
+		<SimpleData name="Adresse">Rue Valedau</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCC</SimpleData>
+		<SimpleData name="LIBSQUART">Comédie</SimpleData>
+		<SimpleData name="Année">2004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.879147478581981,43.610046487783698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place Fancis Ponge</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">91</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C71.05</SimpleData>
+		<SimpleData name="Adresse">Place Fancis Ponge</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCC</SimpleData>
+		<SimpleData name="LIBSQUART">Comédie</SimpleData>
+		<SimpleData name="Année">2005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.884250914176925,43.609053330354364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue de l'Aiguillerie</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">96</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C76.05</SimpleData>
+		<SimpleData name="Adresse">Rue de l'Aiguillerie</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCC</SimpleData>
+		<SimpleData name="LIBSQUART">Comédie</SimpleData>
+		<SimpleData name="Année">2005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877931546829247,43.610693372329735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Esplanade Charles de Gaulle</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">97</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C77.05</SimpleData>
+		<SimpleData name="Adresse">Esplanade Charles de Gaulle</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCC</SimpleData>
+		<SimpleData name="LIBSQUART">Comédie</SimpleData>
+		<SimpleData name="Année">2005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881442879349078,43.610604950041413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Théatre de la Comédie</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">99</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C03.00</SimpleData>
+		<SimpleData name="Adresse">Théatre de la Comédie</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCC</SimpleData>
+		<SimpleData name="LIBSQUART">Comédie</SimpleData>
+		<SimpleData name="Année">2005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.879412784577038,43.608262239802464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue de Vendémiaire</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">14</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C56.03</SimpleData>
+		<SimpleData name="Adresse">Rue de Vendémiaire</SimpleData>
+		<SimpleData name="QUARTMNO">MI</SimpleData>
+		<SimpleData name="LIBQUART">MILLENAIRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MIP</SimpleData>
+		<SimpleData name="LIBSQUART">Port Marianne</SimpleData>
+		<SimpleData name="Année">2003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898685324800725,43.603091049376609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pont Juvénal</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">106</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C99.07</SimpleData>
+		<SimpleData name="Adresse">Pont Juvénal</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTREAIRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MIP</SimpleData>
+		<SimpleData name="LIBSQUART">Port Marianne</SimpleData>
+		<SimpleData name="Année">2007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.897429207074162,43.606412223701767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pont Jean Zuccarelli</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">117</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C121.11</SimpleData>
+		<SimpleData name="Adresse">Pont Jean Zuccarelli</SimpleData>
+		<SimpleData name="QUARTMNO">MI</SimpleData>
+		<SimpleData name="LIBQUART">MILLENAIRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MIP</SimpleData>
+		<SimpleData name="LIBSQUART">Port Marianne</SimpleData>
+		<SimpleData name="Année">2011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.896141861611481,43.600424463818314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avenue Professeur Etienne Antonnelli</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">118</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C122.11</SimpleData>
+		<SimpleData name="Adresse">Avenue Professeur Etienne Antonnelli</SimpleData>
+		<SimpleData name="QUARTMNO">MI</SimpleData>
+		<SimpleData name="LIBQUART">MILLENAIRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MIP</SimpleData>
+		<SimpleData name="LIBSQUART">Port Marianne</SimpleData>
+		<SimpleData name="Année">2011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89537977003861,43.599818182380098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place Odysseum</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">120</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C124.11</SimpleData>
+		<SimpleData name="Adresse">Place Odysseum</SimpleData>
+		<SimpleData name="QUARTMNO">MI</SimpleData>
+		<SimpleData name="LIBQUART">MILLENAIRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MIP</SimpleData>
+		<SimpleData name="LIBSQUART">Port Marianne</SimpleData>
+		<SimpleData name="Année">2011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.912355380943808,43.603756078614929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boulevard de Pénélope</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">121</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C125.11</SimpleData>
+		<SimpleData name="Adresse">Boulevard de Pénélope</SimpleData>
+		<SimpleData name="QUARTMNO">MI</SimpleData>
+		<SimpleData name="LIBQUART">MILLENAIRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MIP</SimpleData>
+		<SimpleData name="LIBSQUART">Port Marianne</SimpleData>
+		<SimpleData name="Année">2011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.921083156310033,43.602256631718788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lycée Mendes France</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">122</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C126.11</SimpleData>
+		<SimpleData name="Adresse">Lycée Mendes France</SimpleData>
+		<SimpleData name="QUARTMNO">MI</SimpleData>
+		<SimpleData name="LIBQUART">MILLENAIRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MIP</SimpleData>
+		<SimpleData name="LIBSQUART">Port Marianne</SimpleData>
+		<SimpleData name="Année">2011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.920144059427308,43.599696948201697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boulevard du Jeu de Paume</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">59</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C10.00</SimpleData>
+		<SimpleData name="Adresse">Boulevard du Jeu de Paume</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCG</SimpleData>
+		<SimpleData name="LIBSQUART">Gambetta</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872961188984256,43.608522996997948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place Saint Denis</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">81</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C51.03</SimpleData>
+		<SimpleData name="Adresse">Place Saint Denis</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCG</SimpleData>
+		<SimpleData name="LIBSQUART">Gambetta</SimpleData>
+		<SimpleData name="Année">2003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874729442878476,43.605329708810409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avenue Georges Clemenceau</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">95</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C75.05</SimpleData>
+		<SimpleData name="Adresse">Avenue Georges Clemenceau</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCG</SimpleData>
+		<SimpleData name="LIBSQUART">Gambetta</SimpleData>
+		<SimpleData name="Année">2005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870794915281425,43.602755083060018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cours Gambetta</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">101</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C89.06</SimpleData>
+		<SimpleData name="Adresse">Cours Gambetta</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCG</SimpleData>
+		<SimpleData name="LIBSQUART">Gambetta</SimpleData>
+		<SimpleData name="Année">2006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.867954635151607,43.608717462829588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Rondelet</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">105</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C93.06</SimpleData>
+		<SimpleData name="Adresse">Rue Rondelet</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCG</SimpleData>
+		<SimpleData name="LIBSQUART">Gambetta</SimpleData>
+		<SimpleData name="Année">2006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.875017625465463,43.603175591787036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Coppée</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">67</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C27.00</SimpleData>
+		<SimpleData name="Adresse">Rue Coppée</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCF</SimpleData>
+		<SimpleData name="LIBSQUART">Figuerolles</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.859251416250392,43.604899506390481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place Salengro</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">82</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C52.03</SimpleData>
+		<SimpleData name="Adresse">Place Salengro</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCF</SimpleData>
+		<SimpleData name="LIBSQUART">Figuerolles</SimpleData>
+		<SimpleData name="Année">2003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.866787872000403,43.607296097885232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Joachim du Bellay</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">108</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C101.07</SimpleData>
+		<SimpleData name="Adresse">Rue Joachim du Bellay</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCF</SimpleData>
+		<SimpleData name="LIBSQUART">Figuerolles</SimpleData>
+		<SimpleData name="Année">2007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.859644103454143,43.606798724062926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place Auguste Gibert</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">54</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C05.00</SimpleData>
+		<SimpleData name="Adresse">Place Auguste Gibert</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCS</SimpleData>
+		<SimpleData name="LIBSQUART">Gares</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880503062888488,43.604801673227996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Jules Ferry</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">55</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C06.00</SimpleData>
+		<SimpleData name="Adresse">Rue Jules Ferry</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCS</SimpleData>
+		<SimpleData name="LIBSQUART">Gares</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880237076199626,43.604812264136122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue du Grand Saint Jean</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">56</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C07.00</SimpleData>
+		<SimpleData name="Adresse">Rue du Grand Saint Jean</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCS</SimpleData>
+		<SimpleData name="LIBSQUART">Gares</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877990620608804,43.604360887764365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boulevard de l'Observatoire</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">58</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C09.00</SimpleData>
+		<SimpleData name="Adresse">Boulevard de l'Observatoire</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCS</SimpleData>
+		<SimpleData name="LIBSQUART">Gares</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877160041531826,43.606080256138597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place François Jaume</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">80</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C50.03</SimpleData>
+		<SimpleData name="Adresse">Place François Jaume</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCS</SimpleData>
+		<SimpleData name="LIBSQUART">Gares</SimpleData>
+		<SimpleData name="Année">2003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883938160106104,43.605242594498478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Aristide Ollivier</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">102</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C90.06</SimpleData>
+		<SimpleData name="Adresse">Rue Aristide Ollivier</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCS</SimpleData>
+		<SimpleData name="LIBSQUART">Gares</SimpleData>
+		<SimpleData name="Année">2006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882438455241338,43.606487107950606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pont de Lattes</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">111</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C112.08</SimpleData>
+		<SimpleData name="Adresse">Pont de Lattes</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCS</SimpleData>
+		<SimpleData name="LIBSQUART">Gares</SimpleData>
+		<SimpleData name="Année">2008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882364191319129,43.605510237023047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pont de Sète</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">114</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C117.11</SimpleData>
+		<SimpleData name="Adresse">Pont de Sète</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MCS</SimpleData>
+		<SimpleData name="LIBSQUART">Gares</SimpleData>
+		<SimpleData name="Année">2011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.879463901392785,43.603311696164738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rond point Flandres Dunkerque</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">5</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C108.08</SimpleData>
+		<SimpleData name="Adresse">Rond point Flandres Dunkerque</SimpleData>
+		<SimpleData name="QUARTMNO">CX</SimpleData>
+		<SimpleData name="LIBQUART">CROIX D ARGENT</SimpleData>
+		<SimpleData name="SQUARTMNO">CXE</SimpleData>
+		<SimpleData name="LIBSQUART">Estanove</SimpleData>
+		<SimpleData name="Année">2008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.855728149164757,43.590343467646989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Route de Lavérune</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">30</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C107.08</SimpleData>
+		<SimpleData name="Adresse">Route de Lavérune</SimpleData>
+		<SimpleData name="QUARTMNO">CV</SimpleData>
+		<SimpleData name="LIBQUART">LES CEVENNES</SimpleData>
+		<SimpleData name="SQUARTMNO">CVA</SimpleData>
+		<SimpleData name="LIBSQUART">Estanove</SimpleData>
+		<SimpleData name="Année">2008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.850982907406475,43.60115367458058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rond point Près d'Arènes</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">12</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C63.04</SimpleData>
+		<SimpleData name="Adresse">Rond point Près d'Arènes</SimpleData>
+		<SimpleData name="QUARTMNO">PR</SimpleData>
+		<SimpleData name="LIBQUART">PRES D ARENES</SimpleData>
+		<SimpleData name="SQUARTMNO">PRA</SimpleData>
+		<SimpleData name="LIBSQUART">Aiguerelles</SimpleData>
+		<SimpleData name="Année">2004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.890753412174816,43.5893514523855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Vachet</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">10</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C22.00</SimpleData>
+		<SimpleData name="Adresse">Rue Vachet</SimpleData>
+		<SimpleData name="QUARTMNO">PR</SimpleData>
+		<SimpleData name="LIBQUART">PRES D ARENES</SimpleData>
+		<SimpleData name="SQUARTMNO">PRM</SimpleData>
+		<SimpleData name="LIBSQUART">Saint Martin</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.884991141699778,43.592307609625884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue des Razeteurs</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">11</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C57.04</SimpleData>
+		<SimpleData name="Adresse">Rue des Razeteurs</SimpleData>
+		<SimpleData name="QUARTMNO">PR</SimpleData>
+		<SimpleData name="LIBQUART">PRES D ARENES</SimpleData>
+		<SimpleData name="SQUARTMNO">PRM</SimpleData>
+		<SimpleData name="LIBSQUART">Saint Martin</SimpleData>
+		<SimpleData name="Année">2004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.884517588887642,43.595748750342622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avenue Pedro de Luna</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">8</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C25.00</SimpleData>
+		<SimpleData name="Adresse">Avenue Pedro de Luna</SimpleData>
+		<SimpleData name="QUARTMNO">CX</SimpleData>
+		<SimpleData name="LIBQUART">CROIX D ARGENT</SimpleData>
+		<SimpleData name="SQUARTMNO">CXM</SimpleData>
+		<SimpleData name="LIBSQUART">Lemasson</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868379403119758,43.595681925392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place du 8 mai 1945</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">9</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C86.06</SimpleData>
+		<SimpleData name="Adresse">Place du 8 mai 1945</SimpleData>
+		<SimpleData name="QUARTMNO">CX</SimpleData>
+		<SimpleData name="LIBQUART">CROIX D ARGENT</SimpleData>
+		<SimpleData name="SQUARTMNO">CXM</SimpleData>
+		<SimpleData name="LIBSQUART">Lemasson</SimpleData>
+		<SimpleData name="Année">2006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868221102214568,43.600979029481074</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avenue de Vanières</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C28.00</SimpleData>
+		<SimpleData name="Adresse">Avenue de Vanières</SimpleData>
+		<SimpleData name="QUARTMNO">CX</SimpleData>
+		<SimpleData name="LIBQUART">CROIX D ARGENT</SimpleData>
+		<SimpleData name="SQUARTMNO">CXP</SimpleData>
+		<SimpleData name="LIBSQUART">Pas du Loup</SimpleData>
+		<SimpleData name="Année">2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.843297274916689,43.597272645454346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue du Pas du Loup</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">1</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C39.02</SimpleData>
+		<SimpleData name="Adresse">Rue du Pas du Loup</SimpleData>
+		<SimpleData name="QUARTMNO">CX</SimpleData>
+		<SimpleData name="LIBQUART">CROIX D ARGENT</SimpleData>
+		<SimpleData name="SQUARTMNO">CXP</SimpleData>
+		<SimpleData name="LIBSQUART">Pas du Loup</SimpleData>
+		<SimpleData name="Année">2002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.84713839985745,43.599509323943764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place Fourier</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">2</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C53.03</SimpleData>
+		<SimpleData name="Adresse">Place Fourier</SimpleData>
+		<SimpleData name="QUARTMNO">CX</SimpleData>
+		<SimpleData name="LIBQUART">CROIX D ARGENT</SimpleData>
+		<SimpleData name="SQUARTMNO">CXP</SimpleData>
+		<SimpleData name="LIBSQUART">Pas du Loup</SimpleData>
+		<SimpleData name="Année">2003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.842847984781492,43.593869762729938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cité Paul Valery</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">6</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C109.08</SimpleData>
+		<SimpleData name="Adresse">Cité Paul Valery</SimpleData>
+		<SimpleData name="QUARTMNO">CX</SimpleData>
+		<SimpleData name="LIBQUART">CROIX D ARGENT</SimpleData>
+		<SimpleData name="SQUARTMNO">CXP</SimpleData>
+		<SimpleData name="LIBSQUART">Pas du Loup</SimpleData>
+		<SimpleData name="Année">2008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.843968549980607,43.59895984913166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Val de Croze</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">7</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C110.08</SimpleData>
+		<SimpleData name="Adresse">Val de Croze</SimpleData>
+		<SimpleData name="QUARTMNO">CX</SimpleData>
+		<SimpleData name="LIBQUART">CROIX D ARGENT</SimpleData>
+		<SimpleData name="SQUARTMNO">CXP</SimpleData>
+		<SimpleData name="LIBSQUART">Pas du Loup</SimpleData>
+		<SimpleData name="Année">2008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.840712615911509,43.593849147159617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avenue Villeneuve d'Angoulême</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">3</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C54.03</SimpleData>
+		<SimpleData name="Adresse">Avenue Villeneuve d'Angoulême</SimpleData>
+		<SimpleData name="QUARTMNO">CX</SimpleData>
+		<SimpleData name="LIBQUART">CROIX D ARGENT</SimpleData>
+		<SimpleData name="SQUARTMNO">CXA</SimpleData>
+		<SimpleData name="LIBSQUART">Lemasson</SimpleData>
+		<SimpleData name="Année">2003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.865953650451412,43.590842199583996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue Colucci</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">4</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C98.07</SimpleData>
+		<SimpleData name="Adresse">Rue Colucci</SimpleData>
+		<SimpleData name="QUARTMNO">CX</SimpleData>
+		<SimpleData name="LIBQUART">CROIX D ARGENT</SimpleData>
+		<SimpleData name="SQUARTMNO">CXA</SimpleData>
+		<SimpleData name="LIBSQUART">Lemasson</SimpleData>
+		<SimpleData name="Année">2007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.865716933211298,43.58820249648258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rond point Tournezy</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">13</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C111.08</SimpleData>
+		<SimpleData name="Adresse">Rond point Tournezy</SimpleData>
+		<SimpleData name="QUARTMNO">PR</SimpleData>
+		<SimpleData name="LIBQUART">PRES D ARENES</SimpleData>
+		<SimpleData name="SQUARTMNO">PRE</SimpleData>
+		<SimpleData name="LIBSQUART">Près d'Arènes</SimpleData>
+		<SimpleData name="Année">2008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881350937759085,43.581229198401658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avenue de l'Europe</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">119</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C119.11</SimpleData>
+		<SimpleData name="Adresse">Avenue de l'Europe</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">PAH</SimpleData>
+		<SimpleData name="LIBSQUART">Les Hauts de Massane</SimpleData>
+		<SimpleData name="Année">2011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.822692956779145,43.634400050157097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stade de la Mosson/Heidelberg</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C127.12</SimpleData>
+		<SimpleData name="Adresse">Stade de la Mosson/Heidelberg</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">MOS</SimpleData>
+		<SimpleData name="LIBSQUART">Mosson</SimpleData>
+		<SimpleData name="Année">2012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.811656672052326,43.623775927259949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stade de la Mosson/Surville</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C128.12</SimpleData>
+		<SimpleData name="Adresse">Stade de la Mosson/Surville</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">MOS</SimpleData>
+		<SimpleData name="LIBSQUART">Mosson</SimpleData>
+		<SimpleData name="Année">2012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.813140038832634,43.622822427427984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stade de la Mosson/Espace Mosson</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C129.12</SimpleData>
+		<SimpleData name="Adresse">Stade de la Mosson/Espace Mosson</SimpleData>
+		<SimpleData name="QUARTMNO">MO</SimpleData>
+		<SimpleData name="LIBQUART">MOSSON</SimpleData>
+		<SimpleData name="SQUARTMNO">MOS</SimpleData>
+		<SimpleData name="LIBSQUART">Mosson</SimpleData>
+		<SimpleData name="Année">2012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.815374585683352,43.620896699182687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Av de Lodève/Av du Petit Bard</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C130.12</SimpleData>
+		<SimpleData name="Adresse">Av de Lodève/Av du Petit Bard</SimpleData>
+		<SimpleData name="QUARTMNO">CV</SimpleData>
+		<SimpleData name="LIBQUART">LES CEVENNES</SimpleData>
+		<SimpleData name="SQUARTMNO">CVA</SimpleData>
+		<SimpleData name="LIBSQUART">Alco</SimpleData>
+		<SimpleData name="Année">2012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.835801971313062,43.614337966021836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rd-Pt de l'Oasis</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C131.12</SimpleData>
+		<SimpleData name="Adresse">Rd-Pt de l'Oasis</SimpleData>
+		<SimpleData name="QUARTMNO">CV</SimpleData>
+		<SimpleData name="LIBQUART">LES CEVENNES</SimpleData>
+		<SimpleData name="SQUARTMNO">CVA</SimpleData>
+		<SimpleData name="LIBSQUART">Alco</SimpleData>
+		<SimpleData name="Année">2012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.834968288108198,43.616470838600357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Av des Garrats/Av de Lodève</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C132.12</SimpleData>
+		<SimpleData name="Adresse">Av des Garrats/Av de Lodève</SimpleData>
+		<SimpleData name="QUARTMNO">CV</SimpleData>
+		<SimpleData name="LIBQUART">LES CEVENNES</SimpleData>
+		<SimpleData name="SQUARTMNO">CVA</SimpleData>
+		<SimpleData name="LIBSQUART">Alco</SimpleData>
+		<SimpleData name="Année">2012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.838683498586205,43.613518342519939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rd-Pt d'Alco/Av du Professeur Blayac</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C133.12</SimpleData>
+		<SimpleData name="Adresse">Rd-Pt d'Alco/Av du Professeur Blayac</SimpleData>
+		<SimpleData name="QUARTMNO">CV</SimpleData>
+		<SimpleData name="LIBQUART">LES CEVENNES</SimpleData>
+		<SimpleData name="SQUARTMNO">CVA</SimpleData>
+		<SimpleData name="LIBSQUART">Alco</SimpleData>
+		<SimpleData name="Année">2012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.833792344479247,43.622520975621889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rd-Pt d'Alco/Av des Moulins</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C134.12</SimpleData>
+		<SimpleData name="Adresse">Rd-Pt d'Alco/Av des Moulins</SimpleData>
+		<SimpleData name="QUARTMNO">CV</SimpleData>
+		<SimpleData name="LIBQUART">LES CEVENNES</SimpleData>
+		<SimpleData name="SQUARTMNO">CVA</SimpleData>
+		<SimpleData name="LIBSQUART">Alco</SimpleData>
+		<SimpleData name="Année">2012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.837065434204167,43.625709699193834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chemin de Moularès/Av du Prof. Antonelli</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C135.12</SimpleData>
+		<SimpleData name="Adresse">Chemin de Moularès/Av du Prof. Antonelli</SimpleData>
+		<SimpleData name="QUARTMNO">MI</SimpleData>
+		<SimpleData name="LIBQUART">MILLENAIRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MIP</SimpleData>
+		<SimpleData name="LIBSQUART">Port Marianne</SimpleData>
+		<SimpleData name="Année">2012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.893808719157706,43.599408362254252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place Ernest Granier</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C136.12</SimpleData>
+		<SimpleData name="Adresse">Place Ernest Granier</SimpleData>
+		<SimpleData name="QUARTMNO">MI</SimpleData>
+		<SimpleData name="LIBQUART">MILLENAIRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MIP</SimpleData>
+		<SimpleData name="LIBSQUART">Port Marianne</SimpleData>
+		<SimpleData name="Année">2012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.900916233554848,43.602098191259209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Av Raymond Dugrand/Bassin Jacques Coeur</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C137.12</SimpleData>
+		<SimpleData name="Adresse">Av Raymond Dugrand/Bassin Jacques Coeur</SimpleData>
+		<SimpleData name="QUARTMNO">MI</SimpleData>
+		<SimpleData name="LIBQUART">MILLENAIRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MIP</SimpleData>
+		<SimpleData name="LIBSQUART">Port Marianne</SimpleData>
+		<SimpleData name="Année">2012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.901627246514779,43.599736408257712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rd-Pt Pablo Picasso</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C138.12</SimpleData>
+		<SimpleData name="Adresse">Rd-Pt Pablo Picasso</SimpleData>
+		<SimpleData name="QUARTMNO">MI</SimpleData>
+		<SimpleData name="LIBQUART">MILLENAIRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MIP</SimpleData>
+		<SimpleData name="LIBSQUART">Port Marianne</SimpleData>
+		<SimpleData name="Année">2012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.90297290972869,43.59809423718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pont de la République</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C139.12</SimpleData>
+		<SimpleData name="Adresse">Pont de la République</SimpleData>
+		<SimpleData name="QUARTMNO">MI</SimpleData>
+		<SimpleData name="LIBQUART">MILLENAIRE</SimpleData>
+		<SimpleData name="SQUARTMNO">MIP</SimpleData>
+		<SimpleData name="LIBSQUART">Port Marianne</SimpleData>
+		<SimpleData name="Année">2012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89933734638274,43.596825637737155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place Edouard Adam</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C140.12</SimpleData>
+		<SimpleData name="Adresse">Place Edouard Adam</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">ECU</SimpleData>
+		<SimpleData name="LIBSQUART">Ecusson</SimpleData>
+		<SimpleData name="Année">2012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.875700008345895,43.606439809483433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rue André Michel/Bvd Jeu de Paume</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_CameraSurv">
+		<SimpleData name="FID_1">0</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Nom">C141.12</SimpleData>
+		<SimpleData name="Adresse">Rue André Michel/Bvd Jeu de Paume</SimpleData>
+		<SimpleData name="QUARTMNO">MC</SimpleData>
+		<SimpleData name="LIBQUART">MONTPELLIER CENTRE</SimpleData>
+		<SimpleData name="SQUARTMNO">ECU</SimpleData>
+		<SimpleData name="LIBSQUART">Ecusson</SimpleData>
+		<SimpleData name="Année">2012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874239208438629,43.607643219036945</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

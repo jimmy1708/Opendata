@@ -1,0 +1,1702 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>VilleMTP_MTP_FontainesPublic</name>
+<Schema name="VilleMTP_MTP_FontainesPublic" id="VilleMTP_MTP_FontainesPublic">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="ID" type="string"></SimpleField>
+	<SimpleField name="NOM" type="string"></SimpleField>
+	<SimpleField name="LOCALIS" type="string"></SimpleField>
+	<SimpleField name="QUARTIER" type="string"></SimpleField>
+	<SimpleField name="CANTON" type="int"></SimpleField>
+	<SimpleField name="TYPE_D_OPÉ" type="string"></SimpleField>
+	<SimpleField name="MAIT_OUV" type="string"></SimpleField>
+	<SimpleField name="MAIT_OEU" type="string"></SimpleField>
+	<SimpleField name="REAL_" type="string"></SimpleField>
+	<SimpleField name="COUT" type="float"></SimpleField>
+	<SimpleField name="CRE_DATE" type="float"></SimpleField>
+	<SimpleField name="GESTION_" type="string"></SimpleField>
+	<SimpleField name="COÛT_FONCT" type="float"></SimpleField>
+	<SimpleField name="ETAT" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>Baumel</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="NOM">Baumel</SimpleData>
+		<SimpleData name="LOCALIS">place Jean Baumel</SimpleData>
+		<SimpleData name="QUARTIER">Hôpitaux-Facultés</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent. Jeanjean Namer Thomas</SimpleData>
+		<SimpleData name="COUT">270.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1988.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.858264392653167,43.64056268579327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aiguelongue</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">2</SimpleData>
+		<SimpleData name="NOM">Aiguelongue</SimpleData>
+		<SimpleData name="LOCALIS">Rue  de Montasinos</SimpleData>
+		<SimpleData name="QUARTIER">Hôpitaux-Facultés</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent. Roure</SimpleData>
+		<SimpleData name="COUT">486.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1989.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881141293959258,43.628124253973297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grand Mail</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">3</SimpleData>
+		<SimpleData name="NOM">Grand Mail</SimpleData>
+		<SimpleData name="LOCALIS">Grand mail</SimpleData>
+		<SimpleData name="QUARTIER">La Paillade</SimpleData>
+		<SimpleData name="CANTON">9</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="REAL_">Borel</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1987.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.816312143772526,43.624872607400555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baroncelli</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">4</SimpleData>
+		<SimpleData name="NOM">Baroncelli</SimpleData>
+		<SimpleData name="LOCALIS">Parc de baroncelli</SimpleData>
+		<SimpleData name="QUARTIER">La Paillade</SimpleData>
+		<SimpleData name="CANTON">9</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="MAIT_OUV">DGU</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent. Jeanjean Sogea</SimpleData>
+		<SimpleData name="COUT">200.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1988.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.816329345293823,43.627629715225176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Renaudel</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">5</SimpleData>
+		<SimpleData name="NOM">Renaudel</SimpleData>
+		<SimpleData name="LOCALIS">place Renaudel</SimpleData>
+		<SimpleData name="QUARTIER">La Paillade</SimpleData>
+		<SimpleData name="CANTON">10</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent TP D' Orques</SimpleData>
+		<SimpleData name="COUT">80.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1986.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.82885046874386,43.614497152783166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Galot</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">6</SimpleData>
+		<SimpleData name="NOM">Galot</SimpleData>
+		<SimpleData name="LOCALIS">Place Marcel Galot</SimpleData>
+		<SimpleData name="QUARTIER">Les Cévennes</SimpleData>
+		<SimpleData name="CANTON">10</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Jeanjean</SimpleData>
+		<SimpleData name="COUT">662.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1989.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.85912779727852,43.613092085878641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Petit Bard</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">7</SimpleData>
+		<SimpleData name="NOM">Petit Bard</SimpleData>
+		<SimpleData name="LOCALIS">Square Guillaume Apollinaire</SimpleData>
+		<SimpleData name="QUARTIER">Les Cévennes</SimpleData>
+		<SimpleData name="CANTON">7</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Roure</SimpleData>
+		<SimpleData name="COUT">226.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1988.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.836556652427428,43.616258499354103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paul Valery</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">8</SimpleData>
+		<SimpleData name="NOM">Paul Valery</SimpleData>
+		<SimpleData name="LOCALIS">Route de Lavérune</SimpleData>
+		<SimpleData name="QUARTIER">Croix d'Argent</SimpleData>
+		<SimpleData name="CANTON">6</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Jeanjean</SimpleData>
+		<SimpleData name="COUT">330.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1988.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.845835751105605,43.599202014543621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tastavin</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">9</SimpleData>
+		<SimpleData name="NOM">Tastavin</SimpleData>
+		<SimpleData name="LOCALIS">Parc de Tastavin</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent. Jeanjean</SimpleData>
+		<SimpleData name="COUT">15.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1987.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869362168887335,43.596387619670196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saint Cléophas</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">10</SimpleData>
+		<SimpleData name="NOM">Saint Cléophas</SimpleData>
+		<SimpleData name="LOCALIS">rue du Mas Lemasson</SimpleData>
+		<SimpleData name="QUARTIER">Croix d'Argent</SimpleData>
+		<SimpleData name="CANTON">6</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Jeanjean Namer Thomas</SimpleData>
+		<SimpleData name="COUT">247.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1988.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.867633306166655,43.599899583176835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saint Martin</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">11</SimpleData>
+		<SimpleData name="NOM">Saint Martin</SimpleData>
+		<SimpleData name="LOCALIS">Av. du Maréchal Leclerc</SimpleData>
+		<SimpleData name="QUARTIER">Près d'Arènes</SimpleData>
+		<SimpleData name="CANTON">5</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Jeanjean Namer Thomas</SimpleData>
+		<SimpleData name="COUT">263.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1988.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88372500878311,43.594341216917385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tournezy</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">12</SimpleData>
+		<SimpleData name="NOM">Tournezy</SimpleData>
+		<SimpleData name="LOCALIS">Place Tibériade</SimpleData>
+		<SimpleData name="QUARTIER">Près d'Arènes</SimpleData>
+		<SimpleData name="CANTON">5</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Jeanjean</SimpleData>
+		<SimpleData name="COUT">384.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1988.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877926635353517,43.580916491044974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parc Rimbaud</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">13</SimpleData>
+		<SimpleData name="NOM">Parc Rimbaud</SimpleData>
+		<SimpleData name="LOCALIS">Av. de Saint Maur</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent. Olivier</SimpleData>
+		<SimpleData name="COUT">100.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1987.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.893522457786173,43.618088120135056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pompignane</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">14</SimpleData>
+		<SimpleData name="NOM">Pompignane</SimpleData>
+		<SimpleData name="LOCALIS">Avenue Alphonse Juin</SimpleData>
+		<SimpleData name="QUARTIER">Millénaire</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent. Roure</SimpleData>
+		<SimpleData name="COUT">262.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1988.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898562723145452,43.61847967030031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Z.A.C. de la Fontaine</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">15</SimpleData>
+		<SimpleData name="NOM">Z.A.C. de la Fontaine</SimpleData>
+		<SimpleData name="LOCALIS">Celleneuve</SimpleData>
+		<SimpleData name="QUARTIER">La Paillade</SimpleData>
+		<SimpleData name="CANTON">10</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">SERM</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Jeanjean</SimpleData>
+		<SimpleData name="COUT">3000.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1991.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.824166957520611,43.614037828544198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La Licorne</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">16</SimpleData>
+		<SimpleData name="NOM">La Licorne</SimpleData>
+		<SimpleData name="LOCALIS">Place de la Carnourgue</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="REAL_">d'Antoine</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1776.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874722354715236,43.612073575506393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chabaneau</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">17</SimpleData>
+		<SimpleData name="NOM">Chabaneau</SimpleData>
+		<SimpleData name="LOCALIS">place Chabaneau</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="REAL_">Journet</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1776.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876204374991102,43.611275781888502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Préfecture</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">18</SimpleData>
+		<SimpleData name="NOM">Préfecture</SimpleData>
+		<SimpleData name="LOCALIS">Place des Martyres de la Résistance</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="REAL_">Ent. Saltet</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1975.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876631809401218,43.610815016043702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marché au fleurs</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">19</SimpleData>
+		<SimpleData name="NOM">Marché au fleurs</SimpleData>
+		<SimpleData name="LOCALIS">Place du Marché aux fleurs</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent. Jeanjean Guinet Derriaz</SimpleData>
+		<SimpleData name="COUT">169.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1984.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877450217015418,43.61140654700251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saint Roch</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">20</SimpleData>
+		<SimpleData name="NOM">Saint Roch</SimpleData>
+		<SimpleData name="LOCALIS">place Saint Roch</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Guillard Dimicelli Font de Paris</SimpleData>
+		<SimpleData name="COUT">356.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1988.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876042783510248,43.608817366027139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saint Ravy</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">21</SimpleData>
+		<SimpleData name="NOM">Saint Ravy</SimpleData>
+		<SimpleData name="LOCALIS">Place Saint Ravy</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="MAIT_OUV">DGU</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Saltet</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1975.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877086077549812,43.609231960574604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chambre de Commerce</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">22</SimpleData>
+		<SimpleData name="NOM">Chambre de Commerce</SimpleData>
+		<SimpleData name="LOCALIS">Grand rue Jean Moulin</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="MAIT_OUV">DGU</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Voinchet</SimpleData>
+		<SimpleData name="COUT">80.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1983.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87742870069076,43.608024395006957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saint Denis</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">23</SimpleData>
+		<SimpleData name="NOM">Saint Denis</SimpleData>
+		<SimpleData name="LOCALIS">Place Saint Denis</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="MAIT_OUV">DGU</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent. Olivier</SimpleData>
+		<SimpleData name="COUT">35.40000000</SimpleData>
+		<SimpleData name="CRE_DATE">1987.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87503495808829,43.605446216245902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jules Ferry</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">24</SimpleData>
+		<SimpleData name="NOM">Jules Ferry</SimpleData>
+		<SimpleData name="LOCALIS">Jules Ferry _ Verdun</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="REAL_">Ent. Olivier</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1988.00000000</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">déposée</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881836324711025,43.60589578824375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Les Trois Graces</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">25</SimpleData>
+		<SimpleData name="NOM">Les Trois Graces</SimpleData>
+		<SimpleData name="LOCALIS">Place de la Comédie</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1797.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.879559747900404,43.60854161482937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gaumont</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">27</SimpleData>
+		<SimpleData name="NOM">Gaumont</SimpleData>
+		<SimpleData name="LOCALIS">Place de l'Esplanade</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent. Olivier</SimpleData>
+		<SimpleData name="COUT">1490.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1988.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880785891626561,43.609666390103101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Corum</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">28</SimpleData>
+		<SimpleData name="NOM">Corum</SimpleData>
+		<SimpleData name="LOCALIS">Place de l'Esplanade</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent Olivier</SimpleData>
+		<SimpleData name="COUT">1490.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1988.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881215336761907,43.611508878014121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Verdanson</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">29</SimpleData>
+		<SimpleData name="NOM">Verdanson</SimpleData>
+		<SimpleData name="LOCALIS">Place du 11 Novembre</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent Nazon Jeanjean</SimpleData>
+		<SimpleData name="COUT">2800.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1985.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88263483749675,43.614901826410346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olympie</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">30</SimpleData>
+		<SimpleData name="NOM">Olympie</SimpleData>
+		<SimpleData name="LOCALIS">Place de l'Olympie</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Jeanjean</SimpleData>
+		<SimpleData name="COUT">450.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1988.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.885351072617982,43.607204558832741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monnet</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">31</SimpleData>
+		<SimpleData name="NOM">Monnet</SimpleData>
+		<SimpleData name="LOCALIS">Square Jean Monnet</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent. Jeanjean Namer Thomas</SimpleData>
+		<SimpleData name="COUT">360.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1988.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.889214655995627,43.60416165137682</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Les Augustins</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">32</SimpleData>
+		<SimpleData name="NOM">Les Augustins</SimpleData>
+		<SimpleData name="LOCALIS">rue des Augustins</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="MAIT_OUV">DGU</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1988.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.879553600749354,43.61045680912153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chapelle neuve</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">33</SimpleData>
+		<SimpleData name="NOM">Chapelle neuve</SimpleData>
+		<SimpleData name="LOCALIS">Place de la Chapelle Neuve</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="MAIT_OUV">DGU</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="COUT">60.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1988.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.879002959245898,43.613285633167223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jet d'eau</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">34</SimpleData>
+		<SimpleData name="NOM">Jet d'eau</SimpleData>
+		<SimpleData name="LOCALIS">Avenue du Pirée</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent. E.I.</SimpleData>
+		<SimpleData name="COUT">2000.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1988.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.897165137665634,43.607522201063965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beaux Arts</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">35</SimpleData>
+		<SimpleData name="NOM">Beaux Arts</SimpleData>
+		<SimpleData name="LOCALIS">Rue Jules Grevy</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent Roure</SimpleData>
+		<SimpleData name="COUT">472.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1989.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881554288430218,43.616227637736664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Babote</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">36</SimpleData>
+		<SimpleData name="NOM">Babote</SimpleData>
+		<SimpleData name="LOCALIS">Square de la Babote</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="MAIT_OUV">SERM</SimpleData>
+		<SimpleData name="MAIT_OEU">DIPAN</SimpleData>
+		<SimpleData name="REAL_">Ent. Eautheque T.U.E</SimpleData>
+		<SimpleData name="COUT">184.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1989.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877353582822217,43.606486652778308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Babote</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">37</SimpleData>
+		<SimpleData name="NOM">Babote</SimpleData>
+		<SimpleData name="LOCALIS">Square de la Babote</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="MAIT_OUV">SERM</SimpleData>
+		<SimpleData name="MAIT_OEU">DIPAN</SimpleData>
+		<SimpleData name="REAL_">Ent. Eautheque T.U.E</SimpleData>
+		<SimpleData name="COUT">184.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1989.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877493181488647,43.606706313426578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saint Anne</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">38</SimpleData>
+		<SimpleData name="NOM">Saint Anne</SimpleData>
+		<SimpleData name="LOCALIS">Place Saint Anne</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent Eurofontaines</SimpleData>
+		<SimpleData name="COUT">173.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1992.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87435123452808,43.610481690778272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edouard Adam</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">39</SimpleData>
+		<SimpleData name="NOM">Edouard Adam</SimpleData>
+		<SimpleData name="LOCALIS">Place Edouard Adam</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Sopel Capelier Anglade Jeanjean</SimpleData>
+		<SimpleData name="COUT">320.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1988.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.875723464160799,43.60657739057919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Université</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">40</SimpleData>
+		<SimpleData name="NOM">Université</SimpleData>
+		<SimpleData name="LOCALIS">Plan de l'Université</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent. Escourbiac</SimpleData>
+		<SimpleData name="COUT">82.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1989.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876019686388344,43.613079811853602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Porte de la Blanquière</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">41</SimpleData>
+		<SimpleData name="NOM">Porte de la Blanquière</SimpleData>
+		<SimpleData name="LOCALIS">rue de l'Université</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent. Celle</SimpleData>
+		<SimpleData name="COUT">150.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1989.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877507484470287,43.614633054705024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cité Gély</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">42</SimpleData>
+		<SimpleData name="NOM">Cité Gély</SimpleData>
+		<SimpleData name="LOCALIS">place Etienne Jodelle</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent. Urbaco</SimpleData>
+		<SimpleData name="COUT">326.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1989.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.85930149473615,43.606274112665531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grand Bassin</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">43</SimpleData>
+		<SimpleData name="NOM">Grand Bassin</SimpleData>
+		<SimpleData name="LOCALIS">Grammont</SimpleData>
+		<SimpleData name="QUARTIER">Millénaire</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1800.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.928803218070444,43.615481488955751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Petit Bassin</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">44</SimpleData>
+		<SimpleData name="NOM">Petit Bassin</SimpleData>
+		<SimpleData name="LOCALIS">Grammont</SimpleData>
+		<SimpleData name="QUARTIER">Millénaire</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1800.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.929052093798105,43.61606841041386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moulin de l'Evêque</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">45</SimpleData>
+		<SimpleData name="NOM">Moulin de l'Evêque</SimpleData>
+		<SimpleData name="LOCALIS">Av. Pierre Mendes France</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">SERM</SimpleData>
+		<SimpleData name="MAIT_OEU">GRANDS TRAVAUX</SimpleData>
+		<SimpleData name="REAL_">Ent Colas</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1991.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.895629345737071,43.609114721482932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pitot</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">46</SimpleData>
+		<SimpleData name="NOM">Pitot</SimpleData>
+		<SimpleData name="LOCALIS">espace Pitot</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">10</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">URBAT</SimpleData>
+		<SimpleData name="MAIT_OEU">MEIER ET GARCIA</SimpleData>
+		<SimpleData name="REAL_">Ent Eurofontaines</SimpleData>
+		<SimpleData name="COUT">200.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1994.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87065226561646,43.612301507242492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hotel Assas</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">100</SimpleData>
+		<SimpleData name="NOM">Hotel Assas</SimpleData>
+		<SimpleData name="LOCALIS">Rue de la vieille Aiguillerie</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DIPAN</SimpleData>
+		<SimpleData name="MAIT_OEU">DIPAN</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1989.00000000</SimpleData>
+		<SimpleData name="GESTION_">DIPAN</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">à l'arrêt</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87961975539246,43.612972283220813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chanzy</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">101</SimpleData>
+		<SimpleData name="NOM">Chanzy</SimpleData>
+		<SimpleData name="LOCALIS">Rue de la Saunerie</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DIPAN</SimpleData>
+		<SimpleData name="MAIT_OEU">DIPAN</SimpleData>
+		<SimpleData name="REAL_">Ent BEC</SimpleData>
+		<SimpleData name="COUT">50.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1990.00000000</SimpleData>
+		<SimpleData name="GESTION_">DIPAN</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876043620190242,43.606418159692744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Peyrou</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">102</SimpleData>
+		<SimpleData name="NOM">Peyrou</SimpleData>
+		<SimpleData name="LOCALIS">Promenade du peyrou</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="MAIT_OUV">DIPAN</SimpleData>
+		<SimpleData name="MAIT_OEU">DIPAN</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">0.00000000</SimpleData>
+		<SimpleData name="GESTION_">DIPAN</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869320261589331,43.611404760418353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Peyrou (gauche)</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">103</SimpleData>
+		<SimpleData name="NOM">Peyrou (gauche)</SimpleData>
+		<SimpleData name="LOCALIS">promenade du Peyrou</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">7</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="MAIT_OUV">DIPAN</SimpleData>
+		<SimpleData name="MAIT_OEU">DIPAN</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">0.00000000</SimpleData>
+		<SimpleData name="GESTION_">DIPAN</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868559075623681,43.611124440656887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Peyrou (droite)</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">104</SimpleData>
+		<SimpleData name="NOM">Peyrou (droite)</SimpleData>
+		<SimpleData name="LOCALIS">Promenade du Peyrou</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="MAIT_OUV">DIPAN</SimpleData>
+		<SimpleData name="MAIT_OEU">DIPAN</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">0.00000000</SimpleData>
+		<SimpleData name="GESTION_">DIPAN</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868648241874856,43.611790195289892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bassin Champ de Mars</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">105</SimpleData>
+		<SimpleData name="NOM">Bassin Champ de Mars</SimpleData>
+		<SimpleData name="LOCALIS">Esplanade Charles de Gaulle</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="MAIT_OUV">DIPAN</SimpleData>
+		<SimpleData name="MAIT_OEU">DIPAN</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">0.00000000</SimpleData>
+		<SimpleData name="GESTION_">DIPAN</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882223533856009,43.610891408830874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cascade du Champ de Mars</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">106</SimpleData>
+		<SimpleData name="NOM">Cascade du Champ de Mars</SimpleData>
+		<SimpleData name="LOCALIS">Esplanade Charles de Gaulle</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="MAIT_OUV">DIPAN</SimpleData>
+		<SimpleData name="MAIT_OEU">DIPAN</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">0.00000000</SimpleData>
+		<SimpleData name="GESTION_">DIPAN</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88244382972048,43.610535869513029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bassin du Parc Saint Odile</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">107</SimpleData>
+		<SimpleData name="NOM">Bassin du Parc Saint Odile</SimpleData>
+		<SimpleData name="LOCALIS">Route de Mende</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="MAIT_OUV">DIPAN</SimpleData>
+		<SimpleData name="MAIT_OEU">DIPAN</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">0.00000000</SimpleData>
+		<SimpleData name="GESTION_">DIPAN</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872606932790761,43.623417064842968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bassin de la Guirlande</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">108</SimpleData>
+		<SimpleData name="NOM">Bassin de la Guirlande</SimpleData>
+		<SimpleData name="LOCALIS">Parc de la Guirlande</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">7</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="MAIT_OUV">DIPAN</SimpleData>
+		<SimpleData name="MAIT_OEU">DIPAN</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1765.00000000</SimpleData>
+		<SimpleData name="GESTION_">DIPAN</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.860783657770536,43.607133785680013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maison de l'environnement</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">109</SimpleData>
+		<SimpleData name="NOM">Maison de l'environnement</SimpleData>
+		<SimpleData name="LOCALIS">rue Ferdinand Fabre</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DIPAN</SimpleData>
+		<SimpleData name="MAIT_OEU">DIPAN</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1991.00000000</SimpleData>
+		<SimpleData name="GESTION_">DIPAN</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.878820027104559,43.616996231674378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plan d'eau d'Alco</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">200</SimpleData>
+		<SimpleData name="NOM">Plan d'eau d'Alco</SimpleData>
+		<SimpleData name="LOCALIS">Rond point d'Alco</SimpleData>
+		<SimpleData name="QUARTIER">La Paillade</SimpleData>
+		<SimpleData name="CANTON">9</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">0.00000000</SimpleData>
+		<SimpleData name="GESTION_">Département</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.834823572196974,43.624141107965094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chateau d'O</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">201</SimpleData>
+		<SimpleData name="NOM">Chateau d'O</SimpleData>
+		<SimpleData name="LOCALIS">Rond point des Moulins</SimpleData>
+		<SimpleData name="QUARTIER">Hôpitaux-Facultés</SimpleData>
+		<SimpleData name="CANTON">10</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">0.00000000</SimpleData>
+		<SimpleData name="GESTION_">Département</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.841933461970032,43.631241821233921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plan de l'Olivier</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">111</SimpleData>
+		<SimpleData name="NOM">Plan de l'Olivier</SimpleData>
+		<SimpleData name="LOCALIS">Rue de la Verrerie Basse</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DIPAN</SimpleData>
+		<SimpleData name="MAIT_OEU">DIPAN</SimpleData>
+		<SimpleData name="REAL_">Ent T.U.E.</SimpleData>
+		<SimpleData name="COUT">131.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1993.00000000</SimpleData>
+		<SimpleData name="GESTION_">DIPAN</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.878105819027277,43.613350469502947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Square Planchon</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">110</SimpleData>
+		<SimpleData name="NOM">Square Planchon</SimpleData>
+		<SimpleData name="LOCALIS">rue de la république</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">réaménagement</SimpleData>
+		<SimpleData name="MAIT_OUV">DIPAN</SimpleData>
+		<SimpleData name="MAIT_OEU">DIPAN</SimpleData>
+		<SimpleData name="REAL_">Ent. Buhler</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1958.00000000</SimpleData>
+		<SimpleData name="GESTION_">DIPAN</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.879924500601617,43.605454369242537</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La Danseuse</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">47</SimpleData>
+		<SimpleData name="NOM">La Danseuse</SimpleData>
+		<SimpleData name="LOCALIS">Mermoz</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent. A.T.F</SimpleData>
+		<SimpleData name="COUT">995.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1995.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.890716138586905,43.610188606912132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parrat</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">48</SimpleData>
+		<SimpleData name="NOM">Parrat</SimpleData>
+		<SimpleData name="LOCALIS">Esplanade P. Paraf</SimpleData>
+		<SimpleData name="QUARTIER">Croix d'Argent</SimpleData>
+		<SimpleData name="CANTON">8</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent. S.D.F. Genet</SimpleData>
+		<SimpleData name="COUT">395.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1995.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.845217664512135,43.594792119105577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Le Serpent</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">49</SimpleData>
+		<SimpleData name="NOM">Le Serpent</SimpleData>
+		<SimpleData name="LOCALIS">Rue Henri Roseau</SimpleData>
+		<SimpleData name="QUARTIER">Croix d'Argent</SimpleData>
+		<SimpleData name="CANTON">6</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent. L.C.E Cipres</SimpleData>
+		<SimpleData name="COUT">320.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1995.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869467130996348,43.591823020285354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pagnol</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">50</SimpleData>
+		<SimpleData name="NOM">Pagnol</SimpleData>
+		<SimpleData name="LOCALIS">Route de Lavérune</SimpleData>
+		<SimpleData name="QUARTIER">Croix d'Argent</SimpleData>
+		<SimpleData name="CANTON">6</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="REAL_">Ent. L.C.E Gaidoz</SimpleData>
+		<SimpleData name="COUT">350.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1995.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868672811966055,43.59582123414495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jacques Coeur</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">51</SimpleData>
+		<SimpleData name="NOM">Jacques Coeur</SimpleData>
+		<SimpleData name="LOCALIS">Av. de la mer</SimpleData>
+		<SimpleData name="QUARTIER">Millénaire</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">SERM</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">0.00000000</SimpleData>
+		<SimpleData name="GESTION_">GE</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.900647897558078,43.600620200425446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nombre d'Or</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">A</SimpleData>
+		<SimpleData name="NOM">Nombre d'Or</SimpleData>
+		<SimpleData name="LOCALIS">Place du nombre d'Or</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">projet</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="MAIT_OEU">DGU</SimpleData>
+		<SimpleData name="COUT">5000.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">2000.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.887567012653043,43.608128080334502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Compostelle</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">B</SimpleData>
+		<SimpleData name="NOM">Compostelle</SimpleData>
+		<SimpleData name="LOCALIS">Place de Compostelle</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">projet</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">2000.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.878887925505134,43.609027411396681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Albert 1 er</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">C</SimpleData>
+		<SimpleData name="NOM">Albert 1 er</SimpleData>
+		<SimpleData name="LOCALIS">Place Albert 1 er</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">projet</SimpleData>
+		<SimpleData name="MAIT_OUV">SMTU</SimpleData>
+		<SimpleData name="MAIT_OEU">GITRAM</SimpleData>
+		<SimpleData name="COUT">3000.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">2000.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874374828463504,43.615513162653194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Godechot</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">D</SimpleData>
+		<SimpleData name="NOM">Godechot</SimpleData>
+		<SimpleData name="LOCALIS">Place Marcel Godechot</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">projet</SimpleData>
+		<SimpleData name="MAIT_OUV">SMTU</SimpleData>
+		<SimpleData name="MAIT_OEU">GITRAM</SimpleData>
+		<SimpleData name="COUT">3800.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">0.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869483780914309,43.61967233492242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Emile Martin</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">E</SimpleData>
+		<SimpleData name="NOM">Emile Martin</SimpleData>
+		<SimpleData name="LOCALIS">Place Emile Martin</SimpleData>
+		<SimpleData name="QUARTIER">Hôpitaux-Facultés</SimpleData>
+		<SimpleData name="CANTON">2</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">projet</SimpleData>
+		<SimpleData name="MAIT_OUV">SMTU</SimpleData>
+		<SimpleData name="MAIT_OEU">GITRAM</SimpleData>
+		<SimpleData name="COUT">140.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">2000.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.866766881571825,43.626677620405346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Occitanie</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">F</SimpleData>
+		<SimpleData name="NOM">Occitanie</SimpleData>
+		<SimpleData name="LOCALIS">Avenue d'Occitanie</SimpleData>
+		<SimpleData name="QUARTIER">Hôpitaux-Facultés</SimpleData>
+		<SimpleData name="CANTON">10</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">projet</SimpleData>
+		<SimpleData name="MAIT_OUV">SMTU</SimpleData>
+		<SimpleData name="MAIT_OEU">GITRAM</SimpleData>
+		<SimpleData name="COUT">900.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">2000.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.849177901292756,43.634489149682231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Corum (escalier)</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">G</SimpleData>
+		<SimpleData name="NOM">Corum (escalier)</SimpleData>
+		<SimpleData name="LOCALIS">rue du prix</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">Projet</SimpleData>
+		<SimpleData name="MAIT_OUV">SMTU</SimpleData>
+		<SimpleData name="MAIT_OEU">GITRAM</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">2000.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881747579117454,43.613728122306902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aéroport International</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">H</SimpleData>
+		<SimpleData name="NOM">Aéroport International</SimpleData>
+		<SimpleData name="LOCALIS">Carrefour de l'Aéroport International</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">Projet</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">2001.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.894902244201572,43.609022504695432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Les trois Ephèbes</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">I</SimpleData>
+		<SimpleData name="NOM">Les trois Ephèbes</SimpleData>
+		<SimpleData name="LOCALIS">Esplanade Charles de Gaulle</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">projet</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">2001.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881976556235026,43.612286632131301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Richter</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">J</SimpleData>
+		<SimpleData name="NOM">Richter</SimpleData>
+		<SimpleData name="LOCALIS">Rue Vendémiaire</SimpleData>
+		<SimpleData name="QUARTIER">Millénaire</SimpleData>
+		<SimpleData name="CANTON">4</SimpleData>
+		<SimpleData name="COUT">2000.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">0.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898735998995324,43.603056838248662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canourgue</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">K</SimpleData>
+		<SimpleData name="NOM">Canourgue</SimpleData>
+		<SimpleData name="LOCALIS">rue St Pierre / rue Ste Croix</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">projet</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">0.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874824704718982,43.612098893381066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saint Pierre</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">L</SimpleData>
+		<SimpleData name="NOM">Saint Pierre</SimpleData>
+		<SimpleData name="LOCALIS">Place Saint Pierre</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">projet</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">0.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87453864777443,43.612609111952771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mansart</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">M</SimpleData>
+		<SimpleData name="NOM">Mansart</SimpleData>
+		<SimpleData name="LOCALIS">Place François Mansart</SimpleData>
+		<SimpleData name="QUARTIER">La Paillade</SimpleData>
+		<SimpleData name="CANTON">9</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">projet</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">0.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.825550866177666,43.613666506915735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Faulquier</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">N</SimpleData>
+		<SimpleData name="NOM">Faulquier</SimpleData>
+		<SimpleData name="LOCALIS">Place Faulquier</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">Projet</SimpleData>
+		<SimpleData name="MAIT_OUV">DAP</SimpleData>
+		<SimpleData name="COUT">700.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">2000.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.891995365685394,43.605252654508391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parc de Bagatelle</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">112</SimpleData>
+		<SimpleData name="NOM">Parc de Bagatelle</SimpleData>
+		<SimpleData name="LOCALIS">rue du Sichuan</SimpleData>
+		<SimpleData name="QUARTIER">Croix d'Argent</SimpleData>
+		<SimpleData name="CANTON">8</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">création</SimpleData>
+		<SimpleData name="MAIT_OUV">DIPAN</SimpleData>
+		<SimpleData name="MAIT_OEU">DIPAN</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1990.00000000</SimpleData>
+		<SimpleData name="GESTION_">DIPAN</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.839842482936156,43.594049617374857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Le mur d'eau</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">26</SimpleData>
+		<SimpleData name="NOM">Le mur d'eau</SimpleData>
+		<SimpleData name="LOCALIS">Place de la Comédie</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">1</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">déposée</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">1998.00000000</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">déposée</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880482980265227,43.608971501695905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OPAC</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">113</SimpleData>
+		<SimpleData name="NOM">OPAC</SimpleData>
+		<SimpleData name="LOCALIS">Place Cardinal Marty</SimpleData>
+		<SimpleData name="QUARTIER">La Paillade</SimpleData>
+		<SimpleData name="CANTON">9</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">0.00000000</SimpleData>
+		<SimpleData name="GESTION_">OPAC</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en fonction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.818891407498615,43.643258916510952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pavelet</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">O</SimpleData>
+		<SimpleData name="NOM">Pavelet</SimpleData>
+		<SimpleData name="LOCALIS">Avenue Pavelet / rue des sabines</SimpleData>
+		<SimpleData name="QUARTIER">Croix d'Argent</SimpleData>
+		<SimpleData name="CANTON">6</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">projet</SimpleData>
+		<SimpleData name="COUT">500.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">2000.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.858727634500377,43.58587558827702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>parvis Bagatelle</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">P</SimpleData>
+		<SimpleData name="NOM">parvis Bagatelle</SimpleData>
+		<SimpleData name="LOCALIS">Rue du Cheng-Du</SimpleData>
+		<SimpleData name="QUARTIER">Croix d'Argent</SimpleData>
+		<SimpleData name="CANTON">8</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">projet</SimpleData>
+		<SimpleData name="COUT">300.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">2000.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.841260930997987,43.594090826374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Evéché</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">Q</SimpleData>
+		<SimpleData name="NOM">Evéché</SimpleData>
+		<SimpleData name="LOCALIS">Rue Jean Vachet</SimpleData>
+		<SimpleData name="QUARTIER">Près d'Arènes</SimpleData>
+		<SimpleData name="CANTON">5</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">projet</SimpleData>
+		<SimpleData name="COUT">250.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">2000.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.885941131200831,43.591887287543059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mas Drevon</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">R</SimpleData>
+		<SimpleData name="NOM">Mas Drevon</SimpleData>
+		<SimpleData name="LOCALIS">Boulevard Pedro de Luna</SimpleData>
+		<SimpleData name="QUARTIER">Croix d'Argent</SimpleData>
+		<SimpleData name="CANTON">6</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">projet</SimpleData>
+		<SimpleData name="COUT">350.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">2000.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868342001236101,43.595422337836993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hauts de Massane</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">S</SimpleData>
+		<SimpleData name="NOM">Hauts de Massane</SimpleData>
+		<SimpleData name="LOCALIS">Allée des Hauts de Montpellier</SimpleData>
+		<SimpleData name="QUARTIER">La Paillade</SimpleData>
+		<SimpleData name="CANTON">9</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">projet</SimpleData>
+		<SimpleData name="COUT">350.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">2000.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.812792166584515,43.640314836855438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Esplanade</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">V</SimpleData>
+		<SimpleData name="NOM">Esplanade</SimpleData>
+		<SimpleData name="LOCALIS">Esplanade de l'Europe</SimpleData>
+		<SimpleData name="QUARTIER">Montpellier Centre</SimpleData>
+		<SimpleData name="CANTON">3</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">projet</SimpleData>
+		<SimpleData name="COUT">0.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">0.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89574714325806,43.607631841813046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Petit train</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">U</SimpleData>
+		<SimpleData name="NOM">Petit train</SimpleData>
+		<SimpleData name="LOCALIS">Rond point des Près d'Arènes</SimpleData>
+		<SimpleData name="QUARTIER">Près d'Arènes</SimpleData>
+		<SimpleData name="CANTON">5</SimpleData>
+		<SimpleData name="TYPE_D_OPÉ">projet</SimpleData>
+		<SimpleData name="COUT">3000.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">2001.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89038461353666,43.589579447473753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Croix d'Argent</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_FontainesPublic">
+		<SimpleData name="ID">T</SimpleData>
+		<SimpleData name="NOM">Croix d'Argent</SimpleData>
+		<SimpleData name="QUARTIER">Croix d'Argent</SimpleData>
+		<SimpleData name="CANTON">0</SimpleData>
+		<SimpleData name="COUT">250.00000000</SimpleData>
+		<SimpleData name="CRE_DATE">2000.00000000</SimpleData>
+		<SimpleData name="GESTION_">Projet</SimpleData>
+		<SimpleData name="COÛT_FONCT">0.00000000</SimpleData>
+		<SimpleData name="ETAT">en projet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.856252663968018,43.589990769594685</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
