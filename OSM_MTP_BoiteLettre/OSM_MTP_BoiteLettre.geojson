@@ -1,0 +1,89 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 579783645, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/579783645", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.880450, 43.613996 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 299981982, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/299981982", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.881163, 43.615554 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 611607316, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/611607316", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.869649, 43.607251 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 251344517, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/251344517", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.869049, 43.612876 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 267843169, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/267843169", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.885895, 43.609039 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 251346320, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/251346320", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.869478, 43.615535 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 1762933950, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/1762933950", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.882773, 43.603230 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 281766447, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/281766447", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.886918, 43.607746 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 247092023, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/247092023", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.886847, 43.615040 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 348425277, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/348425277", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.879303, 43.600444 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 105964248, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/105964248", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.877194, 43.621787 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 281267492, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/281267492", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.884533, 43.600904 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 250679940, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/250679940", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.889674, 43.612117 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 281270911, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/281270911", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.887271, 43.603036 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 117981264, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/117981264", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.873607, 43.623293 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 251350636, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/251350636", "amenity": "post_box", "collection_times": "", "layer": "5", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.864388, 43.614988 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 280697595, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/280697595", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.890677, 43.607644 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 251353572, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/251353572", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "La Poste" }, "geometry": { "type": "Point", "coordinates": [ 3.865220, 43.618326 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": -1990798563, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/2304168733", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.870235, 43.598508 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 281265162, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/281265162", "amenity": "post_box", "collection_times": "Mo-Fr 16:00; Sa 12:00", "layer": "", "name": "", "operator": "La Poste" }, "geometry": { "type": "Point", "coordinates": [ 3.887357, 43.600239 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 126667674, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/126667674", "amenity": "post_box", "collection_times": "Mo-Fr 12:30; Sa 12:30", "layer": "", "name": "", "operator": "La Poste" }, "geometry": { "type": "Point", "coordinates": [ 3.868185, 43.622829 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 1575488401, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/1575488401", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.881157, 43.628377 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 247118780, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/247118780", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.894128, 43.618501 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 119315356, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/119315356", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.866969, 43.626345 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 248093969, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/248093969", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.862384, 43.623441 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 105440559, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/105440559", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.870189, 43.629600 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 247118709, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/247118709", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "La Poste" }, "geometry": { "type": "Point", "coordinates": [ 3.894516, 43.621736 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 1498846222, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/1498846222", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.885398, 43.629979 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 1822156603, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/1822156603", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.899261, 43.605973 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 1825201336, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/1825201336", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "La Poste" }, "geometry": { "type": "Point", "coordinates": [ 3.898231, 43.623008 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 2047914406, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/2047914406", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.861319, 43.629525 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 1711206827, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/1711206827", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "La Poste" }, "geometry": { "type": "Point", "coordinates": [ 3.868181, 43.635348 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 1622430948, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/1622430948", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "La Poste" }, "geometry": { "type": "Point", "coordinates": [ 3.898442, 43.628386 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 2065602944, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/2065602944", "amenity": "post_box", "collection_times": "", "layer": "", "name": "La Poste", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.849348, 43.626094 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 469755689, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/469755689", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.844741, 43.617806 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 1166366434, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/1166366434", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "La Poste" }, "geometry": { "type": "Point", "coordinates": [ 3.912157, 43.607040 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 2065603127, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/2065603127", "amenity": "post_box", "collection_times": "Mo-Fr 12:30 ;  Sa 12:30", "layer": "", "name": "", "operator": "La Poste" }, "geometry": { "type": "Point", "coordinates": [ 3.845646, 43.628754 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 1575673703, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/1575673703", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "La Poste" }, "geometry": { "type": "Point", "coordinates": [ 3.848639, 43.634724 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": -1890212212, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/2404755084", "amenity": "post_box", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.838065, 43.635925 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 1332138154, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/1332138154", "amenity": "post_box", "collection_times": "Mo-Fr 12:30; Sa 12:00", "layer": "", "name": "", "operator": "La Poste" }, "geometry": { "type": "Point", "coordinates": [ 3.829499, 43.611911 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 1575979592, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/1575979592", "amenity": "post_box", "collection_times": "Mo-Fr 16:00; Sa 11:00", "layer": "", "name": "La Poste", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.833769, 43.634050 ] } }
+,
+{ "type": "Feature", "properties": { "type": "Boîtes aux Lettres", "osm_id": 697353405, "osm_url": "http:\/\/www.openstreetmap.org\/browse\/node\/697353405", "amenity": "", "collection_times": "", "layer": "", "name": "", "operator": "" }, "geometry": { "type": "Point", "coordinates": [ 3.817223, 43.620839 ] } }
+
+]
+}

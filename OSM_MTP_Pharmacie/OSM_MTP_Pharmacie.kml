@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OSM_MTP_Pharmacie</name>
+<Schema name="OSM_MTP_Pharmacie" id="OSM_MTP_Pharmacie">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="osm_id" type="float"></SimpleField>
+	<SimpleField name="osm_url" type="string"></SimpleField>
+	<SimpleField name="addr_city" type="string"></SimpleField>
+	<SimpleField name="addr_house" type="string"></SimpleField>
+	<SimpleField name="addr_postc" type="string"></SimpleField>
+	<SimpleField name="addr_stree" type="string"></SimpleField>
+	<SimpleField name="amenity" type="string"></SimpleField>
+	<SimpleField name="contact_em" type="string"></SimpleField>
+	<SimpleField name="contact_ph" type="string"></SimpleField>
+	<SimpleField name="dispensing" type="string"></SimpleField>
+	<SimpleField name="layer" type="string"></SimpleField>
+	<SimpleField name="name" type="string"></SimpleField>
+	<SimpleField name="opening_ho" type="string"></SimpleField>
+	<SimpleField name="phone" type="string"></SimpleField>
+	<SimpleField name="website" type="string"></SimpleField>
+	<SimpleField name="wheelchair" type="string"></SimpleField>
+	<SimpleField name="wheelchair" type="string"></SimpleField>
+	<SimpleField name="wheelchair" type="string"></SimpleField>
+	<SimpleField name="addr_house" type="string"></SimpleField>
+	<SimpleField name="building" type="string"></SimpleField>
+	<SimpleField name="way_area" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie du Polygone</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">267849382</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/267849382</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.887676,43.6075636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie du Parc Ã  Ballons</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">579814483</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/579814483</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8839562,43.6088832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie de la Grande BibliothÃ¨que</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">616124770</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/616124770</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="layer">3</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8891852,43.61322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie de la MÃ©diterranÃ©e</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">267849410</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/267849410</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8916107,43.6085359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie de la Gare</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">612054719</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/612054719</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8840084,43.6051926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Dom Bosco</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">611633585</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/611633585</SimpleData>
+		<SimpleData name="addr_house">85</SimpleData>
+		<SimpleData name="addr_stree">Avenue du Pont JuvÃ©nal</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8821886,43.605849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie de la ComÃ©die</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">1739790809</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1739790809</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8923637,43.6055433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Le Saint-FranÃ§ois</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">600736628</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/600736628</SimpleData>
+		<SimpleData name="addr_house">7</SimpleData>
+		<SimpleData name="addr_stree">Place Carnot</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8800331,43.6083103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">598918886</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/598918886</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882825,43.603272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie La Populaire</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">1920397484</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1920397484</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8896711,43.6171386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie du Corum</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">611633584</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/611633584</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8794742,43.6075542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie des Beaux-Arts</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">306197289</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/306197289</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8796267,43.6133003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie du ThÃ©Ã¢tre</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">84632520</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/84632520</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8810118,43.6155392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">HÃ©lios</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">579814535</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/579814535</SimpleData>
+		<SimpleData name="addr_house">9</SimpleData>
+		<SimpleData name="addr_stree">Avenue du Pont Trinquat</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8787383,43.6082775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Sauvaire-Vianes</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">868233556</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/868233556</SimpleData>
+		<SimpleData name="addr_house">4</SimpleData>
+		<SimpleData name="addr_stree">Place de Strasbourg</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8849834,43.6011958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Sincholle</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">598921235</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/598921235</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8806236,43.6028538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie de la Place Jean JaurÃ¨s</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">82733194</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/82733194</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877848,43.6113369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie du PirÃ©e</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">82732952</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/82732952</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87751,43.610219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Mutualiste</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">615018894</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/615018894</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8958673,43.6038866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie de l'Ecusson</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">612094736</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/612094736</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8764846,43.6087141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Eden Parc</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">612095499</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/612095499</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="dispensing">yes</SimpleData>
+		<SimpleData name="wheelchair">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8764442,43.6103629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Louis Blanc</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">146078550</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/146078550</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8844311,43.6203016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie de la Babotte</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">299983437</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/299983437</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8774262,43.6148803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Principale</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">611640148</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/611640148</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8768562,43.6056828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie de l'Observatoire</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">612097240</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/612097240</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8758597,43.6108008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Port Marianne</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">611634695</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/611634695</SimpleData>
+		<SimpleData name="addr_stree">Rue des PÃ©licans</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="contact_ph">+33467223232</SimpleData>
+		<SimpleData name="dispensing">yes</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876116,43.6064322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Foch</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">280973232</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/280973232</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8989438,43.6067105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">712099928</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/712099928</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8751979,43.6108515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Trevillot</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">1623997063</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1623997063</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8834086,43.6216991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Richter</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">613386612</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/613386612</SimpleData>
+		<SimpleData name="addr_house">278</SimpleData>
+		<SimpleData name="addr_stree">Rue VendÃ©miaire</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="contact_em">pharmacierichter@wanadoo.fr</SimpleData>
+		<SimpleData name="contact_ph">+33467993386</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8750053,43.6055427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Saint-Denis</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">1702706626</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1702706626</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8986847,43.6027469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Saint-Guilhem</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">613211216</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/613211216</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="dispensing">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8742235,43.6049926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie du Verdanson</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">674096911</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/674096911</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8733834,43.6087512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Cluzel</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">579783704</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/579783704</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8746313,43.6157316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">281261380</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/281261380</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8878177,43.5955872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Gambetta</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">1934946184</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1934946184</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8906065,43.5946051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Clemenceau</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">645736561</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/645736561</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8708613,43.607312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">La Haute Pompignane</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">613210022</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/613210022</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8714779,43.6030941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Boutonnet</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">-1831933154</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2463034142</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8990758,43.6232829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Saint-Jaumes</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">1376239026</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1376239026</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8729843,43.6207523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie de l'Aiguelongue</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">612054879</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/612054879</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="dispensing">yes</SimpleData>
+		<SimpleData name="opening_ho">Mo-Fr 08:30-12:30,14:00-19:30; Sa 09:00-12:30, 15:00-19:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8698402,43.6148324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Sainte-Odile</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">69160699</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/69160699</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="dispensing">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8814871,43.6277293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie de Figuerolles</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">117984871</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/117984871</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8735108,43.6240805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">645736543</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/645736543</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="dispensing">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86691,43.6075576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie des Arceaux</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">69086098</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/69086098</SimpleData>
+		<SimpleData name="addr_house">1</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="contact_ph">+33467630736</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8853216,43.6302731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Saint-ClÃ©ophas</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">310242792</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/310242792</SimpleData>
+		<SimpleData name="addr_house">2</SimpleData>
+		<SimpleData name="addr_stree">Avenue de Toulouse</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="phone">0467426032</SimpleData>
+		<SimpleData name="wheelchair">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.866665,43.6121983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">HENRY -PY-MILLON</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">615994518</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/615994518</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8675193,43.6006492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie de Maurin</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">1934946187</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1934946187</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.888718,43.5875448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie du Mas Drevon</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">606155215</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/606155215</SimpleData>
+		<SimpleData name="addr_house">164</SimpleData>
+		<SimpleData name="addr_stree">Pedro de Luna</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="contact_em">pharmacie.mas_devron@wanadoo.fr</SimpleData>
+		<SimpleData name="contact_ph">+33467425111</SimpleData>
+		<SimpleData name="wheelchair">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8741884,43.5917579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie des FacultÃ©s</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">612258796</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/612258796</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="dispensing">yes</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869787,43.5947985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Le Pavie</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">105996732</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/105996732</SimpleData>
+		<SimpleData name="addr_house">81</SimpleData>
+		<SimpleData name="addr_stree">Guillaume Janvier</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="contact_em">jacquandlepavie@orange.fr</SimpleData>
+		<SimpleData name="contact_ph">+33467426687</SimpleData>
+		<SimpleData name="wheelchair">105</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.871056,43.6267065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie des Lettres</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">664021846</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/664021846</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="phone">+33467634843</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8663125,43.5957139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie de Toulouse</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">78411094</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/78411094</SimpleData>
+		<SimpleData name="addr_city">Montpellier</SimpleData>
+		<SimpleData name="addr_house">58</SimpleData>
+		<SimpleData name="addr_postc">34070</SimpleData>
+		<SimpleData name="addr_stree">avenue de Toulouse</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="wheelchair">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8710114,43.6296465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Saint-Ãloi</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">615994524</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/615994524</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="dispensing">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8644127,43.5977572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Bonnier Chauvin-Soyer</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">119314799</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/119314799</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8673807,43.6263432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie du Centre GÃ©ly</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">606954777</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/606954777</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.866808,43.5924716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Crouzet</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">639589427</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/639589427</SimpleData>
+		<SimpleData name="addr_stree">rue Georges Brassens</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="contact_ph">+33467424015</SimpleData>
+		<SimpleData name="wheelchair">87</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8598226,43.6052742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Lossaint</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">1983056511</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1983056511</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="wheelchair">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8637545,43.5943831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie des Vignes</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">248089971</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/248089971</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8597611,43.6185269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">615028240</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/615028240</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8566523,43.6151037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Parapharmacie</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">1588305090</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1588305090</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8547253,43.6025617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie du Triolet</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">1673435279</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1673435279</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="contact_ph">+33467632143</SimpleData>
+		<SimpleData name="wheelchair">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.9204042,43.603634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie d'Estanove</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">-2026377000</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2268590296</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8579609,43.6309703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie du Grand M</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">645742439</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/645742439</SimpleData>
+		<SimpleData name="addr_house">58</SimpleData>
+		<SimpleData name="addr_postc">34070</SimpleData>
+		<SimpleData name="addr_stree">rue du Latium</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="website">http://pharmacie-du-grand-m.com/</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8512772,43.6010228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">440971003</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/440971003</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.856665,43.5886534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie du PÃ¨re Soulas</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">1588714584</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1588714584</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="dispensing">no</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8479895,43.6085119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie des Lilas</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">2065628830</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2065628830</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8509476,43.6248498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie du Grand M</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">645742444</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/645742444</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8486611,43.601587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie ClÃ©ment</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">651992552</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/651992552</SimpleData>
+		<SimpleData name="addr_house">20</SimpleData>
+		<SimpleData name="addr_postc">34080</SimpleData>
+		<SimpleData name="addr_stree">Avenue de Saint ClÃ©ment</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8494795,43.5949795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie d'Alco</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">1347136519</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1347136519</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8451552,43.6176766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Cellario-Falgas</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">469755692</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/469755692</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="wheelchair">limited</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8445134,43.6227953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">645553954</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/645553954</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8428497,43.5938051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Montpellier Village</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">1505439851</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1505439851</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8394649,43.6124427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Rainero</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">603946466</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/603946466</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8365319,43.5963355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">La Chartreuse</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">1575985456</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1575985456</SimpleData>
+		<SimpleData name="addr_house">55</SimpleData>
+		<SimpleData name="addr_stree">Route de LodÃ¨ve</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8330318,43.6332805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie Saint-Paul</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">-2117662032</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2177305264</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="dispensing">yes</SimpleData>
+		<SimpleData name="wheelchair">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8257799,43.6147877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Pharmacie">
+		<SimpleData name="Name">Pharmacie des Aubes</SimpleData>
+		<SimpleData name="type">Pharmacies</SimpleData>
+		<SimpleData name="osm_id">697315375</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/697315375</SimpleData>
+		<SimpleData name="amenity">pharmacy</SimpleData>
+		<SimpleData name="wheelchair">140</SimpleData>
+		<SimpleData name="way_area">0.000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8210486,43.6311702</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

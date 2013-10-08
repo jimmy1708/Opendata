@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OSM_MTP_Recyclage</name>
+<Schema name="OSM_MTP_Recyclage" id="OSM_MTP_Recyclage">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="osm_id" type="float"></SimpleField>
+	<SimpleField name="osm_url" type="string"></SimpleField>
+	<SimpleField name="amenity" type="string"></SimpleField>
+	<SimpleField name="layer" type="string"></SimpleField>
+	<SimpleField name="name" type="string"></SimpleField>
+	<SimpleField name="recycling_" type="string"></SimpleField>
+	<SimpleField name="recycling_" type="string"></SimpleField>
+	<SimpleField name="recycling_" type="string"></SimpleField>
+	<SimpleField name="recycling_" type="string"></SimpleField>
+	<SimpleField name="recycling_" type="string"></SimpleField>
+	<SimpleField name="recycling_" type="string"></SimpleField>
+	<SimpleField name="recycling_" type="string"></SimpleField>
+	<SimpleField name="recycling_" type="string"></SimpleField>
+	<SimpleField name="recycling_" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">1165308454</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1165308454</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8786945,43.609661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">-1892107358</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2402859938</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8764124,43.6088984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">479160975</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/479160975</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881435,43.6122294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">-1892118735</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2402848561</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8817536,43.6096309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">579739330</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/579739330</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880173,43.61662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">579783678</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/579783678</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8731717,43.6171618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">635872127</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/635872127</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8790747,43.6185683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">-1846916004</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2448051292</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8709411,43.6162161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">248093015</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/248093015</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8709385,43.6162291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">479160971</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/479160971</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8839742,43.6164781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">256110629</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/256110629</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.884945,43.6063874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">500956860</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/500956860</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8718177,43.6031196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">105965590</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/105965590</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8759428,43.6205552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">1673540631</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1673540631</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8827801,43.601622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">105964242</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/105964242</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8771654,43.6217987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">130800981</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/130800981</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8797605,43.6216287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">251353918</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/251353918</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="layer">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8661477,43.6136205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">281766358</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/281766358</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8886593,43.6078558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">1387799994</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1387799994</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="layer">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.867644,43.6175527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">267845880</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/267845880</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8885037,43.6070872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">1673567707</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1673567707</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8850078,43.6018227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">305442044</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/305442044</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8677188,43.6034449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">1342189481</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1342189481</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869001,43.6202745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">106000939</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/106000939</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8726869,43.6230119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">1354577228</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1354577228</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8724582,43.6230596</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">130255822</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/130255822</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8777203,43.624175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">1714517088</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1714517088</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8891126,43.6034517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">1263318177</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1263318177</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8706279,43.5982366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">281265129</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/281265129</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.886963,43.6003031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">310242784</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/310242784</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8621472,43.611766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">126671505</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/126671505</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8689968,43.6240671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">105440514</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/105440514</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8753652,43.6267314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">1575491540</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1575491540</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8818864,43.6272255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">70873887</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/70873887</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8818727,43.6272455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">265390171</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/265390171</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.893802,43.6060548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">105440531</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/105440531</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873537,43.6279615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">500948843</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/500948843</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8865918,43.5958329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">1575489414</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1575489414</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8813821,43.6281574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">105440533</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/105440533</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8715676,43.6284462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">70945257</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/70945257</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8781316,43.6294839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">130440189</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/130440189</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8888992,43.6257678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">1673548864</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1673548864</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8952445,43.6040441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">267855579</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/267855579</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8966393,43.6062428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">70941165</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/70941165</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8848699,43.6303776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">105441203</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/105441203</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8783847,43.6319767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">280708479</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/280708479</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8985453,43.6086452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">69101752</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/69101752</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8839832,43.6314566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">-1932067492</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2362899804</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8617134,43.6260536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">280973245</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/280973245</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8988446,43.6069053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">280973178</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/280973178</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8991708,43.6060352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">69161418</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/69161418</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8813715,43.6331674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">-2026447495</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2268519801</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8658928,43.6320429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">71249464</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/71249464</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8785854,43.6350793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">1715352547</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1715352547</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8596281,43.6282568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">280931788</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/280931788</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.9027198,43.6172812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">2001029872</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2001029872</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8602355,43.6322852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">-2026447345</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2268519951</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8582665,43.6316693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">2065628838</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2065628838</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8524782,43.6245105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">1530396304</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1530396304</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.9060651,43.6053388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">440971002</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/440971002</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8576738,43.5863093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">2065602927</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2065602927</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8496116,43.6260105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">1166359836</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1166359836</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.9115672,43.605909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">2065603113</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2065603113</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8461768,43.6281568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">281675565</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/281675565</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.9142543,43.6090297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">-1953083203</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2341884093</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8461244,43.6317097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">281587230</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/281587230</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8408387,43.6000863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">1931096616</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1931096616</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.843747,43.629808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">1721854910</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1721854910</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8470473,43.6360113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">1999659054</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1999659054</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8404325,43.6265646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">2054118127</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2054118127</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8438959,43.6333036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">2054107314</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2054107314</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8411684,43.6289842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">1721854906</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1721854906</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8435626,43.6351117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">1575980533</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1575980533</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+		<SimpleData name="recycling_">container</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8337586,43.6341482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>recycling</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">2078189873</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2078189873</SimpleData>
+		<SimpleData name="amenity">recycling</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8276578,43.6116261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_Recyclage">
+		<SimpleData name="type">Points Recyclage</SimpleData>
+		<SimpleData name="osm_id">281558032</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/281558032</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8169258,43.6197362</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

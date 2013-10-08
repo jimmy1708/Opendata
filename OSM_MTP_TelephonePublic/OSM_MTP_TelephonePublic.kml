@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OSM_MTP_TelephonePublic</name>
+<Schema name="OSM_MTP_TelephonePublic" id="OSM_MTP_TelephonePublic">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="osm_id" type="float"></SimpleField>
+	<SimpleField name="osm_url" type="string"></SimpleField>
+	<SimpleField name="amenity" type="string"></SimpleField>
+	<SimpleField name="contact_ph" type="string"></SimpleField>
+	<SimpleField name="covered" type="string"></SimpleField>
+	<SimpleField name="layer" type="string"></SimpleField>
+	<SimpleField name="operator" type="string"></SimpleField>
+	<SimpleField name="payment_cr" type="string"></SimpleField>
+	<SimpleField name="payment_de" type="string"></SimpleField>
+	<SimpleField name="payment_te" type="string"></SimpleField>
+	<SimpleField name="phone" type="string"></SimpleField>
+	<SimpleField name="shelter" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1252168854</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1252168854</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8817551,43.609586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1728368540</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1728368540</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="operator">France Telecom</SimpleData>
+		<SimpleData name="payment_cr">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8725696,43.6127584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">-1932067607</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2362899689</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="operator">France Telecom</SimpleData>
+		<SimpleData name="payment_cr">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8751231,43.6160919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">-1932067604</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2362899692</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.875121,43.6160929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">579739334</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/579739334</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8811795,43.6156161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">281766511</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/281766511</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.886923,43.6078042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">348425221</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/348425221</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8792083,43.6004754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">105964249</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/105964249</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="operator">France TÃ©lÃ©com</SimpleData>
+		<SimpleData name="payment_te">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877139,43.6218104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">2078140305</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2078140305</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8698249,43.6193511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">281008666</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/281008666</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="layer">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.888762,43.6089766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">281766380</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/281766380</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="layer">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8884481,43.6072483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">282723686</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/282723686</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="layer">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8896437,43.6089237</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">281766348</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/281766348</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8896546,43.6080123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">251353924</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/251353924</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="layer">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8651091,43.6142917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">280698655</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/280698655</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8902296,43.6069316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1368901090</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1368901090</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8719346,43.6234908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1404462938</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1404462938</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8673855,43.6208016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">148704879</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/148704879</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8874028,43.6210031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">348423544</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/348423544</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882693,43.5971624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">281265155</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/281265155</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8875371,43.6001459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">248094832</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/248094832</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8652935,43.619725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">126667668</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/126667668</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8681786,43.6228841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">126674137</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/126674137</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8692189,43.6236436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1404462937</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1404462937</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8678851,43.6228112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">76856395</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/76856395</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8772517,43.6262047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">105440517</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/105440517</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8752879,43.626806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">248094269</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/248094269</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8638172,43.619812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">105440522</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/105440522</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8751996,43.6270389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">267847352</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/267847352</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="contact_ph">+33 4 99 61 39 07</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8936583,43.6094991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">105440528</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/105440528</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8730857,43.6270614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1575650269</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1575650269</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8938687,43.6078499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">248094657</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/248094657</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8612251,43.6171712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1575490015</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1575490015</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8814572,43.6282079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">105440532</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/105440532</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="contact_ph">04 67 52 54 53</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8723096,43.6289059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1676666241</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1676666241</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="covered">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8655196,43.6270656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1711206796</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1711206796</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="covered">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870034,43.6301724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1711206797</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1711206797</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="covered">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8700326,43.6301786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1711206800</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1711206800</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="covered">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8700424,43.6301826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1712519289</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1712519289</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="covered">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8700399,43.6301883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1934896975</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1934896975</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="covered">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8706235,43.630561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1934896978</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1934896978</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="covered">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8706116,43.630564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1934896979</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1934896979</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="covered">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8706273,43.6305698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1934896980</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1934896980</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="covered">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8706155,43.6305725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1934896981</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1934896981</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="covered">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8706308,43.6305782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1934896989</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1934896989</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870619,43.6305809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1674321499</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1674321499</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="operator">France TÃ©lÃ©com</SimpleData>
+		<SimpleData name="payment_te">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8855592,43.6300725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">2065658570</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2065658570</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="operator">France TÃ©lÃ©com</SimpleData>
+		<SimpleData name="payment_te">yes</SimpleData>
+		<SimpleData name="shelter">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8562765,43.6215291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">2047914405</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2047914405</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="operator">France TÃ©lÃ©com</SimpleData>
+		<SimpleData name="payment_te">yes</SimpleData>
+		<SimpleData name="shelter">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8613086,43.6293291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">2047914404</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2047914404</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="contact_ph">04 67 52 07 35</SimpleData>
+		<SimpleData name="covered">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8613055,43.6293291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1676666246</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1676666246</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="phone">0467610768</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8607471,43.6289247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">-2026447702</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2268519594</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8632185,43.6316245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1721854900</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1721854900</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8587368,43.627977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1721854903</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1721854903</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="covered">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8680544,43.6344705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1711206814</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1711206814</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="covered">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868421,43.6353327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1711206823</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1711206823</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="operator">France TÃ©lÃ©com</SimpleData>
+		<SimpleData name="payment_te">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8684207,43.6353436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">2065628835</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2065628835</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8525547,43.6244708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">280973062</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/280973062</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="covered">booth</SimpleData>
+		<SimpleData name="operator">France TÃ©lÃ©com</SimpleData>
+		<SimpleData name="payment_te">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.9058226,43.6126538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1989550118</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1989550118</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="payment_te">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8601174,43.6348096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">-2026447335</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2268519961</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="payment_te">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8559744,43.6313905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">-2026447343</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2268519953</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="payment_te">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8559704,43.6314006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">-2026447320</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2268519976</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="payment_te">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8559607,43.631394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">2065602914</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2065602914</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="operator">France TÃ©lÃ©com</SimpleData>
+		<SimpleData name="payment_te">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8496887,43.6258816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">500953872</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/500953872</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="operator">France TÃ©lÃ©com</SimpleData>
+		<SimpleData name="payment_te">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8445369,43.6044859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">2061278002</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2061278002</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+		<SimpleData name="covered">yes</SimpleData>
+		<SimpleData name="payment_te">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8430624,43.6288928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">1692917853</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1692917853</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8434188,43.633266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">292926213</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/292926213</SimpleData>
+		<SimpleData name="amenity">telephone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8199672,43.6324823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_TelephonePublic">
+		<SimpleData name="type">TÃ©lÃ©phones publics</SimpleData>
+		<SimpleData name="osm_id">292926215</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/292926215</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8204079,43.6343916</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
