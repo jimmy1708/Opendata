@@ -14,7 +14,7 @@
 	<SimpleField name="operator" type="string"></SimpleField>
 </Schema>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">579783645</SimpleData>
@@ -24,7 +24,7 @@
       <Point><coordinates>3.88045,43.6139957</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">299981982</SimpleData>
@@ -34,7 +34,7 @@
       <Point><coordinates>3.8811635,43.6155539</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">611607316</SimpleData>
@@ -44,7 +44,7 @@
       <Point><coordinates>3.8696495,43.6072509</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">251344517</SimpleData>
@@ -54,7 +54,7 @@
       <Point><coordinates>3.869049,43.6128758</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">267843169</SimpleData>
@@ -64,7 +64,7 @@
       <Point><coordinates>3.8858949,43.6090391</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">251346320</SimpleData>
@@ -74,7 +74,7 @@
       <Point><coordinates>3.8694779,43.6155345</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">1762933950</SimpleData>
@@ -84,7 +84,7 @@
       <Point><coordinates>3.882773,43.6032304</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">281766447</SimpleData>
@@ -94,7 +94,7 @@
       <Point><coordinates>3.8869179,43.6077456</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">247092023</SimpleData>
@@ -104,7 +104,7 @@
       <Point><coordinates>3.8868467,43.6150398</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">348425277</SimpleData>
@@ -114,7 +114,7 @@
       <Point><coordinates>3.8793027,43.6004443</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">105964248</SimpleData>
@@ -124,7 +124,7 @@
       <Point><coordinates>3.877194,43.6217873</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">281267492</SimpleData>
@@ -134,7 +134,7 @@
       <Point><coordinates>3.884533,43.6009042</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">250679940</SimpleData>
@@ -144,7 +144,7 @@
       <Point><coordinates>3.8896738,43.6121175</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">281270911</SimpleData>
@@ -154,7 +154,7 @@
       <Point><coordinates>3.887271,43.6030361</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">117981264</SimpleData>
@@ -164,83 +164,83 @@
       <Point><coordinates>3.8736072,43.6232927</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">251350636</SimpleData>
 		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/251350636</SimpleData>
 		<SimpleData name="amenity">post_box</SimpleData>
-		<SimpleData name="layer">5</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>3.8643882,43.6149876</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">280697595</SimpleData>
 		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/280697595</SimpleData>
 		<SimpleData name="amenity">post_box</SimpleData>
+		<SimpleData name="layer">5</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>3.8906774,43.6076435</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">251353572</SimpleData>
 		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/251353572</SimpleData>
 		<SimpleData name="amenity">post_box</SimpleData>
-		<SimpleData name="operator">La Poste</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>3.8652202,43.6183257</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">-1990798563</SimpleData>
 		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2304168733</SimpleData>
 		<SimpleData name="amenity">post_box</SimpleData>
+		<SimpleData name="operator">La Poste</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>3.8702346,43.5985081</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">281265162</SimpleData>
 		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/281265162</SimpleData>
 		<SimpleData name="amenity">post_box</SimpleData>
-		<SimpleData name="collection">Mo-Fr 16:00; Sa 12:00</SimpleData>
-		<SimpleData name="operator">La Poste</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>3.8873569,43.6002391</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">126667674</SimpleData>
 		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/126667674</SimpleData>
 		<SimpleData name="amenity">post_box</SimpleData>
-		<SimpleData name="collection">Mo-Fr 12:30; Sa 12:30</SimpleData>
+		<SimpleData name="collection">Mo-Fr 16:00; Sa 12:00</SimpleData>
 		<SimpleData name="operator">La Poste</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>3.8681853,43.6228288</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">1575488401</SimpleData>
 		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1575488401</SimpleData>
 		<SimpleData name="amenity">post_box</SimpleData>
+		<SimpleData name="collection">Mo-Fr 12:30; Sa 12:30</SimpleData>
+		<SimpleData name="operator">La Poste</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>3.8811568,43.6283768</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">247118780</SimpleData>
@@ -250,7 +250,7 @@
       <Point><coordinates>3.8941275,43.6185012</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">119315356</SimpleData>
@@ -260,7 +260,7 @@
       <Point><coordinates>3.866969,43.6263445</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">248093969</SimpleData>
@@ -270,7 +270,7 @@
       <Point><coordinates>3.8623839,43.6234406</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">105440559</SimpleData>
@@ -280,28 +280,28 @@
       <Point><coordinates>3.8701888,43.6295997</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">247118709</SimpleData>
 		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/247118709</SimpleData>
 		<SimpleData name="amenity">post_box</SimpleData>
-		<SimpleData name="operator">La Poste</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>3.8945163,43.6217357</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">1498846222</SimpleData>
 		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1498846222</SimpleData>
 		<SimpleData name="amenity">post_box</SimpleData>
+		<SimpleData name="operator">La Poste</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>3.8853985,43.6299787</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">1822156603</SimpleData>
@@ -311,39 +311,28 @@
       <Point><coordinates>3.8992605,43.6059728</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">1825201336</SimpleData>
 		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1825201336</SimpleData>
 		<SimpleData name="amenity">post_box</SimpleData>
-		<SimpleData name="operator">La Poste</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>3.8982312,43.6230083</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">2047914406</SimpleData>
 		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2047914406</SimpleData>
 		<SimpleData name="amenity">post_box</SimpleData>
+		<SimpleData name="operator">La Poste</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>3.861319,43.6295255</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
-	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
-		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
-		<SimpleData name="osm_id">1711206827</SimpleData>
-		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1711206827</SimpleData>
-		<SimpleData name="amenity">post_box</SimpleData>
-		<SimpleData name="operator">La Poste</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>3.8681812,43.6353482</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">1622430948</SimpleData>
@@ -354,19 +343,20 @@
       <Point><coordinates>3.8984423,43.6283858</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
-		<SimpleData name="Name">La Poste</SimpleData>
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">2065602944</SimpleData>
 		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2065602944</SimpleData>
 		<SimpleData name="amenity">post_box</SimpleData>
+		<SimpleData name="operator">La Poste</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>3.8493479,43.6260939</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
+		<SimpleData name="Name">La Poste</SimpleData>
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">469755689</SimpleData>
 		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/469755689</SimpleData>
@@ -375,79 +365,34 @@
       <Point><coordinates>3.8447409,43.6178059</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">1166366434</SimpleData>
 		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1166366434</SimpleData>
 		<SimpleData name="amenity">post_box</SimpleData>
-		<SimpleData name="operator">La Poste</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>3.9121574,43.6070402</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">2065603127</SimpleData>
 		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2065603127</SimpleData>
 		<SimpleData name="amenity">post_box</SimpleData>
-		<SimpleData name="collection">Mo-Fr 12:30 ;  Sa 12:30</SimpleData>
 		<SimpleData name="operator">La Poste</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>3.8456462,43.6287537</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>post_box</name>
-	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
-		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
-		<SimpleData name="osm_id">1575673703</SimpleData>
-		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1575673703</SimpleData>
-		<SimpleData name="amenity">post_box</SimpleData>
-		<SimpleData name="operator">La Poste</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>3.8486395,43.6347242</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>post_box</name>
-	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
-		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
-		<SimpleData name="osm_id">-1890212212</SimpleData>
-		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2404755084</SimpleData>
-		<SimpleData name="amenity">post_box</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>3.8380645,43.6359249</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>post_box</name>
+	<name>BoÃ®tes aux Lettres</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
 		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
 		<SimpleData name="osm_id">1332138154</SimpleData>
 		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1332138154</SimpleData>
 		<SimpleData name="amenity">post_box</SimpleData>
-		<SimpleData name="collection">Mo-Fr 12:30; Sa 12:00</SimpleData>
-		<SimpleData name="operator">La Poste</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>3.8294989,43.6119108</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>post_box</name>
-	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
-		<SimpleData name="Name">La Poste</SimpleData>
-		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
-		<SimpleData name="osm_id">1575979592</SimpleData>
-		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1575979592</SimpleData>
-		<SimpleData name="amenity">post_box</SimpleData>
-		<SimpleData name="collection">Mo-Fr 16:00; Sa 11:00</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>3.8337685,43.6340496</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_BoiteLettre">
-		<SimpleData name="type">BoÃ®tes aux Lettres</SimpleData>
-		<SimpleData name="osm_id">697353405</SimpleData>
-		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/697353405</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>3.8172228,43.6208393</coordinates></Point>
   </Placemark>
 </Folder></Document></kml>

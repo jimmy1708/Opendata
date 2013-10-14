@@ -33,76 +33,120 @@
 	<SimpleField name="name" type="string"></SimpleField>
 	<SimpleField name="operator" type="string"></SimpleField>
 	<SimpleField name="wheelchair" type="string"></SimpleField>
-	<SimpleField name="building" type="string"></SimpleField>
-	<SimpleField name="shop" type="string"></SimpleField>
-	<SimpleField name="wall" type="string"></SimpleField>
-	<SimpleField name="way_area" type="string"></SimpleField>
 </Schema>
   <Placemark>
-	<name>fuel</name>
-	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
-		<SimpleData name="Name">Esso Express</SimpleData>
-		<SimpleData name="type">Stations-Services</SimpleData>
-		<SimpleData name="osm_id">280687718</SimpleData>
-		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/280687718</SimpleData>
-		<SimpleData name="amenity">fuel</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>3.8988953,43.6071925</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>fuel</name>
-	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
-		<SimpleData name="type">Stations-Services</SimpleData>
-		<SimpleData name="osm_id">1252111392</SimpleData>
-		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1252111392</SimpleData>
-		<SimpleData name="amenity">fuel</SimpleData>
-		<SimpleData name="layer">1</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>3.888368,43.5946309</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>fuel</name>
-	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
-		<SimpleData name="type">Stations-Services</SimpleData>
-		<SimpleData name="osm_id">280948806</SimpleData>
-		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/280948806</SimpleData>
-		<SimpleData name="amenity">fuel</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>3.8986516,43.6233042</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>fuel</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
 		<SimpleData name="type">Stations-Services</SimpleData>
 		<SimpleData name="osm_id">76856401</SimpleData>
 		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/76856401</SimpleData>
 		<SimpleData name="amenity">fuel</SimpleData>
-		<SimpleData name="brand">Total</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>3.8764609,43.6264875</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>fuel</name>
+	<name>Esso Express</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
-		<SimpleData name="Name">GÃ©ant</SimpleData>
+		<SimpleData name="Name">Esso Express</SimpleData>
+		<SimpleData name="type">Stations-Services</SimpleData>
+		<SimpleData name="osm_id">1252111392</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1252111392</SimpleData>
+		<SimpleData name="amenity">fuel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.888368,43.5946309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
+		<SimpleData name="type">Stations-Services</SimpleData>
+		<SimpleData name="osm_id">280687718</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/280687718</SimpleData>
+		<SimpleData name="amenity">fuel</SimpleData>
+		<SimpleData name="operator">Total</SimpleData>
+		<SimpleData name="wheelchair">no</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8988953,43.6071925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
 		<SimpleData name="type">Stations-Services</SimpleData>
 		<SimpleData name="osm_id">1252101925</SimpleData>
 		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1252101925</SimpleData>
+		<SimpleData name="amenity">fuel</SimpleData>
+		<SimpleData name="brand">Total</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8891386,43.5893474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
+		<SimpleData name="type">Stations-Services</SimpleData>
+		<SimpleData name="osm_id">280948806</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/280948806</SimpleData>
+		<SimpleData name="amenity">fuel</SimpleData>
+		<SimpleData name="layer">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8986516,43.6233042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GÃ©ant</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
+		<SimpleData name="Name">GÃ©ant</SimpleData>
+		<SimpleData name="type">Stations-Services</SimpleData>
+		<SimpleData name="osm_id">916939256</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/916939256</SimpleData>
 		<SimpleData name="amenity">fuel</SimpleData>
 		<SimpleData name="fuel_GTL_d">yes</SimpleData>
 		<SimpleData name="fuel_diese">yes</SimpleData>
 		<SimpleData name="fuel_lpg">yes</SimpleData>
 		<SimpleData name="fuel_octan">yes</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>3.8891386,43.5893474</coordinates></Point>
+      <Point><coordinates>3.889639,43.5884985</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>fuel</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
+		<SimpleData name="type">Stations-Services</SimpleData>
+		<SimpleData name="osm_id">293645445</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/293645445</SimpleData>
+		<SimpleData name="amenity">fuel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8547344,43.5901576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Station Elf</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
+		<SimpleData name="Name">Station Elf</SimpleData>
+		<SimpleData name="type">Stations-Services</SimpleData>
+		<SimpleData name="osm_id">25211067</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/25211067</SimpleData>
+		<SimpleData name="addr_postc">34070</SimpleData>
+		<SimpleData name="address">Av de VanniÃ¨res</SimpleData>
+		<SimpleData name="amenity">fuel</SimpleData>
+		<SimpleData name="fuel_lpg">yes</SimpleData>
+		<SimpleData name="is_in">MONTPELLIER</SimpleData>
+		<SimpleData name="operator">Elf</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.848338,43.5950303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Agip</name>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
+		<SimpleData name="Name">Agip</SimpleData>
+		<SimpleData name="type">Stations-Services</SimpleData>
+		<SimpleData name="osm_id">1347136557</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1347136557</SimpleData>
+		<SimpleData name="amenity">fuel</SimpleData>
+		<SimpleData name="ethanol">yes</SimpleData>
+		<SimpleData name="fuel_diese">yes</SimpleData>
+		<SimpleData name="fuel_octan">yes</SimpleData>
+		<SimpleData name="operator">Agip</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8437551,43.6182242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Relais Elf de la Lironde</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
 		<SimpleData name="Name">Relais Elf de la Lironde</SimpleData>
 		<SimpleData name="type">Stations-Services</SimpleData>
-		<SimpleData name="osm_id">916939256</SimpleData>
-		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/916939256</SimpleData>
+		<SimpleData name="osm_id">25209822</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/25209822</SimpleData>
 		<SimpleData name="addr_postc">34000</SimpleData>
 		<SimpleData name="address">Direction aÃ©roport, Avenue MendÃ¨s-France</SimpleData>
 		<SimpleData name="amenity">fuel</SimpleData>
@@ -111,14 +155,32 @@
 		<SimpleData name="layer">3</SimpleData>
 		<SimpleData name="operator">Elf</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>3.889639,43.5884985</coordinates></Point>
+      <Point><coordinates>3.9130225,43.6080527</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>fuel</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
 		<SimpleData name="type">Stations-Services</SimpleData>
-		<SimpleData name="osm_id">25209822</SimpleData>
-		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/25209822</SimpleData>
+		<SimpleData name="osm_id">1505439791</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1505439791</SimpleData>
+		<SimpleData name="amenity">fuel</SimpleData>
+		<SimpleData name="operator">Elf</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8391981,43.6103317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
+		<SimpleData name="type">Stations-Services</SimpleData>
+		<SimpleData name="osm_id">805077408</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/805077408</SimpleData>
+		<SimpleData name="amenity">fuel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8376518,43.6062776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
+		<SimpleData name="type">Stations-Services</SimpleData>
+		<SimpleData name="osm_id">-1901281772</SimpleData>
+		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2393685524</SimpleData>
 		<SimpleData name="amenity">fuel</SimpleData>
 		<SimpleData name="fuel_1_25">no</SimpleData>
 		<SimpleData name="fuel_1_50">no</SimpleData>
@@ -134,92 +196,14 @@
 		<SimpleData name="fuel_lpg">no</SimpleData>
 		<SimpleData name="fuel_octan">no</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>3.9130225,43.6080527</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>fuel</name>
-	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
-		<SimpleData name="type">Stations-Services</SimpleData>
-		<SimpleData name="osm_id">-1901281772</SimpleData>
-		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/2393685524</SimpleData>
-		<SimpleData name="amenity">fuel</SimpleData>
-	</SchemaData></ExtendedData>
       <Point><coordinates>3.9245169,43.6036832</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>fuel</name>
-	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
-		<SimpleData name="Name">Station Elf</SimpleData>
-		<SimpleData name="type">Stations-Services</SimpleData>
-		<SimpleData name="osm_id">293645445</SimpleData>
-		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/293645445</SimpleData>
-		<SimpleData name="addr_postc">34070</SimpleData>
-		<SimpleData name="address">Av de VanniÃ¨res</SimpleData>
-		<SimpleData name="amenity">fuel</SimpleData>
-		<SimpleData name="fuel_lpg">yes</SimpleData>
-		<SimpleData name="is_in">MONTPELLIER</SimpleData>
-		<SimpleData name="operator">Elf</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>3.8547344,43.5901576</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>fuel</name>
-	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
-		<SimpleData name="Name">Agip</SimpleData>
-		<SimpleData name="type">Stations-Services</SimpleData>
-		<SimpleData name="osm_id">25211067</SimpleData>
-		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/25211067</SimpleData>
-		<SimpleData name="amenity">fuel</SimpleData>
-		<SimpleData name="ethanol">yes</SimpleData>
-		<SimpleData name="fuel_diese">yes</SimpleData>
-		<SimpleData name="fuel_octan">yes</SimpleData>
-		<SimpleData name="operator">Agip</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>3.848338,43.5950303</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>fuel</name>
-	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
-		<SimpleData name="type">Stations-Services</SimpleData>
-		<SimpleData name="osm_id">1347136557</SimpleData>
-		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1347136557</SimpleData>
-		<SimpleData name="amenity">fuel</SimpleData>
-		<SimpleData name="operator">Elf</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>3.8437551,43.6182242</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>fuel</name>
-	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
-		<SimpleData name="type">Stations-Services</SimpleData>
-		<SimpleData name="osm_id">1505439791</SimpleData>
-		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/1505439791</SimpleData>
-		<SimpleData name="amenity">fuel</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>3.8391981,43.6103317</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>fuel</name>
-	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
-		<SimpleData name="type">Stations-Services</SimpleData>
-		<SimpleData name="osm_id">805077408</SimpleData>
-		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/805077408</SimpleData>
-		<SimpleData name="amenity">fuel</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>3.8376518,43.6062776</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>fuel</name>
 	<ExtendedData><SchemaData schemaUrl="#OSM_MTP_StationService">
 		<SimpleData name="type">Stations-Services</SimpleData>
 		<SimpleData name="osm_id">312799971</SimpleData>
 		<SimpleData name="osm_url">http://www.openstreetmap.org/browse/node/312799971</SimpleData>
 		<SimpleData name="amenity">fuel</SimpleData>
-		<SimpleData name="layer">1</SimpleData>
-		<SimpleData name="wheelchair">yes</SimpleData>
-		<SimpleData name="building">yes</SimpleData>
-		<SimpleData name="wall">no</SimpleData>
-		<SimpleData name="way_area">0.000000</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>3.8251658,43.6148462</coordinates></Point>
   </Placemark>
