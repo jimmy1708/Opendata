@@ -1,4 +1,4 @@
-﻿   
+   
 
  
 --------------------------------------------------
@@ -11,7 +11,7 @@ Fiche métadonnées
 
 * TITRE : Carrefours à feux
 
-* IDENTIFIANT : VilleMTP_MTP_Signalisation_2012
+* IDENTIFIANT : VilleMTP_MTP_Signalisation
 
 * DESCRIPTION : Cette donnée renseigne l’emplacement des carrefours à feux de la Ville de Montpellier, dont ceux équipés d’un système de signalisation sonore destiné aux personnes malvoyantes et aveugles.
 
@@ -23,7 +23,7 @@ Fiche métadonnées
 
 * PÉRIODE VALIDITÉE : Annuelle
 
-* MISE À JOUR : 2012-10-17
+* MISE À JOUR : 2013-10-15
 
 * PRORIÉTAIRE : Ville de Montpellier
 

@@ -1,0 +1,752 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "CAR_LIEU": "Passage Piéton \/ Pont De Lavérune", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 767686.3955, "POINT_Y": 6279032.6454 }, "geometry": { "type": "Point", "coordinates": [ 767686.39549999684, 6279032.6453999989 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "CAR_LIEU": "Justice \/ Mende \/ Dunant", "CAR_ANNEE": 1999, "SON_ANNEE": 2008, "SON_NIVEAU": "Tout", "POINT_X": 770212.1862, "POINT_Y": 6281259.1982 }, "geometry": { "type": "Point", "coordinates": [ 770212.18620000035, 6281259.1981999986 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "CAR_LIEU": "Maurin \/ Bonnié", "CAR_ANNEE": 2008, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770668.7974, "POINT_Y": 6278543.3238 }, "geometry": { "type": "Point", "coordinates": [ 770668.79739999771, 6278543.3238000013 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "CAR_LIEU": "Justice \/ Major Flandre", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770474.0937, "POINT_Y": 6281274.1044 }, "geometry": { "type": "Point", "coordinates": [ 770474.09369999915, 6281274.1044000015 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "CAR_LIEU": "Justice \/ Cétoines", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770660.6716, "POINT_Y": 6281234.2079 }, "geometry": { "type": "Point", "coordinates": [ 770660.67159999907, 6281234.2078999989 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "CAR_LIEU": "Justice \/ Montasinos", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 771234.551, "POINT_Y": 6281173.9167 }, "geometry": { "type": "Point", "coordinates": [ 771234.55099999905, 6281173.9167000018 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "CAR_LIEU": "Mende \/ Lycée Agricole", "CAR_ANNEE": 1997, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769610.9136, "POINT_Y": 6283352.0901 }, "geometry": { "type": "Point", "coordinates": [ 769610.91359999776, 6283352.0901000015 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "CAR_LIEU": "Passage Piéton \/ Ecole Painlevé", "CAR_ANNEE": 2008, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772555.807, "POINT_Y": 6279540.4597 }, "geometry": { "type": "Point", "coordinates": [ 772555.8069999963, 6279540.4597 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "CAR_LIEU": "Liberté \/ Les Grezes", "CAR_ANNEE": 2012, "SON_ANNEE": 2008, "SON_NIVEAU": "Partiel", "POINT_X": 766914.1184, "POINT_Y": 6279490.7905 }, "geometry": { "type": "Point", "coordinates": [ 766914.1184, 6279490.7905 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "CAR_LIEU": "Sainte Barbe \/ CEMH", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 766539.4787, "POINT_Y": 6281624.1155 }, "geometry": { "type": "Point", "coordinates": [ 766539.47869999707, 6281624.115499999 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "CAR_LIEU": "Grabels \/ Valsière ( R D 127 )", "CAR_ANNEE": 2004, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 766830.9042, "POINT_Y": 6282701.1469 }, "geometry": { "type": "Point", "coordinates": [ 766830.90420000255, 6282701.1468999982 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "CAR_LIEU": "Europe \/ Cos", "CAR_ANNEE": 2003, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 766098.8378, "POINT_Y": 6280617.2643 }, "geometry": { "type": "Point", "coordinates": [ 766098.83780000359, 6280617.2643 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "CAR_LIEU": "Passage Piéton \/ Soulas \/ Les deux Ruisseaux", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768821.7125, "POINT_Y": 6280978.0158 }, "geometry": { "type": "Point", "coordinates": [ 768821.71249999851, 6280978.015799999 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "CAR_LIEU": "Soulas \/ Eucalyptus", "CAR_ANNEE": 2011, "SON_ANNEE": 2009, "SON_NIVEAU": "Tout", "POINT_X": 768993.5917, "POINT_Y": 6280776.2617 }, "geometry": { "type": "Point", "coordinates": [ 768993.59170000255, 6280776.2617 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "CAR_LIEU": "Marès \/ Voie Domitienne \/ Soulas", "CAR_ANNEE": 2000, "SON_ANNEE": 2010, "SON_NIVEAU": "Partiel", "POINT_X": 769257.0585, "POINT_Y": 6280556.5159 }, "geometry": { "type": "Point", "coordinates": [ 769257.05849999934, 6280556.5159 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "CAR_LIEU": "Bouisse \/ Mr Teste", "CAR_ANNEE": 2011, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 767128.4925, "POINT_Y": 6279380.2267 }, "geometry": { "type": "Point", "coordinates": [ 767128.4925, 6279380.2267 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "CAR_LIEU": "Monsieur Teste \/ Eiffel", "CAR_ANNEE": 2008, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 767420.1372, "POINT_Y": 6279151.727 }, "geometry": { "type": "Point", "coordinates": [ 767420.1371999979, 6279151.7270000018 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "CAR_LIEU": "Einstein \/ Becquerel", "CAR_ANNEE": 1992, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 773881.9744, "POINT_Y": 6279479.6449 }, "geometry": { "type": "Point", "coordinates": [ 773881.97439999878, 6279479.6449000016 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "CAR_LIEU": "Rimbaud \/ Allées Rubens", "CAR_ANNEE": 2000, "SON_ANNEE": 2009, "SON_NIVEAU": "Partiel", "POINT_X": 768320.8064, "POINT_Y": 6280321.4923 }, "geometry": { "type": "Point", "coordinates": [ 768320.80640000105, 6280321.4923 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "CAR_LIEU": "Rimbaud \/ Carrieu \/ St Clément", "CAR_ANNEE": 1999, "SON_ANNEE": 2008, "SON_NIVEAU": "Partiel", "POINT_X": 768091.2472, "POINT_Y": 6280215.3987 }, "geometry": { "type": "Point", "coordinates": [ 768091.24719999731, 6280215.3986999989 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "CAR_LIEU": "Boulevard Des Sports \/ Saint Maur \/ Novingens", "CAR_ANNEE": 2007, "SON_ANNEE": 2005, "SON_NIVEAU": "Tout", "POINT_X": 772151.2125, "POINT_Y": 6280361.4706 }, "geometry": { "type": "Point", "coordinates": [ 772151.21249999851, 6280361.4706000015 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "CAR_LIEU": "Pont Du Garigliano", "CAR_ANNEE": 2002, "SON_ANNEE": 2005, "SON_NIVEAU": "Tout", "POINT_X": 772448.274, "POINT_Y": 6280325.7923 }, "geometry": { "type": "Point", "coordinates": [ 772448.27399999648, 6280325.7923 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "CAR_LIEU": "Pompignane \/ Vieille Poste", "CAR_ANNEE": 1998, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 772585.3675, "POINT_Y": 6279398.8289 }, "geometry": { "type": "Point", "coordinates": [ 772585.3675, 6279398.8288999982 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "CAR_LIEU": "Passage Piéton \/ Assas \/ Bartholdi", "CAR_ANNEE": 2008, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769373.6295, "POINT_Y": 6280303.714 }, "geometry": { "type": "Point", "coordinates": [ 769373.62950000167, 6280303.7140000015 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "CAR_LIEU": "Passage Piéton \/ Mas d'Argeliers ( Casino )", "CAR_ANNEE": 2007, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771844.7401, "POINT_Y": 6276818.1709 }, "geometry": { "type": "Point", "coordinates": [ 771844.74009999633, 6276818.1708999984 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "CAR_LIEU": "Pavelet \/ Castelle", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770220.9768, "POINT_Y": 6276019.3158 }, "geometry": { "type": "Point", "coordinates": [ 770220.97680000216, 6276019.3158 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "CAR_LIEU": "Pavelet \/ Cholet \/ Méhul", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769751.0142, "POINT_Y": 6276290.7853 }, "geometry": { "type": "Point", "coordinates": [ 769751.01420000196, 6276290.7853000015 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "CAR_LIEU": "Barcelone \/ Leyde", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 765995.701, "POINT_Y": 6280860.7864 }, "geometry": { "type": "Point", "coordinates": [ 765995.70099999756, 6280860.7864000015 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "CAR_LIEU": "Barcelone \/ Saragosse", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 766000.0508, "POINT_Y": 6280963.6987 }, "geometry": { "type": "Point", "coordinates": [ 766000.05080000311, 6280963.6987 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "CAR_LIEU": "Barcelone \/ Cambridge", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 766004.85, "POINT_Y": 6281100.9512 }, "geometry": { "type": "Point", "coordinates": [ 766004.85000000149, 6281100.9512 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "CAR_LIEU": "Lavérune \/ Chasseurs", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769075.7335, "POINT_Y": 6278576.8138 }, "geometry": { "type": "Point", "coordinates": [ 769075.73349999636, 6278576.8138 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "CAR_LIEU": "Lavérune \/ Lavandin", "CAR_ANNEE": 2000, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768668.8359, "POINT_Y": 6278362.7494 }, "geometry": { "type": "Point", "coordinates": [ 768668.83590000123, 6278362.749400001 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "CAR_LIEU": "Lavérune \/ Robespierre", "CAR_ANNEE": 0, "SON_ANNEE": 2009, "SON_NIVEAU": "Tout", "POINT_X": 768283.6367, "POINT_Y": 6278337.3633 }, "geometry": { "type": "Point", "coordinates": [ 768283.63669999689, 6278337.363299999 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "CAR_LIEU": "Lavérune \/ Danton", "CAR_ANNEE": 2000, "SON_ANNEE": 2009, "SON_NIVEAU": "Aucun", "POINT_X": 768093.0974, "POINT_Y": 6278198.3158 }, "geometry": { "type": "Point", "coordinates": [ 768093.09740000218, 6278198.3158 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "CAR_LIEU": "Marie De Montpellier \/ Antonelli \/ Chélia", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772382.1519, "POINT_Y": 6278327.2986 }, "geometry": { "type": "Point", "coordinates": [ 772382.15190000087, 6278327.298599999 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "CAR_LIEU": "Place Ernest Granier", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772729.0632, "POINT_Y": 6278506.7737 }, "geometry": { "type": "Point", "coordinates": [ 772729.06319999695, 6278506.7736999989 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "CAR_LIEU": "Dubout \/ Perruque", "CAR_ANNEE": 2010, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770900.0218, "POINT_Y": 6277938.9858 }, "geometry": { "type": "Point", "coordinates": [ 770900.0217999965, 6277938.9858000018 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "CAR_LIEU": "Léonard De Vinci \/ Albert Einstein", "CAR_ANNEE": 2005, "SON_ANNEE": 2006, "SON_NIVEAU": "Partiel", "POINT_X": 773208.9584, "POINT_Y": 6279228.3319 }, "geometry": { "type": "Point", "coordinates": [ 773208.95840000361, 6279228.3319 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "CAR_LIEU": "Boulevard Des Sports \/ Liron", "CAR_ANNEE": 1996, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771930.8283, "POINT_Y": 6280417.0699 }, "geometry": { "type": "Point", "coordinates": [ 771930.82829999924, 6280417.0698999986 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "CAR_LIEU": "Saint Vincent De Paul \/ Piéton CESDA", "CAR_ANNEE": 2001, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770607.3686, "POINT_Y": 6280698.8628 }, "geometry": { "type": "Point", "coordinates": [ 770607.36860000342, 6280698.8627999984 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "CAR_LIEU": "Passage Piéton \/ Ecole Des Pins", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768327.5583, "POINT_Y": 6280126.8322 }, "geometry": { "type": "Point", "coordinates": [ 768327.55830000341, 6280126.8321999982 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "CAR_LIEU": "Industrie \/ Fabre De Morlhon", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771475.6511, "POINT_Y": 6277069.0557 }, "geometry": { "type": "Point", "coordinates": [ 771475.65110000223, 6277069.0557 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "CAR_LIEU": "Palavas \/ Pont Trinquat", "CAR_ANNEE": 2012, "SON_ANNEE": 2012, "SON_NIVEAU": "Partiel", "POINT_X": 771450.8026, "POINT_Y": 6278390.6075 }, "geometry": { "type": "Point", "coordinates": [ 771450.80259999633, 6278390.6075000018 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "CAR_LIEU": "Industrie \/ Marché Gare", "CAR_ANNEE": 2000, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771265.4645, "POINT_Y": 6276641.5114 }, "geometry": { "type": "Point", "coordinates": [ 771265.46450000256, 6276641.511399999 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "CAR_LIEU": "Pic Saint Loup \/ Parguel \/ Plan des Quatre Seigneurs", "CAR_ANNEE": 2001, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769207.584, "POINT_Y": 6282783.9324 }, "geometry": { "type": "Point", "coordinates": [ 769207.58399999887, 6282783.932399999 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "CAR_LIEU": "Nîmes \/ Yehudi Menuhin", "CAR_ANNEE": 2007, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771474.9943, "POINT_Y": 6280143.8851 }, "geometry": { "type": "Point", "coordinates": [ 771474.99430000037, 6280143.8851 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "CAR_LIEU": "Mende \/ Arthur Young", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769557.6387, "POINT_Y": 6283269.9728 }, "geometry": { "type": "Point", "coordinates": [ 769557.63870000094, 6283269.9728000015 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "CAR_LIEU": "Passage Piéton \/ Pompignane \/ Hôtel De Région", "CAR_ANNEE": 2003, "SON_ANNEE": 2005, "SON_NIVEAU": "Tout", "POINT_X": 772569.9119, "POINT_Y": 6279122.2979 }, "geometry": { "type": "Point", "coordinates": [ 772569.91189999878, 6279122.2978999987 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "CAR_LIEU": "Route De Mauguio \/ Avenue de Grammont", "CAR_ANNEE": 2003, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 775102.8047, "POINT_Y": 6279655.4976 }, "geometry": { "type": "Point", "coordinates": [ 775102.80470000207, 6279655.4976 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "CAR_LIEU": "Pompignane \/ Salaison", "CAR_ANNEE": 2005, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772477.3306, "POINT_Y": 6280762.1162 }, "geometry": { "type": "Point", "coordinates": [ 772477.33060000092, 6280762.1162 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "CAR_LIEU": "Val De Montferrand \/ Jussieu", "CAR_ANNEE": 2001, "SON_ANNEE": 2009, "SON_NIVEAU": "Partiel", "POINT_X": 770501.8704, "POINT_Y": 6282335.2966 }, "geometry": { "type": "Point", "coordinates": [ 770501.87039999664, 6282335.296599999 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "CAR_LIEU": "Agathois \/ Sainte Barbe", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 766441.8723, "POINT_Y": 6281624.3157 }, "geometry": { "type": "Point", "coordinates": [ 766441.872299999, 6281624.3156999983 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "CAR_LIEU": "Europe \/ Biterrois \/ Albigeois", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 766398.1816, "POINT_Y": 6281857.9368 }, "geometry": { "type": "Point", "coordinates": [ 766398.18159999698, 6281857.936799999 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "CAR_LIEU": "Pont Badie \/ Centre Commercial \/ Station St Paul", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 766366.7129, "POINT_Y": 6281623.6648 }, "geometry": { "type": "Point", "coordinates": [ 766366.71289999783, 6281623.664799999 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "CAR_LIEU": "Dezeuze \/ Colline", "CAR_ANNEE": 2012, "SON_ANNEE": 2011, "SON_NIVEAU": "Tout", "POINT_X": 767960.3732, "POINT_Y": 6279212.4475 }, "geometry": { "type": "Point", "coordinates": [ 767960.37319999933, 6279212.4475000016 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "CAR_LIEU": "Pont De Lavérune \/ Mr Teste", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 767599.4834, "POINT_Y": 6278953.7633 }, "geometry": { "type": "Point", "coordinates": [ 767599.48340000212, 6278953.7633000016 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "CAR_LIEU": "Moulins \/ Closerie Du Château", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768030.5435, "POINT_Y": 6281822.5228 }, "geometry": { "type": "Point", "coordinates": [ 768030.54349999875, 6281822.5227999985 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "CAR_LIEU": "Passage Piéton \/ Ganges \/ La Lironde", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768374.5795, "POINT_Y": 6282782.3631 }, "geometry": { "type": "Point", "coordinates": [ 768224.59969999641, 6283006.7060999982 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "CAR_LIEU": "Blayac \/ Picard", "CAR_ANNEE": 2000, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 766475.1656, "POINT_Y": 6281152.5138 }, "geometry": { "type": "Point", "coordinates": [ 766475.16560000181, 6281152.5137999989 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "CAR_LIEU": "Mondial \/ Samuel Morse", "CAR_ANNEE": 1997, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 773748.6037, "POINT_Y": 6279041.2844 }, "geometry": { "type": "Point", "coordinates": [ 773748.60369999707, 6279041.2844000012 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "CAR_LIEU": "Louis Blanc \/ Vernières \/ Bonne Nouvelle", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771108.0265, "POINT_Y": 6279846.105 }, "geometry": { "type": "Point", "coordinates": [ 771108.02650000155, 6279846.105 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "CAR_LIEU": "Passage Piéton \/ Fabre de Morlhon", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771247.0729, "POINT_Y": 6277201.4658 }, "geometry": { "type": "Point", "coordinates": [ 771247.07289999723, 6277201.4657999985 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "CAR_LIEU": "Lodeve \/ Favre de Saint Castor", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 766839.1955, "POINT_Y": 6279867.0682 }, "geometry": { "type": "Point", "coordinates": [ 766839.19550000131, 6279867.0682 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "CAR_LIEU": "Roqueturière \/ Valérie Larbaud", "CAR_ANNEE": 2005, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771450.8585, "POINT_Y": 6281733.0459 }, "geometry": { "type": "Point", "coordinates": [ 771450.85849999636, 6281733.0458999984 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "CAR_LIEU": "Passage Piéton \/ Mas d'Argeliers ( Quick )", "CAR_ANNEE": 2009, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771905.8258, "POINT_Y": 6276957.2776 }, "geometry": { "type": "Point", "coordinates": [ 771905.82580000162, 6276957.2776000015 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "CAR_LIEU": "Toulouse \/ Chemin de Poutingon", "CAR_ANNEE": 2010, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769016.5361, "POINT_Y": 6276926.5062 }, "geometry": { "type": "Point", "coordinates": [ 769016.53610000014, 6276926.5062 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "CAR_LIEU": "Saint Lazare \/ Reine d'Italie", "CAR_ANNEE": 2010, "SON_ANNEE": 2011, "SON_NIVEAU": "Tout", "POINT_X": 771784.1218, "POINT_Y": 6281039.2762 }, "geometry": { "type": "Point", "coordinates": [ 771784.12179999799, 6281039.2762 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "CAR_LIEU": "Passage Piéton Palavas \/ Fabrèges", "CAR_ANNEE": 2010, "SON_ANNEE": 2010, "SON_NIVEAU": "Tout", "POINT_X": 771572.7699, "POINT_Y": 6278020.3459 }, "geometry": { "type": "Point", "coordinates": [ 771572.76990000159, 6278020.345899999 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "CAR_LIEU": "Vauguières \/ Alternat \/ Pont de l'autoroute A9", "CAR_ANNEE": 2009, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 774218.7767, "POINT_Y": 6278356.8126 }, "geometry": { "type": "Point", "coordinates": [ 774218.77669999748, 6278356.8126000017 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "CAR_LIEU": "Moularès \/ Centrayrargues", "CAR_ANNEE": 1994, "SON_ANNEE": 2011, "SON_NIVEAU": "Tout", "POINT_X": 771940.3295, "POINT_Y": 6277712.6478 }, "geometry": { "type": "Point", "coordinates": [ 771940.3294999972, 6277712.6477999985 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "CAR_LIEU": "Palavas \/ Centrayrargues", "CAR_ANNEE": 2008, "SON_ANNEE": 2005, "SON_NIVEAU": "Partiel", "POINT_X": 771748.096, "POINT_Y": 6277752.0028 }, "geometry": { "type": "Point", "coordinates": [ 771748.09600000083, 6277752.002799999 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "CAR_LIEU": "Agriculture \/ Las Sorbès", "CAR_ANNEE": 2008, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769138.7807, "POINT_Y": 6279989.5822 }, "geometry": { "type": "Point", "coordinates": [ 769138.78069999814, 6279989.5821999982 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "CAR_LIEU": "Assas \/ Roumieux", "CAR_ANNEE": 2008, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769675.2561, "POINT_Y": 6280006.045 }, "geometry": { "type": "Point", "coordinates": [ 769675.25609999895, 6280006.0450000018 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "CAR_LIEU": "Figairasse ( Passage Alterné )", "CAR_ANNEE": 2005, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768947.7687, "POINT_Y": 6278862.7039 }, "geometry": { "type": "Point", "coordinates": [ 768947.76870000362, 6278862.7038999982 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "CAR_LIEU": "Passage Piéton \/ Ecole Du Lez \/ Alphonse Juin", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772526.8067, "POINT_Y": 6280346.9316 }, "geometry": { "type": "Point", "coordinates": [ 772526.80669999868, 6280346.9316 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "CAR_LIEU": "Vieille Poste \/ Pinville", "CAR_ANNEE": 2010, "SON_ANNEE": 2006, "SON_NIVEAU": "Tout", "POINT_X": 773073.1967, "POINT_Y": 6279797.5746 }, "geometry": { "type": "Point", "coordinates": [ 773073.19669999927, 6279797.5746 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "CAR_LIEU": "Vieille Poste \/ Nobel", "CAR_ANNEE": 2008, "SON_ANNEE": 2006, "SON_NIVEAU": "Partiel", "POINT_X": 773509.5751, "POINT_Y": 6280104.9463 }, "geometry": { "type": "Point", "coordinates": [ 773509.57509999722, 6280104.9463 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "CAR_LIEU": "Ravaz \/ Casseyrols \/ Cévennes", "CAR_ANNEE": 2011, "SON_ANNEE": 2010, "SON_NIVEAU": "Partiel", "POINT_X": 768343.2084, "POINT_Y": 6280690.0486 }, "geometry": { "type": "Point", "coordinates": [ 768343.20840000361, 6280690.048599999 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "CAR_LIEU": "Rimbaud \/ Ravaz \/ Marès", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768680.1898, "POINT_Y": 6280481.732 }, "geometry": { "type": "Point", "coordinates": [ 768680.18980000168, 6280481.732 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "CAR_LIEU": "Agriculture \/ Las Cazes \/ Ravaz", "CAR_ANNEE": 2011, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768912.4087, "POINT_Y": 6280233.3245 }, "geometry": { "type": "Point", "coordinates": [ 768912.40869999677, 6280233.3244999982 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "CAR_LIEU": "Passage Piéton \/ Liberté \/ Craponne", "CAR_ANNEE": 2005, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769855.3086, "POINT_Y": 6278791.4953 }, "geometry": { "type": "Point", "coordinates": [ 769855.30860000104, 6278791.4952999987 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "CAR_LIEU": "Lakanal \/ Fabre", "CAR_ANNEE": 2003, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770921.6145, "POINT_Y": 6280136.8441 }, "geometry": { "type": "Point", "coordinates": [ 770921.61450000107, 6280136.8440999985 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "CAR_LIEU": "Bertin Sans \/ Jalade \/ Diacon", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769767.187, "POINT_Y": 6281401.0323 }, "geometry": { "type": "Point", "coordinates": [ 769767.18699999899, 6281401.032299999 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "CAR_LIEU": "Michelet \/ Etats Du Languedoc", "CAR_ANNEE": 2000, "SON_ANNEE": 2011, "SON_NIVEAU": "Tout", "POINT_X": 771534.8063, "POINT_Y": 6279079.2867 }, "geometry": { "type": "Point", "coordinates": [ 771444.97699999809, 6279130.2573 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "CAR_LIEU": "Figuerolles \/ Claret", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769647.3167, "POINT_Y": 6278914.7198 }, "geometry": { "type": "Point", "coordinates": [ 769647.31669999659, 6278914.719799999 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "CAR_LIEU": "Passage Piéton \/ Liberté \/ Guirlande", "CAR_ANNEE": 1998, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769587.2559, "POINT_Y": 6279210.2342 }, "geometry": { "type": "Point", "coordinates": [ 769587.25590000302, 6279210.2342 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "CAR_LIEU": "Castelnau \/ Proudhon \/ Aubeterre", "CAR_ANNEE": 2001, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770933.325, "POINT_Y": 6280301.5265 }, "geometry": { "type": "Point", "coordinates": [ 770933.32500000298, 6280301.5265000015 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "CAR_LIEU": "Saint Vincent De Paul \/ Marie Caizergues", "CAR_ANNEE": 2010, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770743.2673, "POINT_Y": 6280554.8105 }, "geometry": { "type": "Point", "coordinates": [ 770743.26730000228, 6280554.8105 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "CAR_LIEU": "Soulas \/ Muriers", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768611.1853, "POINT_Y": 6281099.6846 }, "geometry": { "type": "Point", "coordinates": [ 768611.1853, 6281099.684599999 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "CAR_LIEU": "Assas \/ Las Sorbès", "CAR_ANNEE": 2000, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769537.4966, "POINT_Y": 6280153.8957 }, "geometry": { "type": "Point", "coordinates": [ 769537.49660000205, 6280153.8957 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "CAR_LIEU": "Jacques Cartier \/ Poséidon", "CAR_ANNEE": 1999, "SON_ANNEE": 2010, "SON_NIVEAU": "Tout", "POINT_X": 772197.0424, "POINT_Y": 6279046.2026 }, "geometry": { "type": "Point", "coordinates": [ 772197.04240000248, 6279046.2025999986 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "CAR_LIEU": "Rabelais \/ Palavas \/ Aiguerelles", "CAR_ANNEE": 2011, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771450.8834, "POINT_Y": 6278486.8534 }, "geometry": { "type": "Point", "coordinates": [ 771450.88340000063, 6278486.853399999 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "CAR_LIEU": "Rabelais \/ Perruque \/ Peysson", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771025.8345, "POINT_Y": 6278343.7291 }, "geometry": { "type": "Point", "coordinates": [ 771025.83449999988, 6278343.7291 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "CAR_LIEU": "Orient \/ Protestants", "CAR_ANNEE": 2000, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771609.5498, "POINT_Y": 6278577.6318 }, "geometry": { "type": "Point", "coordinates": [ 771609.54980000108, 6278577.6318 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "CAR_LIEU": "Rabelais \/ Bazille \/ Henry René", "CAR_ANNEE": 2011, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771283.4694, "POINT_Y": 6278452.8523 }, "geometry": { "type": "Point", "coordinates": [ 771283.46940000355, 6278452.852299999 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "CAR_LIEU": "Droits De L'Homme \/ Moularès", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772241.598, "POINT_Y": 6278569.6867 }, "geometry": { "type": "Point", "coordinates": [ 772241.59799999744, 6278569.6867000014 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "CAR_LIEU": "Droits De L'Homme \/ Consuls De Mer", "CAR_ANNEE": 1999, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 772276.0478, "POINT_Y": 6278732.8666 }, "geometry": { "type": "Point", "coordinates": [ 772276.04779999703, 6278732.866599999 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "CAR_LIEU": "Cardonille \/ Truc", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768265.6942, "POINT_Y": 6282196.2771 }, "geometry": { "type": "Point", "coordinates": [ 768265.69420000166, 6282196.2771 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "CAR_LIEU": "Europe \/ Uppsala \/ Lauraguais", "CAR_ANNEE": 2013, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 766395.3773, "POINT_Y": 6281499.8159 }, "geometry": { "type": "Point", "coordinates": [ 766395.37730000168, 6281499.8159000017 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "CAR_LIEU": "Europe \/ Oxford \/ Blayac", "CAR_ANNEE": 2004, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 766350.9563, "POINT_Y": 6281226.6365 }, "geometry": { "type": "Point", "coordinates": [ 766350.95629999787, 6281226.636500001 ] } }
+,
+{ "type": "Feature", "id": 100, "properties": { "CAR_LIEU": "Pont Trinquat \/ Origan", "CAR_ANNEE": 1998, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771739.834, "POINT_Y": 6278264.0137 }, "geometry": { "type": "Point", "coordinates": [ 771739.83399999887, 6278264.0137 ] } }
+,
+{ "type": "Feature", "id": 101, "properties": { "CAR_LIEU": "Val De Montferrand \/ Chênaie", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770486.0464, "POINT_Y": 6282125.2281 }, "geometry": { "type": "Point", "coordinates": [ 770486.04640000314, 6282125.2281000018 ] } }
+,
+{ "type": "Feature", "id": 102, "properties": { "CAR_LIEU": "Rimbaud \/ Ravaz \/ Marès", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768655.1867, "POINT_Y": 6280476.1757 }, "geometry": { "type": "Point", "coordinates": [ 768655.18670000136, 6280476.1757000014 ] } }
+,
+{ "type": "Feature", "id": 103, "properties": { "CAR_LIEU": "Vauguières \/ Mas de Brousse \/ Lycée Mendes France", "CAR_ANNEE": 2009, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 774289.1674, "POINT_Y": 6278252.9537 }, "geometry": { "type": "Point", "coordinates": [ 774289.16740000248, 6278252.9536999986 ] } }
+,
+{ "type": "Feature", "id": 104, "properties": { "CAR_LIEU": "Soulas \/ Château D'O", "CAR_ANNEE": 1999, "SON_ANNEE": 2013, "SON_NIVEAU": "Partiel", "POINT_X": 768125.5786, "POINT_Y": 6281536.4978 }, "geometry": { "type": "Point", "coordinates": [ 768125.57859999686, 6281536.4978 ] } }
+,
+{ "type": "Feature", "id": 105, "properties": { "CAR_LIEU": "Einstein \/ Vauguières", "CAR_ANNEE": 2011, "SON_ANNEE": 2011, "SON_NIVEAU": "Tout", "POINT_X": 772925.7485, "POINT_Y": 6278910.6475 }, "geometry": { "type": "Point", "coordinates": [ 772925.74849999696, 6278910.6475 ] } }
+,
+{ "type": "Feature", "id": 106, "properties": { "CAR_LIEU": "Ravaz \/ Avant-Monts", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768234.7406, "POINT_Y": 6280759.4814 }, "geometry": { "type": "Point", "coordinates": [ 768234.74059999734, 6280759.4814000018 ] } }
+,
+{ "type": "Feature", "id": 107, "properties": { "CAR_LIEU": "Passage Piéton \/ Av.Albert Einstein", "CAR_ANNEE": 2011, "SON_ANNEE": 2011, "SON_NIVEAU": "Tout", "POINT_X": 773071.6427, "POINT_Y": 6279049.001 }, "geometry": { "type": "Point", "coordinates": [ 773071.6427000016, 6279049.0009999983 ] } }
+,
+{ "type": "Feature", "id": 108, "properties": { "CAR_LIEU": "Soulas \/ Saint Priest", "CAR_ANNEE": 2011, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768253.33, "POINT_Y": 6281445.3289 }, "geometry": { "type": "Point", "coordinates": [ 768253.33, 6281445.3288999982 ] } }
+,
+{ "type": "Feature", "id": 109, "properties": { "CAR_LIEU": "Soulas \/ Muscadet \/ Aramon", "CAR_ANNEE": 2011, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768394.803, "POINT_Y": 6281274.9279 }, "geometry": { "type": "Point", "coordinates": [ 768394.8030000031, 6281274.9279000014 ] } }
+,
+{ "type": "Feature", "id": 110, "properties": { "CAR_LIEU": "Antigone \/ Léon Blum", "CAR_ANNEE": 1999, "SON_ANNEE": 2009, "SON_NIVEAU": "Partiel", "POINT_X": 771929.2112, "POINT_Y": 6279286.2476 }, "geometry": { "type": "Point", "coordinates": [ 771929.21119999886, 6279286.2476 ] } }
+,
+{ "type": "Feature", "id": 111, "properties": { "CAR_LIEU": "Mermoz \/ Sémalen", "CAR_ANNEE": 2011, "SON_ANNEE": 2009, "SON_NIVEAU": "Partiel", "POINT_X": 771823.6113, "POINT_Y": 6279638.7594 }, "geometry": { "type": "Point", "coordinates": [ 771823.61129999906, 6279638.7593999989 ] } }
+,
+{ "type": "Feature", "id": 112, "properties": { "CAR_LIEU": "Jacques Cartier \/ Léon Blum", "CAR_ANNEE": 0, "SON_ANNEE": 2010, "SON_NIVEAU": "Tout", "POINT_X": 771913.4596, "POINT_Y": 6279068.8995 }, "geometry": { "type": "Point", "coordinates": [ 771913.45960000157, 6279068.8995000012 ] } }
+,
+{ "type": "Feature", "id": 113, "properties": { "CAR_LIEU": "Grasset \/ Marchand \/ Crova", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770126.1123, "POINT_Y": 6280669.6907 }, "geometry": { "type": "Point", "coordinates": [ 770126.11230000108, 6280669.6906999983 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "CAR_LIEU": "Mermoz \/ Montmorency", "CAR_ANNEE": 2011, "SON_ANNEE": 2005, "SON_NIVEAU": "Partiel", "POINT_X": 771906.0967, "POINT_Y": 6279434.2352 }, "geometry": { "type": "Point", "coordinates": [ 771906.09669999778, 6279434.235199999 ] } }
+,
+{ "type": "Feature", "id": 115, "properties": { "CAR_LIEU": "Berthelot \/ Ernest Michel", "CAR_ANNEE": 2010, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770542.8424, "POINT_Y": 6278204.3944 }, "geometry": { "type": "Point", "coordinates": [ 770542.8424, 6278204.3944 ] } }
+,
+{ "type": "Feature", "id": 116, "properties": { "CAR_LIEU": "Place Godechot", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770159.8115, "POINT_Y": 6280531.3947 }, "geometry": { "type": "Point", "coordinates": [ 770159.81149999797, 6280531.3946999982 ] } }
+,
+{ "type": "Feature", "id": 117, "properties": { "CAR_LIEU": "Aéroport International \/ Poséidon", "CAR_ANNEE": 1999, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 772245.9769, "POINT_Y": 6279291.5524 }, "geometry": { "type": "Point", "coordinates": [ 772245.9768999964, 6279291.5524 ] } }
+,
+{ "type": "Feature", "id": 118, "properties": { "CAR_LIEU": "Lavandin \/ Foncouverte", "CAR_ANNEE": 2003, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769131.0666, "POINT_Y": 6278212.7401 }, "geometry": { "type": "Point", "coordinates": [ 769131.06660000235, 6278212.7401 ] } }
+,
+{ "type": "Feature", "id": 119, "properties": { "CAR_LIEU": "Ravaz \/ Edmond Lautard", "CAR_ANNEE": 2003, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 767932.5699, "POINT_Y": 6281018.0732 }, "geometry": { "type": "Point", "coordinates": [ 767932.56989999861, 6281018.0731999986 ] } }
+,
+{ "type": "Feature", "id": 120, "properties": { "CAR_LIEU": "Lodève \/ Marronniers", "CAR_ANNEE": 2009, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 767083.7212, "POINT_Y": 6279879.4645 }, "geometry": { "type": "Point", "coordinates": [ 767083.72119999677, 6279879.4644999988 ] } }
+,
+{ "type": "Feature", "id": 121, "properties": { "CAR_LIEU": "Lodève \/ Paul Rimbaud", "CAR_ANNEE": 2002, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 767378.3284, "POINT_Y": 6279872.8229 }, "geometry": { "type": "Point", "coordinates": [ 767378.32840000093, 6279872.822900001 ] } }
+,
+{ "type": "Feature", "id": 122, "properties": { "CAR_LIEU": "Rond Point Du Château D'O", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 767993.1965, "POINT_Y": 6281700.5153 }, "geometry": { "type": "Point", "coordinates": [ 767993.19650000334, 6281700.5152999982 ] } }
+,
+{ "type": "Feature", "id": 123, "properties": { "CAR_LIEU": "Mas d'Argeliers \/ Marché gare", "CAR_ANNEE": 2000, "SON_ANNEE": 2008, "SON_NIVEAU": "Partiel", "POINT_X": 771694.9265, "POINT_Y": 6276428.915 }, "geometry": { "type": "Point", "coordinates": [ 771694.9265, 6276428.914999999 ] } }
+,
+{ "type": "Feature", "id": 124, "properties": { "CAR_LIEU": "Montels-église \/ Bessède", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770890.9339, "POINT_Y": 6275932.4789 }, "geometry": { "type": "Point", "coordinates": [ 770890.93389999866, 6275932.4789 ] } }
+,
+{ "type": "Feature", "id": 125, "properties": { "CAR_LIEU": "Vanières \/ Bugarel \/ Paul Valéry", "CAR_ANNEE": 2000, "SON_ANNEE": 2010, "SON_NIVEAU": "Partiel", "POINT_X": 768876.5183, "POINT_Y": 6277430.7042 }, "geometry": { "type": "Point", "coordinates": [ 768876.51829999685, 6277430.7042 ] } }
+,
+{ "type": "Feature", "id": 126, "properties": { "CAR_LIEU": "Moulins \/ Saint Priest", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768063.769, "POINT_Y": 6281991.805 }, "geometry": { "type": "Point", "coordinates": [ 768063.76900000125, 6281991.805 ] } }
+,
+{ "type": "Feature", "id": 127, "properties": { "CAR_LIEU": "Moulins \/ Cardonille", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768105.5619, "POINT_Y": 6282123.5449 }, "geometry": { "type": "Point", "coordinates": [ 768105.56189999729, 6282123.5449 ] } }
+,
+{ "type": "Feature", "id": 128, "properties": { "CAR_LIEU": "Ganges \/ Cardonille \/ Doyen Turchini", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768444.9141, "POINT_Y": 6282277.3844 }, "geometry": { "type": "Point", "coordinates": [ 768444.91409999877, 6282277.3843999989 ] } }
+,
+{ "type": "Feature", "id": 129, "properties": { "CAR_LIEU": "Bologne \/ Tipasa", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 766003.5734, "POINT_Y": 6281452.9043 }, "geometry": { "type": "Point", "coordinates": [ 766003.57339999825, 6281452.9043 ] } }
+,
+{ "type": "Feature", "id": 130, "properties": { "CAR_LIEU": "Pr. Viala \/ Grabels \/ 18 Juin 1940", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 767102.1954, "POINT_Y": 6282337.5243 }, "geometry": { "type": "Point", "coordinates": [ 767102.19539999962, 6282337.5243000016 ] } }
+,
+{ "type": "Feature", "id": 131, "properties": { "CAR_LIEU": "Bologne \/ Bari", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 766004.8943, "POINT_Y": 6281375.7787 }, "geometry": { "type": "Point", "coordinates": [ 766004.89429999888, 6281375.7787000015 ] } }
+,
+{ "type": "Feature", "id": 132, "properties": { "CAR_LIEU": "Moularès \/ Palavas", "CAR_ANNEE": 1994, "SON_ANNEE": 2005, "SON_NIVEAU": "Tout", "POINT_X": 771872.6484, "POINT_Y": 6277492.3491 }, "geometry": { "type": "Point", "coordinates": [ 771872.64840000123, 6277492.3491000012 ] } }
+,
+{ "type": "Feature", "id": 133, "properties": { "CAR_LIEU": "Dubout \/ Citée Mion", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771355.3466, "POINT_Y": 6277946.1155 }, "geometry": { "type": "Point", "coordinates": [ 771355.34660000354, 6277946.115499999 ] } }
+,
+{ "type": "Feature", "id": 134, "properties": { "CAR_LIEU": "Dubout \/ Leclerc", "CAR_ANNEE": 2000, "SON_ANNEE": 2005, "SON_NIVEAU": "Partiel", "POINT_X": 771117.3793, "POINT_Y": 6277936.8729 }, "geometry": { "type": "Point", "coordinates": [ 771117.37929999828, 6277936.8729000017 ] } }
+,
+{ "type": "Feature", "id": 135, "properties": { "CAR_LIEU": "Passage Piéton \/ Maurin \/ Citée Fleurie", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770573.855, "POINT_Y": 6277341.4297 }, "geometry": { "type": "Point", "coordinates": [ 770573.85499999672, 6277341.4296999983 ] } }
+,
+{ "type": "Feature", "id": 136, "properties": { "CAR_LIEU": "Vanières \/ Pas Du Loup \/ Topaze", "CAR_ANNEE": 2012, "SON_ANNEE": 2012, "SON_NIVEAU": "Tout", "POINT_X": 768248.9844, "POINT_Y": 6277870.1546 }, "geometry": { "type": "Point", "coordinates": [ 768248.9843999967, 6277870.1545999981 ] } }
+,
+{ "type": "Feature", "id": 137, "properties": { "CAR_LIEU": "Passage Piéton \/ Lavérune \/ Mas Prunet", "CAR_ANNEE": 2013, "SON_ANNEE": 2009, "SON_NIVEAU": "Tout", "POINT_X": 767752.5127, "POINT_Y": 6277908.0054 }, "geometry": { "type": "Point", "coordinates": [ 767752.51269999892, 6277908.0053999983 ] } }
+,
+{ "type": "Feature", "id": 138, "properties": { "CAR_LIEU": "Lavérune \/ Figairasse", "CAR_ANNEE": 2011, "SON_ANNEE": 2009, "SON_NIVEAU": "Tout", "POINT_X": 769322.0831, "POINT_Y": 6278720.4639 }, "geometry": { "type": "Point", "coordinates": [ 769322.08309999853, 6278720.4639 ] } }
+,
+{ "type": "Feature", "id": 139, "properties": { "CAR_LIEU": "Croix Du Capitaine \/ Edouard VII", "CAR_ANNEE": 2011, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769751.7028, "POINT_Y": 6278575.6922 }, "geometry": { "type": "Point", "coordinates": [ 769751.70279999822, 6278575.6922000013 ] } }
+,
+{ "type": "Feature", "id": 140, "properties": { "CAR_LIEU": "Moularès \/ Pont Trinquat", "CAR_ANNEE": 1994, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 772110.1623, "POINT_Y": 6278000.7141 }, "geometry": { "type": "Point", "coordinates": [ 772110.1622999981, 6278000.7141 ] } }
+,
+{ "type": "Feature", "id": 141, "properties": { "CAR_LIEU": "Moularès \/ Améthyste", "CAR_ANNEE": 1994, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 772037.1025, "POINT_Y": 6277843.1136 }, "geometry": { "type": "Point", "coordinates": [ 772037.10249999911, 6277843.1136 ] } }
+,
+{ "type": "Feature", "id": 142, "properties": { "CAR_LIEU": "Place De La Voie Domitienne", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770259.2342, "POINT_Y": 6281578.1316 }, "geometry": { "type": "Point", "coordinates": [ 770259.23420000076, 6281578.1316 ] } }
+,
+{ "type": "Feature", "id": 143, "properties": { "CAR_LIEU": "Verdanson \/ Ferdinand Fabre", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770864.662, "POINT_Y": 6279981.0481 }, "geometry": { "type": "Point", "coordinates": [ 770864.66200000048, 6279981.0480999984 ] } }
+,
+{ "type": "Feature", "id": 144, "properties": { "CAR_LIEU": "Val De Montferrand \/ Sortie Fac De Lettres", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770391.8757, "POINT_Y": 6281895.2207 }, "geometry": { "type": "Point", "coordinates": [ 770391.87569999695, 6281895.2207 ] } }
+,
+{ "type": "Feature", "id": 145, "properties": { "CAR_LIEU": "Verdanson \/ Villefranche", "CAR_ANNEE": 0, "SON_ANNEE": 2013, "SON_NIVEAU": "Tout", "POINT_X": 770984.1272, "POINT_Y": 6279973.6842 }, "geometry": { "type": "Point", "coordinates": [ 770984.1272, 6279973.6842 ] } }
+,
+{ "type": "Feature", "id": 146, "properties": { "CAR_LIEU": "Antigone \/ Parkings", "CAR_ANNEE": 1999, "SON_ANNEE": 2009, "SON_NIVEAU": "Partiel", "POINT_X": 771805.0744, "POINT_Y": 6279298.9998 }, "geometry": { "type": "Point", "coordinates": [ 771805.07440000027, 6279298.9998 ] } }
+,
+{ "type": "Feature", "id": 147, "properties": { "CAR_LIEU": "Einstein \/ Nobel", "CAR_ANNEE": 2012, "SON_ANNEE": 2012, "SON_NIVEAU": "Partiel", "POINT_X": 773682.6572, "POINT_Y": 6279420.9496 }, "geometry": { "type": "Point", "coordinates": [ 773682.65720000118, 6279420.9496 ] } }
+,
+{ "type": "Feature", "id": 148, "properties": { "CAR_LIEU": "Juvénal \/ Léon Blum \/ Vaissière", "CAR_ANNEE": 2007, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771825.9278, "POINT_Y": 6278899.7232 }, "geometry": { "type": "Point", "coordinates": [ 771825.92779999971, 6278899.7232 ] } }
+,
+{ "type": "Feature", "id": 149, "properties": { "CAR_LIEU": "Juvénal \/ Etats Du Languedoc", "CAR_ANNEE": 2010, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771723.5938, "POINT_Y": 6278890.8296 }, "geometry": { "type": "Point", "coordinates": [ 771723.59380000085, 6278890.8295999989 ] } }
+,
+{ "type": "Feature", "id": 150, "properties": { "CAR_LIEU": "Becquerel \/ Lépine", "CAR_ANNEE": 2005, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 773859.5576, "POINT_Y": 6279909.5537 }, "geometry": { "type": "Point", "coordinates": [ 773859.55759999901, 6279909.5537 ] } }
+,
+{ "type": "Feature", "id": 151, "properties": { "CAR_LIEU": "Place De Strasbourg", "CAR_ANNEE": 2011, "SON_ANNEE": 2008, "SON_NIVEAU": "Partiel", "POINT_X": 771101.3937, "POINT_Y": 6278612.1564 }, "geometry": { "type": "Point", "coordinates": [ 771101.39370000362, 6278612.1563999988 ] } }
+,
+{ "type": "Feature", "id": 152, "properties": { "CAR_LIEU": "Assas \/ Doria", "CAR_ANNEE": 1991, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770042.869, "POINT_Y": 6279690.2376 }, "geometry": { "type": "Point", "coordinates": [ 770042.86900000274, 6279690.2375999987 ] } }
+,
+{ "type": "Feature", "id": 153, "properties": { "CAR_LIEU": "Nîmes \/ Reine D'Italie", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772027.6644, "POINT_Y": 6280900.9424 }, "geometry": { "type": "Point", "coordinates": [ 772027.6643999964, 6280900.942400001 ] } }
+,
+{ "type": "Feature", "id": 154, "properties": { "CAR_LIEU": "Gaillarde \/ Las Sorbès", "CAR_ANNEE": 2000, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769285.7885, "POINT_Y": 6280050.5269 }, "geometry": { "type": "Point", "coordinates": [ 769285.78850000352, 6280050.5269 ] } }
+,
+{ "type": "Feature", "id": 155, "properties": { "CAR_LIEU": "Place Robert Schuman", "CAR_ANNEE": 2000, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 766044.4633, "POINT_Y": 6280475.956 }, "geometry": { "type": "Point", "coordinates": [ 766044.46329999715, 6280475.956 ] } }
+,
+{ "type": "Feature", "id": 156, "properties": { "CAR_LIEU": "Ravaz \/ Sainte Geneviève", "CAR_ANNEE": 2000, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768106.6211, "POINT_Y": 6280877.4574 }, "geometry": { "type": "Point", "coordinates": [ 768106.62110000104, 6280877.4574000016 ] } }
+,
+{ "type": "Feature", "id": 157, "properties": { "CAR_LIEU": "Liberté \/ Forgues \/ Tédenat", "CAR_ANNEE": 2005, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768867.992, "POINT_Y": 6279235.0828 }, "geometry": { "type": "Point", "coordinates": [ 768867.99199999869, 6279235.0828 ] } }
+,
+{ "type": "Feature", "id": 158, "properties": { "CAR_LIEU": "Substantion \/ Menuhin", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771369.6752, "POINT_Y": 6280219.2742 }, "geometry": { "type": "Point", "coordinates": [ 771369.67520000041, 6280219.2742 ] } }
+,
+{ "type": "Feature", "id": 159, "properties": { "CAR_LIEU": "Grasset \/ Villeneuve \/ Lenormand", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770006.1462, "POINT_Y": 6281010.7085 }, "geometry": { "type": "Point", "coordinates": [ 770006.14620000124, 6281010.7085000016 ] } }
+,
+{ "type": "Feature", "id": 160, "properties": { "CAR_LIEU": "Saint Charles \/ Catelan", "CAR_ANNEE": 1999, "SON_ANNEE": 2012, "SON_NIVEAU": "Partiel", "POINT_X": 770207.2586, "POINT_Y": 6280235.7223 }, "geometry": { "type": "Point", "coordinates": [ 770207.25859999657, 6280235.7223 ] } }
+,
+{ "type": "Feature", "id": 161, "properties": { "CAR_LIEU": "Accès Riverains Rue De Substantion", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771262.1171, "POINT_Y": 6280075.486 }, "geometry": { "type": "Point", "coordinates": [ 771262.11710000038, 6280075.4860000014 ] } }
+,
+{ "type": "Feature", "id": 162, "properties": { "CAR_LIEU": "Substantion \/ Poésie \/ Marché Aux Bestiaux", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 771312.8419, "POINT_Y": 6280148.2324 }, "geometry": { "type": "Point", "coordinates": [ 771312.84189999849, 6280148.2324 ] } }
+,
+{ "type": "Feature", "id": 163, "properties": { "CAR_LIEU": "Substantion \/ Bernard Délicieux", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 771232.306, "POINT_Y": 6280021.3692 }, "geometry": { "type": "Point", "coordinates": [ 771232.30600000173, 6280021.3691999987 ] } }
+,
+{ "type": "Feature", "id": 164, "properties": { "CAR_LIEU": "Juvénal \/ Cartier", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772340.3315, "POINT_Y": 6278993.6152 }, "geometry": { "type": "Point", "coordinates": [ 772340.33150000125, 6278993.6152000017 ] } }
+,
+{ "type": "Feature", "id": 165, "properties": { "CAR_LIEU": "Etats du Languedoc \/ Fontaine de Lattes", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Aucun", "POINT_X": 771868.2114, "POINT_Y": 6278737.4508 }, "geometry": { "type": "Point", "coordinates": [ 771868.21140000224, 6278737.4508000016 ] } }
+,
+{ "type": "Feature", "id": 166, "properties": { "CAR_LIEU": "Toulouse \/ Chasseurs", "CAR_ANNEE": 2011, "SON_ANNEE": 2005, "SON_NIVEAU": "Partiel", "POINT_X": 769800.7383, "POINT_Y": 6277974.3211 }, "geometry": { "type": "Point", "coordinates": [ 769800.73830000311, 6277974.3211 ] } }
+,
+{ "type": "Feature", "id": 167, "properties": { "CAR_LIEU": "Beau Séjour \/ Jeu De Mail Des Abbés", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 771381.2773, "POINT_Y": 6280503.5133 }, "geometry": { "type": "Point", "coordinates": [ 771381.27730000019, 6280503.5133000016 ] } }
+,
+{ "type": "Feature", "id": 168, "properties": { "CAR_LIEU": "Toulouse \/ Brassens", "CAR_ANNEE": 2011, "SON_ANNEE": 2011, "SON_NIVEAU": "Partiel", "POINT_X": 769615.8575, "POINT_Y": 6277735.0383 }, "geometry": { "type": "Point", "coordinates": [ 769615.85750000179, 6277735.0383 ] } }
+,
+{ "type": "Feature", "id": 169, "properties": { "CAR_LIEU": "Toulouse \/ Rue Bounin", "CAR_ANNEE": 0, "SON_ANNEE": 2011, "SON_NIVEAU": "Partiel", "POINT_X": 769468.3867, "POINT_Y": 6277541.7983 }, "geometry": { "type": "Point", "coordinates": [ 769468.38669999689, 6277541.7983000018 ] } }
+,
+{ "type": "Feature", "id": 170, "properties": { "CAR_LIEU": "Angoulême \/ Pédro De Luna", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 770137.4044, "POINT_Y": 6277806.1902 }, "geometry": { "type": "Point", "coordinates": [ 770137.40439999849, 6277806.190200001 ] } }
+,
+{ "type": "Feature", "id": 171, "properties": { "CAR_LIEU": "Pedro De Luna \/ Chartier-Alain", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770246.8567, "POINT_Y": 6277726.3668 }, "geometry": { "type": "Point", "coordinates": [ 770246.85670000315, 6277726.366799999 ] } }
+,
+{ "type": "Feature", "id": 172, "properties": { "CAR_LIEU": "Accès Riverains Mail des Abbesses", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771293.2057, "POINT_Y": 6280714.7153 }, "geometry": { "type": "Point", "coordinates": [ 771293.20570000261, 6280714.7153000012 ] } }
+,
+{ "type": "Feature", "id": 173, "properties": { "CAR_LIEU": "Maurin \/ Payroliers", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770725.7364, "POINT_Y": 6277972.5644 }, "geometry": { "type": "Point", "coordinates": [ 770764.79810000211, 6277936.5229 ] } }
+,
+{ "type": "Feature", "id": 174, "properties": { "CAR_LIEU": "Maurin \/ Pédro De Luna", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 770660.1176, "POINT_Y": 6277493.9527 }, "geometry": { "type": "Point", "coordinates": [ 770660.11760000139, 6277493.9527 ] } }
+,
+{ "type": "Feature", "id": 175, "properties": { "CAR_LIEU": "Angoulême \/ Bounin \/ Colucci", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769930.3118, "POINT_Y": 6276964.1096 }, "geometry": { "type": "Point", "coordinates": [ 769930.31180000305, 6276964.1096 ] } }
+,
+{ "type": "Feature", "id": 176, "properties": { "CAR_LIEU": "Pavelet \/ Angoulême", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769430.0144, "POINT_Y": 6276592.2295 }, "geometry": { "type": "Point", "coordinates": [ 769430.01439999789, 6276592.229499999 ] } }
+,
+{ "type": "Feature", "id": 177, "properties": { "CAR_LIEU": "Pépinière \/ Salicate \/ Pradiers", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 772030.8324, "POINT_Y": 6279949.0033 }, "geometry": { "type": "Point", "coordinates": [ 772030.83240000159, 6279949.0033 ] } }
+,
+{ "type": "Feature", "id": 178, "properties": { "CAR_LIEU": "Justice \/ Pioch De Boutonnet", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770822.7068, "POINT_Y": 6281177.7943 }, "geometry": { "type": "Point", "coordinates": [ 770822.70679999888, 6281177.7943000011 ] } }
+,
+{ "type": "Feature", "id": 179, "properties": { "CAR_LIEU": "Castelnau \/ Montasinos", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771274.8383, "POINT_Y": 6280750.1368 }, "geometry": { "type": "Point", "coordinates": [ 771274.83829999715, 6280750.1367999986 ] } }
+,
+{ "type": "Feature", "id": 180, "properties": { "CAR_LIEU": "Justice \/ Tourterelles", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770979.3258, "POINT_Y": 6281127.9958 }, "geometry": { "type": "Point", "coordinates": [ 770979.32580000162, 6281127.9958 ] } }
+,
+{ "type": "Feature", "id": 181, "properties": { "CAR_LIEU": "Flahault \/ Adhémard", "CAR_ANNEE": 1998, "SON_ANNEE": 2011, "SON_NIVEAU": "Partiel", "POINT_X": 769764.2091, "POINT_Y": 6280701.9633 }, "geometry": { "type": "Point", "coordinates": [ 769764.20910000056, 6280701.9633 ] } }
+,
+{ "type": "Feature", "id": 182, "properties": { "CAR_LIEU": "Flahault \/ Hospices", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769738.0761, "POINT_Y": 6280759.1414 }, "geometry": { "type": "Point", "coordinates": [ 769738.07609999925, 6280759.1413999982 ] } }
+,
+{ "type": "Feature", "id": 183, "properties": { "CAR_LIEU": "Flahault \/ Voie Domitienne", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769605.6664, "POINT_Y": 6280908.6643 }, "geometry": { "type": "Point", "coordinates": [ 769605.66640000045, 6280908.6642999984 ] } }
+,
+{ "type": "Feature", "id": 184, "properties": { "CAR_LIEU": "Renouvier \/ Cardaire \/ Nourrit", "CAR_ANNEE": 2010, "SON_ANNEE": 2010, "SON_NIVEAU": "Tout", "POINT_X": 770065.5571, "POINT_Y": 6278806.1367 }, "geometry": { "type": "Point", "coordinates": [ 770065.557099998, 6278806.1367 ] } }
+,
+{ "type": "Feature", "id": 185, "properties": { "CAR_LIEU": "Toulouse \/ Passage 75", "CAR_ANNEE": 2011, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770009.8146, "POINT_Y": 6278243.7838 }, "geometry": { "type": "Point", "coordinates": [ 770009.8145999983, 6278243.7837999985 ] } }
+,
+{ "type": "Feature", "id": 186, "properties": { "CAR_LIEU": "Toulouse \/ Imprimerie", "CAR_ANNEE": 2011, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769935.7421, "POINT_Y": 6278147.1303 }, "geometry": { "type": "Point", "coordinates": [ 769935.74210000038, 6278147.1303 ] } }
+,
+{ "type": "Feature", "id": 187, "properties": { "CAR_LIEU": "Jeu De Mail Des Abbés \/ Mousseron", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771355.7808, "POINT_Y": 6280589.3125 }, "geometry": { "type": "Point", "coordinates": [ 771355.78079999983, 6280589.3125 ] } }
+,
+{ "type": "Feature", "id": 188, "properties": { "CAR_LIEU": "Déchetterie \/ Place Schumann", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 765977.1522, "POINT_Y": 6280404.6027 }, "geometry": { "type": "Point", "coordinates": [ 765977.1521999985, 6280404.6026999988 ] } }
+,
+{ "type": "Feature", "id": 189, "properties": { "CAR_LIEU": "Renouvier \/ Place Chaptal", "CAR_ANNEE": 2010, "SON_ANNEE": 2010, "SON_NIVEAU": "Partiel", "POINT_X": 770080.4179, "POINT_Y": 6278657.2778 }, "geometry": { "type": "Point", "coordinates": [ 770080.41790000349, 6278657.2778000012 ] } }
+,
+{ "type": "Feature", "id": 190, "properties": { "CAR_LIEU": "Justice De Castelnau \/ Contre-Allée Draye", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771978.5573, "POINT_Y": 6281331.6149 }, "geometry": { "type": "Point", "coordinates": [ 771978.55730000138, 6281331.6149 ] } }
+,
+{ "type": "Feature", "id": 191, "properties": { "CAR_LIEU": "Place Du 8 Mai 1945 (Coté Ave de Toulouse)", "CAR_ANNEE": 1998, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 770115.0732, "POINT_Y": 6278384.7954 }, "geometry": { "type": "Point", "coordinates": [ 770115.07320000231, 6278384.7954000011 ] } }
+,
+{ "type": "Feature", "id": 192, "properties": { "CAR_LIEU": "Montasinos \/ Gros Olivier", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771254.8227, "POINT_Y": 6281004.5715 }, "geometry": { "type": "Point", "coordinates": [ 771254.8227000013, 6281004.5715 ] } }
+,
+{ "type": "Feature", "id": 193, "properties": { "CAR_LIEU": "Place Du 8 Mai 1945 (Coté Clémenceau)", "CAR_ANNEE": 1998, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 770095.7292, "POINT_Y": 6278382.0962 }, "geometry": { "type": "Point", "coordinates": [ 770095.72919999808, 6278382.0962 ] } }
+,
+{ "type": "Feature", "id": 194, "properties": { "CAR_LIEU": "Berthelot \/ Maurin", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 770722.8421, "POINT_Y": 6278246.4035 }, "geometry": { "type": "Point", "coordinates": [ 770722.84210000187, 6278246.4034999982 ] } }
+,
+{ "type": "Feature", "id": 195, "properties": { "CAR_LIEU": "Justice \/ Mas De Calenda", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771403.3148, "POINT_Y": 6281200.6831 }, "geometry": { "type": "Point", "coordinates": [ 771403.31480000168, 6281200.6831 ] } }
+,
+{ "type": "Feature", "id": 196, "properties": { "CAR_LIEU": "Dubout \/ Sept Cans", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772015.5839, "POINT_Y": 6278474.1664 }, "geometry": { "type": "Point", "coordinates": [ 772015.58389999717, 6278474.1664 ] } }
+,
+{ "type": "Feature", "id": 197, "properties": { "CAR_LIEU": "Justice \/ Roqueturière", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771814.5875, "POINT_Y": 6281269.6841 }, "geometry": { "type": "Point", "coordinates": [ 771814.58749999851, 6281269.6840999983 ] } }
+,
+{ "type": "Feature", "id": 198, "properties": { "CAR_LIEU": "Moularès \/ Comte De Melgueil", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 772127.9647, "POINT_Y": 6278718.5856 }, "geometry": { "type": "Point", "coordinates": [ 772127.9646999985, 6278718.5856 ] } }
+,
+{ "type": "Feature", "id": 199, "properties": { "CAR_LIEU": "Lodève \/ Piéton Mosson", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 766092.0808, "POINT_Y": 6279947.6114 }, "geometry": { "type": "Point", "coordinates": [ 766092.08079999685, 6279947.6114 ] } }
+,
+{ "type": "Feature", "id": 200, "properties": { "CAR_LIEU": "Place Roger Salengro", "CAR_ANNEE": 2010, "SON_ANNEE": 2010, "SON_NIVEAU": "Tout", "POINT_X": 770025.8582, "POINT_Y": 6279088.1122 }, "geometry": { "type": "Point", "coordinates": [ 770025.85819999874, 6279088.112199999 ] } }
+,
+{ "type": "Feature", "id": 201, "properties": { "CAR_LIEU": "Mermoz \/ Professeur Vallois \/ Pradier", "CAR_ANNEE": 2006, "SON_ANNEE": 2009, "SON_NIVEAU": "Tout", "POINT_X": 771757.9344, "POINT_Y": 6279754.9062 }, "geometry": { "type": "Point", "coordinates": [ 771757.93439999968, 6279754.906199999 ] } }
+,
+{ "type": "Feature", "id": 202, "properties": { "CAR_LIEU": "Flahault \/ Broussonnet", "CAR_ANNEE": 0, "SON_ANNEE": 2013, "SON_NIVEAU": "Tout", "POINT_X": 770042.7759, "POINT_Y": 6280211.7166 }, "geometry": { "type": "Point", "coordinates": [ 770042.77589999884, 6280211.7166 ] } }
+,
+{ "type": "Feature", "id": 203, "properties": { "CAR_LIEU": "Broussonnet \/ Croix Catelan", "CAR_ANNEE": 2002, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770142.5742, "POINT_Y": 6280167.079 }, "geometry": { "type": "Point", "coordinates": [ 770142.57419999689, 6280167.079 ] } }
+,
+{ "type": "Feature", "id": 204, "properties": { "CAR_LIEU": "Passage Piéton \/ Portalière Des Masques", "CAR_ANNEE": 2001, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769964.5566, "POINT_Y": 6280046.9565 }, "geometry": { "type": "Point", "coordinates": [ 769964.55659999698, 6280046.9565000013 ] } }
+,
+{ "type": "Feature", "id": 205, "properties": { "CAR_LIEU": "Chaptal \/ Toiras", "CAR_ANNEE": 2010, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770356.1968, "POINT_Y": 6278900.9667 }, "geometry": { "type": "Point", "coordinates": [ 770356.19680000097, 6278900.9666999988 ] } }
+,
+{ "type": "Feature", "id": 206, "properties": { "CAR_LIEU": "Ecole Normale \/ Crova", "CAR_ANNEE": 2003, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769944.2052, "POINT_Y": 6280606.4462 }, "geometry": { "type": "Point", "coordinates": [ 769944.2052000016, 6280606.4461999983 ] } }
+,
+{ "type": "Feature", "id": 207, "properties": { "CAR_LIEU": "Flahault \/ Rech", "CAR_ANNEE": 1998, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769863.2874, "POINT_Y": 6280495.5314 }, "geometry": { "type": "Point", "coordinates": [ 769863.2874, 6280495.5313999988 ] } }
+,
+{ "type": "Feature", "id": 208, "properties": { "CAR_LIEU": "Place Bouschet De Bernard", "CAR_ANNEE": 2010, "SON_ANNEE": 2010, "SON_NIVEAU": "Partiel", "POINT_X": 770049.5452, "POINT_Y": 6278924.8145 }, "geometry": { "type": "Point", "coordinates": [ 770049.54519999772, 6278924.8145 ] } }
+,
+{ "type": "Feature", "id": 209, "properties": { "CAR_LIEU": "Voie Domitienne \/ Citée Universitaire", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769437.4923, "POINT_Y": 6280752.6041 }, "geometry": { "type": "Point", "coordinates": [ 769437.49229999632, 6280752.6041 ] } }
+,
+{ "type": "Feature", "id": 210, "properties": { "CAR_LIEU": "Place Du 11 Novembre", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Partiel", "POINT_X": 771289.1412, "POINT_Y": 6279897.8533 }, "geometry": { "type": "Point", "coordinates": [ 771289.14119999856, 6279897.8533000015 ] } }
+,
+{ "type": "Feature", "id": 211, "properties": { "CAR_LIEU": "Henry IV \/ Saint Jaumes", "CAR_ANNEE": 1999, "SON_ANNEE": 2012, "SON_NIVEAU": "Partiel", "POINT_X": 770436.4619, "POINT_Y": 6279606.7136 }, "geometry": { "type": "Point", "coordinates": [ 770436.46190000325, 6279606.7135999985 ] } }
+,
+{ "type": "Feature", "id": 212, "properties": { "CAR_LIEU": "Alger \/ Levat \/ Grand Saint Jean", "CAR_ANNEE": 2010, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770888.5287, "POINT_Y": 6278763.575 }, "geometry": { "type": "Point", "coordinates": [ 770888.52870000154, 6278763.574999999 ] } }
+,
+{ "type": "Feature", "id": 213, "properties": { "CAR_LIEU": "Arceaux \/ Saint Louis", "CAR_ANNEE": 1991, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769976.6363, "POINT_Y": 6279567.436 }, "geometry": { "type": "Point", "coordinates": [ 769976.63629999757, 6279567.436 ] } }
+,
+{ "type": "Feature", "id": 214, "properties": { "CAR_LIEU": "Assas \/ Pitot", "CAR_ANNEE": 1991, "SON_ANNEE": 2005, "SON_NIVEAU": "Tout", "POINT_X": 770108.9785, "POINT_Y": 6279631.4629 }, "geometry": { "type": "Point", "coordinates": [ 770108.97850000113, 6279631.4629000016 ] } }
+,
+{ "type": "Feature", "id": 215, "properties": { "CAR_LIEU": "Pont De Lattes \/ Rue Farges", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 771323.8224, "POINT_Y": 6278804.1073 }, "geometry": { "type": "Point", "coordinates": [ 771323.82240000367, 6278804.1072999984 ] } }
+,
+{ "type": "Feature", "id": 216, "properties": { "CAR_LIEU": "Pépinière \/ Warnery", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Tout", "POINT_X": 771794.8404, "POINT_Y": 6279849.5052 }, "geometry": { "type": "Point", "coordinates": [ 771794.8404000029, 6279849.5051999986 ] } }
+,
+{ "type": "Feature", "id": 217, "properties": { "CAR_LIEU": "Passage Piéton \/ Etats Du Languedoc", "CAR_ANNEE": 2011, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771592.733, "POINT_Y": 6279022.0594 }, "geometry": { "type": "Point", "coordinates": [ 771592.7330000028, 6279022.0594 ] } }
+,
+{ "type": "Feature", "id": 218, "properties": { "CAR_LIEU": "Durand \/ Pagézy", "CAR_ANNEE": 1998, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770990.9532, "POINT_Y": 6278797.4145 }, "geometry": { "type": "Point", "coordinates": [ 770990.95319999754, 6278797.4145000018 ] } }
+,
+{ "type": "Feature", "id": 219, "properties": { "CAR_LIEU": "Place Rondelet", "CAR_ANNEE": 2007, "SON_ANNEE": 2011, "SON_NIVEAU": "Partiel", "POINT_X": 770647.4347, "POINT_Y": 6278628.629 }, "geometry": { "type": "Point", "coordinates": [ 770647.43469999731, 6278628.629 ] } }
+,
+{ "type": "Feature", "id": 220, "properties": { "CAR_LIEU": "Orient \/ Strasbourg \/ Barcelone", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Tout", "POINT_X": 771734.2311, "POINT_Y": 6278677.8554 }, "geometry": { "type": "Point", "coordinates": [ 771734.23110000044, 6278677.8554 ] } }
+,
+{ "type": "Feature", "id": 221, "properties": { "CAR_LIEU": "Saint Charles \/ Bertrand \/ Sainte-Lucie", "CAR_ANNEE": 1999, "SON_ANNEE": 2010, "SON_NIVEAU": "Partiel", "POINT_X": 770526.1129, "POINT_Y": 6280160.2352 }, "geometry": { "type": "Point", "coordinates": [ 770526.11289999634, 6280160.235199999 ] } }
+,
+{ "type": "Feature", "id": 222, "properties": { "CAR_LIEU": "Place Du 11 Novembre", "CAR_ANNEE": 1999, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 771314.7, "POINT_Y": 6279922.0628 }, "geometry": { "type": "Point", "coordinates": [ 771314.70000000298, 6279922.0628000014 ] } }
+,
+{ "type": "Feature", "id": 223, "properties": { "CAR_LIEU": "Place Albert 1er", "CAR_ANNEE": 1999, "SON_ANNEE": 2012, "SON_NIVEAU": "Tout", "POINT_X": 770627.8395, "POINT_Y": 6280075.9334 }, "geometry": { "type": "Point", "coordinates": [ 770627.83950000256, 6280075.9334000014 ] } }
+,
+{ "type": "Feature", "id": 224, "properties": { "CAR_LIEU": "Verdanson \/ Proudhon", "CAR_ANNEE": 2006, "SON_ANNEE": 2013, "SON_NIVEAU": "Tout", "POINT_X": 771166.5904, "POINT_Y": 6279928.2052 }, "geometry": { "type": "Point", "coordinates": [ 771166.5904000029, 6279928.2052000016 ] } }
+,
+{ "type": "Feature", "id": 225, "properties": { "CAR_LIEU": "République \/ Pagézy", "CAR_ANNEE": 2007, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 771016.1812, "POINT_Y": 6278874.7549 }, "geometry": { "type": "Point", "coordinates": [ 771016.18119999766, 6278874.754900001 ] } }
+,
+{ "type": "Feature", "id": 226, "properties": { "CAR_LIEU": "Clémenceau \/ Carlencas", "CAR_ANNEE": 1991, "SON_ANNEE": 2005, "SON_NIVEAU": "Partiel", "POINT_X": 770422.9846, "POINT_Y": 6278637.4731 }, "geometry": { "type": "Point", "coordinates": [ 770422.9846, 6278637.473099999 ] } }
+,
+{ "type": "Feature", "id": 227, "properties": { "CAR_LIEU": "Palavas \/ Strasbourg \/ Lattes", "CAR_ANNEE": 2006, "SON_ANNEE": -999, "SON_NIVEAU": "Tout", "POINT_X": 771441.4775, "POINT_Y": 6278653.2901 }, "geometry": { "type": "Point", "coordinates": [ 771441.47749999911, 6278653.2901 ] } }
+,
+{ "type": "Feature", "id": 228, "properties": { "CAR_LIEU": "Broussonnet \/ Chancel", "CAR_ANNEE": 0, "SON_ANNEE": 2012, "SON_NIVEAU": "Partiel", "POINT_X": 770211.4194, "POINT_Y": 6280132.814 }, "geometry": { "type": "Point", "coordinates": [ 770211.41939999908, 6280132.813999999 ] } }
+,
+{ "type": "Feature", "id": 229, "properties": { "CAR_LIEU": "Place Carnot", "CAR_ANNEE": 2011, "SON_ANNEE": 2010, "SON_NIVEAU": "Partiel", "POINT_X": 771276.5195, "POINT_Y": 6278625.6407 }, "geometry": { "type": "Point", "coordinates": [ 771276.51950000226, 6278625.6407000013 ] } }
+,
+{ "type": "Feature", "id": 230, "properties": { "CAR_LIEU": "Saint Jaumes \/ Bonnard", "CAR_ANNEE": 0, "SON_ANNEE": 2012, "SON_NIVEAU": "Aucun", "POINT_X": 770236.9505, "POINT_Y": 6279930.3333 }, "geometry": { "type": "Point", "coordinates": [ 770236.95049999654, 6279930.3332999982 ] } }
+,
+{ "type": "Feature", "id": 231, "properties": { "CAR_LIEU": "Assas \/ Saint-Louis", "CAR_ANNEE": 1991, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769962.5624, "POINT_Y": 6279767.6923 }, "geometry": { "type": "Point", "coordinates": [ 769962.56239999831, 6279767.692299999 ] } }
+,
+{ "type": "Feature", "id": 232, "properties": { "CAR_LIEU": "Broussonnet \/ Bonnard", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770360.6771, "POINT_Y": 6280062.4476 }, "geometry": { "type": "Point", "coordinates": [ 770360.67710000277, 6280062.4476 ] } }
+,
+{ "type": "Feature", "id": 233, "properties": { "CAR_LIEU": "Passage Piéton \/ Penelope", "CAR_ANNEE": 2009, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 774140.9797, "POINT_Y": 6278512.3099 }, "geometry": { "type": "Point", "coordinates": [ 774140.97969999909, 6278512.3099 ] } }
+,
+{ "type": "Feature", "id": 234, "properties": { "CAR_LIEU": "Léonard De Vinci \/ Passage Piéton", "CAR_ANNEE": 2005, "SON_ANNEE": 2006, "SON_NIVEAU": "Partiel", "POINT_X": 773238.5056, "POINT_Y": 6278864.6925 }, "geometry": { "type": "Point", "coordinates": [ 773241.67379999906, 6279010.4296 ] } }
+,
+{ "type": "Feature", "id": 235, "properties": { "CAR_LIEU": "Léonard De Vinci \/ Vauguières", "CAR_ANNEE": 2005, "SON_ANNEE": 2011, "SON_NIVEAU": "Partiel", "POINT_X": 773242.7803, "POINT_Y": 6278715.4955 }, "geometry": { "type": "Point", "coordinates": [ 773241.422499999, 6278854.443599999 ] } }
+,
+{ "type": "Feature", "id": 236, "properties": { "CAR_LIEU": "Droits De L'Homme \/ Juvénal", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772212.0369, "POINT_Y": 6278951.0523 }, "geometry": { "type": "Point", "coordinates": [ 772212.03689999878, 6278951.0522999987 ] } }
+,
+{ "type": "Feature", "id": 237, "properties": { "CAR_LIEU": "Grasset \/ Adhémard", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770076.372, "POINT_Y": 6280810.8841 }, "geometry": { "type": "Point", "coordinates": [ 770076.37200000137, 6280810.8841000013 ] } }
+,
+{ "type": "Feature", "id": 238, "properties": { "CAR_LIEU": "Angoulême \/ Saint Cléophas", "CAR_ANNEE": 2012, "SON_ANNEE": 2007, "SON_NIVEAU": "Tout", "POINT_X": 770360.8178, "POINT_Y": 6278040.142 }, "geometry": { "type": "Point", "coordinates": [ 770360.81780000031, 6278040.142 ] } }
+,
+{ "type": "Feature", "id": 239, "properties": { "CAR_LIEU": "Henry IV \/ Armand Gautier", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770532.092, "POINT_Y": 6279864.4269 }, "geometry": { "type": "Point", "coordinates": [ 770532.09200000018, 6279864.426899999 ] } }
+,
+{ "type": "Feature", "id": 240, "properties": { "CAR_LIEU": "Palavas \/ Iris", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771501.4532, "POINT_Y": 6278184.1774 }, "geometry": { "type": "Point", "coordinates": [ 771501.45319999754, 6278184.1774 ] } }
+,
+{ "type": "Feature", "id": 241, "properties": { "CAR_LIEU": "Pagézy \/ Maguelone", "CAR_ANNEE": 1999, "SON_ANNEE": 2011, "SON_NIVEAU": "Tout", "POINT_X": 771066.2923, "POINT_Y": 6278983.5705 }, "geometry": { "type": "Point", "coordinates": [ 771066.29230000079, 6278983.5705000013 ] } }
+,
+{ "type": "Feature", "id": 242, "properties": { "CAR_LIEU": "Nîmes \/ Saint Lazare", "CAR_ANNEE": 2007, "SON_ANNEE": 2010, "SON_NIVEAU": "Tout", "POINT_X": 771538.8399, "POINT_Y": 6280235.063 }, "geometry": { "type": "Point", "coordinates": [ 771538.83990000188, 6280235.063000001 ] } }
+,
+{ "type": "Feature", "id": 243, "properties": { "CAR_LIEU": "Jules Ferry \/ Verdun", "CAR_ANNEE": 1999, "SON_ANNEE": 2007, "SON_NIVEAU": "Tout", "POINT_X": 771245.1112, "POINT_Y": 6278906.422 }, "geometry": { "type": "Point", "coordinates": [ 771245.11119999737, 6278906.4219999984 ] } }
+,
+{ "type": "Feature", "id": 244, "properties": { "CAR_LIEU": "Moularès \/ Pirée", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772298.9381, "POINT_Y": 6278458.6897 }, "geometry": { "type": "Point", "coordinates": [ 772298.93810000271, 6278458.6897 ] } }
+,
+{ "type": "Feature", "id": 245, "properties": { "CAR_LIEU": "Moularès \/ Antonelli", "CAR_ANNEE": 2010, "SON_ANNEE": 2007, "SON_NIVEAU": "Tout", "POINT_X": 772195.5706, "POINT_Y": 6278200.2019 }, "geometry": { "type": "Point", "coordinates": [ 772195.570600003, 6278200.2019000016 ] } }
+,
+{ "type": "Feature", "id": 246, "properties": { "CAR_LIEU": "Moularès \/ Sept Cans", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772249.3351, "POINT_Y": 6278313.2093 }, "geometry": { "type": "Point", "coordinates": [ 772249.33510000259, 6278313.2093 ] } }
+,
+{ "type": "Feature", "id": 247, "properties": { "CAR_LIEU": "Pavelet \/ Trancavel", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769352.7224, "POINT_Y": 6276837.5886 }, "geometry": { "type": "Point", "coordinates": [ 769352.72240000218, 6276837.5885999985 ] } }
+,
+{ "type": "Feature", "id": 248, "properties": { "CAR_LIEU": "Jalade \/ Sabatier D'Espeyran", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769794.7967, "POINT_Y": 6281103.5226 }, "geometry": { "type": "Point", "coordinates": [ 769794.79670000076, 6281103.5225999989 ] } }
+,
+{ "type": "Feature", "id": 249, "properties": { "CAR_LIEU": "Marie De Montpellier \/ Fac De Droit", "CAR_ANNEE": 1999, "SON_ANNEE": 2005, "SON_NIVEAU": "Partiel", "POINT_X": 772606.1319, "POINT_Y": 6278471.1082 }, "geometry": { "type": "Point", "coordinates": [ 772606.13189999759, 6278471.1081999987 ] } }
+,
+{ "type": "Feature", "id": 250, "properties": { "CAR_LIEU": "Grasset \/ Pezet \/ Dunant", "CAR_ANNEE": 1999, "SON_ANNEE": 2005, "SON_NIVEAU": "Partiel", "POINT_X": 769943.9242, "POINT_Y": 6281210.7448 }, "geometry": { "type": "Point", "coordinates": [ 769943.92419999838, 6281210.7448000014 ] } }
+,
+{ "type": "Feature", "id": 251, "properties": { "CAR_LIEU": "Antonelli \/ Sept Cans \/ Entrée Mairie", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772296.8089, "POINT_Y": 6278246.6835 }, "geometry": { "type": "Point", "coordinates": [ 772296.80889999866, 6278246.683499999 ] } }
+,
+{ "type": "Feature", "id": 252, "properties": { "CAR_LIEU": "Marie De Montpellier \/ Syracuse", "CAR_ANNEE": 2002, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772471.408, "POINT_Y": 6278393.8444 }, "geometry": { "type": "Point", "coordinates": [ 772471.40799999982, 6278393.8444 ] } }
+,
+{ "type": "Feature", "id": 253, "properties": { "CAR_LIEU": "Barcelone \/ Oxford \/ Heidelberg \/ Bologne", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 766003.021, "POINT_Y": 6281231.2029 }, "geometry": { "type": "Point", "coordinates": [ 766003.02099999785, 6281231.2029 ] } }
+,
+{ "type": "Feature", "id": 254, "properties": { "CAR_LIEU": "Europe \/ Guilhem De Poitiers \/ Agathois", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 766396.4967, "POINT_Y": 6282053.2225 }, "geometry": { "type": "Point", "coordinates": [ 766396.49669999629, 6282053.2225 ] } }
+,
+{ "type": "Feature", "id": 255, "properties": { "CAR_LIEU": "Europe \/ Gimel \/ Raimbaud D'Orange", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 766391.6488, "POINT_Y": 6282389.0617 }, "geometry": { "type": "Point", "coordinates": [ 766391.64880000055, 6282389.0617000014 ] } }
+,
+{ "type": "Feature", "id": 256, "properties": { "CAR_LIEU": "Gimel \/ Grabels \/ Puech Villa", "CAR_ANNEE": 1999, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 766874.1099, "POINT_Y": 6282615.8767 }, "geometry": { "type": "Point", "coordinates": [ 766874.10989999771, 6282615.876699999 ] } }
+,
+{ "type": "Feature", "id": 257, "properties": { "CAR_LIEU": "Moulins \/ Navacelles", "CAR_ANNEE": 2001, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768190.7634, "POINT_Y": 6282339.8556 }, "geometry": { "type": "Point", "coordinates": [ 768190.76340000331, 6282339.855599999 ] } }
+,
+{ "type": "Feature", "id": 258, "properties": { "CAR_LIEU": "Ganges \/ Flahault \/ Diacon", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769285.4996, "POINT_Y": 6281364.1377 }, "geometry": { "type": "Point", "coordinates": [ 769285.49960000068, 6281364.1376999989 ] } }
+,
+{ "type": "Feature", "id": 259, "properties": { "CAR_LIEU": "Ganges \/ Palmiers \/ Colombière", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769193.9129, "POINT_Y": 6281479.202 }, "geometry": { "type": "Point", "coordinates": [ 769193.91290000081, 6281479.202 ] } }
+,
+{ "type": "Feature", "id": 260, "properties": { "CAR_LIEU": "Ganges \/ Doyen Giraud \/ Lapeyronie \/ Anglada", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768885.1735, "POINT_Y": 6281738.6471 }, "geometry": { "type": "Point", "coordinates": [ 768885.17350000143, 6281738.6471000016 ] } }
+,
+{ "type": "Feature", "id": 261, "properties": { "CAR_LIEU": "Doyen Giraud \/ Entrée C.H.R. Lapeyronie", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768764.0401, "POINT_Y": 6281850.546 }, "geometry": { "type": "Point", "coordinates": [ 768764.0401000008, 6281850.546 ] } }
+,
+{ "type": "Feature", "id": 262, "properties": { "CAR_LIEU": "Ganges \/ Doyen Giraud \/ Occitanie", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768573.5564, "POINT_Y": 6282066.0996 }, "geometry": { "type": "Point", "coordinates": [ 768573.55640000105, 6282066.0995999984 ] } }
+,
+{ "type": "Feature", "id": 263, "properties": { "CAR_LIEU": "Diacon \/ Fliche \/ Triolet", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769510.3835, "POINT_Y": 6281468.5347 }, "geometry": { "type": "Point", "coordinates": [ 769510.38350000232, 6281468.5346999988 ] } }
+,
+{ "type": "Feature", "id": 264, "properties": { "CAR_LIEU": "Pezet \/ Truel", "CAR_ANNEE": 1999, "SON_ANNEE": 2003, "SON_NIVEAU": "Partiel", "POINT_X": 770100.6187, "POINT_Y": 6281409.4021 }, "geometry": { "type": "Point", "coordinates": [ 770100.61869999766, 6281409.4021 ] } }
+,
+{ "type": "Feature", "id": 265, "properties": { "CAR_LIEU": "Mondial \/ Pénélope", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 773763.5183, "POINT_Y": 6278691.4407 }, "geometry": { "type": "Point", "coordinates": [ 773763.51829999685, 6278691.4406999983 ] } }
+,
+{ "type": "Feature", "id": 266, "properties": { "CAR_LIEU": "Mondial \/ Mas Rouge", "CAR_ANNEE": 1999, "SON_ANNEE": 2005, "SON_NIVEAU": "Partiel", "POINT_X": 773378.7666, "POINT_Y": 6278676.9295 }, "geometry": { "type": "Point", "coordinates": [ 773378.76659999788, 6278676.9294999987 ] } }
+,
+{ "type": "Feature", "id": 267, "properties": { "CAR_LIEU": "Place Ernest Granier", "CAR_ANNEE": 1999, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 772779.4478, "POINT_Y": 6278488.3293 }, "geometry": { "type": "Point", "coordinates": [ 772779.44780000299, 6278488.3293000013 ] } }
+,
+{ "type": "Feature", "id": 268, "properties": { "CAR_LIEU": "Place Ernest Granier", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772797.4423, "POINT_Y": 6278533.3155 }, "geometry": { "type": "Point", "coordinates": [ 772797.442299999, 6278533.3154999986 ] } }
+,
+{ "type": "Feature", "id": 269, "properties": { "CAR_LIEU": "Place Ernest Granier", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772749.7569, "POINT_Y": 6278558.0579 }, "geometry": { "type": "Point", "coordinates": [ 772749.75689999759, 6278558.0579 ] } }
+,
+{ "type": "Feature", "id": 270, "properties": { "CAR_LIEU": "Aéroport International \/ Acropole", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772083.7226, "POINT_Y": 6279276.2023 }, "geometry": { "type": "Point", "coordinates": [ 772083.72259999812, 6279276.2023 ] } }
+,
+{ "type": "Feature", "id": 271, "properties": { "CAR_LIEU": "Droits De L'Homme \/ Barques", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772266.9861, "POINT_Y": 6278789.2512 }, "geometry": { "type": "Point", "coordinates": [ 772266.98610000312, 6278789.2512000017 ] } }
+,
+{ "type": "Feature", "id": 272, "properties": { "CAR_LIEU": "Mondial \/ Manuguerra", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 773210.1939, "POINT_Y": 6278673.632 }, "geometry": { "type": "Point", "coordinates": [ 773210.19389999658, 6278673.631999999 ] } }
+,
+{ "type": "Feature", "id": 273, "properties": { "CAR_LIEU": "Passage Piéton \/ Station TRAM rue du Mondial", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 772977.9801, "POINT_Y": 6278605.2938 }, "geometry": { "type": "Point", "coordinates": [ 772977.98009999841, 6278605.2938 ] } }
+,
+{ "type": "Feature", "id": 274, "properties": { "CAR_LIEU": "Georges Méliès \/ Odysséum", "CAR_ANNEE": 2009, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 774331.0619, "POINT_Y": 6278753.4608 }, "geometry": { "type": "Point", "coordinates": [ 774331.06189999729, 6278753.4608 ] } }
+,
+{ "type": "Feature", "id": 275, "properties": { "CAR_LIEU": "Mondial \/ Vauguières", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 773613.1861, "POINT_Y": 6278714.2386 }, "geometry": { "type": "Point", "coordinates": [ 773613.18609999865, 6278714.2386 ] } }
+,
+{ "type": "Feature", "id": 276, "properties": { "CAR_LIEU": "Madeleine \/ Méhul", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769536.8308, "POINT_Y": 6276197.6805 }, "geometry": { "type": "Point", "coordinates": [ 769536.83079999685, 6276197.6805 ] } }
+,
+{ "type": "Feature", "id": 277, "properties": { "CAR_LIEU": "Parking Sabines", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 769465.709, "POINT_Y": 6276472.1859 }, "geometry": { "type": "Point", "coordinates": [ 769465.70899999887, 6276472.185899999 ] } }
+,
+{ "type": "Feature", "id": 278, "properties": { "CAR_LIEU": "Villeneuve D'Angoulême \/ Paul Valéry", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769646.3685, "POINT_Y": 6276672.8731 }, "geometry": { "type": "Point", "coordinates": [ 769646.36850000173, 6276672.8731000014 ] } }
+,
+{ "type": "Feature", "id": 279, "properties": { "CAR_LIEU": "Villeneuve D'Angoulême \/ Bachelard", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 769830.5189, "POINT_Y": 6276760.1858 }, "geometry": { "type": "Point", "coordinates": [ 769830.51889999956, 6276760.185800001 ] } }
+,
+{ "type": "Feature", "id": 280, "properties": { "CAR_LIEU": "Villeneuve D'Angoulême \/ Arnel \/ Foucaud", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769965.9858, "POINT_Y": 6277253.8993 }, "geometry": { "type": "Point", "coordinates": [ 769965.98579999804, 6277253.8993000016 ] } }
+,
+{ "type": "Feature", "id": 281, "properties": { "CAR_LIEU": "Villeneuve D'Angoulême \/ Roseau \/ Brassens", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 769980.2733, "POINT_Y": 6277530.654 }, "geometry": { "type": "Point", "coordinates": [ 769980.27329999954, 6277530.653999999 ] } }
+,
+{ "type": "Feature", "id": 282, "properties": { "CAR_LIEU": "Villeneuve D'Angoulême \/ Janvier", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 770084.5219, "POINT_Y": 6277731.3688 }, "geometry": { "type": "Point", "coordinates": [ 770084.52189999819, 6277731.368799999 ] } }
+,
+{ "type": "Feature", "id": 283, "properties": { "CAR_LIEU": "Pedro De Luna \/ Ecole Républicaine", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 770387.7328, "POINT_Y": 6277682.6564 }, "geometry": { "type": "Point", "coordinates": [ 770387.73279999942, 6277682.6563999988 ] } }
+,
+{ "type": "Feature", "id": 284, "properties": { "CAR_LIEU": "Pedro De Luna \/ Costa Dorada \/ Vercors", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 770455.3337, "POINT_Y": 6277629.0792 }, "geometry": { "type": "Point", "coordinates": [ 770455.33370000124, 6277629.0792 ] } }
+,
+{ "type": "Feature", "id": 285, "properties": { "CAR_LIEU": "Pedro De Luna \/ Costa Brava", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Tout", "POINT_X": 770558.5214, "POINT_Y": 6277544.5446 }, "geometry": { "type": "Point", "coordinates": [ 770558.52139999717, 6277544.5445999987 ] } }
+,
+{ "type": "Feature", "id": 286, "properties": { "CAR_LIEU": "Maurin \/ J.Cugnot", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Tout", "POINT_X": 770733.8082, "POINT_Y": 6277668.6345 }, "geometry": { "type": "Point", "coordinates": [ 770733.80820000172, 6277668.6345 ] } }
+,
+{ "type": "Feature", "id": 287, "properties": { "CAR_LIEU": "Maurin \/ Fermaud", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770686.4776, "POINT_Y": 6278409.8125 }, "geometry": { "type": "Point", "coordinates": [ 770686.4776000008, 6278409.8125 ] } }
+,
+{ "type": "Feature", "id": 288, "properties": { "CAR_LIEU": "Catalan \/ Accès Parking", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770770.4601, "POINT_Y": 6278626.444 }, "geometry": { "type": "Point", "coordinates": [ 770770.46010000259, 6278626.4439999983 ] } }
+,
+{ "type": "Feature", "id": 289, "properties": { "CAR_LIEU": "Gare Saint Roch \/ Durand \/ Ferry", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771105.2646, "POINT_Y": 6278834.8303 }, "geometry": { "type": "Point", "coordinates": [ 771105.26460000128, 6278834.8303 ] } }
+,
+{ "type": "Feature", "id": 290, "properties": { "CAR_LIEU": "Epidaure \/ Corfou", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772239.3928, "POINT_Y": 6279454.4636 }, "geometry": { "type": "Point", "coordinates": [ 772239.39280000329, 6279454.4635999985 ] } }
+,
+{ "type": "Feature", "id": 291, "properties": { "CAR_LIEU": "Vasco de Gama \/ Béracasa", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772278.3661, "POINT_Y": 6279728.9693 }, "geometry": { "type": "Point", "coordinates": [ 772278.36609999835, 6279728.9693000019 ] } }
+,
+{ "type": "Feature", "id": 292, "properties": { "CAR_LIEU": "Epidaure \/ Semalen", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772255.9294, "POINT_Y": 6279641.392 }, "geometry": { "type": "Point", "coordinates": [ 772255.929399997, 6279641.392 ] } }
+,
+{ "type": "Feature", "id": 293, "properties": { "CAR_LIEU": "Franchissement Tram Rue Vallois", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771641.0365, "POINT_Y": 6279835.7289 }, "geometry": { "type": "Point", "coordinates": [ 771641.03649999946, 6279835.7289 ] } }
+,
+{ "type": "Feature", "id": 294, "properties": { "CAR_LIEU": "Nîmes \/ Sauret \/ Val Marie", "CAR_ANNEE": 2007, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 771731.2964, "POINT_Y": 6280411.9365 }, "geometry": { "type": "Point", "coordinates": [ 771731.29640000314, 6280411.9365000017 ] } }
+,
+{ "type": "Feature", "id": 295, "properties": { "CAR_LIEU": "Dubout \/ Orient \/ Comte de Melgueil", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 771901.3689, "POINT_Y": 6278697.4105 }, "geometry": { "type": "Point", "coordinates": [ 771901.36890000105, 6278697.4105000012 ] } }
+,
+{ "type": "Feature", "id": 296, "properties": { "CAR_LIEU": "Lavérune \/ Mr Teste", "CAR_ANNEE": 2000, "SON_ANNEE": 2009, "SON_NIVEAU": "Tout", "POINT_X": 767969.8384, "POINT_Y": 6278067.9005 }, "geometry": { "type": "Point", "coordinates": [ 767969.83839999884, 6278067.9005 ] } }
+,
+{ "type": "Feature", "id": 297, "properties": { "CAR_LIEU": "Pompignane \/ Courlis", "CAR_ANNEE": 2007, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 772519.4103, "POINT_Y": 6279864.0124 }, "geometry": { "type": "Point", "coordinates": [ 772519.4103000015, 6279864.0124000013 ] } }
+,
+{ "type": "Feature", "id": 298, "properties": { "CAR_LIEU": "Dubout \/ Antonelli", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771866.6942, "POINT_Y": 6278171.0645 }, "geometry": { "type": "Point", "coordinates": [ 771952.50169999897, 6278230.9217 ] } }
+,
+{ "type": "Feature", "id": 299, "properties": { "CAR_LIEU": "Piste de la Prévention Routière", "CAR_ANNEE": 1998, "SON_ANNEE": 0, "SON_NIVEAU": null, "POINT_X": 0.0, "POINT_Y": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 768101.03440000117, 6281642.181400001 ] } }
+,
+{ "type": "Feature", "id": 300, "properties": { "CAR_LIEU": "Grabels \/ Carriérasse ( Malbosc )", "CAR_ANNEE": 2003, "SON_ANNEE": 2012, "SON_NIVEAU": "Partiel", "POINT_X": 767311.5287, "POINT_Y": 6282069.3483 }, "geometry": { "type": "Point", "coordinates": [ 767311.52870000154, 6282069.3482999988 ] } }
+,
+{ "type": "Feature", "id": 301, "properties": { "CAR_LIEU": "Ganges \/ Pic Saint Loup \/ Lyre", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 768393.926, "POINT_Y": 6282540.8032 }, "geometry": { "type": "Point", "coordinates": [ 768393.92599999905, 6282540.803199999 ] } }
+,
+{ "type": "Feature", "id": 302, "properties": { "CAR_LIEU": "Flahault \/ Valteline", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769501.3189, "POINT_Y": 6281101.9443 }, "geometry": { "type": "Point", "coordinates": [ 769501.31889999658, 6281101.9443 ] } }
+,
+{ "type": "Feature", "id": 303, "properties": { "CAR_LIEU": "Mende \/ Fac De Lettres", "CAR_ANNEE": 0, "SON_ANNEE": 2003, "SON_NIVEAU": "Partiel", "POINT_X": 770095.4219, "POINT_Y": 6281843.0628 }, "geometry": { "type": "Point", "coordinates": [ 770095.4218999967, 6281843.0628000014 ] } }
+,
+{ "type": "Feature", "id": 304, "properties": { "CAR_LIEU": "Place De La Voie Domitienne", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770252.0365, "POINT_Y": 6281587.1288 }, "geometry": { "type": "Point", "coordinates": [ 770252.03649999946, 6281587.128800001 ] } }
+,
+{ "type": "Feature", "id": 305, "properties": { "CAR_LIEU": "Jeu De Paume \/ André Michel", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770602.6639, "POINT_Y": 6279095.2357 }, "geometry": { "type": "Point", "coordinates": [ 770602.66390000284, 6279095.2357 ] } }
+,
+{ "type": "Feature", "id": 306, "properties": { "CAR_LIEU": "Jeu De Paume \/ Grand Rue", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 770740.6909, "POINT_Y": 6279009.8365 }, "geometry": { "type": "Point", "coordinates": [ 770740.69089999795, 6279009.8365 ] } }
+,
+{ "type": "Feature", "id": 307, "properties": { "CAR_LIEU": "Observatoire \/ Anatole France \/ République", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 770844.492, "POINT_Y": 6278966.8719 }, "geometry": { "type": "Point", "coordinates": [ 770844.49199999869, 6278966.8719 ] } }
+,
+{ "type": "Feature", "id": 308, "properties": { "CAR_LIEU": "Gambetta \/ Clémenceau", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 770676.074, "POINT_Y": 6278868.8074 }, "geometry": { "type": "Point", "coordinates": [ 770676.07400000095, 6278868.807399999 ] } }
+,
+{ "type": "Feature", "id": 309, "properties": { "CAR_LIEU": "Gambetta \/ André Michel", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 770543.4652, "POINT_Y": 6278912.58 }, "geometry": { "type": "Point", "coordinates": [ 770543.46519999951, 6278912.5799999982 ] } }
+,
+{ "type": "Feature", "id": 310, "properties": { "CAR_LIEU": "Lodève \/ Piéton Lycée \/ Gendarmerie", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "tout", "POINT_X": 768512.0523, "POINT_Y": 6279459.4038 }, "geometry": { "type": "Point", "coordinates": [ 768512.0522999987, 6279459.4038 ] } }
+,
+{ "type": "Feature", "id": 311, "properties": { "CAR_LIEU": "Gambetta \/ Marceau", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 770433.7264, "POINT_Y": 6278984.4144 }, "geometry": { "type": "Point", "coordinates": [ 770433.72640000284, 6278984.4144 ] } }
+,
+{ "type": "Feature", "id": 312, "properties": { "CAR_LIEU": "Lodève \/ Masséna", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "tout", "POINT_X": 768362.5624, "POINT_Y": 6279535.4716 }, "geometry": { "type": "Point", "coordinates": [ 768362.56239999831, 6279535.4716 ] } }
+,
+{ "type": "Feature", "id": 313, "properties": { "CAR_LIEU": "Gambetta \/ Soldats", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 770322.2656, "POINT_Y": 6279065.3559 }, "geometry": { "type": "Point", "coordinates": [ 770322.2656000033, 6279065.3559 ] } }
+,
+{ "type": "Feature", "id": 314, "properties": { "CAR_LIEU": "Gambetta \/ Raffinerie", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 770245.7724, "POINT_Y": 6279117.2737 }, "geometry": { "type": "Point", "coordinates": [ 770245.772399999, 6279117.2736999989 ] } }
+,
+{ "type": "Feature", "id": 315, "properties": { "CAR_LIEU": "Lodève \/ Tour Buffel", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 769308.4161, "POINT_Y": 6279424.8503 }, "geometry": { "type": "Point", "coordinates": [ 769308.41610000283, 6279424.850299999 ] } }
+,
+{ "type": "Feature", "id": 316, "properties": { "CAR_LIEU": "Gambetta \/ Daru \/ Figuerolles", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 770148.1464, "POINT_Y": 6279183.3783 }, "geometry": { "type": "Point", "coordinates": [ 770148.14639999717, 6279183.3783 ] } }
+,
+{ "type": "Feature", "id": 317, "properties": { "CAR_LIEU": "Palavas \/ Saint Hilaire", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 771921.5628, "POINT_Y": 6277144.7358 }, "geometry": { "type": "Point", "coordinates": [ 771919.89909999818, 6277247.8845999986 ] } }
+,
+{ "type": "Feature", "id": 318, "properties": { "CAR_LIEU": "Lodève \/ Saint Louis \/ Pellicier", "CAR_ANNEE": 2011, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 770011.2754, "POINT_Y": 6279274.331 }, "geometry": { "type": "Point", "coordinates": [ 770011.27539999783, 6279274.331 ] } }
+,
+{ "type": "Feature", "id": 319, "properties": { "CAR_LIEU": "Saint Hilaire \/ Garcia Lorca", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 772004.1792, "POINT_Y": 6277345.4227 }, "geometry": { "type": "Point", "coordinates": [ 772004.17920000106, 6277345.422699999 ] } }
+,
+{ "type": "Feature", "id": 320, "properties": { "CAR_LIEU": "Gambetta \/ Zola", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 770075.4282, "POINT_Y": 6279254.6783 }, "geometry": { "type": "Point", "coordinates": [ 770075.42819999903, 6279254.6783 ] } }
+,
+{ "type": "Feature", "id": 321, "properties": { "CAR_LIEU": "Bd de Strasbourg \/ Riverains", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 771562.435, "POINT_Y": 6278658.5612 }, "geometry": { "type": "Point", "coordinates": [ 771562.43500000238, 6278658.5612 ] } }
+,
+{ "type": "Feature", "id": 322, "properties": { "CAR_LIEU": "Saint Hilaire \/ Métairie de Saysset", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 772071.3835, "POINT_Y": 6277410.5985 }, "geometry": { "type": "Point", "coordinates": [ 772071.38350000232, 6277410.5984999985 ] } }
+,
+{ "type": "Feature", "id": 323, "properties": { "CAR_LIEU": "Lodève \/ Volontaires \/ Brailles", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 769808.8439, "POINT_Y": 6279332.6681 }, "geometry": { "type": "Point", "coordinates": [ 769808.84390000254, 6279332.668099999 ] } }
+,
+{ "type": "Feature", "id": 324, "properties": { "CAR_LIEU": "Saint Hilaire \/ Coste Peinture", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 772170.867, "POINT_Y": 6277484.682 }, "geometry": { "type": "Point", "coordinates": [ 772149.239, 6277471.3724999987 ] } }
+,
+{ "type": "Feature", "id": 325, "properties": { "CAR_LIEU": "Lodève \/ Nogaret", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 769672.1864, "POINT_Y": 6279356.0838 }, "geometry": { "type": "Point", "coordinates": [ 769672.18639999628, 6279356.083799999 ] } }
+,
+{ "type": "Feature", "id": 326, "properties": { "CAR_LIEU": "Lodève \/ Forgues", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "tout", "POINT_X": 768907.0496, "POINT_Y": 6279384.1826 }, "geometry": { "type": "Point", "coordinates": [ 768907.0495999977, 6279384.182599999 ] } }
+,
+{ "type": "Feature", "id": 327, "properties": { "CAR_LIEU": "Saint Hilaire \/ Centrayrargues", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 772334.909, "POINT_Y": 6277576.7571 }, "geometry": { "type": "Point", "coordinates": [ 772334.90900000185, 6277576.757100001 ] } }
+,
+{ "type": "Feature", "id": 328, "properties": { "CAR_LIEU": "Passage Piéton \/ St Hilaire", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 772474.0801, "POINT_Y": 6277604.0754 }, "geometry": { "type": "Point", "coordinates": [ 772474.0801, 6277604.0753999986 ] } }
+,
+{ "type": "Feature", "id": 329, "properties": { "CAR_LIEU": "Lodève \/ Benjamin Milhaud", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 769150.9262, "POINT_Y": 6279417.8477 }, "geometry": { "type": "Point", "coordinates": [ 769150.92620000243, 6279417.8477 ] } }
+,
+{ "type": "Feature", "id": 330, "properties": { "CAR_LIEU": "Lodève \/ Citée Astruc", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 768996.8841, "POINT_Y": 6279390.2835 }, "geometry": { "type": "Point", "coordinates": [ 768996.88409999758, 6279390.2835 ] } }
+,
+{ "type": "Feature", "id": 331, "properties": { "CAR_LIEU": "Tillion \/ Pont Trinquat \/ Acconiers", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 772419.8491, "POINT_Y": 6277792.8931 }, "geometry": { "type": "Point", "coordinates": [ 772419.84910000116, 6277792.8931 ] } }
+,
+{ "type": "Feature", "id": 332, "properties": { "CAR_LIEU": "Lodève \/ Taillade", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 768615.3801, "POINT_Y": 6279423.6782 }, "geometry": { "type": "Point", "coordinates": [ 768615.38009999692, 6279423.678199999 ] } }
+,
+{ "type": "Feature", "id": 333, "properties": { "CAR_LIEU": "Tillion \/ Voie privée", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 772369.834, "POINT_Y": 6277942.9412 }, "geometry": { "type": "Point", "coordinates": [ 772369.83399999887, 6277942.941199999 ] } }
+,
+{ "type": "Feature", "id": 334, "properties": { "CAR_LIEU": "Lodève \/ Las Sorbès", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 768288.9676, "POINT_Y": 6279610.1359 }, "geometry": { "type": "Point", "coordinates": [ 768288.96760000288, 6279610.1358999982 ] } }
+,
+{ "type": "Feature", "id": 335, "properties": { "CAR_LIEU": "Moulins \/ Alco", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 767441.8106, "POINT_Y": 6280731.3907 }, "geometry": { "type": "Point", "coordinates": [ 767441.81059999764, 6280731.3907000013 ] } }
+,
+{ "type": "Feature", "id": 336, "properties": { "CAR_LIEU": "Lodève \/ Alco", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 768217.0301, "POINT_Y": 6279655.0636 }, "geometry": { "type": "Point", "coordinates": [ 768217.03010000288, 6279655.0636 ] } }
+,
+{ "type": "Feature", "id": 337, "properties": { "CAR_LIEU": "Prés D'Arènes \/ Perruque \/ Morlhon", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "tout", "POINT_X": 770895.081, "POINT_Y": 6277794.1609 }, "geometry": { "type": "Point", "coordinates": [ 770895.08100000024, 6277794.1609 ] } }
+,
+{ "type": "Feature", "id": 338, "properties": { "CAR_LIEU": "Lodève \/ Bringuier", "CAR_ANNEE": 2000, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 767754.5995, "POINT_Y": 6279764.3947 }, "geometry": { "type": "Point", "coordinates": [ 767754.59950000048, 6279764.3946999982 ] } }
+,
+{ "type": "Feature", "id": 339, "properties": { "CAR_LIEU": "Prés D'Arènes \/ Tulipes", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "tout", "POINT_X": 771024.1028, "POINT_Y": 6277634.0923 }, "geometry": { "type": "Point", "coordinates": [ 771024.10279999673, 6277634.0923000015 ] } }
+,
+{ "type": "Feature", "id": 340, "properties": { "CAR_LIEU": "Prés D'Arènes \/ Lesseps \/ Prés D'Hermès", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "tout", "POINT_X": 771049.7322, "POINT_Y": 6277513.6617 }, "geometry": { "type": "Point", "coordinates": [ 771049.73219999671, 6277513.661699999 ] } }
+,
+{ "type": "Feature", "id": 341, "properties": { "CAR_LIEU": "Tillion \/ Parking Mairie", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 772307.3923, "POINT_Y": 6278091.1082 }, "geometry": { "type": "Point", "coordinates": [ 772307.39230000228, 6278091.1081999987 ] } }
+,
+{ "type": "Feature", "id": 342, "properties": { "CAR_LIEU": "Prés D'Arènes \/ Pivoines", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "tout", "POINT_X": 771086.3507, "POINT_Y": 6277446.2087 }, "geometry": { "type": "Point", "coordinates": [ 771086.35069999844, 6277446.2087000012 ] } }
+,
+{ "type": "Feature", "id": 343, "properties": { "CAR_LIEU": "Prés D'Arènes \/ Yuccas", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "tout", "POINT_X": 771471.1143, "POINT_Y": 6277240.6999 }, "geometry": { "type": "Point", "coordinates": [ 771471.11429999769, 6277240.6999 ] } }
+,
+{ "type": "Feature", "id": 344, "properties": { "CAR_LIEU": "Bringuier \/ Araucarias", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 767798.7342, "POINT_Y": 6279916.296 }, "geometry": { "type": "Point", "coordinates": [ 767798.73420000076, 6279916.296 ] } }
+,
+{ "type": "Feature", "id": 345, "properties": { "CAR_LIEU": "Prés D'Arènes \/ Industrie", "CAR_ANNEE": 2012, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 771549.257, "POINT_Y": 6277202.9175 }, "geometry": { "type": "Point", "coordinates": [ 771549.25699999928, 6277202.9175 ] } }
+,
+{ "type": "Feature", "id": 346, "properties": { "CAR_LIEU": "Moulins \/ Delteil", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 767349.2062, "POINT_Y": 6280599.7602 }, "geometry": { "type": "Point", "coordinates": [ 767349.20620000362, 6280599.7602000013 ] } }
+,
+{ "type": "Feature", "id": 347, "properties": { "CAR_LIEU": "Palavas \/ Leclerc", "CAR_ANNEE": 2000, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 771892.2688, "POINT_Y": 6277308.4396 }, "geometry": { "type": "Point", "coordinates": [ 771892.26879999787, 6277308.4395999983 ] } }
+,
+{ "type": "Feature", "id": 348, "properties": { "CAR_LIEU": "Pilory \/ Moulins \/ Giono", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 767224.1903, "POINT_Y": 6280442.9943 }, "geometry": { "type": "Point", "coordinates": [ 767224.19030000269, 6280442.9943 ] } }
+,
+{ "type": "Feature", "id": 349, "properties": { "CAR_LIEU": "Alco \/ Carrieu \/ Bringuier", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 767910.4437, "POINT_Y": 6280048.6412 }, "geometry": { "type": "Point", "coordinates": [ 767910.44370000064, 6280048.6411999986 ] } }
+,
+{ "type": "Feature", "id": 350, "properties": { "CAR_LIEU": "Près d'arènes \/ Catalpas", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 771383.6772, "POINT_Y": 6277280.8058 }, "geometry": { "type": "Point", "coordinates": [ 771383.67719999701, 6277280.8057999983 ] } }
+,
+{ "type": "Feature", "id": 351, "properties": { "CAR_LIEU": "Lodève \/ Zamenhof", "CAR_ANNEE": 2000, "SON_ANNEE": 2008, "SON_NIVEAU": "Partiel", "POINT_X": 766691.5841, "POINT_Y": 6279891.7179 }, "geometry": { "type": "Point", "coordinates": [ 766691.58410000056, 6279891.7179 ] } }
+,
+{ "type": "Feature", "id": 352, "properties": { "CAR_LIEU": "Près d'arènes \/ Fabre de Morlhon \/ Déchèterie", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 770944.2349, "POINT_Y": 6277746.4561 }, "geometry": { "type": "Point", "coordinates": [ 770944.23489999771, 6277746.4560999982 ] } }
+,
+{ "type": "Feature", "id": 353, "properties": { "CAR_LIEU": "Lodève \/ Zac De La Fontaine", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 766523.6053, "POINT_Y": 6279897.8847 }, "geometry": { "type": "Point", "coordinates": [ 766523.6053000018, 6279897.8847 ] } }
+,
+{ "type": "Feature", "id": 354, "properties": { "CAR_LIEU": "Près d'arènes \/ Cyprès", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 771166.7845, "POINT_Y": 6277388.6027 }, "geometry": { "type": "Point", "coordinates": [ 771166.78450000286, 6277388.6026999988 ] } }
+,
+{ "type": "Feature", "id": 355, "properties": { "CAR_LIEU": "Près d'arènes \/ Bizet", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 771267.6438, "POINT_Y": 6277340.6601 }, "geometry": { "type": "Point", "coordinates": [ 771267.64379999787, 6277340.6601000018 ] } }
+,
+{ "type": "Feature", "id": 356, "properties": { "CAR_LIEU": "Lodève \/ Liberté", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 766179.031, "POINT_Y": 6279952.74 }, "geometry": { "type": "Point", "coordinates": [ 766179.03100000322, 6279952.7399999984 ] } }
+,
+{ "type": "Feature", "id": 357, "properties": { "CAR_LIEU": "Abrivado \/ Anoubles", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 771724.3156, "POINT_Y": 6277127.4055 }, "geometry": { "type": "Point", "coordinates": [ 771724.31560000032, 6277127.4054999985 ] } }
+,
+{ "type": "Feature", "id": 358, "properties": { "CAR_LIEU": "Zamenhof \/ Pilory \/ Favre de St Castor", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 766704.713, "POINT_Y": 6280132.6043 }, "geometry": { "type": "Point", "coordinates": [ 766704.71299999952, 6280132.6043 ] } }
+,
+{ "type": "Feature", "id": 359, "properties": { "CAR_LIEU": "Lodève \/ TRAM Spaak", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 766366.5748, "POINT_Y": 6279927.8164 }, "geometry": { "type": "Point", "coordinates": [ 766366.57479999959, 6279927.816399999 ] } }
+,
+{ "type": "Feature", "id": 360, "properties": { "CAR_LIEU": "Alco \/ Paul Rimbaud", "CAR_ANNEE": 2009, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 767777.9871, "POINT_Y": 6280231.5126 }, "geometry": { "type": "Point", "coordinates": [ 767777.9870999977, 6280231.5126 ] } }
+,
+{ "type": "Feature", "id": 361, "properties": { "CAR_LIEU": "Montasinos \/ Laëtitia", "CAR_ANNEE": 2006, "SON_ANNEE": 2007, "SON_NIVEAU": "Partiel", "POINT_X": 771252.9176, "POINT_Y": 6280860.8847 }, "geometry": { "type": "Point", "coordinates": [ 771252.91759999841, 6280860.8847 ] } }
+,
+{ "type": "Feature", "id": 362, "properties": { "CAR_LIEU": "Alco \/ Hôtel Du Département", "CAR_ANNEE": 1999, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 767648.8093, "POINT_Y": 6280433.4845 }, "geometry": { "type": "Point", "coordinates": [ 767648.80929999799, 6280433.4844999984 ] } }
+,
+{ "type": "Feature", "id": 363, "properties": { "CAR_LIEU": "Mosson \/ Franchissement", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 766027.6652, "POINT_Y": 6280137.3737 }, "geometry": { "type": "Point", "coordinates": [ 766027.66520000249, 6280137.3737 ] } }
+,
+{ "type": "Feature", "id": 364, "properties": { "CAR_LIEU": "Bretelle Spaak \/ Bus Mosson", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 766120.4939, "POINT_Y": 6280174.0996 }, "geometry": { "type": "Point", "coordinates": [ 766120.49390000105, 6280174.0995999984 ] } }
+,
+{ "type": "Feature", "id": 365, "properties": { "CAR_LIEU": "Heidelberg \/ place Schumann", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 765984.3773, "POINT_Y": 6280464.7329 }, "geometry": { "type": "Point", "coordinates": [ 765984.37730000168, 6280464.7329000011 ] } }
+,
+{ "type": "Feature", "id": 366, "properties": { "CAR_LIEU": "Passage Piéton Raymond Dugrand 1", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 0.0, "POINT_Y": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 772806.0468999967, 6278419.98 ] } }
+,
+{ "type": "Feature", "id": 367, "properties": { "CAR_LIEU": "Place Pablo Picasso", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 772956.9456, "POINT_Y": 6278109.596 }, "geometry": { "type": "Point", "coordinates": [ 772956.945600003, 6278109.596 ] } }
+,
+{ "type": "Feature", "id": 368, "properties": { "CAR_LIEU": "Passage Piéton Raymond Dugrand 2", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 773138.1195, "POINT_Y": 6277733.4239 }, "geometry": { "type": "Point", "coordinates": [ 773138.1194999963, 6277733.4239 ] } }
+,
+{ "type": "Feature", "id": 369, "properties": { "CAR_LIEU": "Raymond Dugrand \/ Claude Lévi-Strauss", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 0.0, "POINT_Y": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 772982.51739999652, 6278049.3918000013 ] } }
+,
+{ "type": "Feature", "id": 370, "properties": { "CAR_LIEU": "Alco \/ Cour des Ecoles", "CAR_ANNEE": 0, "SON_ANNEE": 0, "SON_NIVEAU": "Tout", "POINT_X": 0.0, "POINT_Y": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 767848.79299999774, 6280119.9305 ] } }
+,
+{ "type": "Feature", "id": 371, "properties": { "CAR_LIEU": "Accès Riverains Villeneuve D'Angoulême", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769893.4898, "POINT_Y": 6276843.7943 }, "geometry": { "type": "Point", "coordinates": [ 769893.4897999987, 6276843.7943000011 ] } }
+,
+{ "type": "Feature", "id": 372, "properties": { "CAR_LIEU": "Angoulême \/ Riverains", "CAR_ANNEE": 2006, "SON_ANNEE": 0, "SON_NIVEAU": "Aucun", "POINT_X": 769937.5573, "POINT_Y": 6277090.534 }, "geometry": { "type": "Point", "coordinates": [ 769937.55730000138, 6277090.5340000018 ] } }
+
+]
+}
