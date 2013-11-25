@@ -1,0 +1,999 @@
+CDCOL,C,254;LIBEL,C,254;CDRUE,N,19,11;NORUE,N,19,11;BIS,C,254;FAMILLE,C,2;SFAMILLE,C,2;LIBTRI,C,64;COORD1_05,C,4;COORD2_05,C,4;PLAN_05,C,2;RUBRIQUE,C,12;HISCLEPATR,C,8;STATUT,C,4;CODCOMM,C,6;CDRUB,N,9,0;TMPFID,N,9,0;DELTA_CAT,C,50;DELTA_SSCA,C,50;Page_PR,C,2;Astech,C,10;QUARTIER,N,9,0;SQUARTIER,N,9,0;CANTON,N,9,0;FAMIL_DESC,C,254;SFAMI_DESC,C,254;STATU_DESC,C,254;DELTA_DESC,C,254;DELTA_DE_1,C,254
+7;Lycée Frederic Bazille;1518;3224;;25;20;25-20-Lycée Frederi Bazille;I17;;4;ADM.EDUC.NAT;70009600;LR;340172;2515;480;Enseignement;Lycées;04;70009600;1;2;2;25;20;LR;Enseignement;Lycées
+0;Ecole maternelle Agrippa d'Aubigné;1833;147;;22;10;22-10-Ecole maternelle Agrippa d'Aubigné;H16;;9;ECOLES;00028003;M;340172;2207;271;Enseignement;Ecoles préélementaires;09;951;1;2;2;22;10;M;Enseignement;
+0;Terrain de base-ball Veyrassy;1834;379;;40;10;40-10-Terrain de base-ball Veyrassy;H16;;9;EQUIP.SPORT;00019400;M;340172;4000;6;Sport;Stades;09;831;1;2;2;40;10;M;Sport;Stades
+0;Ecole élémentaire Docteur Calmette;1833;147;;22;20;22-20-Ecole élémentaire Docteur Calmette;H16;;9;ECOLES;00027904;M;340172;2217;270;Enseignement;Ecoles élémentaires;09;947;1;2;2;22;20;M;Enseignement;Ecoles élémentaires
+0;Terrain de foot Veyrassy;1834;379;;40;10;40-10-Terrain de foot Veyrassy;G16;H16;9;EQUIP.SPORT;00139400;M;340172;4000;24;Sport;Stades;09;139400;1;2;2;40;10;M;Sport;Stades
+0;Terrain de football americain Veyrassy;1109;0;;40;10;40-10-Terrain de football americain Veyrassy;G16;H16;9;EQUIP.SPORT;00253300;M;340172;4000;635;Sport;Stades;09;1539;1;2;2;40;10;M;Sport;Stades
+0;Marché du Plan des 4 Seigneurs;1277;99999;;70;20;70-20-Marché du Plan des 4 Seigneurs;H16;;9;HALLES/MCH;00160500;M;340172;7000;192;Vie des quartiers;Halles et marchés;09;160500;1;2;2;70;20;M;Vie des quartiers;Halles et marchés
+7;C.H.U Bellevue;1277;1;;90;10;90-10-C.H.U Bellevue;H16;I16;9;ADM.SANTE AS;70016000;E;340172;9000;529;Administrations et organismes divers;Santé;09;39070;1;2;2;90;10;E;Administrations et organismes divers;Santé
+0;Square Jean Baumel;1833;99999;;60;10;60-10-Square Jean Baumel;H16;;9;PARCS/JARDIN;00209800;M;340172;6000;111;Culture et loisirs;Parcs et jardins;09;209800;1;2;2;60;10;M;Culture et loisirs;
+;Centre International des Hautes Etudes Agronomiques;1518;0;;27;10;27-10-Centre International des Hautes Etudes Agronomiques;I17;;;ADM.EDUC.NAT;;E;340712;0;0;Enseignement;Enseignement supérieur;04;TA93;1;2;2;27;10;E;Enseignement;
+;I.R.D;2741;0;;27;10;27-10-I.R.D;J17;;;ADM.EDUC.NAT;;E;340712;0;0;Enseignement;Enseignement supérieur;04;39645;1;2;2;27;10;E;Enseignement;
+;Musée Agropolis;2741;0;;50;10;50-10-Musée Agropolis;J17;;;QUART.CULTU;;MA;340712;0;0;Culture et loisirs;Culture et monuments;04;274;1;2;2;50;10;MA;Culture et loisirs;Culture et monuments
+;U.F.R.S.T.A.P.S;3124;0;;27;10;27-10-U.F.R.S.T.A.P.S;H16;;;ADM.EDUC.NAT;;E;340712;0;0;Enseignement;Enseignement supérieur;09;38954;1;2;2;27;10;E;Enseignement;
+;Crèche associative Ginkgo-Biloba;1518;2256;;21;10;21-10-Crèche associative Ginkgo-Biloba;I16;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;10;;1;2;2;21;10;P;Vie des quartiers;Petite enfance
+0;Bois de Montmaur;2093;0;;60;10;60-10-Bois de Montmaur;J16;;10;PARCS/JARDIN;00159500;M;340172;6000;44;Culture et loisirs;Parcs et jardins;10;159500;1;3;2;60;10;M;Culture et loisirs;
+0;Parcours sportifs de Montmaur;2186;390;;40;10;40-10-Parcours sportifs de Montmaur;J16;;10;EQUIP.SPORT;00003300;M;340172;4000;140;Sport;Autres;10;753;1;3;2;40;10;M;Sport;Autres
+0;Pas de tir de Montmaur;1518;1914;;40;10;40-10-Pas de tir de Montmaur;J16;;10;EQUIP.SPORT;00003200;M;340172;4000;139;Sport;Autres;10;752;1;3;2;40;10;M;Sport;Autres
+0;Aire de jeux Vert-Bois;457;0;;60;10;60-10-Aire de jeux Vert-Bois;J16;;10;PARCS/JARDIN;00170700;M;340172;6000;636;Culture et loisirs;Parcs et jardins;10;170700;1;3;2;60;10;M;Culture et loisirs;
+7;Clinique Lavalette;2117;319;;90;20;90-20-Clinique Lavalette;J16;;10;ADM.SANTE AS;70015300;P;340172;9000;522;Administrations et organismes divers;Santé;10;39352;1;3;2;90;20;P;Administrations et organismes divers;Santé
+7;C.N.R.S;1518;1919;;90;30;90-30-C.N.R.S;I15;;10;ADM.SANTE AS;70006400;E;340172;9000;466;Administrations et organismes divers;Santé;10;40026;1;3;2;90;30;E;Administrations et organismes divers;Santé
+7;Ecole d'Architecture L.R.;983;179;;27;10;27-10-Ecole d'Architecture L.R.;H15;;9;ADM.EDUC.NAT;70012100;E;340172;2700;503;Enseignement;Enseignement supérieur;09;70012100;1;3;2;27;10;E;Enseignement;
+7;Cité universitaire Vert Bois;759;44;;27;20;27-20-Cité universitaire Vert Bois;J15;;10;ADM.EDUC.NAT;70019700;E;340172;2720;550;Enseignement;Autres;10;70019700;1;3;2;27;20;E;Enseignement;Autres
+7;I.U.T;1616;99;;27;10;27-10-I.U.T;G15;;9;ADM.EDUC.NAT;70013700;E;340172;2700;517;Enseignement;Enseignement supérieur;09;39732;1;3;2;27;10;E;Enseignement;
+7;CREUFOP L.R.;1616;99;;27;30;27-30-CREUFOP L.R.;G15;;9;ADM.EDUC.NAT;70012200;E;340172;2720;504;Enseignement;Autres;09;70012200;1;3;2;27;30;E;Enseignement;Autres
+7;Centre Sportif Universitaire Motte Rouge;1811;532;;40;10;40-10-Centre Sportif Universitaire Motte Rouge;I15;;10;ADM.CULT.SPT;70000200;E;340172;4000;438;Sport;Autres;10;70000200;1;3;2;40;10;E;Sport;Autres
+0;Parc Rachel;421;99999;;60;10;60-10-Parc Rachel;H14;H15;17;PARCS/JARDIN;00218100;M;340172;6000;117;Culture et loisirs;Parcs et jardins;17;00218100;1;3;2;60;10;M;Culture et loisirs;
+0;Square des Brusses;886;99999;;60;10;60-10-Square des Brusses;H14;;17;PARCS/JARDIN;00147400;M;340172;6000;33;Culture et loisirs;Parcs et jardins;17;147400;1;3;2;60;10;M;Culture et loisirs;
+7;Faculté Paul Valéry;1518;1;;27;10;27-10-Faculté Paul Valéry;J14;;18;ADM.EDUC.NAT;70013300;E;340172;2700;514;Enseignement;Enseignement supérieur;18;70013300;1;3;2;27;10;E;Enseignement;
+7;Cité universitaire la Colombière;1109;89;;27;20;27-20-Cité universitaire la Colombière;G14;H14;17;ADM.EDUC.NAT;70019600;E;340172;2720;549;Enseignement;Autres;17;70019600;1;3;2;27;20;E;Enseignement;Autres
+7;Faculté des Sciences;997;1;;27;10;27-10-Faculté des Sciences;I14;J14;18;ADM.EDUC.NAT;70013200;E;340172;2700;513;Enseignement;Enseignement supérieur;18;39202;1;3;2;27;10;E;Enseignement;
+7;Poste - Facultés;421;2;;96;10;96-10-Poste - Facultés;H14;;17;ADM.COMMUNIC;70022200;P;340172;9400;565;Administrations et organismes divers;Postes et télécommunications;17;;1;3;2;96;10;P;Administrations et organismes divers;
+7;C.H.U Gui de Chauliac;957;2;;90;10;90-10-C.H.U Gui de Chauliac;I14;;18;ADM.SANTE AS;70016300;E;340172;9000;531;Administrations et organismes divers;Santé;18;39080;1;3;2;90;10;E;Administrations et organismes divers;Santé
+0;Eglise Sainte Bernadette;0;0;;97;15;97-15-Eglise Sainte Bernadette;J14;;18;CULTE;;;340172;9710;664;Culture et loisirs;Cultes et cimetières;18;40187;1;3;2;97;15;;Culture et loisirs;Cultes et cimetières
+7;C.H.U Saint Eloi;523;80;;90;10;90-10-C.H.U Saint Eloi;I13;I14;18;ADM.SANTE AS;70016400;E;340172;9000;532;Administrations et organismes divers;Santé;18;39082;1;3;2;90;10;E;Administrations et organismes divers;Santé
+7;Cité universitaire le Triolet;959;55;;27;20;27-20-Cité universitaire le Triolet;H13;H14;17;ADM.EDUC.NAT;70019500;E;340172;2720;548;Enseignement;Autres;17;70019500;1;3;2;27;20;E;Enseignement;Autres
+7;Collège du Jeu de Mail;957;3;;25;10;25-10-Collège du Jeu de Mail;I13;;18;ADM.EDUC.NAT;70010700;CG;340172;2500;490;Enseignement;Collèges;18;39747;1;3;2;25;10;CG;Enseignement;Collèges
+0;Terrain de foot Jeu de Mail;1261;120;;40;10;40-10-Terrain de foot Jeu de Mail;I13;;18;EQUIP.SPORT;00080000;M;340172;4000;18;Sport;Stades;18;1433;1;3;2;40;10;M;Sport;Stades
+0;Ecole maternelle Charlie Chaplin;1261;120;;22;10;22-10-Ecole maternelle Charlie Chaplin;I13;;18;ECOLES;00033702;M;340172;2207;296;Enseignement;Ecoles préélementaires;18;1076;1;3;2;22;10;M;Enseignement;
+0;Ecole élémentaire Eugène Pottier;1261;120;;22;20;22-20-Ecole élémentaire Eugène Pottier;I13;;18;ECOLES;00033502;M;340172;2217;294;Enseignement;Ecoles élémentaires;18;1070;1;3;2;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole élémentaire Jean Sibélius;1261;120;;22;20;22-20-Ecole élémentaire Jean Sibélius;I13;;18;ECOLES;00033602;M;340172;2217;295;Enseignement;Ecoles élémentaires;18;1073;1;3;2;22;20;M;Enseignement;Ecoles élémentaires
+0;Boulodrome Leenhardt;1423;0;;40;10;40-10-Boulodrome Leenhardt;H13;H14;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;17;775;1;3;2;40;10;M;Sport;Autres
+;Usine de traitement des eaux ARAGO;1518;0;;97;10;97-10-Usine de traitement des eaux ARAGO;J15;;;VIE.QUART.SO;;MA;340712;0;0;Vie des quartiers;Propreté;10;TA102;1;3;2;97;10;MA;Vie des quartiers;Propreté
+;Maison de Quartier Emma Calvé;1772;3;;10;10;10-10-Maison de Quartier Emma Calvé;H14;;;;00266200;M;340172;0;0;Vie des quartiers;MPT;17;1703;1;3;2;10;10;M;Vie des quartiers;
+7;Cité universitaire Boutonnet;1518;55;;27;20;27-20-Cité universitaire Boutonnet;J12;J13;28;ADM.EDUC.NAT;70019400;E;340172;2720;547;Enseignement;Autres;28;70019400;7;10;2;27;20;E;Enseignement;Autres
+7;C.R.O.U.S;1547;2;;27;20;27-20-C.R.O.U.S;J12;;28;ADM.EDUC.NAT;70002700;E;340172;2720;452;Enseignement;Autres;28;39360;7;10;2;27;20;E;Enseignement;Autres
+0;Ecole maternelle Pauline Kergomard;810;5;;22;10;22-10-Ecole maternelle Pauline Kergomard;J12;;28;ECOLES;00026001;M;340172;2207;257;Enseignement;Ecoles préélementaires;28;890;7;10;2;22;10;M;Enseignement;
+0;Ecole élémentaire Charles Daviler;810;5;;22;20;22-20-Ecole élémentaire Charles Daviler;J12;;28;ECOLES;00026101;M;340172;2217;258;Enseignement;Ecoles élémentaires;28;892;7;10;2;22;20;M;Enseignement;Ecoles élémentaires
+7;Ecole Nationale de Chimie;935;8;;27;10;27-10-Ecole Nationale de Chimie;J12;;28;ADM.EDUC.NAT;70012000;E;340172;2700;502;Enseignement;Enseignement supérieur;28;70012000;7;10;2;27;10;E;Enseignement;
+0;Jésuites-chapelle;0;0;;97;15;97-15-Jésuites-chapelle;J12;;28;CULTE;;;340172;9710;654;Culture et loisirs;Cultes et cimetières;28;TA34;7;10;2;97;15;;Culture et loisirs;Cultes et cimetières
+7;I.U.F.M;1440;2;;27;10;27-10-I.U.F.M;J12;;28;ADM.EDUC.NAT;70002800;E;340172;2700;453;Enseignement;Enseignement supérieur;28;38927;7;10;2;27;10;E;Enseignement;
+7;C.R.E.P.S;746;2;;27;10;27-10-C.R.E.P.S;J12;;28;ADM.CULT.SPT;70000500;E;340172;2700;441;Enseignement;Enseignement supérieur;28;70000500;7;10;2;27;10;E;Enseignement;
+7;Clinique Saint Jean;619;36;;90;20;90-20-Clinique Saint Jean;J11;J12;28;ADM.SANTE AS;70015700;P;340172;9000;526;Administrations et organismes divers;Santé;28;39091;7;10;2;90;20;P;Administrations et organismes divers;Santé
+0;Gymnase Alain Achille;1440;1;;40;10;40-10-Gymnase Alain Achille;J11;;28;EQUIP.SPORT;00046400;M;340172;4000;351;Sport;Gymnases;28;1315;7;10;2;40;10;M;Sport;Gymnases
+0;Mur d'escalade - Alain Achille;1440;1;;40;10;40-10-Mur d'escalade - Alain Achille;J11;;28;EQUIP.SPORT;00046401;M;340172;4000;156;Sport;Autres;28;1316;7;10;2;40;10;M;Sport;Autres
+7;Poste - Bouisson Bertrand;619;26;;96;10;96-10-Poste - Bouisson Bertrand;J11;K11;28;ADM.COMMUNIC;70021800;P;340172;9400;561;Administrations et organismes divers;Postes et télécommunications;28;;7;10;2;96;10;P;Administrations et organismes divers;
+0;Stade d'athlétisme Philippides;519;542;;40;10;40-10-Stade d'athlétisme Philippides;J11;;28;EQUIP.SPORT;00075000;M;340172;4000;7;Sport;Stades;28;88;7;10;2;40;10;M;Sport;Stades
+0;Terrain de basket - Philippidès;1440;1;;40;10;40-10-Terrain de basket - Philippidès;J11;;28;EQUIP.SPORT;00046500;M;340172;4000;157;Sport;Autres;28;00046500;7;10;2;40;10;M;Sport;Autres
+0;Ecole élémentaire Condorcet;1007;13;;22;20;22-20-Ecole élémentaire Condorcet;K11;;29;ECOLES;00030202;M;340172;2217;279;Enseignement;Ecoles élémentaires;29;995;7;10;2;22;20;M;Enseignement;Ecoles élémentaires
+0;Club de loisirs la Treille;407;8;;80;10;80-10-Club de loisirs laTreille;K12;;; CLUB3AGE;;M;340172;0;0;Vie des quartiers;Age d'or;29;2157;7;10;2;80;10;M;Vie des quartiers;Age d'or
+0;Maison des Choeurs - Chapelle St Charles;442;0;;50;10;50-10-Maison des Choeurs-Chapelle St Charles;K11;;;QUART.CULTU;;M;340712;0;0;Culture et loisirs;Culture et monuments;29;1998;7;10;2;50;10;M;Culture et loisirs;Culture et monuments
+;Théatre du Hangar;1609;0;;50;10;50-10-Théatre du Hangar;J11;;;QUART.CULTUR;;MA;340172;0;0;Culture et loisirs;Culture et monuments;28;;7;10;2;50;10;MA;Culture et loisirs;Culture et monuments
+;Crèche d'entreprises L'Ostal dels Pichonets;1060;20;;21;10;21-10-Crèche d'entreprises L'Ostal dels Pichonets;J12;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;28;;7;10;2;21;10;P;Vie des quartiers;Petite enfance
+7;Collège Clémence Royer;1660;17;;25;10;25-10-Collège Clémence Royer;K11;;29;ADM.EDUC.NAT;70011100;CG;340172;2500;494;Enseignement;Collèges;28;39510;7;11;2;25;10;CG;Enseignement;Collèges
+7;Clinique Val d'Aurelle;867;31;;90;20;90-20-Clinique Val d'Aurelle;E16;E17;8;ADM.SANTE AS;70015900;P;340172;9000;528;Administrations et organismes divers;Santé;08;39073;1;3;3;90;20;P;Administrations et organismes divers;Santé
+7;C.N.F.P.T;490;337;;27;30;27-30-C.N.F.P.T;E16;F16;8;ADM.EDUC.NAT;70002500;E;340172;2720;450;Enseignement;Autres;08;38967;1;3;3;27;30;E;Enseignement;Autres
+7;Centre Propara;650;263;;90;30;90-30-Centre Propara;D16;;7;ADM.SANTE AS;70015100;E;340172;9000;520;Administrations et organismes divers;Santé;07;39836;1;3;3;90;30;E;Administrations et organismes divers;Santé
+7;Ecole de Notariat;490;565;;27;10;27-10-Ecole de Notariat;E16;;8;ADM.EDUC.NAT;70011900;E;340172;2700;501;Enseignement;Enseignement supérieur;08;39763;1;3;3;27;10;E;Enseignement;
+7;A.I.D.E.R;865;746;;90;30;90-30-A.I.D.E.R;E16;;8;ADM.SANTE AS;70015000;E;340172;9000;519;Administrations et organismes divers;Santé;08;40666;1;3;3;90;30;E;Administrations et organismes divers;Santé
+7;Clinique Réeduc. Fonct. Fontfroide;1960;1800;;90;20;90-20-Clinique Réeduc. Fonct. Fontfroide;D16;;7;ADM.SANTE AS;70015200;P;340172;9000;521;Administrations et organismes divers;Santé;07;39076;1;3;3;90;20;P;Administrations et organismes divers;Santé
+7;C.I.N.E.S;1960;950;;27;30;27-30-C.I.N.E.S;F15;;8;ADM.EDUC.NAT;70012400;E;340172;2720;506;Enseignement;Autres;08;40253;1;3;3;27;30;E;Enseignement;Autres
+7;I.N.S.E.R.M;1568;395;;90;30;90-30-I.N.S.E.R.M;F15;;8;ADM.SANTE AS;70006700;E;340172;9000;468;Administrations et organismes divers;Santé;08;70006700;1;3;3;90;30;E;Administrations et organismes divers;Santé
+7;C.N.A.M;867;989;;27;10;27-30-C.N.A.M;F15;;8;ADM.EDUC.NAT;70012500;E;340172;2720;507;Enseignement;Enseignement supérieur;08;70012500;1;3;3;27;10;E;Enseignement;
+0;Ecole maternelle Margueritte Yourcenar;0;0;;22;10;22-10-Ecole maternelle Margueritte Yourcenar;D14;;15;ECOLES;;M;340172;2207;681;Enseignement;Ecoles préélementaires;15;1622;1;3;3;22;10;M;Enseignement;
+0;Parc du Château d'O;0;0;;60;10;60-10-Parc du Château d'O;E14;F14;16;PARCS/JARDIN;;M;340172;6000;637;Culture et loisirs;Parcs et jardins;16;39146;1;3;3;60;10;M;Culture et loisirs;
+7;Château d'O;2630;1;;98;10;98-10-Château d'O;E14;F14;16;DIVERS;70019000;;340172;9600;545;Culture et loisirs;Culture et monuments;16;70019000;1;3;3;98;10;;Culture et loisirs;Culture et monuments
+7;C.H.U Arnaud de Villeneuve;915;371;;90;10;90-10-C.H.U Arnaud de Villeneuve;G14;;17;ADM.SANTE AS;70016200;E;340172;9000;530;Administrations et organismes divers;Santé;17;39078;1;3;3;90;10;E;Administrations et organismes divers;Santé
+7;Centre administratif A. Bénech;915;371;;90;30;90-30-Centre administratif A. Bénech;H14;;17;ADM.SANTE AS;70019200;E;340172;9000;546;Administrations et organismes divers;Santé;17;70019200;1;3;3;90;30;E;Administrations et organismes divers;Santé
+7;C.H.U Lapeyronie;915;371;;90;10;90-10-C.H.U Lapeyronie;G14;;17;ADM.SANTE AS;70016600;E;340172;9000;534;Administrations et organismes divers;Santé;17;39081;1;3;3;90;10;E;Administrations et organismes divers;Santé
+7;C.H.U la Colombière;746;39;;90;10;90-10-C.H.U la Colombière;H13;;17;ADM.SANTE AS;70016500;E;340172;9000;533;Administrations et organismes divers;Santé;17;39079;1;3;3;90;10;E;Administrations et organismes divers;Santé
+7;Ecoles du C.H.U;957;2;;90;15;90-15-Ecoles du C.H.U;H12;;27;ADM.SANTE AS;70014900;E;340172;9000;518;Administrations et organismes divers;Santé;27;70014900;1;3;3;90;15;E;Administrations et organismes divers;Santé
+7;Cité universitaire Voie Domitienne;910;44;;27;20;27-20-Cité universitaire Voie Domitienne;H12;I12;27;ADM.EDUC.NAT;70019800;E;340172;2720;551;Enseignement;Autres;27;70019800;1;3;3;27;20;E;Enseignement;Autres
+0;Boulodrome Saint Priest;3256;0;;40;10;40-10-Boulodrome Saint Priest;E15;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;08;1653;1;3;3;40;10;M;Sport;Autres
+0;Plateaux Sportifs Léonard de Vinci;2501;0;;40;10;40-10-Plateaux Sportifs Léonard de Vinci;F14;G14;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;16;1435;1;3;3;40;10;M;Sport;Autres
+;Institut de Pharmacologie;687;0;;27;10;27-10-Institut de Pharmacologie;G15;;;ADM.EDUC.NAT;;E;340712;0;0;Enseignement;Enseignement supérieur;09;TA97;1;3;3;27;10;E;Enseignement;
+;Centre T.A.M Les Hirondelles;726;0;;99;10;99-10-Centre T.A.M Les Hirondelles;D15;;;ADM.EQUIP.TR;;MA;340712;0;0;Administrations et organismes divers;Collectivités territoriales;07;TA3;1;3;3;99;10;MA;Administrations et organismes divers;
+;Crèche la Petite Sirène;3260;0;;21;10;21-10-Crèche la Petite Sirène;D15;;;CRECH/HGAR;;M;340712;0;0;Vie des quartiers;Petite enfance;07;1735;1;3;3;21;10;M;Vie des quartiers;Petite enfance
+;Bassin de rétention Colombière;2824;0;;60;10;60-10-Bassin de rétention Colombière;H13;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;17;TA43;1;3;3;60;10;M;Culture et loisirs;
+;Boulodrome Malbosc;1431;0;;40;10;40-10-Boulodrome Malbosc;D14;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;15;;1;3;3;40;10;M;Sport;Autres
+;Plateaux sportifs Malbosc;3266;0;;40;10;40-10-Plateaux sportifs Malbosc;D14;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;15;;1;3;3;40;10;M;Sport;Autres
+;Aqueduc de la Lyre;3339;0;;60;10;60-10-Aqueduc de la Lyre;F16;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;8;;1;3;3;60;10;M;Culture et loisirs;
+;Aqueduc St Clement III;3258;0;;60;10;60-10-Aqueduc St Clement III;F14;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;16;;1;3;3;60;10;M;Culture et loisirs;
+;Boisement du Château d'Ô;3355;0;;60;10;60-10-Boisement du Château d'Ô;E14;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;16;;1;3;3;60;10;M;Culture et loisirs;
+;Parc Saint Fiacre;3265;0;;60;10;60-10-Parc Saint Fiacre;D14;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;8;;1;3;3;60;10;M;Culture et loisirs;
+;Ruisseau le Font d'Aurelle;2553;0;;60;10;60-10-Ruisseau le Font d'Aurelle;F15;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;8;;1;3;3;60;10;M;Culture et loisirs;
+;Square Angelo Bramante;3328;0;;60;10;60-10-Square Angelo Bramante;E14;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;7;;1;3;3;60;10;M;Culture et loisirs;
+;Square Billie Holiday;3256;0;;60;10;60-10-Square Billie Holiday;E15;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;8;;1;3;3;60;10;M;Culture et loisirs;
+;Ecole élémentaire François Mitterand;1431;0;;22;20;22-20-Ecole élémentaire François Mitterand;D14;;;;;M;340172;0;0;Enseignement;Ecoles élémentaires;07;;1;3;3;22;20;M;Enseignement;Ecoles élémentaires
+;Ecole maternelle François Mitterrand;1431;0;;22;10;22-10-Ecole maternelle François Mitterrand;D14;;;;;M;340172;0;0;Enseignement;Ecoles préélementaires;07;;1;3;3;22;10;M;Enseignement;
+;Crèche associative Une Souris Verte;587;625;;21;10;21-10-Crèche associative Une Souris Verte;F14;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;16;;1;3;3;21;10;P;Vie des quartiers;Petite enfance
+;Crèche d'entreprises Les petits Chaperons Rouges I;1431;1722;;21;10;21-10-Crèche d'entreprises Les petits Chaperons Rouges I;D15;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;7;;1;3;3;21;10;P;Vie des quartiers;Petite enfance
+;M.P.T Rosa Lee Parks;0;0;;10;10;10-10-M.P.T Rosa Lee Parks;E14;;;;;M;340712;0;0;Vie des quartiers;MPT;16;39642;1;3;3;10;10;M;Vie des quartiers;
+0;Parc Mas de Neuville;757;0;;60;10;60-10-Parc Mas de Neuville;F13;;16;PARCS/JARDIN;00261200;M;340172;6000;622;Culture et loisirs;Parcs et jardins;16;261200;3;6;3;60;10;M;Culture et loisirs;
+0;Square Las Rébès;1645;99999;;60;10;60-10-Square Las Rébès;G12;;27;PARCS/JARDIN;00221400;M;340172;6000;120;Culture et loisirs;Parcs et jardins;27;221400;3;6;3;60;10;M;Culture et loisirs;
+0;Eglise Sainte Croix;0;0;;97;15;97-15-Eglise Sainte Croix;G12;;27;CULTE;;;340172;9710;665;Culture et loisirs;Cultes et cimetières;27;1398;3;6;3;97;15;;Culture et loisirs;Cultes et cimetières
+0;Boulodrome Mas de Neuville;757;0;;40;10;40-10-Boulodrome Mas de Neuville;F13;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;16;1581;3;6;3;40;10;M;Sport;Autres
+0;Mini Football Mas de Neuville;757;0;;40;10;40-10-Mini Football Mas de Neuville;F13;;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;16;1580;3;6;3;40;10;M;Sport;Stades
+;Square des Terres Blanches;487;0;;60;10;60-10-Square des Terres Blanches;F13;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;16;TA88;3;6;3;60;10;M;Culture et loisirs;
+;Aire de jeux des Papyrus;1645;0;;60;10;60-10-Aire de jeux des Papyrus;G12;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;27;TA40;3;6;3;60;10;M;Culture et loisirs;
+7;Faculté de Pharmacie;746;15;;27;10;27-10-Faculté de Pharmacie;I12;;28;ADM.EDUC.NAT;70013600;E;340172;2700;516;Enseignement;Enseignement supérieur;28;39174;7;10;3;27;10;E;Enseignement;
+7;Clinique Rech;746;9;;90;20;90-20-Clinique Rech;I12;;28;ADM.SANTE AS;70015600;P;340172;9000;525;Administrations et organismes divers;Santé;28;39089;7;10;3;90;20;P;Administrations et organismes divers;Santé
+0;Halte-garderie Europa d'Assas;2705;79;;21;10;21-10-Halte-garderie Europa d'Assas;I11;;28;CRECH/HGARD;00049400;M;340172;2000;595;Vie des quartiers;Petite enfance;28;1347;7;10;3;21;10;M;Vie des quartiers;Petite enfance
+7;Direction Régionale de la Jeunesse et des Sports;1699;190;;99;10;99-10-Direction Régionale de la Jeunesse et des Sports;I11;;28;ADM.CULT.SPT;70000400;E;340172;9900;440;Administrations et organismes divers;Autres administrations;28;39048;7;10;3;99;10;E;Administrations et organismes divers;
+0;Parc Magnol;1355;50;;60;10;60-10-Parc Magnol;I11;;28;PARCS/JARDIN;00164600;M;340172;6000;65;Culture et loisirs;Parcs et jardins;28;2056;7;10;3;60;10;M;Culture et loisirs;
+0;Ecole maternelle Mozart;511;60;;22;10;22-10-Ecole maternelle Mozart;I11;;28;ECOLES;00026501;M;340172;2207;262;Enseignement;Ecoles préélementaires;28;901;7;10;3;22;10;M;Enseignement;
+0;Ecole élémentaire Berthe Morisot;511;60;;22;20;22-20-Ecole élémentaire Berthe Morisot;I11;;28;ECOLES;00026402;M;340172;2217;261;Enseignement;Ecoles élémentaires;28;899;7;10;3;22;20;M;Enseignement;Ecoles élémentaires
+7;Collège Camille Claudel;511;60;;25;10;25-10-Collège Camille Claudel;I11;;28;ADM.EDUC.NAT;70011300;CG;340172;2500;496;Enseignement;Collèges;28;39750;7;10;3;25;10;CG;Enseignement;Collèges
+7;Clinique Saint Roch;1013;43;;90;20;90-20-Clinique Saint Roch;J11;;28;ADM.SANTE AS;70015800;P;340172;9000;527;Administrations et organismes divers;Santé;28;39075;7;10;3;90;20;P;Administrations et organismes divers;Santé
+0;Eglise Sainte Thérèse;0;0;;97;15;97-15-Eglise Sainte Thérèse;I11;;28;CULTE;;;340172;9710;668;Culture et loisirs;Cultes et cimetières;28;40104;7;10;3;97;15;;Culture et loisirs;Cultes et cimetières
+;Crèche d'entreprises Les Jardins de Flore;1013;40;;21;10;21-10-Crèche d'entreprises Les Jardins de Flore;J11;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;28;;7;10;3;21;10;P;Vie des quartiers;Petite enfance
+7;D.D.A.S.S;511;85;;90;30;90-30-D.D.A.S.S;H11;H12;27;ADM.SANTE AS;70006500;E;340172;9000;467;Administrations et organismes divers;Santé;27;70006500;3;14;3;90;30;E;Administrations et organismes divers;Santé
+7;E.N.S.A.M;1742;2;;27;10;27-10-E.N.S.A.M;H11;H12;27;ADM.EDUC.NAT;70012600;E;340172;2700;508;Enseignement;Enseignement supérieur;27;39049;3;14;3;27;10;E;Enseignement;
+7;I.N.R.A;1742;2;;27;30;27-30-I.N.R.A;H11;;27;ADM.EDUC.NAT;70012700;E;340172;2720;509;Enseignement;Autres;27;70012700;3;14;3;27;30;E;Enseignement;Autres
+0;Piste d'Athlétisme Alain Delylle;1355;0;;40;10;40-10-Piste d'Athlétisme Alain Dellyle;H11;I11;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;27;1537;3;14;3;40;10;M;Sport;Stades
+0;Parc avenue de la Gaillarde;1105;99999;;60;10;60-10-Parc avenue de la Gaillarde;I11;;28;PARCS/JARDIN;00208000;M;340172;6000;107;Culture et loisirs;Parcs et jardins;28;208000;7;16;3;60;10;M;Culture et loisirs;
+7;Poste - Arceaux;1951;16;;96;10;96-10-Poste - Arceaux;J10;;38;ADM.COMMUNIC;70025900;P;340172;9400;580;Administrations et organismes divers;Postes et télécommunications;38;;7;16;3;96;10;P;Administrations et organismes divers;
+;Terrasse des arceaux;497;0;;60;10;60-10-Terrasse des arceaux;J10;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;38;TA91;7;16;3;60;10;M;Culture et loisirs;
+7;Institut de Biologie;519;163;;90;30;90-30-Institut de Biologie;J11;;28;ADM.SANTE AS;70004200;E;340172;9000;206;Administrations et organismes divers;Santé;28;40116;7;17;3;90;30;E;Administrations et organismes divers;Santé
+0;Jardin des Plantes;1222;99999;;60;10;60-10-Jardin des Plantes;J10;J11;38;PARCS/JARDIN;00187900;M;340172;6000;91;Culture et loisirs;Parcs et jardins;38;187900;7;17;3;60;10;M;Culture et loisirs;
+0;Tour des Pins;1222;10;;50;10;50-10-Tour des Pins;K10;;39;QUART.CULTUR;00082300;M;340172;5000;400;Culture et loisirs;Culture et monuments;39;1983;7;17;3;50;10;M;Culture et loisirs;Culture et monuments
+0;Square de la Tour des Pins;1222;1617;;60;10;60-10-Square de la Tour des Pins;K10;;39;PARCS/JARDIN;00161700;M;340172;6000;53;Culture et loisirs;Parcs et jardins;39;161700;7;17;3;60;10;M;Culture et loisirs;
+7;Faculté de Médecine;932;2;;27;10;27-10-Faculté de Médecine;K10;;39;ADM.EDUC.NAT;70013100;E;340172;2700;512;Enseignement;Enseignement supérieur;39;39170;7;17;3;27;10;E;Enseignement;
+7;Cathédrale Saint Pierre;1957;1;;98;10;98-10-Cathédrale Saint Pierre;K10;;39;DIVERS;70008800;;340172;9710;474;Culture et loisirs;Culture et monuments;39;39909;7;17;3;98;10;;Culture et loisirs;Culture et monuments
+0;Piscine Pitot;1754;99998;;40;10;40-10-Piscine Pitot;J10;;38;EQUIP.SPORT;70103100;MA;340172;4000;226;Sport;Piscines;38;1463;7;17;3;40;10;MA;Sport;Piscines
+0;Parking Pitot;1754;99998;;95;20;95-20-Parking Pitot;J10;;38;VIE QUOT.SCE;00091200;MA;340172;9300;183;Transports;Parkings;38;1767;7;17;3;95;20;MA;Transports;Parkings
+7;Palais de Justice;1043;54;;92;10;92-10-Palais de Justice;K10;;39;ADM.JUSTICE;70005500;E;340172;9200;460;Administrations et organismes divers;Police et justice;39;39109;7;17;3;92;10;E;Administrations et organismes divers;Police et justice
+0;Promenade du Peyrou;1721;99999;;60;10;60-10-Promenade du Peyrou;J10;;38;PARCS/JARDIN;00210000;M;340172;6000;113;Culture et loisirs;Parcs et jardins;38;210000;7;17;3;60;10;M;Culture et loisirs;
+0;Arc de triomphe;1043;0;;98;10;98-10-Arc de triomphe;J10;K10;38;DIVERS;;;340172;9600;640;Culture et loisirs;Culture et monuments;38;451;7;17;3;98;10;;Culture et loisirs;Culture et monuments
+0;Parking Arc de Triomphe;1043;0;;95;20;95-20-Parking Arc de Triomphe;K10;;39;VIE QUOT.SCE;00063500;MA;340172;9300;173;Transports;Parkings;39;00063500;7;17;3;95;20;MA;Transports;Parkings
+0;Ecole élémentaire Auguste Comte;962;2;;22;20;22-20-Ecole élémentaire Auguste Comte;J10;;38;ECOLES;00026702;M;340172;2217;263;Enseignement;Ecoles élémentaires;38;906;7;17;3;22;20;M;Enseignement;Ecoles élémentaires
+7;Cité Judiciaire;962;1;;92;20;92-20-Cité Judiciaire;J10;;38;ADM.JUSTICE;70005400;E;340172;9200;459;Administrations et organismes divers;Police et justice;38;39313;7;17;3;92;20;E;Administrations et organismes divers;Police et justice
+0;Eglise Sainte Eulalie;0;0;;97;15;97-15-Eglise Sainte Eulalie;J9;;38;CULTE;;;340172;9710;666;Culture et loisirs;Cultes et cimetières;38;239;7;17;3;97;15;;Culture et loisirs;Cultes et cimetières
+0;Gymnase Peyrou;1754;0;;40;10;40-10-Gymnase Peyrou;J10;;;EQUIP.SPORT;;M;340712;0;0;Sport;Gymnases;38;1464;7;17;3;40;10;M;Sport;Gymnases
+;Place Mirouze;2905;0;;60;10;60-10-Place Mirouze;J10;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;38;TA78;7;17;3;60;10;M;Culture et loisirs;
+;Salle Guillaume de Nogaret;2905;0;;50;10;50-10-Salle Guillaume de Nogaret;J10;;;QUART.CULTU;;M;340712;0;0;Culture et loisirs;Culture et monuments;38;1496;7;17;3;50;10;M;Culture et loisirs;Culture et monuments
+;Jardin de la Reine;1263;0;;60;10;60-10-Jardin de la Reine;J10;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;39;;7;17;3;60;10;M;Culture et loisirs;
+0;Base de Pleine Nature Lavalette;2384;1037;;40;10;40-10-Base canoë kayak Lavalette;K17;K18;5;EQUIP.SPORT;70001600;M;340172;4000;444;Sport;Autres;05;745;1;4;4;40;10;M;Sport;Autres
+7;E.N.G.R.E.F;2384;648;;27;30;27-30-E.N.G.R.E.F;K17;;5;ADM.EDUC.NAT;70012300;E;340172;2720;505;Enseignement;Autres;05;70012300;1;4;4;27;30;E;Enseignement;Autres
+0;Crèche Agropolis;2384;30;;21;10;21-10-Crèche Agropolis;J17;;4;CRECH/HGARD;00020300;M;340172;2000;241;Vie des quartiers;Petite enfance;04;834;1;4;4;21;10;M;Vie des quartiers;Petite enfance
+0;Parc Zoologique Henry de Lunaret;2741;50;;60;10;60-10-Parc Zoologique Henry de Lunaret;K16;L17;11;PARCS/JARDIN;00236000;M;340172;6000;125;Culture et loisirs;Parcs et jardins;11;477;1;4;4;60;10;M;Culture et loisirs;
+0;Serre Amazonienne;0;0;;60;10;60-10-Serre Amazonienne;K16;;11;PARCS/JARDIN;;M;340172;6000;684;Culture et loisirs;Parcs et jardins;11;TA83;1;4;4;60;10;M;Culture et loisirs;
+0;Palais des Sports René Bougnol;2093;1000;;40;10;40-10-Palais des Sports René Bougnol;K15;;11;EQUIP.SPORT;70061200;MA;340172;4000;583;Sport;Gymnases;11;1385;1;4;4;40;10;MA;Sport;Gymnases
+0;Terrain de foot Jeannot Vega;2093;870;;40;10;40-10-Terrain de foot Jeannot Vega;K15;;11;EQUIP.SPORT;00079800;M;340172;4000;17;Sport;Stades;11;1431;1;4;4;40;10;M;Sport;Stades
+0;Ecole maternelle Térésa;2342;30;;22;10;22-10-Ecole maternelle Térésa;K15;;11;ECOLES;00042701;M;340172;2207;347;Enseignement;Ecoles préélementaires;11;1301;1;4;4;22;10;M;Enseignement;
+0;Ecole élémentaire Jules Ferry;2342;88;;22;20;22-20-Ecole élémentaire Jules Ferry;K15;;11;ECOLES;00042601;M;340172;2217;346;Enseignement;Ecoles élémentaires;11;1299;1;4;4;22;20;M;Enseignement;Ecoles élémentaires
+0;Domaine de Méric;1029;99998;;60;10;60-10-Domaine de Méric;M14;;20;PARCS/JARDIN;00090500;M;340172;6000;406;Culture et loisirs;Parcs et jardins;20;1681;1;4;4;60;10;M;Culture et loisirs;
+0;Parc de l'Aiguelongue;1429;99999;;60;10;60-10-Parc de l'Aiguelongue;K14;;19;PARCS/JARDIN;00208300;M;340172;6000;108;Culture et loisirs;Parcs et jardins;19;208300;1;4;4;60;10;M;Culture et loisirs;
+0;Square rue des Cétoines;721;99999;;60;10;60-10-Square rue des Cétoines;K13;;19;PARCS/JARDIN;00249400;M;340172;6000;127;Culture et loisirs;Parcs et jardins;19;249400;1;4;4;60;10;M;Culture et loisirs;
+0;Poste de police municipale Hôpitaux-Facultés;721;99999;;92;20;92-20-Poste de police municipale Hôpitaux-Facultés;K13;;19;POSTE POLICE;00089600;M;340172;9200;403;Administrations et organismes divers;Police et justice;19;00089600;1;4;4;92;20;M;Administrations et organismes divers;Police et justice
+7;Poste - Justice;1848;2;;96;10;96-10-Poste - Justice;K13;;19;ADM.COMMUNIC;70022300;P;340172;9400;566;Administrations et organismes divers;Postes et télécommunications;19;;1;4;4;96;10;P;Administrations et organismes divers;
+0;Halte-garderie Pitchot Nanet;2068;3;;21;10;21-10-Halte-garderie Pitchot Nanet;K13;;19;CRECH/HGARD;00049500;M;340172;2000;368;Vie des quartiers;Petite enfance;19;1348;1;4;4;21;10;M;Vie des quartiers;Petite enfance
+0;Club de loisirs Aiguelongue;1848;158;;80;10;80-10-Club de loisirs Aiguelongue;K13;;19;CLUB 3 AGE;70025500;M;340172;8000;217;Vie des quartiers;Age d'or;19;39633;1;4;4;80;10;M;Vie des quartiers;Age d'or
+0;Bibliothèque Paul Langevin;1337;1071;;50;10;50-10-Bibliothèque Paul Langevin;L13;;19;QUART.CULTUR;00052300;MA;340172;5000;162;Culture et loisirs;Médiathèques;19;00052300;1;4;4;50;10;MA;Culture et loisirs;Médiathèques
+0;Ecole élémentaire Sigmund Freud;2068;2;;22;20;22-20-Ecole élémentaire Sigmund Freud;K13;L13;19;ECOLES;00025101;M;340172;2217;252;Enseignement;Ecoles élémentaires;19;872;1;4;4;22;20;M;Enseignement;Ecoles élémentaires
+0;Mairie annexe Aiguelongue;1337;1071;;05;30;05-30-Mairie annexe Aiguelongue;L13;;19;MAIRIES ANN.;00052201;M;340172;500;161;Vie des quartiers;Mairies annexes;19;00052201;1;4;4;05;30;M;Vie des quartiers;
+0;Ecole maternelle Luis de Camoens;2068;2;;22;10;22-10-Ecole maternelle Luis de Camoens;L13;;19;ECOLES;00024902;M;340172;2207;251;Enseignement;Ecoles préélementaires;19;868;1;4;4;22;10;M;Enseignement;
+0;Cimetière Saint Lazare;2235;2;;98;10;98-10-Cimetière Saint Lazare;M13;N13;20;VIE QUOT.SCE;00010800;M;340172;9600;220;Culture et loisirs;Cultes et cimetières;20;207;1;4;4;98;10;M;Culture et loisirs;Cultes et cimetières
+;C.E.E.M.A.T;2384;73;;27;10;27-10-C.E.E.M.A.T;J17;;;ADM.EDUC.NAT;;E;340712;0;0;Enseignement;Enseignement supérieur;04;TA56;1;4;4;27;10;E;Enseignement;
+;C.E.M.A.G.R.E.F;2384;361;;27;10;27-10-C.E.M.A.G.R.E.F;K17;;;ADM.EDUC.NAT;;E;340712;0;0;Enseignement;Enseignement supérieur;05;TA73;1;4;4;27;10;E;Enseignement;
+;Les Clolus I;1063;0;;60;10;60-10-Les Clolus I;K14;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;19;TA58;1;4;4;60;10;M;Culture et loisirs;
+;Les Clolus II;1187;0;;60;10;60-10-Les Clolus II;K13;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;19;TA59;1;4;4;60;10;M;Culture et loisirs;
+;Les Clolus III;1577;0;;60;10;60-10-Les Clolus III;K14;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;19;TA60;1;4;4;60;10;M;Culture et loisirs;
+;Plateaux Sportifs Aiguelongue;0;0;;40;10;40-10-Plateaux Sportifs Aiguelongue;L13;;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;20;;1;4;4;40;10;M;Sport;Autres
+0;RAM Aiguelongue;2068;3;;21;10;21-10-RAM Aiguelongue;K13;;19;CRECH/HGAR;00049500;M;340172;2000;368;Vie des quartiers;Petite enfance;19;1348;1;4;4;21;10;M;Vie des quartiers;Petite enfance
+;Espace chiens du Parc de l'Aiguelongue;3022;0;;60;10;60-10-Espace chiens du Parc de l'Aiguelongue;K14;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;19;;1;4;4;60;10;M;Culture et loisirs;
+;Espace chiens du Parc Méric;2888;0;;60;10;60-10-Espace chiens du Parc Méric;N14;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;20;;1;4;4;60;10;M;Culture et loisirs;
+;Place Rosa Parks;3376;0;;60;10;60-10-Place Rosa Parks;K13;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;19;;1;4;4;60;10;M;Culture et loisirs;
+;Crèche associative Tom Pouce;3336;139;;21;10;21-10-Crèche associative Tom Pouce;M13;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;20;;1;4;4;21;10;P;Vie des quartiers;Petite enfance
+;M.P.T. Albert Dubout;1337;1071;;10;10;10-10-M.P.T. Albert Dubout;L13;;;;00052200;M;340172;0;0;Vie des quartiers;MPT;19;1359;1;4;4;10;10;M;Vie des quartiers;
+0;Square rue des Scarabés;1999;99999;;60;10;60-10-Square rue des Scarabés;K13;;19;PARCS/JARDIN;00165300;M;340172;6000;67;Culture et loisirs;Parcs et jardins;19;165300;7;10;4;60;10;M;Culture et loisirs;
+0;Crèche Petit Prince de Boutonnet;2773;20;;21;10;21-10-Crèche Petit Prince de Boutonnet;K13;;19;CRECH/HGARD;00144500;M;340172;2000;419;Vie des quartiers;Petite enfance;19;1497;7;10;4;21;10;M;Vie des quartiers;Petite enfance
+0;Parc Sainte Odile;1518;4;;60;10;60-10-Parc Sainte Odile;J12;J13;28;PARCS/JARDIN;00159600;M;340172;6000;45;Culture et loisirs;Parcs et jardins;28;00159600;7;10;4;60;10;M;Culture et loisirs;
+0;Square rue des Loutres;1413;99999;;60;10;60-10-Square rue des Loutres;K12;;29;PARCS/JARDIN;00206700;M;340172;6000;104;Culture et loisirs;Parcs et jardins;29;206700;7;10;4;60;10;M;Culture et loisirs;
+0;Square rue des Castors;704;99999;;60;10;60-10-Square rue des Castors;K12;;29;PARCS/JARDIN;00177300;M;340172;6000;80;Culture et loisirs;Parcs et jardins;29;177300;7;10;4;60;10;M;Culture et loisirs;
+;Espace chiens du Parc Sainte Odile;1518;0;;60;10;60-10-Espace chiens du Parc Sainte Odile;J12;J13;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;28;;7;10;4;60;10;M;Culture et loisirs;
+7;Chambre Régionale des Métiers L.R.;1948;44;;99;10;99-10-Chambre Régionale des Métiers L.R.;M12;;30;ADM.INDUST.;70002400;LR;340172;9900;449;Administrations et organismes divers;Autres administrations;30;70002400;7;11;4;99;10;LR;Administrations et organismes divers;
+0;Terrain de foot Mail des Abbés;2386;199;;40;10;40-10-Terrain de foot Mail des Abbés;L12;M12;29;EQUIP.SPORT;00080600;M;340172;4000;19;Sport;Stades;29;1436;7;11;4;40;10;M;Sport;Stades
+0;Halte-garderie Les Coquelicots;2784;151;;21;10;21-10-Halte-garderie Les Coquelicots;M12;;30;CRECH/HGARD;00050501;M;340172;2000;159;Vie des quartiers;Petite enfance;30;1354;7;11;4;21;10;M;Vie des quartiers;Petite enfance
+0;Parc Edith Piaf;1948;99999;;60;10;60-10-Parc Edith Piaf;M12;;30;PARCS/JARDIN;00159100;M;340172;6000;41;Culture et loisirs;Parcs et jardins;30;159100;7;11;4;60;10;M;Culture et loisirs;
+0;Jardin d'enfants les Boutons d'Or;2784;151;;21;10;21-10-Jardin d'enfants les Boutons d'Or;M12;;30;CRECH/HGARD;00050500;M;340172;2000;372;Vie des quartiers;Petite enfance;30;1353;7;11;4;21;10;M;Vie des quartiers;Petite enfance
+0;Square Camille Ernst;701;99999;;60;10;60-10-Square Camille Ernst;K11;;29;PARCS/JARDIN;00223400;M;340172;6000;122;Culture et loisirs;Parcs et jardins;29;223400;7;11;4;60;10;M;Culture et loisirs;
+0;Eglise Saint Léon;0;0;;97;15;97-15-Eglise Saint Léon;L11;;29;CULTE;;;340172;9710;658;Culture et loisirs;Cultes et cimetières;29;TA28;7;11;4;97;15;;Culture et loisirs;Cultes et cimetières
+0;Crèche Cléonice Pouzin;1417;64;;21;10;21-10-Crèche Cléonice Pouzin;L11;;29;CRECH/HGARD;00020601;M;340172;2000;244;Vie des quartiers;Petite enfance;29;838;7;11;4;21;10;M;Vie des quartiers;Petite enfance
+0;Gymnase Les Arts;2025;33;;40;10;40-10-Gymnase Les Arts;L11;;29;EQUIP.SPORT;00047800;M;340172;4000;358;Sport;Gymnases;29;1326;7;11;4;40;10;M;Sport;Gymnases
+0;Ecole Supérieure des Beaux-Arts;0;0;;27;10;27-10-Ecole Supérieure des Beaux-Arts;L11;;29;;;E;340172;2700;642;Enseignement;Enseignement supérieur;29;39976;7;11;4;27;10;E;Enseignement;
+0;Ecole élémentaire Jules Verne;3157;127;;22;20;22-20-Ecole élémentaire Jules Verne;L11;;29;ECOLES;;M;340172;2217;682;Enseignement;Ecoles élémentaires;29;1565;7;11;4;22;20;M;Enseignement;Ecoles élémentaires
+0;Club de loisirs la Cavalerie;715;28;;80;10;80-10-Club de loisirs la Cavalerie;L11;;29;CLUB 3 AGE;70025300;M;340172;8000;215;Vie des quartiers;Age d'or;29;70025300;7;11;4;80;10;M;Vie des quartiers;Age d'or
+7;Poste - Beaux Arts;715;33;;96;10;96-10-Poste - Beaux Arts;L11;;29;ADM.COMMUNIC;70025800;P;340172;9400;579;Administrations et organismes divers;Postes et télécommunications;29;;7;11;4;96;10;P;Administrations et organismes divers;
+0;Square rue Ferdinand Fabre;1023;10;;60;10;60-10-Square rue Ferdinand Fabre;K11;;29;PARCS/JARDIN;00178700;M;340172;6000;81;Culture et loisirs;Parcs et jardins;29;178700;7;11;4;60;10;M;Culture et loisirs;
+0;Marché des Beaux Arts;2311;99999;;70;20;70-20-Marché des Beaux Arts;L11;;29;HALLES/MCH;00160400;M;340172;7000;191;Vie des quartiers;Halles et marchés;29;160400;7;11;4;70;20;M;Vie des quartiers;Halles et marchés
+0;Ecole maternelle La Fontaine;2108;27;bis;22;10;22-10-Ecole maternelle La Fontaine;K11;;29;ECOLES;00034003;M;340172;2207;298;Enseignement;Ecoles préélementaires;29;1086;7;11;4;22;10;M;Enseignement;
+0;Jardin archéologique;1010;99999;;60;10;60-10-Jardin archéologique;L10;;39;PARCS/JARDIN;00182600;M;340172;6000;86;Culture et loisirs;Parcs et jardins;39;182600;7;11;4;60;10;M;Culture et loisirs;
+0;Parking Corum;745;440;;95;20;95-20-Parking Corum;L10;;39;VIE QUOT.SCE;00020000;MA;340172;9300;145;Transports;Parkings;39;00020000;7;11;4;95;20;MA;Transports;Parkings
+7;Le Corum;745;440;;50;10;50-10-Le Corum;L10;;39;QUART.CULTUR;70019900;MA;340172;5000;552;Culture et loisirs;Culture et monuments;39;540;7;11;4;50;10;MA;Culture et loisirs;Culture et monuments
+0;Beach Volley Les Arts;2025;0;;40;10;40-10-Beach Volley Les Arts;L11;;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;29;1595;7;11;4;40;10;M;Sport;Autres
+0;Boulodrome Les Arts;715;0;;40;10;40-10-Boulodrome Les Arts;L11;;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;29;1582;7;11;4;40;10;M;Sport;Autres
+0;Mini Football le Mail des Abbés;2386;0;;40;10;40-10-Mini Football le Mail des Abbés;L12;;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;29;TA160;7;11;4;40;10;M;Sport;Stades
+;Salon du Belvédère;1281;0;;50;10;50-10-Salon du Belvédère;L10;;;QUART.CULTU;;M;340712;0;0;Culture et loisirs;Culture et monuments;39;1529;7;11;4;50;10;M;Culture et loisirs;Culture et monuments
+;La Maison des Seniors;1023;0;;80;20;80-20-La Maison des Seniors;K11;;;SOLIDARITE;;M;340172;0;0;Vie des quartiers;Age d'or;29;;7;11;4;80;20;M;Vie des quartiers;Age d'or
+;Crèche Pinocchio;1023;16;;21;10;21-10-Crèche Pinocchio;K11;;;CRECH/HGARD;;M;340712;0;0;Vie des quartiers;Petite enfance;29;;7;11;4;21;10;M;Vie des quartiers;Petite enfance
+;Halte-garderie l'île aux tresors;1023;0;;21;10;21-10-Halte-garderie l'île aux tresors;K11;;;CRECH/HGARD;;M;340712;0;0;Vie des quartiers;Petite enfance;29;;7;11;4;21;10;M;Vie des quartiers;Petite enfance
+;Espace chiens du Parc Edith Piaf;2789;0;;60;10;60-10-Espace chiens du Parc Edith Piaf;M12;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;30;;7;11;4;60;10;M;Culture et loisirs;
+;Jardin des Beaux-Arts;1598;0;;60;10;60-10-Jardin des Beaux-Arts;L11;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;30;;7;11;4;60;10;M;Culture et loisirs;
+;Crèche associative Accroche Coeur;715;34;;21;10;21-10-Crèche associative Accroche Coeur;L11;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;29;;7;11;4;21;10;P;Vie des quartiers;Petite enfance
+;Crèche associative l'arbre à chouette;1948;44;;21;10;21-10-Crèche associative Crèche associative l'arbre à chouette;M12;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;30;;7;11;4;21;10;P;Vie des quartiers;Petite enfance
+;M.P.T. Frédéric Chopin;1598;19;;10;10;10-10-M.P.T. Frédéric Chopin;L11;;;;00001800;M;340172;0;0;Vie des quartiers;MPT;29;746;7;11;4;10;10;M;Vie des quartiers;
+0;Ecole maternelle Vasco de Gama;866;196;;22;10;22-10-Ecole maternelle Vasco de Gama;M10;M11;30;ECOLES;00032102;M;340172;2207;150;Enseignement;Ecoles préélementaires;40;1045;7;18;4;22;10;M;Enseignement;
+0;Ecole élémentaire Jean Mermoz;866;196;;22;20;22-20-Ecole élémentaire Jean Mermoz;M10;M11;40;ECOLES;00032101;M;340172;2217;290;Enseignement;Ecoles élémentaires;40;1044;7;18;4;22;20;M;Enseignement;Ecoles élémentaires
+0;Parking Citée Joffre;780;99999;;95;20;95-20-Parking Citée Joffre;L10;;39;VIE QUOT.SCE;00117300;MA;340172;9300;188;Transports;Parkings;39;478;7;18;4;95;20;MA;Transports;Parkings
+7;Lycée Joffre;780;150;;25;20;25-20-Lycée Joffre;L10;M10;39;ADM.EDUC.NAT;70009700;LR;340172;2515;481;Enseignement;Lycées;39;38928;7;18;4;25;20;LR;Enseignement;Lycées
+7;Lycée Jean Mermoz;1208;315;;25;20;25-20-Lycée Jean Mermoz;M10;N10;40;ADM.EDUC.NAT;70009900;LR;340172;2515;483;Enseignement;Lycées;40;38934;7;18;4;25;20;LR;Enseignement;Lycées
+7;Collège Joffre;780;150;;25;10;25-10-Collège Joffre;M10;;40;ADM.EDUC.NAT;70011500;CG;340172;2500;498;Enseignement;Collèges;40;39124;7;18;4;25;10;CG;Enseignement;Collèges
+7;Lycée Professionnel Jean Mermoz;1288;717;;25;20;25-20-Lycée Professionnel Jean Mermoz;N10;;40;ADM.EDUC.NAT;70010100;LR;340172;2515;485;Enseignement;Lycées;40;70010100;7;18;4;25;20;LR;Enseignement;Lycées
+7;C.R.D.P;780;1;;27;30;27-30-C.R.D.P;L10;;39;ADM.EDUC.NAT;70002600;E;340172;2720;451;Enseignement;Autres;39;39776;7;18;4;27;30;E;Enseignement;Autres
+7;Trésorerie Générale de l'Hérault;1211;334;;99;10;99-10-Trésorerie Générale de l'Hérault;M10;;40;ADM.ECO.FIN.;70001800;E;340172;9900;445;Administrations et organismes divers;Autres administrations;40;39652;7;18;4;99;10;E;Administrations et organismes divers;
+7;D.R.A.S.S;2229;615;;90;30;90-30-D.R.A.S.S;M10;;40;ADM.SANTE AS;70006600;E;340172;9000;207;Administrations et organismes divers;Santé;40;70006600;7;18;4;90;30;E;Administrations et organismes divers;Santé
+7;Direction Régionale de l'Equipement;1211;520;;99;10;99-10-Direction Régionale de l'Equipement;M10;;40;ADM.EQUIP.TR;70003600;E;340172;9900;455;Administrations et organismes divers;Autres administrations;40;70003600;7;18;4;99;10;E;Administrations et organismes divers;
+7;Direction Régionale du Commerce Extérieur;2392;71;;99;10;99-10-Direction Régionale du Commerce Extérieur;M10;;40;ADM.ECO.FIN.;70001200;E;340172;9900;443;Administrations et organismes divers;Autres administrations;40;70001200;7;18;4;99;10;E;Administrations et organismes divers;
+7;Direction Régionale France Télécom;1211;474;;99;10;99-10-Direction Régionale France Télécom;M10;;40;ADM.COMMUNIC;70006800;E;340172;9900;469;Administrations et organismes divers;Autres administrations;40;70006800;7;18;4;99;10;E;Administrations et organismes divers;
+0;Halles Jacques Coeur;2229;0;;70;10;70-10-Halles Jacques Coeur;M9;M10;40;HALLES/MCH;00280100;M;340172;7000;607;Vie des quartiers;Halles et marchés;40;40350;7;18;4;70;10;M;Vie des quartiers;Halles et marchés
+0;Parking Antigone;2229;446;;95;20;95-20-Parking Antigone;M9;;40;VIE QUOT.SCE;00063400;MA;340172;9300;172;Transports;Parkings;40;00063400;7;18;4;95;20;MA;Transports;Parkings
+0;Ecole maternelle Aristote;2229;528;;22;10;22-10-Ecole maternelle Aristote;M9;;40;ECOLES;00026302;M;340172;2207;259;Enseignement;Ecoles préélementaires;40;895;7;18;4;22;10;M;Enseignement;
+0;Ecole élémentaire Périclès;2229;528;;22;20;22-20-Ecole élémentaire Périclès;M9;;40;ECOLES;00026303;M;340172;2217;260;Enseignement;Ecoles élémentaires;40;896;7;18;4;22;20;M;Enseignement;Ecoles élémentaires
+0;Square des Citadines;2228;99999;;60;10;60-10-Square des Citadines;M9;;40;PARCS/JARDIN;00220200;M;340172;6000;118;Culture et loisirs;Parcs et jardins;40;220200;7;18;4;60;10;M;Culture et loisirs;
+0;Médiathèque Federico Fellini;2302;2;;50;10;50-10-Médiathèque Federico Fellini;M9;;40;QUART.CULTUR;00022303;MA;340172;5000;602;Culture et loisirs;Médiathèques;40;00022303;7;18;4;50;10;MA;Culture et loisirs;Médiathèques
+0;Médiathèque Centrale d'Agglomération Emile Zola;2230;218;;50;10;50-10-Médiathèque Centrale d'Agglomération Emile Zola;N9;;40;QUART.CULTUR;70246200;MA;340172;5000;588;Culture et loisirs;Médiathèques;40;40787;7;18;4;50;10;MA;Culture et loisirs;Médiathèques
+0;Marché d'Antigone - Nombre d'Or;1603;99999;;70;20;70-20-Marché d'Antigone - Nombre d'Or;M9;;40;HALLES/MCH;00160700;M;340172;7000;194;Vie des quartiers;Halles et marchés;40;160700;7;18;4;70;20;M;Vie des quartiers;Halles et marchés
+0;Maison de l'Agglomération Quartier Montpellier Centre;0;0;;05;30;05-30-Maison de l'Agglomération Quartier Montpellier Centre;M9;;40;VIE.QUART.SO;;MA;340172;500;646;Administrations et organismes divers;Collectivités territoriales;40;TA9;7;18;4;05;30;MA;Administrations et organismes divers;
+0;Halte-garderie la Coupole;3246;50;;21;10;21-10-Halte-garderie la Coupole;M9;;40;CRECH/HGARD;00114300;M;340172;2000;596;Vie des quartiers;Petite enfance;40;1486;7;18;4;21;10;M;Vie des quartiers;Petite enfance
+0;Esplanade de l'Europe;2380;99999;;60;10;60-10-Esplanade de l'Europe;N9;;40;PARCS/JARDIN;00206900;M;340172;6000;197;Culture et loisirs;Parcs et jardins;40;40822;7;18;4;60;10;M;Culture et loisirs;
+7;Hôtel de Montpellier Agglomération;2228;275;;05;15;05-15-Hôtel de Montpellier Agglomération;M9;;40;ADM.REG.DEP.;70006000;MA;340172;500;463;Administrations et organismes divers;Collectivités territoriales;40;39283;7;18;4;05;15;MA;Administrations et organismes divers;
+7;FRANCE TELECOM - Antigone;1607;185;;96;20;96-20-FRANCE TELECOM - Antigone;M9;;40;ADM.COMMUNIC;70023400;P;340172;9400;574;Administrations et organismes divers;Postes et télécommunications;40;;7;18;4;96;20;P;Administrations et organismes divers;
+0;Gymnase Olympie;2310;99999;;40;10;40-10-Gymnase Olympie;N9;;40;EQUIP.SPORT;00255000;M;340172;4000;428;Sport;Gymnases;40;1540;7;18;4;40;10;M;Sport;Gymnases
+0;Piscine olympique Neptune;2957;1;;40;10;40-10-Piscine olympique Neptune;N9;;40;EQUIP.SPORT;70019100;MA;340172;4000;223;Sport;Piscines;40;70019100;7;18;4;40;10;MA;Sport;Piscines
+7;Poste - Antigone;2228;275;;96;10;96-10-Poste - Antigone;M9;;40;ADM.COMMUNIC;70021700;P;340172;9400;560;Administrations et organismes divers;Postes et télécommunications;40;;7;18;4;96;10;P;Administrations et organismes divers;
+0;Eglise Don Bosco;0;0;;97;15;97-15-Eglise Don Bosco;M9;;40;CULTE;;;340172;9710;657;Culture et loisirs;Cultes et cimetières;40;TA12;7;18;4;97;15;;Culture et loisirs;Cultes et cimetières
+0;Parking Europa;2230;99999;;95;20;95-20-Parking Europa;N9;;40;VIE QUOT.SCE;00231300;MA;340172;9300;202;Transports;Parkings;40;39790;7;18;4;95;20;MA;Transports;Parkings
+0;Marché Paysan - Antigone;2519;99999;;70;20;70-20-Marché Paysan - Antigone;M9;;40;HALLES/MCH;00160300;M;340172;7000;190;Vie des quartiers;Halles et marchés;40;160300;7;18;4;70;20;M;Vie des quartiers;Halles et marchés
+0;Espace Antonin Balmès;2380;2;;80;10;80-10-Espace Antonin Balmès;N9;;40;CLUB 3 AGE;70021500;M;340172;8000;558;Vie des quartiers;Age d'or;40;2152;7;18;4;80;10;M;Vie des quartiers;Age d'or
+0;Base de Pleine Nature - Maison du Lez;3045;0;;40;10;40-10-Base de Pleine Nature - Maison du Lez;N10;;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;40;1931;7;18;4;40;10;M;Sport;Autres
+0;Boulodrome Pierre Lange;3019;0;;40;10;40-10-Boulodrome Pierre Lange;N10;;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;40;TA114;7;18;4;40;10;M;Sport;Autres
+0;Plateaux Sportifs Mermoz;866;0;;40;10;40-10-Plateaux Sportifs Mermoz;M11;N11;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;30;1379;7;18;4;40;10;M;Sport;Autres
+0;Archives Municipales;2935;287;;50;10;50-10-Archives Municipales;N9;;;QUART.CULTU;;M;340712;0;0;Culture et loisirs;Culture et monuments;40;TA16;7;18;4;50;10;M;Culture et loisirs;Culture et monuments
+0;Moulin de l'Evèque;2379;0;;50;10;50-10-Moulin de l'Evèque;N10;;;QUART.CULTU;;M;340712;0;0;Culture et loisirs;Culture et monuments;40;1678;7;18;4;50;10;M;Culture et loisirs;Culture et monuments
+;Place de Marathon;2231;0;;60;10;60-10-Place de Marathon;M9;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;40;TA74;7;18;4;60;10;M;Culture et loisirs;
+;Place de Thessalie;2482;0;;60;10;60-10-Place de Thessalie;M9;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;40;TA75;7;18;4;60;10;M;Culture et loisirs;
+;Placette le moulin;3019;0;;60;10;60-10-Placette le Moulin;N10;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;40;TA79;7;18;4;60;10;M;Culture et loisirs;
+;Square Adamantios Korais;3172;0;;60;10;60-10-Square Adamantios Korais;M9;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;40;TA84;7;18;4;60;10;M;Culture et loisirs;
+;Salle Fernand Pelloutier;3246;0;;50;10;50-10-Salle Fernand Pelloutier;M9;;;QUART.CULTU;;M;340712;0;0;Culture et loisirs;Culture et monuments;40;40819;7;18;4;50;10;M;Culture et loisirs;Culture et monuments
+;RAM Antigone;2231;0;;21;10;21-10-RAM Antigone;M9;;;CRECH/HGAR;;M;340712;0;0;Vie des quartiers;Petite enfance;40;1375;7;18;4;21;10;M;Vie des quartiers;Petite enfance
+;Espace chiens des échelles de la Ville;2387;0;;60;10;60-10-Espace chiens des échelles de la Ville;I15;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;40;;7;18;4;60;10;M;Culture et loisirs;
+;Place du Millénaire;2179;0;;60;10;60-10-Place du Millénaire;M9;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;40;;7;18;4;60;10;M;Culture et loisirs;
+;Ecole élémentaire Beethoven;2284;0;;22;20;22-20-Ecole élémentaire Beethoven;H14;;;ECOLES;;M;340172;0;0;Enseignement;Ecoles élémentaires;64;;4;31;12;22;20;M;Enseignement;Ecoles élémentaires
+;Ecole maternelle Beethoven;2284;0;;22;10;22-10-Ecole maternelle Beethoven;H14;;;ECOLES;;M;340172;0;0;Enseignement;Ecoles préélementaires;64;;4;31;12;22;10;M;Enseignement;
+;RAM Celleneuve;1595;311;;21;10;21-10-RAM Celleneuve;F11;G11;;CRECH/HGAR;;M;340172;0;0;Vie des quartiers;Petite enfance;26;;3;14;7;21;10;M;Vie des quartiers;Petite enfance
+0;Esplanade Charles de Gaulle;1281;1;;60;10;60-10-Esplanade Charles de Gaulle;L10;;39;PARCS/JARDIN;00159700;M;340172;6000;46;Culture et loisirs;Parcs et jardins;39;356;7;19;4;60;10;M;Culture et loisirs;
+0;Pavillon Populaire;1299;121;;50;10;50-10-Pavillon Populaire;L10;;39;QUART.CULTUR;00064400;MA;340172;5000;389;Culture et loisirs;Culture et monuments;39;40735;7;19;4;50;10;MA;Culture et loisirs;Culture et monuments
+0;Marché de la Comédie;815;1;;70;20;70-20-Marché de la Comédie;L10;;39;HALLES/MCH;00229900;M;340172;7000;201;Vie des quartiers;Halles et marchés;39;229900;7;19;4;70;20;M;Vie des quartiers;Halles et marchés
+0;Kiosques des fleuristes;0;0;;70;15;70-15-Kiosques des fleuristes;L10;;39;HALLES/MCH;;M;340172;7000;639;Vie des quartiers;Halles et marchés;39;TA183;7;19;4;70;15;M;Vie des quartiers;Halles et marchés
+0;Office du Tourisme;1281;30;;99;10;99-10-Office du Tourisme;L10;;39;VIE QUOT.SCE;00057602;M;340172;9900;387;Administrations et organismes divers;Collectivités territoriales;39;1725;7;19;4;99;10;M;Administrations et organismes divers;
+0;Poste de police municipale Hôtel de Ville;2456;1;;92;20;92-20-Poste de police municipale Hôtel de Ville;L9;L10;39;POSTE POLICE;00053502;M;340172;9200;164;Administrations et organismes divers;Police et justice;39;00053502;7;19;4;92;20;M;Administrations et organismes divers;Police et justice
+0;Salle Jules Pagezy;2456;1;;50;10;50-10-Salle Jules Pagezy;L9;;39;QUART.CULTUR;00055300;M;340172;5000;165;Culture et loisirs;Culture et monuments;39;00055300;7;19;4;50;10;M;Culture et loisirs;Culture et monuments
+7;Centre Commercial le Polygone;1331;1;;99;60;99-60-Centre Commercial le Polygone;L9;;39;DIVERS;70008500;P;340172;9950;209;Culture et loisirs;Loisirs;39;70008500;7;19;4;99;60;P;Culture et loisirs;Loisirs
+7;FRANCE TELECOM - Polygone;1702;1;;96;20;96-20-FRANCE TELECOM - Polygone;L9;;39;ADM.COMMUNIC;70023600;P;340172;9400;575;Administrations et organismes divers;Postes et télécommunications;39;;7;19;4;96;20;P;Administrations et organismes divers;
+;Service Hygiène et Santé;2456;0;;05;20;05-20-Service Hygiène et Santé;L9;;;MAIRIES ANN;;M;340712;0;0;Administrations et organismes divers;Collectivités territoriales;39;TA14;7;19;4;05;20;M;Administrations et organismes divers;
+;A.L.E;2302;2;;05;30;05-30-A.L.E;M9;;;VIE.QUART.SO;;MA;340712;0;0;Vie des quartiers;Autres;39;1977;7;19;4;05;30;MA;Vie des quartiers;Autres
+;Jardin du Champ de Mars;3409;0;;60;10;60-10-Jardin du Champ de Mars;L10;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;39;TA54;7;19;4;60;10;M;Culture et loisirs;
+;Poste de Police nationale Comédie;815;0;;92;20;92-20-Poste de Police nationale Comédie;L10;;;ADM.INTER.;;E;340712;0;0;Administrations et organismes divers;Police et justice;39;40723;7;19;4;92;20;E;Administrations et organismes divers;Police et justice
+7;Collège les Garrigues;821;10;;25;10;25-10-Collège les Garrigues;B16;;6;ADM.EDUC.NAT;70010500;CG;340172;2500;488;Enseignement;Collèges;06;70010500;2;5;5;25;10;CG;Enseignement;Collèges
+0;Ecole maternelle Jacques Prévert;821;297;;22;10;22-10-Ecole maternelle Jacques Prévert;B16;;6;ECOLES;00031702;M;340172;2207;289;Enseignement;Ecoles préélementaires;06;1040;2;5;5;22;10;M;Enseignement;
+0;Club de loisirs Le Lac;2471;3;;80;10;80-10-Club de loisirs Le Lac;B16;;6;CLUB 3 AGE;70021300;M;340172;8000;213;Vie des quartiers;Age d'or;06;70021300;2;5;5;80;10;M;Vie des quartiers;Age d'or
+0;Halte-garderie les Copains d'Abord;3056;1;;21;10;21-10-Halte-garderie les Copains d'Abord;B16;;6;CRECH/HGARD;00225800;M;340172;2000;199;Vie des quartiers;Petite enfance;06;1504;2;5;5;21;10;M;Vie des quartiers;Petite enfance
+0;Gymnase Les Garrigues;3007;0;;40;10;40-10-Gymnase Les Garrigues;B16;;6;EQUIP.SPORT;00333700;M;340172;4000;625;Sport;Gymnases;09;1645;2;5;5;40;10;M;Sport;Gymnases
+0;Poste de police municipale Mosson;1190;45;;92;20;92-20-Poste de police municipale Mosson;B16;;6;POSTE POLICE;00225700;M;340172;9200;198;Administrations et organismes divers;Police et justice;06;00225700;2;5;5;92;20;M;Administrations et organismes divers;Police et justice
+0;Parc la Carrièra;2471;99999;;60;10;60-10-Parc la Carriera;B16;;6;PARCS/JARDIN;00187500;M;340172;6000;90;Culture et loisirs;Parcs et jardins;06;187500;2;5;5;60;10;M;Culture et loisirs;
+0;E.H.P.A.D la Carrièra;2471;50;;80;20;80-20-E.H.P.D.A la Carrièra;B16;;6;SOLIDARITE;70018100;M;340172;8000;633;Vie des quartiers;Age d'or;06;70018100;2;5;5;80;20;M;Vie des quartiers;Age d'or
+0;Square du Soleil Levant;821;0;;60;10;60-10-Square du Soleil Levant;A16;B16;6;PARCS/JARDIN;00274500;M;340172;6000;632;Culture et loisirs;Parcs et jardins;06;274500;2;5;5;60;10;M;Culture et loisirs;
+0;Ecole maternelle Pablo Picasso;1190;25;;22;10;22-10-Ecole maternelle Pablo Picasso;B16;;6;ECOLES;00039402;M;340172;2207;332;Enseignement;Ecoles préélementaires;06;1242;2;5;5;22;10;M;Enseignement;
+0;Ecole élémentaire Kurosawa;1730;400;;22;20;22-20-Ecole élémentaire Kurosawa;C16;;7;ECOLES;00036002;M;340172;2217;311;Enseignement;Ecoles élémentaires;07;1140;2;5;5;22;20;M;Enseignement;Ecoles élémentaires
+0;Terrain de foot Les Tritons;1204;300;;40;10;40-10-Terrain de foot Les Tritons;A16;B16;6;EQUIP.SPORT;00078800;M;340172;4000;8;Sport;Stades;06;1421;2;5;5;40;10;M;Sport;Stades
+0;Ecole maternelle Indira Gandhi;1730;380;;22;10;22-10-Ecole maternelle Indira Gandhi;C16;;7;ECOLES;00036101;M;340172;2207;312;Enseignement;Ecoles préélementaires;07;1142;2;5;5;22;10;M;Enseignement;
+0;Ecole maternelle Copernic;1204;135;;22;10;22-10-Ecole maternelle Copernic;A16;;6;ECOLES;00036701;M;340172;2207;316;Enseignement;Ecoles préélementaires;06;1163;2;5;5;22;10;M;Enseignement;
+0;Ecole élémentaire Marc Bloch;1204;135;;22;20;22-20-Ecole élémentaire Marc Bloch;A16;;6;ECOLES;00036606;M;340172;2217;315;Enseignement;Ecoles élémentaires;06;1161;2;5;5;22;20;M;Enseignement;Ecoles élémentaires
+0;Maison de la solidarité M. Azais;1204;70;;50;10;50-10-Maison de la solidarité M. Azais;A16;;6;QUART.CULTUR;00136300;M;340172;5000;413;Culture et loisirs;Culture et monuments;06;136300;2;5;5;50;10;M;Culture et loisirs;Culture et monuments
+0;Lac des Garrigues;1587;99999;;60;10;60-10-Lac des Garrigues;B15;;6;PARCS/JARDIN;00159000;M;340172;6000;40;Culture et loisirs;Parcs et jardins;06;33;2;5;5;60;10;M;Culture et loisirs;
+0;Parc Georges Brassens;821;20;;60;10;60-10-Parc Georges Brassens;A15;B15;6;PARCS/JARDIN;00162200;M;340172;6000;56;Culture et loisirs;Parcs et jardins;06;162200;2;5;5;60;10;M;Culture et loisirs;
+0;Parcours sportifs Lac des Garrigues;1587;102;;40;10;40-10-Parcours sportifs Lac des Garrigues;B15;;6;EQUIP.SPORT;00001200;M;340172;4000;133;Sport;Autres;06;741;2;5;5;40;10;M;Sport;Autres
+0;Palais des Sports Pierre de Coubertin;1135;25;;40;10;40-10-Palais des Sports Pierre de Coubertin;B15;;6;EQUIP.SPORT;00061300;MA;340172;4000;388;Sport;Gymnases;06;1388;2;5;5;40;10;MA;Sport;Gymnases
+0;Ecole maternelle Averroes;1271;47;;22;10;22-10-Ecole maternelle Averroes;B15;;6;ECOLES;00036901;M;340172;2207;317;Enseignement;Ecoles préélementaires;06;1166;2;5;5;22;10;M;Enseignement;
+0;Ecole élémentaire Galilée;1271;47;;22;20;22-20-Ecole élémentaire Galilée;B15;;6;ECOLES;00037101;M;340172;2217;318;Enseignement;Ecoles élémentaires;06;1169;2;5;5;22;20;M;Enseignement;Ecoles élémentaires
+0;Base nautique Lac des Garrigues;1587;102;;40;10;40-10-Base nautique Lac des Garrigues;B15;;6;EQUIP.SPORT;00001300;M;340172;4000;134;Sport;Autres;06;742;2;5;5;40;10;M;Sport;Autres
+7;Centre de Soins Dentaires;2944;545;;90;30;90-30-Centre de Soins Dentaires;C15;;7;ADM.SANTE AS;70020300;E;340172;9000;555;Administrations et organismes divers;Santé;07;70020300;2;5;5;90;30;E;Administrations et organismes divers;Santé
+0;Tennis Les Garrigues 1 à 3;1587;100;;40;10;40-10-Tennis Les Garrigues 1 à 3;B15;;6;EQUIP.SPORT;00077800;M;340172;4000;179;Sport;Tennis;06;516;2;5;5;40;10;M;Sport;Tennis
+0;Square d'Ajaccio;434;0;;60;10;60-10-Square d'Ajaccio;A15;;6;PARCS/JARDIN;00195800;M;340172;6000;631;Culture et loisirs;Parcs et jardins;06;195800;2;5;5;60;10;M;Culture et loisirs;
+7;Faculté d'Odontologie;2944;545;;27;10;27-10-Faculté d'Odontologie;C15;;7;ADM.EDUC.NAT;70013400;E;340172;2700;515;Enseignement;Enseignement supérieur;07;39226;2;5;5;27;10;E;Enseignement;
+7;Collège les Escholiers;594;70;;25;10;25-10-Collège les Escholiers;C14;;15;ADM.EDUC.NAT;70011600;CG;340172;2500;499;Enseignement;Collèges;15;70011600;2;5;5;25;10;CG;Enseignement;Collèges
+0;Médiathèque Jean-Jacques Rousseau;1588;100;;50;10;50-10-Médiathèque Jean-Jacques Rousseau;B14;C14;14;QUART.CULTUR;70123100;MA;340172;5000;585;Culture et loisirs;Médiathèques;14;616;2;5;5;50;10;MA;Culture et loisirs;Médiathèques
+0;Gymnase Jean Bouin;594;70;;40;10;40-10-Gymnase Jean Bouin;C14;;15;EQUIP.SPORT;00047200;M;340172;4000;355;Sport;Gymnases;15;1321;2;5;5;40;10;M;Sport;Gymnases
+0;Eglise Réformée de Montpellier-Paillade;0;0;;97;65;97-65-Eglise Réformée de Montpellier-Paillade;B14;;14;CULTE;;;340172;9760;677;Culture et loisirs;Cultes et cimetières;14;TA17;2;5;5;97;65;;Culture et loisirs;Cultes et cimetières
+7;Centre des Impôts Montpellier Nord;1415;40;;99;10;99-10-Centre des Impôts Montpellier Nord;B14;C14;14;ADM.ECO.FIN.;70002000;E;340172;9900;447;Administrations et organismes divers;Autres administrations;14;70002000;2;5;5;99;10;E;Administrations et organismes divers;
+7;Poste - Mosson;2997;109;;96;10;96-10-Poste - Mosson;C14;;15;ADM.COMMUNIC;70022400;P;340172;9400;567;Administrations et organismes divers;Postes et télécommunications;15;;2;5;5;96;10;P;Administrations et organismes divers;
+0;Parc Chico Mendez;424;99999;;60;10;60-10-Parc Chico Mendez;C14;;15;PARCS/JARDIN;00178900;M;340172;6000;83;Culture et loisirs;Parcs et jardins;15;178900;2;5;5;60;10;M;Culture et loisirs;
+0;Pinède de la Paillade;603;99999;;60;10;60-10-Pinède de la Paillade;B14;;14;PARCS/JARDIN;00201500;M;340172;6000;196;Culture et loisirs;Parcs et jardins;14;201500;2;5;5;60;10;M;Culture et loisirs;
+7;Centre de secours Guizonnier;423;1;;99;10;99-10-Centre de secours Guizonnier;C14;;15;DIVERS;70009000;E;340172;9900;476;Administrations et organismes divers;Collectivités territoriales;15;70009000;2;5;5;99;10;E;Administrations et organismes divers;
+0;Parc Malbosc;1431;99999;;60;10;60-10-Parc Malbosc;D13;D14;15;PARCS/JARDIN;00250000;M;340172;6000;128;Culture et loisirs;Parcs et jardins;15;641;2;5;5;60;10;M;Culture et loisirs;
+0;Boulodrome Les Tritons;3232;0;;40;10;40-10-Boulodrome Les Tritons;A16;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;06;776;2;5;5;40;10;M;Sport;Autres
+0;Terrain de foot les Gemaux;423;0;;40;10;40-10-Terrain de foot les Gemaux;C14;;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;15;1585;2;5;5;40;10;M;Sport;Stades
+0;Mur d'escalade - Les Garrigues;1190;0;;40;10;40-10-Mur d'escalade Les Garrigues;B16;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;06;743;2;5;5;40;10;M;Sport;Autres
+0;Plateaux Sportifs Escholiers de la Mosson;594;0;;40;10;40-10-Plateaux Sportifs Escholiers de la Mosson;C14;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;15;1322;2;5;5;40;10;M;Sport;Autres
+0;Plateaux Sportifs Les Troubadours;1730;0;;40;10;40-10-Plateaux Sportifs Les Troubadours;B15;B16;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;06;1384;2;5;5;40;10;M;Sport;Autres
+0;Plateaux Sportifs Marc Bloch;2724;0;;40;10;40-10-Plateaux Sportifs Marc Bloch;A16;A15;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;06;1164;2;5;5;40;10;M;Sport;Autres
+0;Ecole élémentaire Rabelais;3273;0;;22;20;22-20-Ecole élémentaire Rabelais;D14;;;ECOLES;;M;340712;0;0;Enseignement;Ecoles élémentaires;15;TA96;2;5;5;22;20;M;Enseignement;Ecoles élémentaires
+;Beach Volley Mosson;1587;100;;40;10;40-10-Beach Volley Mosson;B15;;; EQUIP.SPORT;;M;340172;0;0;Sport;Autres;6;;2;5;5;40;10;M;Sport;Autres
+;Salle de sports Jacques Brel;1587;0;;40;10;40-10-Salle de sports Jacques Brel;B16;;;EQUIP.SPORT;;M;340172;0;0;Sport;Gymnases;6;;2;5;5;40;10;M;Sport;Gymnases
+;Salle de sports Les Guarrigues;821;0;;40;10;40-10-Salle de sports Les Guarrigues;B16;;;EQUIP.SPORT;;M;340712;0;0;Sport;Gymnases;6;;2;5;5;40;10;M;Sport;Gymnases
+;Cannalette;1587;0;;60;10;60-10-Cannalette;B15;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;6;;2;5;5;60;10;M;Culture et loisirs;
+;Espace chiens du Parc Malbosc;3269;0;;60;10;60-10-Espace chiens du Parc Malbosc;D14;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;7;;2;5;5;60;10;M;Culture et loisirs;
+;Square du château d'eau de Mas;3013;0;;60;10;60-10-Square du château d'eau de Mas;B16;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;6;;2;5;5;60;10;M;Culture et loisirs;
+;M.P.T. Georges Brassens;1190;45;;10;10;10-10-M.P.T. Georges Brassens;B16;;;;00137700;M;340172;0;0;Vie des quartiers;MPT;06;1492;2;5;5;10;10;M;Vie des quartiers;
+0;Parc de Bel-Juel;1568;99999;;60;10;60-10-Parc de Bel-Juel;D11;;25;PARCS/JARDIN;00166400;M;340172;6000;68;Culture et loisirs;Parcs et jardins;25;166400;3;6;5;60;10;M;Culture et loisirs;
+0;E.H.P.A.D Michel Bélorgeot;1567;41;;80;20;80-20-E.H.P.D.A Michel Bélorgeot;D11;E11;25;SOLIDARITE;70018000;M;340172;8000;540;Vie des quartiers;Age d'or;25;70018000;3;6;5;80;20;M;Vie des quartiers;Age d'or
+0;Square des Pruneliers;527;99999;;60;10;60-10-Square des Pruneliers;E11;;26;PARCS/JARDIN;00166900;M;340172;6000;70;Culture et loisirs;Parcs et jardins;26;166900;3;6;5;60;10;M;Culture et loisirs;
+0;Square Neptune;2087;99999;;60;10;60-10-Square Neptune;C14;;15;PARCS/JARDIN;00188200;M;340172;6000;92;Culture et loisirs;Parcs et jardins;15;2077;2;7;5;60;10;M;Culture et loisirs;
+7;Foyer des Travailleurs Migrants;1000;550;;99;10;99-10-Foyer des Travailleurs Migrants;C13;;15;SOLIDARITE;70020500;;340172;9900;556;Administrations et organismes divers;Autres administrations;15;39134;2;7;5;99;10;;Administrations et organismes divers;
+0;Crèche Louise Guiraud;2053;35;;21;10;21-10-Crèche Louise Guiraud;B13;;14;CRECH/HGARD;00021101;M;340172;2000;247;Vie des quartiers;Petite enfance;14;845;2;7;5;21;10;M;Vie des quartiers;Petite enfance
+7;Maison de Justice;545;66;;92;20;92-20-Maison de Justice;C13;;15;ADM.JUSTICE;70024800;E;340172;9200;577;Administrations et organismes divers;Police et justice;15;1768;2;7;5;92;20;E;Administrations et organismes divers;Police et justice
+0;Square Joseph Delteil;493;99999;;60;10;60-10-Square Joseph Delteil;E11;;26;PARCS/JARDIN;00193700;M;340172;6000;99;Culture et loisirs;Parcs et jardins;26;193700;3;6;7;60;10;M;Culture et loisirs;
+0;Médiathèque William Shakespeare;0;0;;50;10;50-10-Médiathèque William Shakespeare;E10;;36;QUART.CULTUR;;MA;340172;5000;647;Culture et loisirs;Médiathèques;36;TA39;3;6;7;50;10;MA;Culture et loisirs;Médiathèques
+0;Salle Avicenne;1666;272;;50;10;50-10-Salle Avicenne;E10;;36;QUART.CULTUR;00200000;M;340172;9740;421;Culture et loisirs;Culture et monuments;36;1500;3;6;7;50;10;M;Culture et loisirs;Culture et monuments
+0;Multisport François Villon;1419;0;;40;10;40-10-Multisport François Villon;E11;;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;26;1662;3;6;7;40;10;M;Sport;Stades
+0;Multisport Bernard Jouanique;2862;0;;40;10;40-10-Multisport Bernard Jouanique;G12;;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;27;1664;3;6;7;40;10;M;Sport;Stades
+0;Plateaux Sportifs Petit Bard;1676;0;;40;10;40-10-Plateaux Sportifs Petit Bard;E11;F11;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;26;TA152;3;6;7;40;10;M;Sport;Autres
+;Mairie annexe François Villon;415;0;;05;30;05-30-Mairie annexe François Villon;F11;;;MAIRIES.ANN;;M;340712;0;0;Vie des quartiers;Mairies annexes;26;TA186;3;6;7;05;30;M;Vie des quartiers;
+0;Poste de police municipale Petit Bard;493;0;;92;20;92-20-Poste de police municipale Petit Bard;E11;;;POSTE POLICE;;M;340712;0;0;Administrations et organismes divers;Police et justice;26;40818;3;6;7;92;20;M;Administrations et organismes divers;Police et justice
+;Aqueduc St Clement II;494;0;;60;10;60-10-Aqueduc St Clement II;F12;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;26;TA42;3;6;7;60;10;M;Culture et loisirs;
+0;Salle de sports Bernard Jouanique;2850;32;;40;10;40-10-Salle de sports Bernard Jouanique;G12;;27;EQUIP.SPORT;00046900;M;340172;4000;353;Sport;Gymnases;27;1319;3;6;7;40;10;M;Sport;Gymnases
+;Salle de boxe Abdenoun Tataï;1676;1184;;40;10;40-10-Salle de boxe Abdenoun Tataï;E11;;;EQUIP.SPORT;;M;340172;0;0;Sport;Gymnases;26;;3;6;7;40;10;M;Sport;Gymnases
+;Crèche d'entreprises Eliane Bauduin;448;1000;;21;10;21-10-Crèche d'entreprises Eliane Bauduin;E12;;;CRECH/HGARD;;CG;340172;0;0;Vie des quartiers;Petite enfance;26;;3;6;7;21;10;CG;Vie des quartiers;Petite enfance
+;Maison de Quartier Jean-Pierre Chabrol;1817;921;;10;10;10-10-Maison de Quartier Jean-Pierre Chabrol;F12;;;;00302100;M;340172;0;0;Vie des quartiers;MPT;26;635;3;6;7;10;10;M;Vie des quartiers;
+;M.P.T. Paul-Emile Victor;1817;1247;;10;10;10-10-M.P.T. Paul-Emile Victor;F12;;;;00140200;M;340172;0;0;Vie des quartiers;MPT;26;1700;3;6;7;10;10;M;Vie des quartiers;
+;Maison de Quartier Fanfonne Guillierme;526;99999;;10;10;10-10-Maison de Quartier Fanfonne Guillierme;F12;;;;00053300;M;340172;0;0;Vie des quartiers;MPT;26;1688;3;6;7;10;10;M;Vie des quartiers;
+;M.P.T. François Villon;415;4;;10;10;10-10-M.P.T. François Villon;F11;;;;00053000;M;340172;0;0;Vie des quartiers;MPT;26;1687;3;6;7;10;10;M;Vie des quartiers;
+0;Salle de sports Louis Nègre;1676;295;;40;10;40-10-Salle de sports Louis Nègre;G11;;27;EQUIP.SPORT;00048800;M;340172;4000;363;Sport;Gymnases;27;1343;3;14;7;40;10;M;Sport;Gymnases
+0;Marché Saint Clément;676;55;;70;20;70-20-Marché Saint Clément;G11;;27;HALLES/MCH;00296700;M;340172;7000;205;Vie des quartiers;Halles et marchés;27;296700;3;14;7;70;20;M;Vie des quartiers;Halles et marchés
+7;Collège Las Cazes;861;420;;25;10;25-10-Collège Las Cazes;G11;;27;ADM.EDUC.NAT;70010600;CG;340172;2500;489;Enseignement;Collèges;27;38930;3;14;7;25;10;CG;Enseignement;Collèges
+7;Poste - Saint Clément;1926;470;;96;10;96-10-Poste - Saint Clément;G11;;27;ADM.COMMUNIC;70023000;P;340172;9400;572;Administrations et organismes divers;Postes et télécommunications;27;;3;14;7;96;10;P;Administrations et organismes divers;
+0;Ecole élémentaire Charles Baudelaire;1926;311;;22;20;22-20-Ecole élémentaire Charles Baudelaire;F11;;26;ECOLES;00036501;M;340172;2217;314;Enseignement;Ecoles élémentaires;26;1147;3;14;7;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole maternelle Rudyard Kipling;1926;311;;22;10;22-10-Ecole maternelle Rudyard Kipling;F11;;26;ECOLES;00036402;M;340172;2207;313;Enseignement;Ecoles préélementaires;26;1145;3;14;7;22;10;M;Enseignement;
+0;Square de la Vigne de la Vierge;1390;99999;;60;10;60-10-Square de la Vigne de la Vierge;F10;;36;PARCS/JARDIN;00163000;M;340172;6000;58;Culture et loisirs;Parcs et jardins;36;163000;3;14;7;60;10;M;Culture et loisirs;
+0;Eglise N.D. de l'Espérance;0;0;;97;15;97-15-Eglise N.D. de l'Espérance;G10;;37;CULTE;;;340172;9710;655;Culture et loisirs;Culture et monuments;37;40440;3;14;7;97;15;;Culture et loisirs;Culture et monuments
+0;Gymnase Michelle Ostermeyer;1355;1473;;40;10;40-10-Gymnase Michelle Ostermeyer;G10;;37;EQUIP.SPORT;00014200;M;340172;4000;238;Sport;Gymnases;37;790;3;14;7;40;10;M;Sport;Gymnases
+7;Clinique Clémentville;795;25;;90;20;90-20-Clinique Clémentville;G10;;37;ADM.SANTE AS;70015400;P;340172;9000;523;Administrations et organismes divers;Santé;37;39074;3;14;7;90;20;P;Administrations et organismes divers;Santé
+0;Eglise Réformée de Montpellier-St Paul;0;0;;97;65;97-65-Eglise Réformée de Montpellier-St Paul;G10;;37;CULTE;;;340172;9760;678;Culture et loisirs;Cultes et cimetières;37;39038;3;14;7;97;65;;Culture et loisirs;Cultes et cimetières
+7;Lycée Jules Guesdes;1390;110;;25;20;25-20-Lycée Jules Guesdes;G10;;37;ADM.EDUC.NAT;70010000;LR;340172;2515;484;Enseignement;Lycées;37;38933;3;14;7;25;20;LR;Enseignement;Lycées
+0;Club de loisirs Jeanne Galzy;795;14;;80;10;80-10-Club de loisirs Jeanne Galzy;H10;;37;CLUB 3 AGE;70021400;M;340172;8000;214;Vie des quartiers;Age d'or;37;2154;3;14;7;80;10;M;Vie des quartiers;Age d'or
+0;Terrain de foot Alain Delylle;1355;1473;;40;10;40-10-Terrain de foot Alain Delylle;G10;;37;EQUIP.SPORT;00014300;M;340172;4000;0;Sport;Stades;37;791;3;14;7;40;10;M;Sport;Stades
+0;Square Boussinesq;627;99999;;60;10;60-10-Square Boussinesq;H10;;37;PARCS/JARDIN;00163400;M;340172;6000;60;Culture et loisirs;Parcs et jardins;37;163400;3;14;7;60;10;M;Culture et loisirs;
+0;Théâtre Jean Vilar;603;155;;50;10;50-10-Théâtre Jean Vilar;B13;;14;QUART.CULTUR;00098503;M;340172;5000;628;Culture et loisirs;Culture et monuments;14;1986;2;7;5;50;10;M;Culture et loisirs;Culture et monuments
+0;Marché de la Paillade;603;99999;;70;20;70-20-Marché de la Paillade;B13;;14;HALLES/MCH;00056500;M;340172;7000;167;Vie des quartiers;Halles et marchés;14;00056500;2;7;5;70;20;M;Vie des quartiers;Halles et marchés
+0;Salle Polyvalente Averroès;0;0;;50;10;50-10-Salle Polyvalente Averroès;C13;;15;QUART.CULTUR;;M;340172;9740;676;Culture et loisirs;Culture et monuments;15;1684;2;7;5;50;10;M;Culture et loisirs;Culture et monuments
+0;Ecole maternelle Virginia Woolf;545;255;;22;10;22-10-Ecole maternelle Virginia Woolf;B13;C13;14;ECOLES;00027301;M;340172;2207;267;Enseignement;Ecoles préélementaires;14;929;2;7;5;22;10;M;Enseignement;
+0;Mairie annexe La Mosson;603;155;;05;30;05-30-Mairie annexe La Mosson;B13;;14;MAIRIES ANN.;00001002;M;340172;500;228;Vie des quartiers;Mairies annexes;14;1719;2;7;5;05;30;M;Vie des quartiers;
+0;Ecole maternelle James Joyce;603;122;;22;10;22-10-Ecole maternelle James Joyce;B13;;14;ECOLES;00027501;M;340172;2207;268;Enseignement;Ecoles préélementaires;14;932;2;7;5;22;10;M;Enseignement;
+0;Ecole élémentaire André Boulloche;1359;123;;22;20;22-20-Ecole élémentaire André Boulloche;B13;C13;14;ECOLES;00027208;M;340172;2217;266;Enseignement;Ecoles élémentaires;14;927;2;7;5;22;20;M;Enseignement;Ecoles élémentaires
+0;Halles des Quatre Saisons;1208;1321;;70;10;70-10-Halles des Quatre Saisons;B13;;14;HALLES/MCH;00049100;M;340172;7000;366;Vie des quartiers;Halles et marchés;14;00049100;2;7;5;70;10;M;Vie des quartiers;Halles et marchés
+0;Parc du Mas de la Paillade;0;0;;60;10;60-10-Parc du Mas de la Paillade;B13;;14;PARCS/JARDIN;;M;340172;6000;630;Culture et loisirs;Parcs et jardins;14;TA69;2;7;5;60;10;M;Culture et loisirs;
+0;Ecole élémentaire L. Sédar Senghor;603;26;;22;20;22-20-Ecole élémentaire L. Sédar Senghor;B13;;14;ECOLES;00027701;M;340172;2217;269;Enseignement;Ecoles élémentaires;14;934;2;7;5;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole maternelle Vincent Van Gogh;1633;242;;22;10;22-10-Ecole maternelle Vincent Van Gogh;B13;C13;14;ECOLES;00039001;M;340172;2207;330;Enseignement;Ecoles préélementaires;14;1228;2;7;5;22;10;M;Enseignement;
+0;Ecole élémentaire Roosevelt;1359;25;;22;20;22-20-Ecole élémentaire Roosevelt;B13;C13;14;ECOLES;00039201;M;340172;2217;331;Enseignement;Ecoles élémentaires;14;1231;2;7;5;22;20;M;Enseignement;Ecoles élémentaires
+7;Lycée Professionnel Léonard de Vinci;1808;1;;25;20;25-20-Lycée Professionnel Léonard de Vinci;C13;;15;ADM.EDUC.NAT;70009200;LR;340172;2515;477;Enseignement;Lycées;15;38931;2;7;5;25;20;LR;Enseignement;Lycées
+0;Aire de skateboard Blayac;1808;0;;40;10;40-10-Aire de skateboard Blayac;C13;;15;EQUIP.SPORT;00311700;M;340172;4000;626;Sport;Autres;15;1593;2;7;5;40;10;M;Sport;Autres
+0;Collège d'Alco;0;0;;25;10;25-10-Collège d'Alco;E13;;16;ADM.EDUC.NAT;;CG;340172;2500;643;Enseignement;Collèges;16;40658;2;7;5;25;10;CG;Enseignement;Collèges
+0;Ecole élémentaire Louisville;1412;431;;22;20;22-20-Ecole élémentaire Louisville;B12;B13;24;ECOLES;00037701;M;340172;2217;323;Enseignement;Ecoles élémentaires;14;1192;2;7;5;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole élémentaire Heidelberg;1382;310;;22;20;22-20-Ecole élémentaire Heidelberg;B13;;14;ECOLES;00031601;M;340172;2217;288;Enseignement;Ecoles élémentaires;14;1031;2;7;5;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole maternelle Cervantes;740;91;;22;10;22-10-Ecole maternelle Cervantes;B13;;14;ECOLES;00031501;M;340172;2207;287;Enseignement;Ecoles préélementaires;14;1029;2;7;5;22;10;M;Enseignement;
+7;Poste - Le Grand Mail;543;231;;96;10;96-10-Poste - Le Grand Mail;B12;B13;24;ADM.COMMUNIC;70022500;P;340172;9400;568;Administrations et organismes divers;Postes et télécommunications;24;;2;7;5;96;10;P;Administrations et organismes divers;
+0;Ecole maternelle Martin Luther King;740;65;;22;10;22-10-Ecole maternelle Martin Luther King;B12;B13;24;ECOLES;00037501;M;340172;2207;322;Enseignement;Ecoles préélementaires;24;1189;2;7;5;22;10;M;Enseignement;
+7;Lycée Jean Monnet;1431;2;;25;20;25-20-Lycée Jean Monnet;D12;E12;25;ADM.EDUC.NAT;70009800;LR;340172;2515;482;Enseignement;Lycées;25;39237;2;7;5;25;20;LR;Enseignement;Lycées
+0;Ecole maternelle Madeleine Renaud;543;360;;22;10;22-10-Ecole maternelle Madeleine Renaud;B12;;24;ECOLES;00042101;M;340172;2207;343;Enseignement;Ecoles préélementaires;24;1282;2;7;5;22;10;M;Enseignement;
+0;Ecole élémentaire Antoine Balard;1979;85;;22;20;22-20-Ecole élémentaire Antoine Balard;B12;;24;ECOLES;00042301;M;340172;2217;344;Enseignement;Ecoles élémentaires;24;1284;2;7;5;22;20;M;Enseignement;Ecoles élémentaires
+0;Terrains de foot Mosson;1208;645;;40;10;40-10-Terrains de foot Mosson;A12;;24;EQUIP.SPORT;00018800;M;340172;4000;3;Sport;Stades;24;822;2;7;5;40;10;M;Sport;Stades
+0;Ecole élémentaire Simon Bolivar;543;300;;22;20;22-20-Ecole élémentaire Simon Bolivar;B12;;24;ECOLES;00027101;M;340172;2217;265;Enseignement;Ecoles élémentaires;24;912;2;7;5;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole maternelle Pablo Néruda;1979;53;;22;10;22-10-Ecole maternelle Pablo Néruda;B12;;24;ECOLES;00026801;M;340172;2207;264;Enseignement;Ecoles préélementaires;24;909;2;7;5;22;10;M;Enseignement;
+0;Salle de sports Lou Clapas;1208;645;;40;10;40-10-Salle de sports Lou Clapas;A12;;24;EQUIP.SPORT;00243000;M;340172;4000;427;Sport;Gymnases;24;1538;2;7;5;40;10;M;Sport;Gymnases
+0;Aire de jeux de Louisville - Sq. le Trident;1412;350;;60;10;60-10-Aire de jeux de Louisville - Sq. le Trident;B12;;24;PARCS/JARDIN;00162300;M;340172;6000;195;Culture et loisirs;Parcs et jardins;24;162300;2;7;5;60;10;M;Culture et loisirs;
+0;Mail de la Paillade;0;0;;60;10;60-10-Mail de la Paillade;B12;B13;24;PARCS/JARDIN;;M;340172;6000;629;Culture et loisirs;Parcs et jardins;24;TA62;2;7;5;60;10;M;Culture et loisirs;
+0;Stade de la Mosson - Mondial 98;1208;645;;40;10;40-10-Stade de la Mosson - Mondial 98;A12;B12;24;EQUIP.SPORT;00019300;MA;340172;4000;5;Sport;Stades;24;827;2;7;5;40;10;MA;Sport;Stades
+7;Ecole Supérieure de Commerce;1568;2300;;27;10;27-10-Ecole Supérieure de Commerce;E12;;26;ADM.EDUC.NAT;70011800;E;340172;2700;500;Enseignement;Enseignement supérieur;26;39123;2;7;5;27;10;E;Enseignement;
+0;Square - piscine Mosson;1208;99999;;60;10;60-10-Square - piscine Mosson;B12;;24;PARCS/JARDIN;00214300;M;340172;6000;116;Culture et loisirs;Parcs et jardins;24;214300;2;7;5;60;10;M;Culture et loisirs;
+0;Tennis Mosson 1 à 9;1208;645;;40;10;40-10-Tennis Mosson 1 à 9;B12;;24;EQUIP.SPORT;00078000;M;340172;4000;180;Sport;Tennis;24;1412;2;7;5;40;10;M;Sport;Tennis
+0;Centre nautique Neptune;1208;315;;40;10;40-10-Centre nautique Neptune;B12;;24;EQUIP.SPORT;00009900;MA;340172;4000;141;Sport;Autres;24;1467;2;7;5;40;10;MA;Sport;Autres
+0;Piste bi-cross Joan l'An Près;1309;99999;;40;10;40-10-Piste bi-cross Joan l'An Près;C11;;25;EQUIP.SPORT;00002000;M;340172;4000;137;Sport;Autres;25;747;2;7;5;40;10;M;Sport;Autres
+0;Point de propreté Demeter - Mosson;1883;1;;97;10;97-10-Point de propreté Demeter - Mosson;B11;;24;VIE QUOT.SCE;00085900;MA;340172;9500;402;Vie des quartiers;Propreté;24;00085900;2;7;5;97;10;MA;Vie des quartiers;Propreté
+0;Quillodrome Mosson;1208;99999;;40;10;40-10-Quillodrome Mosson;B11;;24;EQUIP.SPORT;00231700;M;340172;4000;203;Sport;Autres;24;1509;2;7;5;40;10;M;Sport;Autres
+0;Parking Espace Mosson;1883;1;;95;20;95-20-Parking Espace Mosson;B11;;24;VIE QUOT.SCE;00022700;MA;340172;9300;148;Transports;Parkings;24;00022700;2;7;5;95;20;MA;Transports;Parkings
+0;Marché aux Plants - Espace Mosson;1883;1;;70;20;70-20-Marché aux Plants - Espace Mosson;B11;;24;HALLES/MCH;00022500;M;340172;7000;147;Vie des quartiers;Halles et marchés;24;00022500;2;7;5;70;20;M;Vie des quartiers;Halles et marchés
+0;Marché aux Puces et à la Brocante - Espace Mosson;0;0;;70;20;70-20-Marché aux Puces et à la Brocante - Espace Mosson;B11;;24;HALLES/MCH;;M;340172;7000;590;Vie des quartiers;Halles et marchés;24;TA185;2;7;5;70;20;M;Vie des quartiers;Halles et marchés
+7;Collège Arthur Rimbaud;1454;2;;25;10;25-10-Collège Arthur Rimbaud;C11;;25;ADM.EDUC.NAT;70011200;CG;340172;2500;495;Enseignement;Collèges;25;70011200;2;7;5;25;10;CG;Enseignement;Collèges
+0;Gymnase Arthur Rimbaud;1745;0;;40;10;40-10-Gymnase Arthur Rimbaud;C11;;25;EQUIP.SPORT;00333800;M;340172;4000;624;Sport;Gymnases;25;1646;2;7;5;40;10;M;Sport;Gymnases
+0;Salle Louis Feuillade;1170;0;;50;10;50-10-Salle Louis Feuillade;B12;;37;QUART.CULTUR;00012400;M;340172;5000;627;Culture et loisirs;Culture et monuments;24;00012400;2;7;5;50;10;M;Culture et loisirs;Culture et monuments
+0;Club de loisirs Baroncelli;603;0;;80;10;80-10-Club de loisirs Baroncelli;C14;D14;;CLUB3AGE;;M;340172;0;0;Vie des quartiers;Age d'or;15;TA98;2;7;5;80;10;M;Vie des quartiers;Age d'or
+0;Boulodrome René Bessières;1412;0;;40;10;40-10-Boulodrome René Bessières;B12;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;24;767;2;7;5;40;10;M;Sport;Autres
+0;Boulodrome Hortus;545;0;;40;10;40-10-Boulodrome Hortus;B13;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;14;769;2;7;5;40;10;M;Sport;Autres
+0;Boulodrome Reyne;2565;0;;40;10;40-10-Boulodrome Reyne;B12;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;24;783;2;7;5;40;10;M;Sport;Autres
+0;Multisport Heildelberg;1208;0;;40;10;40-10-Multisport Heidelberg;B13;;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;14;1663;2;7;5;40;10;M;Sport;Stades
+0;Plateaux Sportifs Arthur Rimbaud;1745;0;;40;10;40-10-Plateaux Sportifs Arthur Rimbaud;C11;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;25;1658;2;7;5;40;10;M;Sport;Autres
+0;Plateaux Sportifs Louisville;1382;0;;40;10;40-10-Plateaux Sportifs Louisville;B12;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;24;TA145;2;7;5;40;10;M;Sport;Autres
+0;Studio Glandier;603;0;;50;10;50-10-Studio Glandier;B13;;;QUART.CULTU;;M;340712;0;0;Culture et loisirs;Culture et monuments;14;TA35;2;7;5;50;10;M;Culture et loisirs;Culture et monuments
+;C.E.M.H  T.A.M Les Hirondelles;423;543;;99;10;99-10-C.E.M.H  T.A.M Les Hirondelles;C14;C13;;ADM.EQUIP.TR;;MA;340712;0;0;Administrations et organismes divers;Collectivités territoriales;15;TA0;2;7;5;99;10;MA;Administrations et organismes divers;
+;Berges Mosson;3083;0;;60;10;60-10-Berges Mosson;B11;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;24;TA48;2;7;5;60;10;M;Culture et loisirs;
+;Le Grand Mail;1170;0;;60;10;60-10-Le Grand Mail;B12;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;24;TA57;2;7;5;60;10;M;Culture et loisirs;
+;Berges du Rieutord;1000;0;;60;10;60-10-Berges du Rieutord;C12;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;24;TA47;2;7;5;60;10;M;Culture et loisirs;
+;Poste de Police nationale Mosson;1170;0;;92;20;92-20-Poste de Police nationale Mosson;B12;;;ADM.INTER.;;E;340712;0;0;Administrations et organismes divers;Police et justice;14;TA1;2;7;5;92;20;E;Administrations et organismes divers;Police et justice
+;Antenne Mosson C.C.A.S;837;82;;05;30;05-30-Antenne Mosson C.C.A.S;B13;;;ADM.COMMUNI;;M;340712;0;0;Vie des quartiers;Autres;14;;2;7;5;05;30;M;Vie des quartiers;Autres
+;Mur d'escalade - Arthur Rimbaud;3329;0;;40;10;40-10-Mur d'escalade Arthur Rimbaud;C11;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;25;;2;7;5;40;10;M;Sport;Autres
+;Terrain de Rugby Mosson;1208;0;;40;10;40-10-Terrain de Rugby Mosson;B12;;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;24;;2;7;5;40;10;M;Sport;Stades
+0;Salle de sports Arthur Rimbaud;1745;0;;40;10;40-10-Salle de sports Arthur Rimbaud;C11;;25;EQUIP.SPORT;00333800;M;340172;4000;624;Sport;Gymnases;25;1646;2;7;5;40;10;M;Sport;Gymnases
+;Gymnase François Rabelais;1431;0;;40;10;40-10-Gymnase François Rabelais;D13;E13;;EQUIP.SPORT;;CG;340172;0;0;Sport;Gymnases;16;;2;7;5;40;10;CG;Sport;Gymnases
+;Mur d'escalade - François Rabelais;1431;0;;40;10;40-10-Mur d'escalade François Rabelais;D13;E13;;EQUIP.SPORT;;CG;340172;0;0;Sport;Autres;16;;2;7;5;40;10;CG;Sport;Autres
+;Jardins Familiaux de Malbosc;3257;0;;60;10;60-10-Jardins Familiaux de Malbosc;D14;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;16;;2;7;5;60;10;M;Culture et loisirs;
+;RAM Mosson;543;476;;21;10;21-10-RAM Mosson;B13;;;CRECH/HGAR;;M;340172;0;0;Vie des quartiers;Petite enfance;14;;2;7;5;21;10;M;Vie des quartiers;Petite enfance
+;Crèche associative La Paillade;543;47;;21;10;21-10-Crèche associative La Paillade;B12;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;24;;2;7;5;21;10;P;Vie des quartiers;Petite enfance
+;Crèche d'entreprises Les petits Chaperons Rouges II;3481;321;;21;10;21-10-Crèche d'entreprises Les petits Chaperons Rouges II;C11;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;25;;2;7;5;21;10;P;Vie des quartiers;Petite enfance
+;M.P.T. Léo Lagrange;603;155;;10;10;10-10-M.P.T. Léo Lagrange;B13;;;;00098500;M;340172;0;0;Vie des quartiers;MPT;14;1685;2;7;5;10;10;M;Vie des quartiers;
+0;Halte-garderie les Chats Bottés;2721;24;;21;10;21-10-Halte-garderie les Chats Bottés;D11;;25;CRECH/HGARD;00049200;M;340172;2000;367;Vie des quartiers;Petite enfance;25;1346;2;15;5;21;10;M;Vie des quartiers;Petite enfance
+0;Cimetière Celleneuve;1015;120;;98;10;98-10-Cimetière Celleneuve;D11;;25;VIE QUOT.SCE;00010300;M;340172;9600;219;Culture et loisirs;Cultes et cimetières;25;1802;2;15;5;98;10;M;Culture et loisirs;Cultes et cimetières
+0;Parc Azéma;1568;99999;;60;10;60-10-Parc Azéma;D11;;25;PARCS/JARDIN;00164800;M;340172;6000;66;Culture et loisirs;Parcs et jardins;25;164800;2;15;5;60;10;M;Culture et loisirs;
+7;Poste - Celleneuve;1369;2;;96;10;96-10-Poste - Celleneuve;D11;;25;ADM.COMMUNIC;70021900;P;340172;9400;562;Administrations et organismes divers;Postes et télécommunications;25;;2;15;5;96;10;P;Administrations et organismes divers;
+0;Terrain de foot Louis Combette;1745;0;;40;10;40-10-Terrain de foot Louis Combette;D11;;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;25;1575;2;15;5;40;10;M;Sport;Stades
+0;Parcours sportifs Grammont;2324;2733;;40;10;40-10-Parcours sportifs Grammont;S11;;33;EQUIP.SPORT;00018000;M;340172;4000;28;Sport;Autres;33;817;6;8;6;40;10;M;Sport;Autres
+0;Espace Grammont;2324;2733;;50;10;50-10-Espace Grammont;S11;T11;33;QUART.CULTUR;00102700;M;340172;5000;611;Culture et loisirs;Culture et monuments;33;192;6;8;6;50;10;M;Culture et loisirs;Culture et monuments
+0;Centre équestre de Grammont;2324;2733;;40;10;40-10-Centre équestre de Grammont;S11;;33;EQUIP.SPORT;00246400;M;340172;4000;26;Sport;Autres;33;215;6;8;6;40;10;M;Sport;Autres
+0;Cimetière Saint Etienne;2324;0;;98;10;98-10-Cimetière Saint Etienne;T11;;33;VIE QUOT.SCE;00013800;M;340172;9600;221;Culture et loisirs;Cultes et cimetières;33;189;6;8;6;98;10;M;Culture et loisirs;Cultes et cimetières
+7;Théâtre des 13 Vents;2324;2733;;50;10;50-10-Théâtre des 13 Vents;S11;;33;QUART.CULTUR;70044800;M;340172;5000;581;Culture et loisirs;Culture et monuments;33;1989;6;8;6;50;10;M;Culture et loisirs;Culture et monuments
+0;Complexe funéraire Saint Etienne;2324;0;;99;10;99-10-Complexe funéraire Saint Etienne;T11;;33;VIE QUOT.SCE;00013500;MA;340172;9900;237;Administrations et organismes divers;Collectivités territoriales;33;201;6;8;6;99;10;MA;Administrations et organismes divers;
+0;Domaine de Grammont;2324;99999;;60;10;60-10-Domaine de Grammont;S11;;33;PARCS/JARDIN;00169500;M;340172;6000;78;Culture et loisirs;Parcs et jardins;33;70;6;8;6;60;10;M;Culture et loisirs;
+7;Zénith;2324;2733;;50;10;50-10-Zénith;S10;;43;QUART.CULTUR;70084800;MA;340172;5000;584;Culture et loisirs;Culture et monuments;43;542;6;8;6;50;10;MA;Culture et loisirs;Culture et monuments
+0;Aire de skateboard Grammont;2324;0;;40;10;40-10-Aire de skateboard Grammont;S10;;43;EQUIP.SPORT;00000300;M;340172;4000;132;Sport;Autres;43;739;6;8;6;40;10;M;Sport;Autres
+0;Complexe Sportif de Grammont;0;0;;40;10;40-10-Complexe Sportif de Grammont;S10;S11;43;EQUIP.SPORT;;M;340172;4000;610;Sport;Autres;43;373;6;8;6;40;10;M;Sport;Autres
+0;Tennis Grammont;2324;2733;;40;10;40-10-Tennis Grammont;R10;;42;EQUIP.SPORT;00016300;M;340172;4000;142;Sport;Tennis;42;811;6;8;6;40;10;M;Sport;Tennis
+0;Piste d'Auto Modélisme Grammont;2324;0;;40;10;40-10-Piste d'Auto Modélisme Grammont;R11;;;EQUIP.SPORT;;M;34000;4000;0;Sport;Autres;32;810;6;8;6;40;10;M;Sport;Autres
+0;Parcours Atelier VTT Grammont;2325;0;;40;10;40-10-Parcours Atelier VTT Grammont;S11;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;33;TA123;6;8;6;40;10;M;Sport;Autres
+0;Plateaux Sportifs Grammont;2325;0;;40;10;40-10-Plateaux Sportifs Grammont;S11;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;33;804;6;8;6;40;10;M;Sport;Autres
+0;Maison Antoine Vitez;2324;0;;50;10;50-10-Maison Antoine Vitez;S11;;;QUART.CULTU;;M;340712;0;0;Culture et loisirs;Culture et monuments;33;1981;6;8;6;50;10;M;Culture et loisirs;Culture et monuments
+;Centre Horticole Grammont;2324;0;;99;10;99-10-Centre Horticole Grammont;R11;;;VIE.QUOT.SCE;;M;340712;0;0;Administrations et organismes divers;Collectivités territoriales;32;374;6;8;6;99;10;M;Administrations et organismes divers;
+;Bois de la Chaumière;3397;0;;60;10;60-10-Bois de la Chaumière;T11;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;33;TA49;6;8;6;60;10;M;Culture et loisirs;
+;Parcours de santé Grammont;3397;0;;60;10;60-10-Parcours de santé Grammont;S12;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;33;330;6;8;6;60;10;M;Culture et loisirs;
+;Centre horticole Pierre Richer de Belleval;3397;0;;60;10;60-10-Centre horticole Pierre Richer de Belleval;S11;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;33;;6;8;6;60;10;M;Culture et loisirs;
+;Mare écologique;3397;0;;60;10;60-10-Mare écologique;S11;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;33;;6;8;6;60;10;M;Culture et loisirs;
+;Serre Galerie Centrale;3397;0;;60;10;60-10-Serre Galerie Centrale;S11;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;33;;6;8;6;60;10;M;Culture et loisirs;
+;Collection de Cannas;3397;0;;60;10;60-10-Collection de Cannas;S11;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;33;;6;8;6;60;10;M;Culture et loisirs;
+;Jardin didactique;3397;0;;60;10;60-10-Jardin didactique;S11;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;33;;6;8;6;60;10;M;Culture et loisirs;
+0;E.H.P.A.D les Aubes;1921;119;;80;20;80-20-E.H.P.D.A les Aubes;N11;N12;30;SOLIDARITE;70017300;M;340172;8000;537;Vie des quartiers;Age d'or;30;70017300;7;9;6;80;20;M;Vie des quartiers;Age d'or
+0;Ecole élémentaire Jean Moulin;1570;20;;22;20;22-20-Ecole élémentaire Jean Moulin;M11;;30;ECOLES;00032701;M;340172;2217;292;Enseignement;Ecoles élémentaires;30;1062;7;9;6;22;20;M;Enseignement;Ecoles élémentaires
+0;Club de loisirs les Aubes;1921;119;;80;10;80-10-Club de loisirs les Aubes;N11;N12;30;CLUB 3 AGE;70025600;M;340172;8000;218;Vie des quartiers;Age d'or;30;70025600;7;9;6;80;10;M;Vie des quartiers;Age d'or
+0;Ecole maternelle Ingrid Bergman;1570;20;;22;10;22-10-Ecole maternelle Ingrid Bergman;M11;;30;ECOLES;00032301;M;340172;2207;291;Enseignement;Ecoles préélementaires;30;1057;7;9;6;22;10;M;Enseignement;
+0;Salle des Aubes;1953;1010;;50;10;50-10-Salle des Aubes;N11;;30;QUART.CULTUR;00069000;M;340172;5000;392;Culture et loisirs;Culture et monuments;30;00069000;7;9;6;50;10;M;Culture et loisirs;Culture et monuments
+0;Parc Rimbaud;1921;99999;;60;10;60-10-Parc Rimbaud;N11;;30;PARCS/JARDIN;00159400;M;340172;6000;43;Culture et loisirs;Parcs et jardins;30;00159400;7;9;6;60;10;M;Culture et loisirs;
+0;Eglise Sainte Jeanne d'Arc;0;0;;97;15;97-15-Eglise Sainte Jeanne d'Arc;M11;;30;CULTE;;;340172;9710;667;Culture et loisirs;Cultes et cimetières;30;TA30;7;9;6;97;15;;Culture et loisirs;Cultes et cimetières
+0;Square des Aubes;1815;99999;;60;10;60-10-Square des Aubes;M10;;40;PARCS/JARDIN;00146600;M;340172;6000;31;Culture et loisirs;Parcs et jardins;40;146600;7;9;6;60;10;M;Culture et loisirs;
+0;Boulodrome Parc Rimbaud;1921;64;;40;10;40-10-Boulodrome Parc Rimbaud;N11;;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;30;777;7;9;6;40;10;M;Sport;Autres
+0;Jeu Lyonnais Parc Rimbaud;1953;0;;40;10;40-10-Jeu Lyonnais Parc Rimbaud;N11;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;30;TA121;7;9;6;40;10;M;Sport;Autres
+0;Plateaux Sportifs Jean Moulin;2018;0;;40;10;40-10-Plateaux Sportifs Jean Moulin;M11;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;30;1059;7;9;6;40;10;M;Sport;Autres
+;Espace chiens du Parc Rimbaud;1921;0;;60;10;60-10-Espace chiens du Parc Rimbaud;N11;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;30;;7;9;6;60;10;M;Culture et loisirs;
+;Crèche associative Les Bambins du Lez;1647;196;;21;10;21-10-Crèche associative Les Bambins du Lez;M11;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;30;;7;9;6;21;10;P;Vie des quartiers;Petite enfance
+;M.P.T. George Sand;1921;25;;10;10;10-10-M.P.T. George Sand;N11;;;;00052700;M;340172;0;0;Vie des quartiers;MPT;30;1701;7;9;6;10;10;M;Vie des quartiers;
+0;Parc des Pastourelles;1329;99999;;60;10;60-10-Parc des Pastourelles;N12;O12;30;PARCS/JARDIN;00159900;M;340172;6000;47;Culture et loisirs;Parcs et jardins;30;159900;6;12;6;60;10;M;Culture et loisirs;
+0;Piscine Jean Taris;1410;67;;40;10;40-10-Piscine Jean Taris;O12;;31;EQUIP.SPORT;70065900;MA;340172;4000;225;Sport;Piscines;31;1391;6;12;6;40;10;MA;Sport;Piscines
+0;Terrain de foot Manuel Pazos;463;205;;40;10;40-10-Terrain de foot Manuel Pazos;O12;;31;EQUIP.SPORT;00081200;M;340172;4000;21;Sport;Stades;31;1441;6;12;6;40;10;M;Sport;Stades
+0;Ecole maternelle Sergueï Prokofiev;463;85;;22;10;22-10-Ecole maternelle Sergueï Prokofiev;N11;N12;30;ECOLES;00035301;M;340172;2207;307;Enseignement;Ecoles préélementaires;30;1120;6;12;6;22;10;M;Enseignement;
+0;Ecole élémentaire Jean Zay;463;85;;22;20;22-20-Ecole élémentaire Jean Zay;N11;;30;ECOLES;00035401;M;340172;2217;308;Enseignement;Ecoles élémentaires;30;1122;6;12;6;22;20;M;Enseignement;Ecoles élémentaires
+0;Mairie annexe Pompignane;482;35;;05;30;05-30-Mairie annexe Pompignane;O11;;31;MAIRIE ANN.;00136400;M;340172;1000;414;Administrations et organismes divers;Autres administrations;31;1697;6;12;6;05;30;M;Administrations et organismes divers;
+7;Poste - Pompignane;1452;5;;96;10;96-10-Poste - Pompignane;N11;;30;ADM.COMMUNIC;70022800;P;340172;9400;570;Administrations et organismes divers;Postes et télécommunications;30;;6;12;6;96;10;P;Administrations et organismes divers;
+7;Bowling;1777;662;;40;10;40-10-Bowling;N10;O10;40;EQUIP.SPORT;70008000;P;340172;4000;208;Sport;Autres;40;39119;6;12;6;40;10;P;Sport;Autres
+0;Ecole élémentaire Painlevé;1777;501;;22;20;22-20-Ecole élémentaire Painlevé;N10;;40;ECOLES;00039701;M;340172;2217;333;Enseignement;Ecoles élémentaires;40;1245;6;12;6;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole maternelle Louise Michel;1777;501;;22;10;22-10-Ecole maternelle Louise Michel;N10;;40;ECOLES;00039702;M;340172;2207;151;Enseignement;Ecoles préélementaires;40;1246;6;12;6;22;10;M;Enseignement;
+0;Boulodrome La Pompignane;463;0;;40;10;40-10-Boulodrome La Pompignane;O12;;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;31;TA111;6;12;6;40;10;M;Sport;Autres
+0;Multisport La Pompignane;463;0;;40;10;40-10-Multisport La Pompignane;O12;;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;31;TA166;6;12;6;40;10;M;Sport;Stades
+0;Plateaux Sportifs Pompignane;463;0;;40;10;40-10-Plateaux Sportifs Pompignane;O12;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;31;TA153;6;12;6;40;10;M;Sport;Autres
+;Berges du Lez -Pain Levé;2466;0;;60;10;60-10-Berges du Lez - Pain Levé;N10;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;40;TA45;6;12;6;60;10;M;Culture et loisirs;
+;Crèche associative Ricochet;513;134;;21;10;21-10-Crèche associative Ricochet;J8;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;31;;6;12;6;21;10;P;Vie des quartiers;Petite enfance
+;Maison de Quartier Pierre Azéma;482;35;;10;10;10-10-Maison de Quartier Pierre Azéma;O11;;;;00136400;M;340172;0;0;Vie des quartiers;MPT;31;1697;6;12;6;10;10;M;Vie des quartiers;
+0;Domaine de la Pompignane;0;0;;60;10;60-10-Domaine de la Pompignane;P12;;31;PARCS/JARDIN;;M;340172;6000;612;Culture et loisirs;Parcs et jardins;31;347;6;13;6;60;10;M;Culture et loisirs;
+0;Square Colonel André Vedel;2442;99999;;60;10;60-10-Square Colonel André Vedel;Q11;;32;PARCS/JARDIN;00250200;M;340172;6000;129;Culture et loisirs;Parcs et jardins;32;250200;6;13;6;60;10;M;Culture et loisirs;
+7;Trésorerie Montp. 2ième division;1546;7;;99;10;99-10-Trésorerie Montp. 2ième division;P11;;31;ADM.ECO.FIN.;77001600;E;340172;9900;589;Administrations et organismes divers;Autres administrations;31;77001600;6;13;6;99;10;E;Administrations et organismes divers;
+7;Caserne C.R.S. 56;2129;488;;92;20;92-20-Caserne C.R.S. 56;O10;;41;ADM.INTER.;70004000;E;340172;9200;456;Administrations et organismes divers;Police et justice;41;70004000;6;13;6;92;20;E;Administrations et organismes divers;Police et justice
+0;Gymnase Mireille Bessière;2938;175;;40;10;40-10-Gymnase Mireille Bessière;P10;;41;EQUIP.SPORT;00290000;M;340172;4000;433;Sport;Gymnases;41;1572;6;13;6;40;10;M;Sport;Gymnases
+0;Ecole élémentaire Blaise Pascal;2938;175;;22;20;22-20-Ecole élémentaire Blaise Pascal;P10;;41;ECOLES;00106203;M;340172;2217;409;Enseignement;Ecoles élémentaires;41;1474;6;13;6;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole maternelle Sarah Bernhardt;2938;175;;22;10;22-10-Ecole maternelle Sarah Bernhardt;P10;;41;ECOLES;00106201;M;340172;2207;184;Enseignement;Ecoles préélementaires;41;1472;6;13;6;22;10;M;Enseignement;
+7;Centre de secours M. Dormoy;2324;1353;;99;10;99-10-Centre de secours M. Dormoy;Q10;;42;DIVERS;70008900;E;340172;9900;475;Administrations et organismes divers;Collectivités territoriales;42;70008900;6;13;6;99;10;E;Administrations et organismes divers;
+0;Parc du Mas de Costebelle;2446;99999;;60;10;60-10-Parc du Mas de Costebelle;O10;;41;PARCS/JARDIN;00194100;M;340172;6000;101;Culture et loisirs;Parcs et jardins;41;194100;6;13;6;60;10;M;Culture et loisirs;
+7;Château de Flaugergues;2324;1370;;98;10;98-10-Château de Flaugergues;Q10;R10;42;DIVERS;70008100;;340172;9600;470;Culture et loisirs;Culture et monuments;42;39098;6;13;6;98;10;;Culture et loisirs;Culture et monuments
+;Parc Groupe scolaire Blaise Pascal;2738;0;;60;10;60-10-Parc Groupe scolaire Blaise Pascal;P10;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;41;TA72;6;13;6;60;10;M;Culture et loisirs;
+;Esplanade Gabriel Michel;3384;0;;60;10;60-10-Esplanade Gabriel Michel;P10;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;41;TA52;6;13;6;60;10;M;Culture et loisirs;
+;Boulodrome Les Marels;1448;0;;40;10;40-10-Boulodrome Les Marels;Q11;Q10;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;32;;6;13;6;40;10;M;Sport;Autres
+;Multisport Millenaire;0;0;;40;10;40-10-Multisport Millenaire;Q11;Q10;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;41;;6;13;6;40;10;M;Sport;Autres
+0;Salle de sports Mireille Bessière;2938;175;;40;10;40-10-Salle de sports Mireille Bessière;P10;;41;EQUIP.SPORT;00290000;M;340172;4000;433;Sport;Gymnases;41;1572;6;13;6;40;10;M;Sport;Gymnases
+;Jardins Familiaux les Grands Grés;1768;0;;60;10;60-10-Jardins Familiaux les Grands Grés;T10;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;43;;6;13;6;60;10;M;Culture et loisirs;
+;E.H.P.A.D Pierre Laroque;1978;830;;80;20;80-20-E.H.P.A.D Pierre Laroque;P12;;;SOLIDARITE;;M;340712;0;0;Vie des quartiers;Age d'or;21;40762;6;13;6;80;20;M;Vie des quartiers;Age d'or
+;Crèche associative Coste-Belle;2446;0;;21;10;21-10-Crèche associative Coste-Belle;P10;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;41;;6;13;6;21;10;P;Vie des quartiers;Petite enfance
+;Crèche associative Les Lutins;2321;105;;21;10;21-10-Crèche associative Les Lutins;Q10;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;42;;6;13;6;21;10;P;Vie des quartiers;Petite enfance
+;Crèche d'entreprises Aushaka;1494;396;;21;10;21-10-Crèche d'entreprises Aushaka;Q12;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;31;;6;13;6;21;10;P;Vie des quartiers;Petite enfance
+;Crèche d'entreprises Les petits Chaperons Rouges III;2319;650;;21;10;21-10-Crèche d'entreprises Les petits Chaperons Rouges III;P10;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;42;;6;13;6;21;10;P;Vie des quartiers;Petite enfance
+;Crèche d'entreprises Les petits Chaperons Rouges IV;3345;91;;21;10;21-10-Crèche d'entreprises Les petits Chaperons Rouges IV;Q11;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;32;;6;13;6;21;10;P;Vie des quartiers;Petite enfance
+;M.P.T. Mélina Mercouri;0;0;;10;10;10-10-M.P.T. Mélina Mercouri;P11;;;;;M;340172;0;0;Vie des quartiers;MPT;31;1707;6;13;6;10;10;M;Vie des quartiers;
+0;Crèche les Elfes;482;88;;21;10;21-10-Crèche les Elfes;O11;;31;CRECH/HGARD;00021000;M;340172;2000;246;Vie des quartiers;Petite enfance;31;00021000;6;21;6;21;10;M;Vie des quartiers;Petite enfance
+0;Parc de la Grande Lironde;2324;99999;;60;10;60-10-Parc de la Grande Lironde;P9;;41;PARCS/JARDIN;00191200;M;340172;6000;96;Culture et loisirs;Parcs et jardins;41;191200;6;21;6;60;10;M;Culture et loisirs;
+7;Hôtel de Région;1777;201;;05;17;05-17-Hôtel de Région;N9;;40;ADM.REG.DEP.;70005900;LR;340172;500;462;Administrations et organismes divers;Collectivités territoriales;40;39051;6;21;6;05;17;LR;Administrations et organismes divers;
+0;Gymnase Alain le Hetet;2103;237;;40;10;40-10-Gymnase Alain le Hetet;O9;P9;41;EQUIP.SPORT;00331600;M;340172;4000;436;Sport;Gymnases;41;1640;6;21;6;40;10;M;Sport;Gymnases
+7;Multiplexe Gaumont;3137;1;;99;60;99-60-Multiplexe Gaumont;Q9;;42;DIVERS;70008300;P;340172;9950;472;Culture et loisirs;Loisirs;42;39368;6;21;6;99;60;P;Culture et loisirs;Loisirs
+0;Ecole élémentaire Jean Jaurès;0;0;;22;20;22-20-Ecole élémentaire Jean Jaurès;N8;N9;40;ECOLES;;M;340172;2217;683;Enseignement;Ecoles élémentaires;50;1588;6;21;6;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole maternelle Geneviève de Gaulle-Anthonioz;0;0;;22;10;22-10-Ecole maternelle Geneviève de Gaulle-Anthonioz;N8;N9;40;ECOLES;;M;340172;2207;644;Enseignement;Ecoles préélementaires;50;1587;6;21;6;22;10;M;Enseignement;
+7;Odysseum;3137;2;;99;60;99-60-Odysseum;Q8;;52;DIVERS;70020000;P;340172;9950;553;Culture et loisirs;Loisirs;52;462;6;21;6;99;60;P;Culture et loisirs;Loisirs
+7;E.N.A.C.T;2951;76;;27;30;27-30-E.N.A.C.T;N8;;50;ADM.EDUC.NAT;70002300;E;340172;2720;448;Enseignement;Autres;50;39721;6;21;6;27;30;E;Enseignement;Autres
+0;Maison de l'Agglomération Quartier Port Marianne;0;0;;05;30;05-30-Maison de l'Agglomération Quartier Port Marianne;Q8;;42;VIE.QUART.SO;;MA;340172;500;645;Administrations et organismes divers;Collectivités territoriales;52;TA10;6;21;6;05;30;MA;Administrations et organismes divers;
+0;Planétarium Galilée;0;0;;99;60;99-60-Planétarium Galilée;Q8;;52;DIVERS;;MA;340172;9950;638;Culture et loisirs;Loisirs;52;TA37;6;21;6;99;60;MA;Culture et loisirs;Loisirs
+7;Faculté Economique et Sociale;0;0;;27;10;27-10-Faculté Economique et Sociale;O8;;51;ADM.EDUC.NAT;;E;340172;2700;591;Enseignement;Enseignement supérieur;51;TA94;6;21;6;27;10;E;Enseignement;
+0;Patinoire Végapolis;3137;2;;40;10;40-10-Patinoire Végapolis;Q8;;52;EQUIP.SPORT;70023700;MA;340172;4000;576;Sport;Autres;52;70023700;6;21;6;40;10;MA;Sport;Autres
+7;Hôtel de Police Nationale;819;204;;92;20;92-20-Hôtel de Police Nationale;M8;;50;ADM.INTER.;70004100;E;340172;9200;457;Administrations et organismes divers;Police et justice;50;388;6;21;6;92;20;E;Administrations et organismes divers;Police et justice
+0;Aquarium Mare Nostrum;3216;0;;99;60;99-60-Aquarium Mare Nostrum;Q8;;52;DIVERS;;MA;340172;9950;685;Culture et loisirs;Loisirs;52;40324;6;21;6;99;60;MA;Culture et loisirs;Loisirs
+0;Square place L. et M. Trégaro;2379;99999;;60;10;60-10-Square place L. et M. Trégaro;N8;;50;PARCS/JARDIN;00224800;M;340172;6000;124;Culture et loisirs;Parcs et jardins;50;224800;6;21;6;60;10;M;Culture et loisirs;
+7;Faculté Sciences Economique et de Gestion;0;0;;27;10;27-10-Faculté Sciences Economique et de Gestion;O8;;51;ADM.EDUC.NAT;;E;340172;2700;592;Enseignement;Enseignement supérieur;51;TA95;6;21;6;27;10;E;Enseignement;
+0;Parc Richter;2325;99999;;60;10;60-10-Parc Richter;N8;;50;PARCS/JARDIN;00189800;M;340172;6000;95;Culture et loisirs;Parcs et jardins;50;00189800;6;21;6;60;10;M;Culture et loisirs;
+7;Château de la Mogère;1496;1;;98;10;98-10-Château de la Mogère;S8;;53;DIVERS;70008200;;340172;9600;471;Culture et loisirs;Culture et monuments;53;445;6;21;6;98;10;;Culture et loisirs;Culture et monuments
+0;Parc Georges Charpak;1519;99999;;60;10;60-10-Parc Georges Charpak;O8;;51;PARCS/JARDIN;00207700;M;340172;6000;105;Culture et loisirs;Parcs et jardins;51;207700;6;21;6;60;10;M;Culture et loisirs;
+0;Bassin Jacques Coeur;3234;0;;40;10;40-10-Bassin Jacques Coeur;O7;O8;51;PARCS/JARDIN;00249200;M;340172;4000;126;Culture et loisirs;Parcs et jardins;51;249200;6;21;6;40;10;M;Culture et loisirs;
+0;Boulodrome Leon Cazal;2324;0;;40;10;40-10-Boulodrome Leon Cazal;P9;O9;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;41;1641;6;21;6;40;10;M;Sport;Autres
+0;Tennis Léon Cazal;2103;0;;40;10;40-10-Tennis Léon Cazal;P9;;;EQUIP.SPORT;;M;340712;0;0;Sport;Tennis;41;1643;6;21;6;40;10;M;Sport;Tennis
+0;Ecole maternelle Michel de l'Hospital;2103;0;;22;10;22-10-Ecole maternelle Michel de l'Hospital;P9;;;ECOLES;;M;340712;0;0;Enseignement;Ecoles préélementaires;41;1571;6;21;6;22;10;M;Enseignement;
+0;C.C.A.S;2952;125;;05;30;05-30-C.C.A.S;O8;;;ADM.COMMUNI;;M;340712;0;0;Vie des quartiers;Autres;51;2153;6;21;6;05;30;M;Vie des quartiers;Autres
+;Clinique du Millénaire;3213;0;;90;20;90-20-Clinique du Millénaire;Q8;;;ADM.SANTE;;P;340712;0;0;Administrations et organismes divers;Santé;52;40439;6;21;6;90;20;P;Administrations et organismes divers;Santé
+;S.E.R.M;1519;0;;99;10;99-10-S.E.R.M;O8;;;ADM.EQUIP.TR;;;340712;0;0;Administrations et organismes divers;Collectivités territoriales;51;40310;6;21;6;99;10;;Administrations et organismes divers;
+;Espace Robert Capdeville;2671;0;;05;17;05-17-Espace Robert Capdeville;Q9;;;ADM.REG.DEP.;;LR;340712;0;0;Administrations et organismes divers;Collectivités territoriales;42;TA8;6;21;6;05;17;LR;Administrations et organismes divers;
+;Crèche Robin des Bois;3213;280;;21;10;21-10-Crèche Robin des Bois;Q8;;;CRECH/HGAR;;M;340712;0;0;Vie des quartiers;Petite enfance;52;TA100;6;21;6;21;10;M;Vie des quartiers;Petite enfance
+;Halte-garderie Mowgli;3213;0;;21;10;21-10-Halte-garderie Mowgli;Q8;;;CRECH/HGAR;;M;340712;0;0;Vie des quartiers;Petite enfance;52;1627;6;21;6;21;10;M;Vie des quartiers;Petite enfance
+;Piscine Alfred Nakache;2103;0;;40;10;40-10-Piscine Alfred Nakache;P9;;;EQUIP.SPORT;;MA;340712;0;0;Sport;Piscines;41;TA156;6;21;6;40;10;MA;Sport;Piscines
+;Berges du Lez Promenades;2467;0;;60;10;60-10-Berges du Lez Promenades;N8;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;50;TA46;6;21;6;60;10;M;Culture et loisirs;
+;Place des Patriotes;2994;0;;60;10;60-10-Place des Patriotes;N8;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;50;TA76;6;21;6;60;10;M;Culture et loisirs;
+;Jardins de la Lironde;3372;0;;60;10;60-10-Jardins de la Lironde;P9;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;41;TA55;6;21;6;60;10;M;Culture et loisirs;
+;RAM Odysseum;3213;0;;21;10;21-10-RAM Odysseum;Q8;;;CRECH/HGAR;;M;340712;0;0;Vie des quartiers;Petite enfance;52;TA203;6;21;6;21;10;M;Vie des quartiers;Petite enfance
+;Lycée Mendes France;1478;0;;25;20;25-20-Lycée Mendes France;Q7;;;ADM.EDUC.NAT;;LR;340712;0;0;Enseignement;Lycées;52;;6;21;6;25;20;LR;Enseignement;Lycées
+;Gymnase Françoise Spinosi;1478;0;;40;10;40-10-Gymase Françoise Spinosi;Q7;;;EQUIP.SPORT;;M;340712;0;0;Sport;Gymnases;52;;6;21;6;40;10;M;Sport;Gymnases
+;Ecole élémentaire André Malraux;2103;0;;22;20;22-20-Ecole élémentaire André Malraux;P9;;;ECOLES;;M;340172;0;0;Enseignement;Ecoles élémentaires;41;;6;21;6;22;20;M;Enseignement;Ecoles élémentaires
+;Gymnase Marianne;0;0;;40;10;40-10-Gymnase Marianne;P9;Q9;;EQUIP.SPORT;;M;340172;0;0;Sport;Gymnases;42;;6;21;6;40;10;M;Sport;Gymnases
+;Plateaux Sportifs Léon Cazal;2103;0;;40;10;40-10-Plateaux Sportifs Léon Cazal;O9;P9;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;41;;6;21;6;40;10;M;Sport;Autres
+0;Salle de sports Alain le Hetet;2103;237;;40;10;40-10-Salle de sports Alain le Hetet;O9;P9;41;EQUIP.SPORT;00331600;M;340172;4000;436;Sport;Gymnases;41;1640;6;21;6;40;10;M;Sport;Gymnases
+;Salle de sports Françoise Spinosi;1478;0;;40;10;40-10-Salle de sports Françoise Spinosi;Q7;;;EQUIP.SPORT;;M;340712;0;0;Sport;Gymnases;52;;6;21;6;40;10;M;Sport;Gymnases
+0;Crèche les Petits Loups;482;88;;21;10;21-10-Crèche les Petits Loups;O11;;31;CRECH/HGARD;00021000;M;340172;2000;246;Vie des quartiers;Petite enfance;31;00021000;6;21;6;21;10;M;Vie des quartiers;Petite enfance
+;Lycée Georges Frêche;0;0;;40;10;25-20-Lycée Georges Frêche;P9;Q9;;ADM.EDUC.NAT;;LR;340172;0;0;Enseignement;Lycées;42;;6;21;6;40;10;LR;Enseignement;Lycées
+;Projet Cité Hyppocrate;3213;0;;99;10;90-10-Projet Cité Hyppocrate;P8;Q8;;ADM.SANTE AS;;E;340172;0;0;Administrations et organismes divers;Santé;52;;6;21;6;99;10;E;Administrations et organismes divers;Santé
+;Transparence Lez-Lironde;0;0;;60;10;60-10-Transparence Lez-Lironde;P7;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;51;;6;21;6;60;10;M;Culture et loisirs;
+0;Crèche Antigone;1295;10;;21;10;21-10-Crèche Antigone;L9;;39;CRECH/HGARD;00020400;M;340172;2000;242;Vie des quartiers;Petite enfance;39;835;7;25;6;21;10;M;Vie des quartiers;Petite enfance
+0;Square place François Jaumes;1349;99999;;60;10;60-10-Square place François Jaumes;L9;;39;PARCS/JARDIN;00182800;M;340172;6000;87;Culture et loisirs;Parcs et jardins;39;182800;7;25;6;60;10;M;Culture et loisirs;
+0;Salle de boxe Auguste Caulet;2037;11;;40;10;40-10-Salle de boxe Auguste Caulet;M9;;40;EQUIP.SPORT;00071600;M;340172;4000;395;Sport;Gymnases;40;1401;7;25;6;40;10;M;Sport;Gymnases
+0;Ecole maternelle Florian;1515;49;;22;10;22-10-Ecole maternelle Florian;L9;M9;39;ECOLES;00030802;M;340172;2207;283;Enseignement;Ecoles préélementaires;40;1012;7;25;6;22;10;M;Enseignement;
+0;Ecole maternelle Louis Figuier;1005;14;;22;10;22-10-Ecole maternelle Louis Figuier;L8;;49;ECOLES;00037403;M;340172;2207;321;Enseignement;Ecoles préélementaires;49;1187;7;25;6;22;10;M;Enseignement;
+0;Square Jean Monnet;2381;99999;;60;10;60-10-Square Jean Monnet;M8;;50;PARCS/JARDIN;00154200;M;340172;6000;38;Culture et loisirs;Parcs et jardins;50;154200;7;25;6;60;10;M;Culture et loisirs;
+0;Ecole élémentaire Victor Hugo;431;7;;22;20;22-20-Ecole élémentaire Victor Hugo;L8;;49;ECOLES;00037304;M;340172;2217;320;Enseignement;Ecoles élémentaires;49;1183;7;25;6;22;20;M;Enseignement;Ecoles élémentaires
+0;Crèche Edelweiss;1133;21;;21;10;21-10-Crèche Edelweiss;L8;;49;CRECH/HGARD;00020700;M;340172;2000;594;Vie des quartiers;Petite enfance;49;839;7;25;6;21;10;M;Vie des quartiers;Petite enfance
+0;Parking des gares;1325;11;;95;20;95-20-Parking des gares;L8;;49;VIE QUOT.SCE;00043800;MA;340172;9300;154;Transports;Parkings;49;00043800;7;25;6;95;20;MA;Transports;Parkings
+0;Ecole élémentaire Paul Bert;1133;19;;22;20;22-20-Ecole élémentaire Paul Bert;L8;;49;ECOLES;00040502;M;340172;2217;337;Enseignement;Ecoles élémentaires;49;1263;7;25;6;22;20;M;Enseignement;Ecoles élémentaires
+0;Eglise Saint François;0;0;;97;15;97-15-Eglise Saint François;L8;;49;CULTE;;;340172;9710;661;Culture et loisirs;Cultes et cimetières;49;39262;7;25;6;97;15;;Culture et loisirs;Cultes et cimetières
+0;Cimetière des Protestants;0;0;;96;10;96-10-Cimetière des Protestants;L8;M8;49;CULTE;;M;340172;9600;651;Culture et loisirs;Cultes et cimetières;49;TA5;7;25;6;96;10;M;Culture et loisirs;Cultes et cimetières
+0;Boulodrome Robert Lopez;1627;0;;40;10;40-10-Boulodrome Robert Lopez;M8;;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;50;771;7;25;6;40;10;M;Sport;Autres
+0;Ecole élémentaire Jules Simon;1515;45;;22;20;22-20-Ecole élémentaire Jules Simon;M9;;;ECOLES;;M;340712;0;0;Enseignement;Ecoles élémentaires;40;1077;7;25;6;22;20;M;Enseignement;Ecoles élémentaires
+;Espace chiens du Parc Jean Monnet;2381;0;;60;10;60-10-Espace chiens du Parc Jean Monnet;M8;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;50;;7;25;6;60;10;M;Culture et loisirs;
+;M.P.T. Voltaire;2381;1;;10;10;10-10-M.P.T. Voltaire;M8;;;;00233900;M;340172;0;0;Vie des quartiers;MPT;50;1704;7;25;6;10;10;M;Vie des quartiers;
+0;Parc du Mas Vanneau;1817;1247;;60;10;60-10-Parc du Mas Vanneau;F12;F13;26;PARCS/JARDIN;00140400;M;340172;6000;30;Culture et loisirs;Parcs et jardins;26;140400;3;6;7;60;10;M;Culture et loisirs;
+7;Centre de Gestion de la Fonction Publique;2651;2;;99;10;99-10-Centre de Gestion de la Fonction Publique;F12;;26;ADM.REG.DEP.;70005700;E;340172;9900;461;Administrations et organismes divers;Collectivités territoriales;26;70005700;3;6;7;99;10;E;Administrations et organismes divers;
+0;Les jardins d'Alco;0;0;;60;10;60-10-Les jardins d'Alco;E12;;26;PARCS/JARDIN;;M;340172;6000;620;Culture et loisirs;Parcs et jardins;26;TA61;3;6;7;60;10;M;Culture et loisirs;
+0;Eglise Saint Esprit;0;0;;97;15;97-15-Eglise Saint Esprit;F12;;26;CULTE;;;340172;9710;669;Culture et loisirs;Cultes et cimetières;26;TA20;3;6;7;97;15;;Culture et loisirs;Cultes et cimetières
+7;Hôtel du Département;861;306;;05;16;05-16-Hôtel du Département;E12;;26;ADM.REG.DEP.;70006100;CG;340172;500;464;Administrations et organismes divers;Collectivités territoriales;26;39050;3;6;7;05;16;CG;Administrations et organismes divers;
+0;Ecole maternelle Victor Duruy;2651;220;;22;10;22-10-Ecole maternelle Victor Duruy;F12;;26;ECOLES;00025501;M;340172;2207;149;Enseignement;Ecoles préélementaires;26;881;3;6;7;22;10;M;Enseignement;
+0;Salle de sports Isadora Duncan;526;99999;;40;10;40-10-Salle de sports Isadora Duncan;F12;;26;EQUIP.SPORT;00047100;M;340172;4000;354;Sport;Gymnases;26;1320;3;6;7;40;10;M;Sport;Gymnases
+0;Ecole élémentaire Emile Combes;2651;220;;22;20;22-20-Ecole élémentaire Emile Combes;F12;;26;ECOLES;00025503;M;340172;2217;255;Enseignement;Ecoles élémentaires;26;883;3;6;7;22;20;M;Enseignement;Ecoles élémentaires
+0;Crèche Galinéta;526;31;;21;10;21-10-Crèche Galinéta;F12;;26;CRECH/HGARD;00020901;M;340172;2000;245;Vie des quartiers;Petite enfance;26;841;3;6;7;21;10;M;Vie des quartiers;Petite enfance
+0;Gymnase Bernard Jouanique;2850;32;;40;10;40-10-Gymnase Bernard Jouanique;G12;;27;EQUIP.SPORT;00046900;M;340172;4000;353;Sport;Gymnases;27;1319;3;6;7;40;10;M;Sport;Gymnases
+0;Square Jouanique;2197;99999;;60;10;60-10-Square Jouanique;G12;;27;PARCS/JARDIN;00166800;M;340172;6000;69;Culture et loisirs;Parcs et jardins;27;166800;3;6;7;60;10;M;Culture et loisirs;
+7;D.R.A.F;448;350;;99;10;99-10-D.R.A.F;F12;;26;ADM. AGRICOL;70000100;E;340172;9900;437;Administrations et organismes divers;Autres administrations;26;39047;3;6;7;99;10;E;Administrations et organismes divers;
+0;Ecole élémentaire Julie Daubié;494;183;;22;20;22-20-Ecole élémentaire Julie Daubié;F11;;26;ECOLES;00035701;M;340172;2217;310;Enseignement;Ecoles élémentaires;26;1127;3;6;7;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole maternelle Madeleine Brès;494;183;;22;10;22-10-Ecole maternelle Madeleine Brès;F11;;26;ECOLES;00035501;M;340172;2207;309;Enseignement;Ecoles préélementaires;26;1125;3;6;7;22;10;M;Enseignement;
+0;Terrain de foot  Bel Air;1676;760;;40;10;40-10-Terrain de foot  Bel Air;F11;;26;EQUIP.SPORT;00079400;M;340172;4000;13;Sport;Stades;26;1428;3;6;7;40;10;M;Sport;Stades
+7;Poste - Alco;1111;1;;96;10;96-10-Poste - Alco;E11;;26;ADM.COMMUNIC;70025700;P;340172;9400;578;Administrations et organismes divers;Postes et télécommunications;26;;3;6;7;96;10;P;Administrations et organismes divers;
+0;Ecole maternelle Geneviève Bon;1676;971;;22;10;22-10-Ecole maternelle Geneviève Bon;E11;F11;26;ECOLES;00041001;M;340172;2207;338;Enseignement;Ecoles préélementaires;26;1268;3;6;7;22;10;M;Enseignement;
+0;Ecole élémentaire Louis Armstrong;1676;971;;22;20;22-20-Ecole élémentaire Louis Armstrong;E11;F11;26;ECOLES;00041002;M;340172;2217;339;Enseignement;Ecoles élémentaires;26;1269;3;6;7;22;20;M;Enseignement;Ecoles élémentaires
+0;Square du Petit Bard;2077;99999;;60;10;60-10-Square du Petit Bard;E11;;26;PARCS/JARDIN;00167000;M;340172;6000;71;Culture et loisirs;Parcs et jardins;26;167000;3;6;7;60;10;M;Culture et loisirs;
+0;Club de loisirs Paul Boulet;415;4;;80;10;80-10-Club de loisirs Paul Boulet;F11;;26;CLUB 3 AGE;00053001;M;340172;8000;163;Vie des quartiers;Age d'or;26;00053001;3;6;7;80;10;M;Vie des quartiers;Age d'or
+0;Ecole élémentaire Joseph Delteil;493;99999;;22;20;22-20-Ecole élémentaire Joseph Delteil;E11;F11;26;ECOLES;00143201;M;340172;2217;418;Enseignement;Ecoles élémentaires;26;1495;3;6;7;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole maternelle Jules Michelet;493;99999;;22;10;22-10-Ecole maternelle Jules Michelet;E11;F11;26;ECOLES;00106102;M;340172;2207;408;Enseignement;Ecoles préélementaires;26;1469;3;6;7;22;10;M;Enseignement;
+0;Square Henri de Régnier;1214;99999;;60;10;60-10-Square Henri de Régnier;E11;;26;PARCS/JARDIN;00191900;M;340172;6000;98;Culture et loisirs;Parcs et jardins;26;191900;3;6;7;60;10;M;Culture et loisirs;
+0;Terrain de foot Astruc;838;4;;40;10;40-10-Terrain de foot Astruc;H10;;37;EQUIP.SPORT;00079200;M;340172;4000;11;Sport;Stades;37;1425;3;14;7;40;10;M;Sport;Stades
+0;Ecole maternelle Goethe;838;3;;22;10;22-10-Ecole maternelle Goethe;H10;;37;ECOLES;00029102;M;340172;2207;276;Enseignement;Ecoles préélementaires;37;968;3;14;7;22;10;M;Enseignement;
+0;Ecole élémentaire Paul Langevin;795;5;;22;20;22-20-Ecole élémentaire Paul Langevin;H10;;37;ECOLES;00029003;M;340172;2217;275;Enseignement;Ecoles élémentaires;37;965;3;14;7;22;20;M;Enseignement;Ecoles élémentaires
+0;Boulodrome Astruc;838;0;;40;10;40-10-Boulodrome Astruc;H10;;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;37;1578;3;14;7;40;10;M;Sport;Autres
+0;Plateaux Sportifs Les Pins;1926;0;;40;10;40-10-Plateaux Sportifs Les Pins;F11;G11;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;26;TA143;3;14;7;40;10;M;Sport;Autres
+0;Plateaux Sportifs Mas de Tesse;1355;0;;40;10;40-10-Plateaux Sportifs Mas de Tesse;G10;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;37;TA147;3;14;7;40;10;M;Sport;Autres
+;Aqueduc St Clement;2008;0;;60;10;60-10-Aqueduc Saint Clement;G11;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;27;TA41;3;14;7;60;10;M;Culture et loisirs;
+;Parc Bartholomée de Las Casas;1927;0;;60;10;60-10-Parc Bartholomée de Las Casas;F11;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;26;TA64;3;14;7;60;10;M;Culture et loisirs;
+;Crèche associative La Bambinerie;2028;11;;21;10;21-10-Crèche associative La Bambinerie;H10;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;37;;3;14;7;21;10;P;Vie des quartiers;Petite enfance
+;Crèche associative La Coccinelle;448;81;;21;10;21-10-Crèche associative La Coccinelle;F10;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;36;;3;14;7;21;10;P;Vie des quartiers;Petite enfance
+;Maison de Quartier Jacques Prévert;2028;13;;10;10;10-10-Maison de Quartier Jacques Prévert;H10;;;;00052800;M;340172;0;0;Vie des quartiers;MPT;37;1689;3;14;7;10;10;M;Vie des quartiers;
+0;Piste bi-cross C. Béal / la Rauze;2199;419;;40;10;40-10-Piste bi-cross C. Béal / la Rauze;N6;;60;EQUIP.SPORT;00002100;M;340172;4000;138;Sport;Autres;60;748;5;27;11;40;10;M;Sport;Autres
+0;Complexe sportif C. Béal / la Rauze;2199;419;;40;10;40-10-Complexe sportif C. Béal / la Rauze;N6;;60;EQUIP.SPORT;00018300;M;340172;4000;143;Sport;Autres;60;87;5;27;11;40;10;M;Sport;Autres
+0;Terrain de foot Claude Béal;2199;551;;40;10;40-10-Terrain de foot Claude Béal;N6;;60;EQUIP.SPORT;00111300;M;340172;4000;186;Sport;Stades;60;1659;5;27;11;40;10;M;Sport;Stades
+0;Parc de la Rauze;2199;99999;;60;10;60-10-Parc de la Rauze;N6;;60;PARCS/JARDIN;00161100;M;340172;6000;49;Culture et loisirs;Parcs et jardins;60;161100;5;27;11;60;10;M;Culture et loisirs;
+0;Parcours sportifs La Rauze;2199;419;;40;10;40-10-Parcours sportifs La Rauze;N6;;60;EQUIP.SPORT;00106500;M;340172;4000;185;Sport;Autres;60;1476;5;27;11;40;10;M;Sport;Autres
+0;Piscine Suzanne Berlioux;1526;551;;40;10;40-10-Piscine Suzanne Berlioux;N6;;60;EQUIP.SPORT;70018200;MA;340172;4000;222;Sport;Piscines;60;818;5;27;11;40;10;MA;Sport;Piscines
+0;Médiathèque Federico Garcia Lorca;1640;162;;50;10;50-10-Médiathèque Federico Garcia Lorca;M5;;60;QUART.CULTUR;70244200;MA;340172;5000;587;Culture et loisirs;Médiathèques;60;70244200;5;27;11;50;10;MA;Culture et loisirs;Médiathèques
+0;Square Docteur Fourcade;2199;99999;;60;10;60-10-Square Docteur Fourcade;N5;;60;PARCS/JARDIN;00178800;M;340172;6000;82;Culture et loisirs;Parcs et jardins;60;178800;5;27;11;60;10;M;Culture et loisirs;
+0;Piste d'Auto Modélisme La Rauze;2199;0;;40;10;40-10-Piste d'Auto Modélisme La Rauze;O6;;;EQUIP.SPORT;;M;340172;4000;0;Sport;Autres;61;TA125;5;27;11;40;10;M;Sport;Autres
+0;Beach Volley La Rauze;1526;551;;40;10;40-10-Beach Volley La Rauze;N6;;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;60;TA101;5;27;11;40;10;M;Sport;Autres
+0;Boulodrome La Rauze;1526;0;;40;10;40-10-Boulodrome La Rauze;M6;;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;60;1453;5;27;11;40;10;M;Sport;Autres
+0;Mini Football Béal Nouveau;2199;0;;40;10;40-10-Mini Football Béal Nouveau;N6;;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;60;TA159;5;27;11;40;10;M;Sport;Stades
+0;Mini Football Béal B;2199;0;;40;10;40-10-Mini Football Béal B;N6;;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;60;TA157;5;27;11;40;10;M;Sport;Stades
+0;Mini Football Béal Enherbé;2199;0;;40;10;40-10-Mini Football Béal Enherbé;N6;;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;60;TA158;5;27;11;40;10;M;Sport;Stades
+0;Multisport Charles Dickens;470;0;;40;10;40-10-Multisport Charles Dickens;M7;;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;50;1676;5;27;11;40;10;M;Sport;Stades
+0;Multisport La Rauze;2199;0;;40;10;40-10-Multisport La Rauze;N6;;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;60;1452;5;27;11;40;10;M;Sport;Stades
+0;Plateaux sportifs La Rauze;2199;0;;40;10;40-10-Plateaux Sportifs La Rauze;N6;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;60;1377;5;27;11;40;10;M;Sport;Autres
+0;Pas de Tir Claude Béal;2199;0;;40;10;40-10-Pas de Tir Claude Béal;N6;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;60;TA124;5;27;11;40;10;M;Sport;Autres
+;Berges du Lez - cyprés;2296;0;;60;10;60-10-Berges du Lez - cyprés;O7;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;51;TA44;5;27;11;60;10;M;Culture et loisirs;
+0;Salle de sports Henri Ferrari;2199;419;;40;10;40-10-Salle de sports Henri Ferrari;N6;;60;EQUIP.SPORT;00018400;M;340172;4000;240;Sport;Gymnases;60;819;5;27;11;40;10;M;Sport;Gymnases
+;Crèche Adelaïde Cambon;2300;0;;21;10;21-10-Crèche Adelaïde Cambon;N7;;;CRECH/HGAR;;M;340172;0;0;Vie des quartiers;Petite enfance;50;;5;27;11;21;10;M;Vie des quartiers;Petite enfance
+0;Poste de police municipale Moulares;15600;765;;92;20;92-20-Poste de police municipale Moulares;N7;;;POSTE POLICE;;M;340172;0;0;Administrations et organismes divers;Police et justice;50;;5;27;11;92;20;M;Administrations et organismes divers;Police et justice
+;M.P.T. Boris Vian;470;14;;10;10;10-10-M.P.T. Boris Vian;M7;;;;00052400;M;340172;0;0;Vie des quartiers;MPT;50;1696;5;27;11;10;10;M;Vie des quartiers;
+0;Club de loisirs Laure Moulin;1087;45;;80;10;80-10-Club de loisirs Laure Moulin;L8;;49;CLUB 3 AGE;70018500;M;340172;8000;542;Vie des quartiers;Age d'or;49;70018500;5;28;11;80;10;M;Vie des quartiers;Age d'or
+0;Ecole maternelle Simone Signoret;1458;1;;22;10;22-10-Ecole maternelle Simone Signoret;L7;;49;ECOLES;00029602;M;340172;2207;278;Enseignement;Ecoles préélementaires;49;985;5;28;11;22;10;M;Enseignement;
+0;Ecole élémentaire Jacques Brel;1458;5;;22;20;22-20-Ecole élémentaire Jacques Brel;L7;;49;ECOLES;00029401;M;340172;2217;277;Enseignement;Ecoles élémentaires;49;978;5;28;11;22;20;M;Enseignement;Ecoles élémentaires
+0;Square Hildevert;1089;99999;;60;10;60-10-Square Hildevert;L7;M7;49;PARCS/JARDIN;00147600;M;340172;6000;34;Culture et loisirs;Parcs et jardins;49;147600;5;28;11;60;10;M;Culture et loisirs;
+7;Collège Gérard Philipe;1463;55;;25;10;25-10-Collège Gérard Philipe;L7;;49;ADM.EDUC.NAT;70010800;CG;340172;2500;491;Enseignement;Collèges;49;38923;5;28;11;25;10;CG;Enseignement;Collèges
+0;Salle de sports Cité Mion;1463;7;;40;10;40-10-Salle de sports Cité Mion;L7;;49;EQUIP.SPORT;00072000;M;340172;4000;397;Sport;Gymnases;49;1404;5;28;11;40;10;M;Sport;Gymnases
+0;Gymnase Georges Busnel;1854;67;;40;10;40-10-Gymnase Georges Busnel;L7;;49;EQUIP.SPORT;00231100;M;340172;4000;422;Sport;Gymnases;49;1506;5;28;11;40;10;M;Sport;Gymnases
+0;Jardin de la Pépinière;719;418;;60;10;60-10-Jardin de la Pépinière;M7;;50;PARCS/JARDIN;00161200;M;340172;6000;50;Culture et loisirs;Parcs et jardins;50;161200;5;28;11;60;10;M;Culture et loisirs;
+0;Halte-garderie L'Oustal dou Caganis;1854;67;;21;10;21-10-Halte-garderie L'Oustal dou Caganis;L7;;49;CRECH/HGARD;00070302;M;340172;2000;394;Vie des quartiers;Petite enfance;49;1394;5;28;11;21;10;M;Vie des quartiers;Petite enfance
+0;Crèche Thérèse Sentis;1446;655;;21;10;21-10-Crèche Thérèse Sentis;L6;L7;59;CRECH/HGARD;00021401;M;340172;2000;248;Vie des quartiers;Petite enfance;59;848;5;28;11;21;10;M;Vie des quartiers;Petite enfance
+0;Mail Alain Bashung;0;0;;60;10;60-10-Mail Alain Bashung;L6;;59;PARCS/JARDIN;00161900;M;340172;6000;613;Culture et loisirs;Parcs et jardins;59;161900;5;28;11;60;10;M;Culture et loisirs;
+0;Poste de police municipale Prés d'Arènes - Port Marianne;1298;1;bis;92;20;92-20-Poste de police mun. Prés d'Arènes - Port Marianne;L6;;59;POSTE POLICE;00013200;M;340172;9200;236;Administrations et organismes divers;Police et justice;59;00013200;5;28;11;92;20;M;Administrations et organismes divers;Police et justice
+0;Aire de jeux Saint Martin;1298;1;;60;10;60-10-Aire de jeux Saint Martin;L6;;59;PARCS/JARDIN;00161800;M;340172;6000;54;Culture et loisirs;Parcs et jardins;59;161800;5;28;11;60;10;M;Culture et loisirs;
+0;Ecole élémentaire Diderot;541;16;bis;22;20;22-20-Ecole élémentaire Diderot;M6;;60;ECOLES;00041401;M;340172;2217;340;Enseignement;Ecoles élémentaires;60;1271;5;28;11;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole maternelle Jean Cocteau;541;16;bis;22;10;22-10-Ecole maternelle Jean Cocteau;M6;;60;ECOLES;00041601;M;340172;2207;341;Enseignement;Ecoles préélementaires;60;1066;5;28;11;22;10;M;Enseignement;
+0;Eglise Saint Martin;0;0;;97;15;97-15-Eglise Saint Martin;L6;M6;60;CULTE;;;340172;9710;663;Culture et loisirs;Cultes et cimetières;60;TA29;5;28;11;97;15;;Culture et loisirs;Cultes et cimetières
+0;Boulodrome Albert Dubout;1463;0;;40;10;40-10-Boulodrome Albert Dubout;L7;M7;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;49;1445;5;28;11;40;10;M;Sport;Autres
+0;Multisport Saint Martin;1298;0;;40;10;40-10-Multisport Saint Martin;L6;M6;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;59;1649;5;28;11;40;10;M;Sport;Stades
+0;Plateaux Sportifs Prés d'arènes;1446;0;;40;10;40-10-Plateaux Sportifs Prés d'Arènes;M6;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;60;1276;5;28;11;40;10;M;Sport;Autres
+;Espace chiens Jardin de la Pépinière;1446;0;;60;10;60-10-Espace chiens Jardin de la Pépinière; M7;;;PARCS/JARDIN;;;;0;0;Culture et loisirs;Parcs et jardins;50;;5;28;11;60;10;;Culture et loisirs;
+;Espace chiens du Mail Bashung;2178;0;;60;10;60-10-Espace chiens du Mail Bashung;L6;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;59;;5;28;11;60;10;M;Culture et loisirs;
+;Club de loisirs Jacqueline Beguin;1446;630;;80;10;80-10-Club de loisirs Jacqueline Beguin;L6;;;CLUB 3 AGE;;M;340172;0;0;Vie des quartiers;Age d'or;59;;5;28;11;80;10;M;Vie des quartiers;Age d'or
+;M.P.T. l'Escoutaïre;1854;67;;10;10;10-10-M.P.T. l'Escoutaïre;L7;;;;00070300;M;340172;0;0;Vie des quartiers;MPT;49;1393;5;28;11;10;10;M;Vie des quartiers;
+0;Point de propreté Demeter Prés d'Arènes;2239;75;;97;10;97-10-Point de propreté Demeter Prés d'Arènes;K6;K7;59;VIE QUOT.SCE;00086100;MA;340172;9500;29;Vie des quartiers;Propreté;59;00086100;5;32;11;97;10;MA;Vie des quartiers;Propreté
+0;Square Fabre de Morlhon;2761;99999;;60;10;60-10-Square Fabre de Morlhon;K6;;59;PARCS/JARDIN;00194000;M;340172;6000;100;Culture et loisirs;Parcs et jardins;59;194000;5;32;11;60;10;M;Culture et loisirs;
+0;Square des Prés d'Arènes;1640;99999;;60;10;60-10-Square des Prés d'Arènes;M5;M6;60;PARCS/JARDIN;00149100;M;340172;6000;36;Culture et loisirs;Parcs et jardins;60;149100;5;32;11;60;10;M;Culture et loisirs;
+0;Place de Tibériade;2189;0;;60;10;60-10-Place de tibériade;K4;;66;PARCS/JARDIN;00151600;M;340172;6000;614;Culture et loisirs;Parcs et jardins;66;253;5;32;11;60;10;M;Culture et loisirs;
+0;Boulodrome Ernest Onillon;2389;0;;40;10;40-10-Boulodrome Ernest Onillon;M6;;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;60;780;5;32;11;40;10;M;Sport;Autres
+0;Boulodrome Tournezy;2189;0;;40;10;40-10-Boulodrome Tournezy;K4;;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;66;1647;5;32;11;40;10;M;Sport;Autres
+0;Multisport Tournezy;416;0;;40;10;40-10-Multisport Tournezy;K6;;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;59;1568;5;32;11;40;10;M;Sport;Stades
+;Square Ferdinand de Lesseps;2761;0;;60;10;60-10-Square Ferdinand de Lesseps;L6;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;59;TA89;5;32;11;60;10;M;Culture et loisirs;
+;Espace chiens Antonin Balmès;1511;0;;60;10;60-10-Espace chiens Antonin Balmès;K3;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;66;;5;32;11;60;10;M;Culture et loisirs;
+;Maison de Quartier Jean-Pierre Caillens;2189;99999;;10;10;10-10-Maison de Quartier Jean-Pierre Caillens;K4;;;;00089800;M;340172;0;0;Vie des quartiers;MPT;66;1695;5;32;11;10;10;M;Vie des quartiers;
+0;Ecole maternelle Alphonse Daudet;2016;2;;22;10;22-10-Ecole maternelle Alphonse Daudet;J8;;48;ECOLES;00038001;M;340172;2207;325;Enseignement;Ecoles préélementaires;48;1206;4;29;12;22;10;M;Enseignement;
+0;Square Saint Cléophas;2057;99999;;60;10;60-10-Square Saint Cléophas;J8;;48;PARCS/JARDIN;00169400;M;340172;6000;77;Culture et loisirs;Parcs et jardins;48;169400;4;29;12;60;10;M;Culture et loisirs;
+0;Ecole élémentaire Marie Curie;659;99999;;22;20;22-20-Ecole élémentaire Marie Curie;J8;;48;ECOLES;00037905;M;340172;2217;324;Enseignement;Ecoles élémentaires;48;1204;4;29;12;22;20;M;Enseignement;Ecoles élémentaires
+0;Eglise Saint Cléophas;0;0;;97;15;97-15-Eglise Saint Cléophas;J7;;48;CULTE;;;340172;9710;659;Culture et loisirs;Cultes et cimetières;48;TA18;4;29;12;97;15;;Culture et loisirs;Cultes et cimetières
+0;Terrain de rugby Sabathé;1929;18;;40;10;40-10-Terrain de rugby Sabathé;J7;;48;EQUIP.SPORT;00101400;M;340172;4000;22;Sport;Stades;48;1454;4;29;12;40;10;M;Sport;Stades
+0;Crèche Blanche Neige;2690;17;;21;10;21-10-Crèche Blanche Neige;J7;;48;CRECH/HGARD;00020500;M;340172;2000;243;Vie des quartiers;Petite enfance;48;836;4;29;12;21;10;M;Vie des quartiers;Petite enfance
+0;Halte-garderie Mary Poppin's;2690;82;;21;10;21-10-Halte-garderie Mary Poppin's;J7;;48;CRECH/HGARD;00085400;M;340172;2000;182;Vie des quartiers;Petite enfance;48;1444;4;29;12;21;10;M;Vie des quartiers;Petite enfance
+0;Gymnase Roger Couderc;1929;18;;40;10;40-10-Gymnase Roger Couderc;J7;;48;EQUIP.SPORT;00014700;M;340172;4000;239;Sport;Gymnases;48;795;4;29;12;40;10;M;Sport;Gymnases
+0;Square Albert Camus;2139;99999;;60;10;60-10-Square Albert Camus;J7;;48;PARCS/JARDIN;00188400;M;340172;6000;93;Culture et loisirs;Parcs et jardins;48;188400;4;29;12;60;10;M;Culture et loisirs;
+0;Mairie annexe Tastavin;2480;118;;05;30;05-30-Mairie annexe Tastavin;J7;;48;MAIRIES ANN.;00077601;M;340172;500;178;Vie des quartiers;Mairies annexes;48;1779;4;29;12;05;30;M;Vie des quartiers;
+0;Parc Tastavin;2139;99999;;60;10;60-10-Parc Tastavin;J7;;48;PARCS/JARDIN;00161000;M;340172;6000;48;Culture et loisirs;Parcs et jardins;48;00161000;4;29;12;60;10;M;Culture et loisirs;
+0;Marché Tastavin;1686;99999;;70;20;70-20-Marché Tastavin;J7;;48;HALLES/MCH;00133400;M;340172;7000;189;Vie des quartiers;Halles et marchés;48;133400;4;29;12;70;20;M;Vie des quartiers;Halles et marchés
+7;Poste - Mas Drevon;1686;2;;96;10;96-10-Poste - Mas Drevon;J7;;48;ADM.COMMUNIC;70022600;P;340172;9400;569;Administrations et organismes divers;Postes et télécommunications;48;;4;29;12;96;10;P;Administrations et organismes divers;
+0;Ecole élémentaire Georges Simenon;1686;215;;22;20;22-20-Ecole élémentaire Georges Simenon;J7;;48;ECOLES;00035101;M;340172;2217;306;Enseignement;Ecoles élémentaires;48;1111;4;29;12;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole maternelle Robert Surcouf;1686;215;;22;10;22-10-Ecole maternelle Robert Surcouf;J7;;48;ECOLES;00035001;M;340172;2207;305;Enseignement;Ecoles préélementaires;48;1109;4;29;12;22;10;M;Enseignement;
+0;Eglise Saint Jacques;0;0;;97;15;97-15-Eglise Saint Jacques;J7;;48;CULTE;;;340172;9710;672;Culture et loisirs;Cultes et cimetières;48;TA27;4;29;12;97;15;;Culture et loisirs;Cultes et cimetières
+0;Ecole élémentaire Garibaldi;1062;2;;22;20;22-20-Ecole élémentaire Garibaldi;J6;;58;ECOLES;00038502;M;340172;2217;328;Enseignement;Ecoles élémentaires;58;1220;4;29;12;22;20;M;Enseignement;Ecoles élémentaires
+0;Club de loisirs Lemasson;1882;8;;80;10;80-10-Club de loisirs Lemasson;J6;K6;58;CLUB 3 AGE;70018700;M;340172;8000;544;Vie des quartiers;Age d'or;58;70018700;4;29;12;80;10;M;Vie des quartiers;Age d'or
+0;Ecole maternelle Bertie Albrecht;1062;1;;22;10;22-10-Ecole maternelle Bertie Albrecht;J6;;58;ECOLES;00038601;M;340172;2207;329;Enseignement;Ecoles préélementaires;58;1222;4;29;12;22;10;M;Enseignement;
+0;Square des Arceaux;497;99999;;60;10;60-10-Square des Arceaux;I10;;38;PARCS/JARDIN;00147200;M;340172;6000;32;Culture et loisirs;Parcs et jardins;38;147200;7;16;7;60;10;M;Culture et loisirs;
+0;Marché des Arceaux;497;1;;70;20;70-20-Marché des Arceaux;I10;;38;HALLES/MCH;00056600;M;340172;7000;168;Vie des quartiers;Halles et marchés;38;00056600;7;16;7;70;20;M;Vie des quartiers;Halles et marchés
+0;Ecole maternelle Chaptal;497;9;;22;10;22-10-Ecole maternelle Chaptal;J10;;38;ECOLES;00028903;M;340172;2207;274;Enseignement;Ecoles préélementaires;38;961;7;16;7;22;10;M;Enseignement;
+0;Ecole élémentaire Jeanne d'Arc;497;9;;22;20;22-20-Ecole élémentaire Jeanne d'Arc;J10;;38;ECOLES;00028803;M;340172;2217;273;Enseignement;Ecoles élémentaires;38;959;7;16;7;22;20;M;Enseignement;Ecoles élémentaires
+0;Square du Maquis Bir-Hakeim;2743;99999;;60;10;60-10-Square du Maquis Bir-Hakeim;H10;I10;37;PARCS/JARDIN;00151700;M;340172;6000;37;Culture et loisirs;Parcs et jardins;37;151700;7;16;7;60;10;M;Culture et loisirs;
+0;Crèche Sophie Lagrèze;1259;8;;21;10;21-10-Crèche Sophie Lagrèze;I10;J10;38;CRECH/HGARD;00022001;M;340172;2000;250;Vie des quartiers;Petite enfance;38;853;7;16;7;21;10;M;Vie des quartiers;Petite enfance
+0;Boulodrome des Arceaux 1;497;0;;40;10;40-10-Boulodrome des Arceaux;I10;;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;38;763;7;16;7;40;10;M;Sport;Autres
+0;Boulodrome des Arceaux 2;3025;0;;40;10;40-10-Boulodrome des Arceaux;I10;;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;38;762;7;16;7;40;10;M;Sport;Autres
+;Espace chiens Benjamin Milhaud;579;0;;60;10;60-10-Espace chiens Benjamin Milhaud;I10;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;38;TA50;7;16;7;60;10;M;Culture et loisirs;
+0;Théâtre Gérard Philipe;1634;7;;50;10;50-10-Théâtre Gérard Philipe;J9;;38;QUART.CULTUR;00052901;M;340172;5000;604;Culture et loisirs;Culture et monuments;38;00052901;7;24;7;50;10;M;Culture et loisirs;Culture et monuments
+0;Parc de la Guirlande;1899;99999;;60;10;60-10-Parc de la Guirlande;I9;;38;PARCS/JARDIN;00159300;M;340172;6000;42;Culture et loisirs;Parcs et jardins;38;159300;7;24;7;60;10;M;Culture et loisirs;
+0;Square Abbé Coursindel;1936;99999;;60;10;60-10-Square Abbé Coursindel;I9;;38;PARCS/JARDIN;00203200;M;340172;6000;103;Culture et loisirs;Parcs et jardins;38;203200;7;24;7;60;10;M;Culture et loisirs;
+0;Club de loisirs Luis Mariano;428;2;;80;10;80-10-Club de loisirs Luis Mariano;I9;;38;CLUB 3 AGE;70018300;M;340172;8000;541;Vie des quartiers;Age d'or;38;1804;7;24;7;80;10;M;Vie des quartiers;Age d'or
+0;Ecole maternelle Docteur Roux;1012;96;;22;10;22-10-Ecole maternelle Docteur Roux;I9;;38;ECOLES;00030303;M;340172;2207;280;Enseignement;Ecoles préélementaires;38;999;7;24;7;22;10;M;Enseignement;
+0;Square Figuerolles;1012;98;;60;10;60-10-Square Figuerolles;I9;;38;PARCS/JARDIN;00163600;M;340172;6000;61;Culture et loisirs;Parcs et jardins;38;163600;7;24;7;60;10;M;Culture et loisirs;
+0;Boulodrome Figuerolles;818;0;;40;10;40-10-Boulodrome Figuerolles;I9;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;38;765;7;24;7;40;10;M;Sport;Autres
+0;Multisport Figuerolles;818;0;;40;10;40-10-Multisport Figuerolles;I9;;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;38;1661;7;24;7;40;10;M;Sport;Stades
+;Espace chiens Cité Gely;1899;0;;60;10;60-10-Espace chiens Cité Gely;I9;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;37;;7;24;7;60;10;M;Culture et loisirs;
+;Espace chiens du Square Abbé Coursindel;1380;0;;60;10;60-10-Espace chiens du Square Abbé Coursindel;I9;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;38;;7;24;7;60;10;M;Culture et loisirs;
+;Crèche associative Les Moussaillons;2903;156;;21;10;21-10-Crèche associative Les Moussaillons;I9;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;38;;7;24;7;21;10;P;Vie des quartiers;Petite enfance
+;M.P.T. Joseph Ricôme;1634;7;;10;10;10-10-M.P.T. Joseph Ricôme;I9;J9;;;00052900;M;340172;0;0;Vie des quartiers;MPT;38;1699;7;24;7;10;10;M;Vie des quartiers;
+;M.P.T. Albertine Sarrazin;1899;2;;10;10;10-10-M.P.T. Albertine Sarrazin;I9;;;;00272004;M;340172;0;0;Vie des quartiers;MPT;37;1705;7;24;7;10;10;M;Vie des quartiers;
+7;Gendarmerie Nationale;2265;359;;92;20;92-20-Gendarmerie Nationale;H8;;37;ADM.INTER.;70001100;E;340172;9200;442;Administrations et organismes divers;Police et justice;37;40005;4;26;7;92;20;E;Administrations et organismes divers;Police et justice
+0;Square de Diane;0;0;;60;10;60-10-Square de Diane;I7;I8;48;PARCS/JARDIN;00174600;M;340172;6000;618;Culture et loisirs;Parcs et jardins;48;174600;4;26;7;60;10;M;Culture et loisirs;
+0;Square des Hibiscus;1232;99999;;60;10;60-10-Square des Hibiscus;H6;;57;PARCS/JARDIN;00183400;M;340172;6000;88;Culture et loisirs;Parcs et jardins;57;183400;4;26;7;60;10;M;Culture et loisirs;
+0;Square du chai Molière;1232;99999;;60;10;60-10-Square du chai Molière;H6;;57;PARCS/JARDIN;00221300;M;340172;6000;119;Culture et loisirs;Parcs et jardins;57;221300;4;26;7;60;10;M;Culture et loisirs;
+0;Multisport Square Chely;1046;0;;40;10;40-10-Miltisport Square Chely;H7;;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;47;738;4;26;7;40;10;M;Sport;Stades
+;Square Bernard Chely;3024;0;;60;10;60-10-Square Bernard Chely;H7;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;47;TA85;4;26;7;60;10;M;Culture et loisirs;
+;Complexe sportif du Parc Montcalm;0;0;;40;10;40-10-Complexe sportif du Parc Montcalm;H7;I7;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;47;;4;26;7;40;10;M;Sport;Autres
+;Parc du Belvedère;645;0;;60;10;60-10-Parc du Belvedère;G6;G5;;PARCS/JARDIN;;MA;340712;0;0;Culture et loisirs;Parcs et jardins;56;;4;30;7;60;10;MA;Culture et loisirs;
+;Ecole élémentaire Esope;645;0;;22;20;22-20-Ecole élémentaire Esope;G6;;;ECOLES;;M;340172;0;0;Enseignement;Ecoles élémentaires;57;;4;30;7;22;20;M;Enseignement;Ecoles élémentaires
+;Ecole maternelle Olympe de Gouges;645;0;;22;10;22-10-Ecole maternelle Olympe de Gouges;G6;;;ECOLES;;M;340172;0;0;Enseignement;Ecoles préélementaires;57;;4;30;7;22;10;M;Enseignement;
+;Crèche Joséphine Baker;3430;0;;21;10;21-10-Crèche Joséphine Baker;G5;H5;;CRECHE/HGARD;;M;340172;0;0;Vie des quartiers;Petite enfance;57;;4;30;7;21;10;M;Vie des quartiers;Petite enfance
+0;Crèche les Sept Nains;1714;2;;21;10;21-10-Crèche les Sept Nains;L10;;39;CRECH/HGARD;00019700;M;340172;2000;144;Vie des quartiers;Petite enfance;39;833;7;11;8;21;10;M;Vie des quartiers;Petite enfance
+0;Maison des Relations Internationales;964;14;;50;10;50-10-Maison des Relations Internationales;L10;;39;QUART.CULTUR;00049800;M;340172;5000;369;Culture et loisirs;Culture et monuments;39;1680;7;11;8;50;10;M;Culture et loisirs;Culture et monuments
+0;Jardin de l'Hôtel de Sully;964;14;;60;10;60-10-Jardin de l'Hôtel de Sully;L10;;39;PARCS/JARDIN;00169700;M;340172;6000;79;Culture et loisirs;Parcs et jardins;39;169700;7;11;8;60;10;M;Culture et loisirs;
+0;Jardin d'Assas;2127;99999;;60;10;60-10-Jardin d'Assas;L10;;39;PARCS/JARDIN;00210600;M;340172;6000;115;Culture et loisirs;Parcs et jardins;39;210600;7;11;8;60;10;M;Culture et loisirs;
+7;Direction Régionale des Affaires Culturelles;1982;5;;99;10;99-10-Direction Régionale des Affaires Culturelles;L10;;39;ADM.CULT.SPT;70000300;E;340172;9900;439;Administrations et organismes divers;Autres administrations;39;70000300;7;11;8;99;10;E;Administrations et organismes divers;
+0;Centre chorégraphique national (AGORA);1400;2;;50;10;50-10-Centre chorégraphique national (AGORA);K10;K11;39;QUART.CULTUR;00084000;MA;340172;5000;599;Culture et loisirs;Culture et monuments;39;2002;7;17;8;50;10;MA;Culture et loisirs;Culture et monuments
+7;Faculté de Droit;695;20;;27;10;27-10-Faculté de Droit;K10;;39;ADM.EDUC.NAT;70012900;E;340172;2700;511;Enseignement;Enseignement supérieur;39;39166;7;17;8;27;10;E;Enseignement;
+0;Square rue de la Providence;1826;99999;;60;10;60-10-Square rue de la Providence;K10;;39;PARCS/JARDIN;00186500;M;340172;6000;89;Culture et loisirs;Parcs et jardins;39;186500;7;17;8;60;10;M;Culture et loisirs;
+0;Evêché de Montpellier-chapelle;0;0;;97;15;97-15-Evêché de Montpellier-chapelle;K10;;39;CULTE;;;340172;9710;652;Culture et loisirs;Cultes et cimetières;39;TA31;7;17;8;97;15;;Culture et loisirs;Cultes et cimetières
+0;Square de la Cathédrale;686;99999;;60;10;60-10-Square de la Cathédrale;K10;;39;PARCS/JARDIN;00223200;M;340172;6000;121;Culture et loisirs;Parcs et jardins;39;223200;7;17;8;60;10;M;Culture et loisirs;
+7;Rectorat de l'Académie de Montpellier;2086;31;;22;05;22-05-Rectorat de l'Académie de Montpellier;K10;;39;ADM.EDUC.NAT;70002900;E;340172;2200;454;Administrations et organismes divers;Autres administrations;39;39848;7;17;8;22;05;E;Administrations et organismes divers;
+0;Eglise Saint Matthieu;0;0;;50;10;50-10-Eglise Saint Matthieu;K10;;39;QUART.CULTU;;M;340172;9710;671;Culture et loisirs;Cultes et cimetières;39;1395;7;17;8;50;10;M;Culture et loisirs;Cultes et cimetières
+0;Ecole maternelle Jean-Jacques Rousseau;426;21;;22;10;22-10-Ecole maternelle Jean-Jacques Rousseau;K10;;39;ECOLES;00033401;M;340172;2207;293;Enseignement;Ecoles préélementaires;39;1274;7;17;8;22;10;M;Enseignement;
+0;Jardin de la Canourgue;1970;99999;;60;10;60-10-Jardin de la Canourgue;K10;;39;PARCS/JARDIN;00147900;M;340172;6000;35;Culture et loisirs;Parcs et jardins;39;147900;7;17;8;60;10;M;Culture et loisirs;
+7;Hôtel de la Préfecture;1472;34;;92;10;92-10-Hôtel de la Préfecture;K10;;39;ADM.REG.DEP.;70006200;E;340172;9200;465;Administrations et organismes divers;Police et justice;39;39511;7;17;8;92;10;E;Administrations et organismes divers;Police et justice
+0;Marché aux fleurs;2305;0;;70;20;70-20-Marché aux fleurs;K10;;39;HALLES/MCH;;M;340172;7000;608;Vie des quartiers;Halles et marchés;39;TA184;7;17;8;70;20;M;Vie des quartiers;Halles et marchés
+7;Poste - Préfecture;1472;2;;96;10;96-10-Poste - Préfecture;K10;;39;ADM.COMMUNIC;70022900;P;340172;9400;571;Administrations et organismes divers;Postes et télécommunications;39;;7;17;8;96;10;P;Administrations et organismes divers;
+0;Parking Foch;1043;27;;95;20;95-20-Parking Foch;K10;;39;VIE QUOT.SCE;00063700;MA;340172;9300;175;Transports;Parkings;39;00063700;7;17;8;95;20;MA;Transports;Parkings
+0;Conservatoire à rayonnement régional Montpellier Agglo;998;14;;50;10;50-10-Conservatoire à rayonnement régional Montpellier Agglo;K10;;39;QUART.CULTUR;;MA;340172;5000;600;Culture et loisirs;Culture et monuments;39;39764;7;17;8;50;10;MA;Culture et loisirs;Culture et monuments
+0;Halles Castellane;1393;2;;70;10;70-10-Halles Castellane;K10;;39;HALLES/MCH;00291500;M;340172;7000;606;Vie des quartiers;Halles et marchés;39;291500;7;17;8;70;10;M;Vie des quartiers;Halles et marchés
+0;Marché antiquaires - Sainte Anne;1711;99998;;70;20;70-20-Marché antiquaires - Sainte Anne;K10;;39;HALLES/MCH;00160600;M;340172;7000;193;Vie des quartiers;Halles et marchés;39;160600;7;17;8;70;20;M;Vie des quartiers;Halles et marchés
+0;Carré Sainte Anne;1724;2;;50;10;50-10-Carré Sainte Anne;K10;;39;QUART.CULTUR;00090400;M;340172;5000;405;Culture et loisirs;Culture et monuments;39;1763;7;17;8;50;10;M;Culture et loisirs;Culture et monuments
+0;Ecole élémentaire Lamartine;2098;30;;22;20;22-20-Ecole élémentaire Lamartine;K9;;39;ECOLES;00034802;M;340172;2217;303;Enseignement;Ecoles élémentaires;39;1104;7;17;8;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole maternelle Pasteur;1965;15;;22;10;22-10-Ecole maternelle Pasteur;K9;;39;ECOLES;00034903;M;340172;2207;304;Enseignement;Ecoles préélementaires;39;1107;7;17;8;22;10;M;Enseignement;
+0;Eglise Saint Roch;0;0;;97;15;97-15-Eglise Saint Roch;K9;;39;CULTE;;;340172;9710;662;Culture et loisirs;Cultes et cimetières;39;1396;7;17;8;97;15;;Culture et loisirs;Cultes et cimetières
+0;Square Saint Roch;1963;99999;;60;10;60-10-Square Saint Roch;K9;;39;PARCS/JARDIN;00161400;M;340172;6000;51;Culture et loisirs;Parcs et jardins;39;161400;7;17;8;60;10;M;Culture et loisirs;
+0;Mission Grand Coeur;1305;99999;;05;20;05-20-Mission Grand Coeur;K9;;39;MAIRIES ANN.;00310900;M;340172;500;434;Vie des quartiers;Autres;39;1590;7;17;8;05;20;M;Vie des quartiers;Autres
+0;La Panacée;933;0;;50;10;50-10-La Panacée;K10;;;QUART.CULTU;;M;340712;0;0;Culture et loisirs;Culture et monuments;39;475;7;17;8;50;10;M;Culture et loisirs;Culture et monuments
+0;La Visitation;938;0;;50;10;50-10-La Visitation;K12;;;QUART.CULTU;;M;340712;0;0;Culture et loisirs;Culture et monuments;29;1996;7;17;8;50;10;M;Culture et loisirs;Culture et monuments
+;Square de l'Intendance du Languedoc;426;0;;60;10;60-10-Square de l'Intendance du Languedoc;K10;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;39;TA86;7;17;8;60;10;M;Culture et loisirs;
+;Plan Cavaillé Coll;3027;0;;60;10;60-10-Plan Cavaillé Coll;K10;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;39;TA80;7;17;8;60;10;M;Culture et loisirs;
+;Square Louis Boffet;2301;0;;60;10;60-10-Square Louis Boffet;K10;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;39;TA90;7;17;8;60;10;M;Culture et loisirs;
+;Conservatoire à rayonnement régional de Candolle;670;0;;50;10;50-10-Conservatoire à rayonnement régional de Candolle;K10;;;QUART.CULTUR;;MA;340172;0;0;Culture et loisirs;Culture et monuments;39;;7;17;8;50;10;MA;Culture et loisirs;Culture et monuments
+;Festival Montpellier Danse;1975;0;;50;10;50-10-Festival Montpellier Danse;K10;;;QUART.CULTUR;;MA;340712;0;0;Culture et loisirs;Culture et monuments;39;;7;17;8;50;10;MA;Culture et loisirs;Culture et monuments
+;Département d'art dramatique Louis Jouvet;1348;0;;50;10;50-10-Département d'art dramatique Louis Jouvet;K10;;;QUART.CULTUR;;MA;340712;0;0;Culture et loisirs;Culture et monuments;39;;7;17;8;50;10;MA;Culture et loisirs;Culture et monuments
+;Aire de jeux rue Vien;2130;8;;60;10;60-10-Aire de jeux rue Vien;K9;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;70;;7;17;8;60;10;M;Culture et loisirs;
+;Fontaine Préfecture;1043;0;;60;10;60-10-Fontaine Préfecture;K10;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;39;;7;17;8;60;10;M;Culture et loisirs;
+;Plan de l'Université;2085;0;;60;10;60-10-Plan de l'Université;K13;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;39;;7;17;8;60;10;M;Culture et loisirs;
+;Square Théophraste Renaudot;1660;0;;60;10;60-10-Square Théophraste Renaudot;K11;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;29;;7;17;8;60;10;M;Culture et loisirs;
+0;Basilique Notre Dame des Tables;1605;6;;97;15;97-15-Basilique Notre Dame des Tables;L10;;39;CULTE;;;340172;9710;670;Culture et loisirs;Cultes et cimetières;39;1376;7;19;8;97;15;;Culture et loisirs;Cultes et cimetières
+0;Cour Jacques Coeur;804;1;;50;10;50-10-Cour Jacques Coeur;L10;;39;QUART.CULTUR;00050400;M;340172;5000;371;Culture et loisirs;Culture et monuments;39;00050400;7;19;8;50;10;M;Culture et loisirs;Culture et monuments
+0;Musée Fabre;1554;13;;50;10;50-10-Musée Fabre;L10;;39;QUART.CULTUR;00050300;MA;340172;5000;158;Culture et loisirs;Culture et monuments;39;177;7;19;8;50;10;MA;Culture et loisirs;Culture et monuments
+0;E.H.P.A.D Montpellieret;1002;3;;80;20;80-20-E.H.P.D.A Montpellieret;L10;;39;SOLIDARITE;70017600;M;340172;8000;609;Vie des quartiers;Age d'or;39;39085;7;19;8;80;20;M;Vie des quartiers;Age d'or
+0;Hôtel de Varennes;1717;2;;50;10;50-10-Hôtel de Varennes;K10;;39;QUART.CULTUR;00050000;M;340172;5000;370;Culture et loisirs;Culture et monuments;39;1801;7;19;8;50;10;M;Culture et loisirs;Culture et monuments
+0;Musée du Vieux Montpellier;1717;2;;50;10;50-10-Musée du Vieux Montpellier;K10;;39;QUART.CULTUR;00050000;MA;340172;5000;370;Culture et loisirs;Culture et monuments;39;00050000;7;19;8;50;10;MA;Culture et loisirs;Culture et monuments
+0;Salle Rabelais;1990;27;;50;10;50-10-Salle Rabelais;L10;;39;QUART.CULTUR;00008500;M;340172;5000;231;Culture et loisirs;Culture et monuments;39;785;7;19;8;50;10;M;Culture et loisirs;Culture et monuments
+0;Dominicains-chapelle;0;0;;97;15;97-15-Dominicains-chapelle;L10;;39;CULTE;;;340172;9710;653;Culture et loisirs;Cultes et cimetières;39;TA6;7;19;8;97;15;;Culture et loisirs;Cultes et cimetières
+0;Halte-garderie la Maison des Enfants;954;1;;21;10;21-10-Halte-garderie la Maison des Enfants;K10;;39;CRECH/HGARD;00049601;M;340172;2000;597;Vie des quartiers;Petite enfance;39;1350;7;19;8;21;10;M;Vie des quartiers;Petite enfance
+7;Poste - Comédie;1990;7;;96;10;96-10-Poste - Comédie;L9;L10;39;ADM.COMMUNIC;70022000;P;340172;9400;563;Administrations et organismes divers;Postes et télécommunications;39;;7;19;8;96;10;P;Administrations et organismes divers;
+0;Galerie Saint Ravy;712;2;;50;10;50-10-Galerie Saint Ravy;K9;;39;QUART.CULTUR;00242100;M;340172;5000;601;Culture et loisirs;Culture et monuments;39;1798;7;19;8;50;10;M;Culture et loisirs;Culture et monuments
+0;Parking Comédie;815;9038;;95;20;95-20-Parking Comédie;L9;;39;VIE QUOT.SCE;00063600;MA;340172;9300;174;Transports;Parkings;39;39336;7;19;8;95;20;MA;Transports;Parkings
+0;Eglise Orthodoxe de France;0;0;;97;55;97-55-Eglise Orthodoxe de France;K9;;39;CULTE;;;340172;9750;675;Culture et loisirs;Cultes et cimetières;39;TA15;7;19;8;97;55;;Culture et loisirs;Cultes et cimetières
+0;Fontaine des Trois Grâces;0;0;;98;10;98-10-Fontaine des Trois Grâces;L9;;39;DIVERS;;M;340172;9600;641;Culture et loisirs;Culture et monuments;39;TA26;7;19;8;98;10;M;Culture et loisirs;Culture et monuments
+7;Chambre de Commerce;1293;32;;99;10;99-10-Chambre de Commerce;K9;;39;ADM.INDUST.;70004500;E;340172;9900;458;Administrations et organismes divers;Autres administrations;39;39984;7;19;8;99;10;E;Administrations et organismes divers;
+7;Opéra Comédie;2124;11;;50;10;50-10-Opéra Comédie;K9;L9;39;QUART.CULTUR;70059200;MA;340172;5000;582;Culture et loisirs;Culture et monuments;39;2003;7;19;8;50;10;MA;Culture et loisirs;Culture et monuments
+0;Club de loisirs Docteur Bonnet;995;34;;80;10;80-10-Club de loisirs Docteur Bonnet;K9;;39;CLUB 3 AGE;70025400;M;340172;8000;216;Vie des quartiers;Age d'or;39;70025400;7;19;8;80;10;M;Vie des quartiers;Age d'or
+0;Chapelle de la Miséricorde;1543;0;;50;10;50-10-Chapelle de la Miséricorde;L10;;;QUART.CULTU;;M;340712;0;0;Culture et loisirs;Culture et monuments;39;444;7;19;8;50;10;M;Culture et loisirs;Culture et monuments
+0;Crypte-Musée de l'Histoire de Montpellier;1287;0;;50;10;50-10-Crypte - Musée de l'Histoire de Montpellier;K10;;;QUART.CULTU;;M;340712;0;0;Culture et loisirs;Culture et monuments;39;TA24;7;19;8;50;10;M;Culture et loisirs;Culture et monuments
+0;Musée de la Pharmacie;1002;0;;50;10;50-10-Musée de la Pharmacie;L10;;;QUART.CULTU;;MA;340712;0;0;Culture et loisirs;Culture et monuments;39;TA32;7;19;8;50;10;MA;Culture et loisirs;Culture et monuments
+;Espace Montpellier Jeunesse;1426;6;;05;30;05-30-Espace Montpellier Jeunesse;L9;;;VIE.QUART.SO;;M;340712;0;0;Vie des quartiers;Autres;39;TA180;7;19;8;05;30;M;Vie des quartiers;Autres
+;Maison de la Prévention Santé;1426;6;;05;30;05-30-Maison de la Prévention Santé;L9;;;VIE.QUART.SO;;M;340712;0;0;Vie des quartiers;Autres;39;1742;7;19;8;05;30;M;Vie des quartiers;Autres
+;U.L.S.D Bellevue;884;408;;80;20;80-20-U.L.S.D Bellevue;H16;;;SOLIDARITE;;E;340172;0;0;Vie des quartiers;Age d'or;09;;1;2;2;80;20;E;Vie des quartiers;Age d'or
+;U.L.S.D Antonin Balmès;39;746;;80;20;80-20-U.L.S.D Antonin Balmès;H13;;;SOLIDARITE;;E;340172;0;0;Vie des quartiers;Age d'or;17;;1;3;3;80;20;E;Vie des quartiers;Age d'or
+;M.R.P.A Jean Péridier;174;1254;;80;20;80-20-M.R.P.A Jean Péridier;I6;;;SOLIDARITE;;E;340172;0;0;Vie des quartiers;Age d'or;58;;4;31;12;80;20;E;Vie des quartiers;Age d'or
+;Salle Pétrarque;1717;0;;50;10;50-10-Salle Pétrarque;K10;;;QUART.CULTU;;M;340712;0;0;Culture et loisirs;Culture et monuments;39;1352;7;19;8;50;10;M;Culture et loisirs;Culture et monuments
+;Sabatier d'Esperan;1554;0;;50;10;50-10-Sabatier d'Esperan;L10;;;QUART.CULT;;MA;340172;0;0;Culture et loisirs;Culture et monuments;39;;7;19;8;50;10;MA;Culture et loisirs;Culture et monuments
+0;Marché du Plan Cabanes;1108;0;;70;20;70-20-Marché du Plan Cabanes;J9;;38;HALLES/MCH;00057100;M;340172;7000;169;Vie des quartiers;Halles et marchés;38;00057100;7;23;8;70;20;M;Vie des quartiers;Halles et marchés
+0;Poste de police municipale Gambetta;1108;51;bis;92;20;92-20-Poste de police municipale Gambetta;J9;;38;POSTE POLICE;00012800;M;340172;9200;234;Administrations et organismes divers;Police et justice;38;488;7;23;8;92;20;M;Administrations et organismes divers;Police et justice
+0;Maison des associations Guy de Montpellier;1108;46;;50;10;50-10-Maison des associations Guy de Montpellier;J9;;38;QUART.CULTUR;00114600;M;340172;5000;412;Culture et loisirs;Culture et monuments;38;1806;7;23;8;50;10;M;Culture et loisirs;Culture et monuments
+0;Ecole élémentaire Gambetta;2014;20;;22;20;22-20-Ecole élémentaire Gambetta;J9;;38;ECOLES;00031304;M;340172;2217;286;Enseignement;Ecoles élémentaires;38;1026;7;23;8;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole maternelle Francis Garnier;1132;2;;22;10;22-10-Ecole maternelle Francis Garnier;J9;;38;ECOLES;00030902;M;340172;2207;284;Enseignement;Ecoles préélementaires;38;1015;7;23;8;22;10;M;Enseignement;
+7;C.R.A.M;1108;29;;90;30;90-30-C.R.A.M;J9;;38;ADM.SANTE AS;70017100;E;340172;9000;536;Administrations et organismes divers;Santé;38;39592;7;23;8;90;30;E;Administrations et organismes divers;Santé
+7;C.P.A.M;1108;29;bis;90;30;90-30-C.P.A.M;J9;;38;ADM.SANTE AS;70017000;E;340172;9000;535;Administrations et organismes divers;Santé;38;40023;7;23;8;90;30;E;Administrations et organismes divers;Santé
+0;Ecole élémentaire Sévigné;584;5;;22;20;22-20-Ecole élémentaire Sévigné;J9;;38;ECOLES;00041902;M;340172;2217;342;Enseignement;Ecoles élémentaires;38;1279;7;23;8;22;20;M;Enseignement;Ecoles élémentaires
+0;Parking Gambetta;1108;0;;95;20;95-20-Parking Gambetta;K9;;39;VIE QUOT.SCE;00063800;MA;340172;9300;176;Transports;Parkings;39;00063800;7;23;8;95;20;MA;Transports;Parkings
+0;Eglise Réformée-temple;0;0;;97;65;97-65-Eglise Réformée-temple;K9;;39;CULTE;;;340172;9760;674;Culture et loisirs;Cultes et cimetières;39;39434;7;23;8;97;65;;Culture et loisirs;Cultes et cimetières
+0;Eglise Saint Denis;0;0;;50;10;50-10-Eglise Saint Denis;K9;;39;QUART.CULTU;;M;340172;9710;660;Culture et loisirs;Culture et monuments;39;1392;7;23;8;50;10;M;Culture et loisirs;Culture et monuments
+0;Association Cultuelle Israélite;897;4;;97;35;97-35-Association Cultuelle Israélite;K9;;39;CULTE;;;340172;9730;673;Culture et loisirs;Cultes et cimetières;39;40284;7;23;8;97;35;;Culture et loisirs;Cultes et cimetières
+0;Ecole maternelle Anatole France;1127;10;;22;10;22-10-Ecole maternelle Anatole France;K8;;49;ECOLES;00025701;M;340172;2207;256;Enseignement;Ecoles préélementaires;49;885;7;23;8;22;10;M;Enseignement;
+0;Parc Clémenceau;0;0;;60;10;60-10-Parc Clémenceau;J8;;48;PARCS/JARDIN;;M;340172;6000;650;Culture et loisirs;Parcs et jardins;48;TA65;7;23;8;60;10;M;Culture et loisirs;
+7;Poste - Rondelet;1896;13;;96;10;96-10-Poste - Rondelet;K8;;49;ADM.COMMUNIC;70021600;P;340172;9400;559;Administrations et organismes divers;Postes et télécommunications;49;;7;23;8;96;10;P;Administrations et organismes divers;
+0;Gare routière;1325;9;;95;10;95-10-Gare routière;K8;;49;VIE QUOT.SCE;00043700;E;340172;9300;350;Transports;Gares;49;00043700;7;23;8;95;10;E;Transports;Gares
+0;Salle de sports Amélie Blanchard;580;10;;40;10;40-10-Salle de sports Amélie Blanchard;K8;;49;EQUIP.SPORT;00046800;M;340172;4000;352;Sport;Gymnases;49;1318;7;23;8;40;10;M;Sport;Gymnases
+0;Gymnase Emmanuel Gambardella;1143;99999;;40;10;40-10-Gymnase Emmanuel Gambardella;J8;;48;EQUIP.SPORT;00231200;M;340172;4000;423;Sport;Gymnases;48;1507;7;23;8;40;10;M;Sport;Gymnases
+7;Lycée Georges Clémenceau;1143;31;;25;20;25-20-Lycée Georges Clémenceau;K8;;49;ADM.EDUC.NAT;70009500;LR;340172;2515;131;Enseignement;Lycées;49;70009500;7;23;8;25;20;LR;Enseignement;Lycées
+7;Collège Georges Clémenceau;1143;31;;25;10;25-10-Collège Georges Clémenceau;K8;;49;ADM.EDUC.NAT;70010200;CG;340172;2500;486;Enseignement;Collèges;49;70010200;7;23;8;25;10;CG;Enseignement;Collèges
+7;Lycée Georges Clémenceau;1143;49;;25;20;25-20-Lycée Professionnel Georges Clémenceau;J8;;48;ADM.EDUC.NAT;70009400;LR;340172;2515;479;Enseignement;Lycées;48;39696;7;23;8;25;20;LR;Enseignement;Lycées
+;S.N.C.F Direction régionale;1511;0;;99;10;99-10-S.N.C.F Direction régionale;K8;;;ADM.EQUIP.TR;;E;340712;0;0;Administrations et organismes divers;Autres administrations;49;TA13;7;23;8;99;10;E;Administrations et organismes divers;
+;Espace chiens Clemenceau;1143;0;;60;10;60-10-Espace chiens Clemenceau;J8;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;48;TA51;7;23;8;60;10;M;Culture et loisirs;
+;Parc René Dumont;1511;0;;60;10;60-10-Parc René Dumont;K8;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;49;;7;23;8;60;10;M;Culture et loisirs;
+;Crèche associative La Gerbe;735;19;;21;10;21-10-Crèche associative La Gerbe;J9;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;38;;7;23;8;21;10;P;Vie des quartiers;Petite enfance
+;Crèche associative Sucre d'Orge;587;27;;21;10;21-10-Crèche associative Sucre d'Orge;I4;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;48;;7;23;8;21;10;P;Vie des quartiers;Petite enfance
+7;Hôtel des Impôts Chaptal;1274;1;;99;10;99-10-Hôtel des Impôts Chaptal;J8;;48;ADM.ECO.FIN.;70001900;E;340172;9900;446;Administrations et organismes divers;Autres administrations;48;39043;7;24;8;99;10;E;Administrations et organismes divers;
+;Maison de l'Agriculture;1274;0;;99;10;99-10-Maison de l'Agriculture;J8;;;ADM. AGRICOL;;LR;340712;0;0;Administrations et organismes divers;Autres administrations;48;TA11;7;24;8;99;10;LR;Administrations et organismes divers;
+;Square du père Bonnet;1694;0;;60;10;60-10-Square du père Bonnet;I9;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;38;;7;24;8;60;10;M;Culture et loisirs;
+0;Poste de police municipale Ecusson Centre Ville;927;21;;92;20;92-20-Poste de police municipale Centre Historique;K9;;39;POSTE POLICE;00300600;M;340172;9200;598;Administrations et organismes divers;Police et justice;39;00300600;7;25;8;92;20;M;Administrations et organismes divers;Police et justice
+0;Halles Laissac;450;10;;70;10;70-10-Halles Laissac;K9;;39;HALLES/MCH;00051100;M;340172;7000;373;Vie des quartiers;Halles et marchés;39;00051100;7;25;8;70;10;M;Vie des quartiers;Halles et marchés
+0;Parking Laissac;450;10;;95;20;95-20-Parking Laissac;K9;;39;VIE QUOT.SCE;00051200;MA;340172;9300;160;Transports;Parkings;39;00051200;7;25;8;95;20;MA;Transports;Parkings
+0;Square Planchon;1867;99999;;60;10;60-10-Square Planchon;L9;;39;PARCS/JARDIN;00161600;M;340172;6000;52;Culture et loisirs;Parcs et jardins;39;511;7;25;8;60;10;M;Culture et loisirs;
+0;Maison de la Démocratie - D.M.P.T;1867;16;;05;20;05-20-Maison de la Démocratie - D.M.P.T;K9;L9;39;MAIRIES ANN.;00273500;M;340172;500;432;Vie des quartiers;Autres;39;1563;7;25;8;05;20;M;Vie des quartiers;Autres
+0;Salle de sports La Babote;1652;3;;40;10;40-10-Salle de sports La Babote;K9;;39;EQUIP.SPORT;00071700;M;340172;4000;396;Sport;Gymnases;39;1402;7;25;8;40;10;M;Sport;Gymnases
+7;Gare Montpellier St Roch;522;1;;95;10;95-10-Gare Montpellier St Roch;L8;L9;39;DIVERS;70020200;E;340172;9300;554;Transports;Gares;39;2047;7;25;8;95;10;E;Transports;Gares
+0;Comédie du Livre;927;0;;50;10;50-10-Comédie du Livre;K9;;;QUART.CULTU;;M;340712;0;0;Culture et loisirs;Culture et monuments;39;TA22;7;25;8;50;10;M;Culture et loisirs;Culture et monuments
+;D.C.P;1867;0;;05;20;05-20-D.C.P;L9;;;MAIRIES ANN.;;M;340172;0;0;Administrations et organismes divers;Collectivités territoriales;39;TA4;7;25;8;05;20;M;Administrations et organismes divers;
+;Parc Emmanuel Roblès;1867;0;;60;10;60-10-Parc Emmanuel Roblès;K9;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;39;TA71;7;25;8;60;10;M;Culture et loisirs;
+;Hotel Montcalm-Musée de l'histoire de France en Algérie;1310;0;;50;10;50-10-Hotel Montcalm-Musée de l'histoire de France en Algérie;K9;L9;;QUART.CULTUR;;MA;340172;0;0;Culture et loisirs;Culture et monuments;39;;7;25;8;50;10;MA;Culture et loisirs;Culture et monuments
+;Crèche associative Moussia;587;10;;21;10;21-10-Crèche associative Moussia;J8;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;48;;4;29;8;21;10;P;Vie des quartiers;Petite enfance
+;Square des Escarcelliers;979;0;;60;10;60-10-Square des Escarcelliers;E10;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;36;TA87;3;6;9;60;10;M;Culture et loisirs;
+;Chateau de la Piscine;1731;0;;98;10;98-10-Chateau de la Piscine;F10;;;DIVERS;;;340712;0;0;Culture et loisirs;Culture et monuments;36;TA21;3;14;9;98;10;;Culture et loisirs;Culture et monuments
+0;Bibliothèque Simone de Beauvoir;2418;39;;50;10;50-10-Bibliothèque Simone de Beauvoir;D10;;35;QUART.CULTUR;00002300;MA;340172;5000;230;Culture et loisirs;Médiathèques;35;583;2;15;9;50;10;MA;Culture et loisirs;Médiathèques
+0;Square rue François d'Orbay;2418;99999;;60;10;60-10-Square rue François d'Orbay;C10;;35;PARCS/JARDIN;00188900;M;340172;6000;94;Culture et loisirs;Parcs et jardins;35;188900;2;15;9;60;10;M;Culture et loisirs;
+0;Ecole maternelle Pape Carpantier;936;12;;22;10;22-10-Ecole maternelle Pape Carpantier;D10;;35;ECOLES;00039803;M;340172;2207;334;Enseignement;Ecoles préélementaires;35;1251;2;15;9;22;10;M;Enseignement;
+0;Square Louis Carles;936;99999;;60;10;60-10-Square Louis Carles;D10;;35;PARCS/JARDIN;00179100;M;340172;6000;85;Culture et loisirs;Parcs et jardins;35;179100;2;15;9;60;10;M;Culture et loisirs;
+0;Esplanade Léo Malet;717;99999;;60;10;60-10-Esplanade Léo Malet;D10;;35;PARCS/JARDIN;00162000;M;340172;6000;55;Culture et loisirs;Parcs et jardins;35;162000;2;15;9;60;10;M;Culture et loisirs;
+0;Terrain de foot  Bonnier de la Mosson;2723;80;;40;10;40-10-Terrain de foot  Bonnier de la Mosson;C10;;35;EQUIP.SPORT;00079500;M;340172;4000;14;Sport;Stades;35;00079500;2;15;9;40;10;M;Sport;Stades
+0;Club de loisirs Vincent Scotto;2425;3;;80;10;80-10-Club de loisirs Vincent Scotto;D10;;35;CLUB 3 AGE;70021200;M;340172;8000;212;Vie des quartiers;Age d'or;35;70021200;2;15;9;80;10;M;Vie des quartiers;Age d'or
+0;Ecole élémentaire Léo Malet;2566;5;;22;20;22-20-Ecole élémentaire Léo Malet;D10;;35;ECOLES;00028101;M;340172;2217;272;Enseignement;Ecoles élémentaires;35;954;2;15;9;22;20;M;Enseignement;Ecoles élémentaires
+0;Domaine Bonnier de la Mosson;1392;99999;;60;10;60-10-Domaine Bonnier de la Mosson;C10;;35;PARCS/JARDIN;00158800;M;340172;6000;39;Culture et loisirs;Parcs et jardins;35;310;2;15;9;60;10;M;Culture et loisirs;
+0;Square Pierre Causse;1731;99999;;60;10;60-10-Square Pierre Causse;E10;;36;PARCS/JARDIN;00162500;M;340172;6000;57;Culture et loisirs;Parcs et jardins;36;162500;2;15;9;60;10;M;Culture et loisirs;
+0;Boulodrome Celleneuve;3420;0;;40;10;40-10-Boulodrome Celleneuve;D10;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;35;758;2;15;9;40;10;M;Sport;Autres
+0;Multisport Celleneuve;2420;0;;40;10;40-10-Multisport Celleneuve;C10;D10;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;35;1665;2;15;9;40;10;M;Sport;Stades
+0;Plateaux Sportifs Léo Mallet;1651;0;;40;10;40-10-Plateaux Sportifs Léo Mallet;D10;E10;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;36;TA129;2;15;9;40;10;M;Sport;Autres
+;Place François Mansart;2421;0;;60;10;60-10-Place François Mansart;D10;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;35;2092;2;15;9;60;10;M;Culture et loisirs;
+;Quai Louis Le Vau;2420;0;;60;10;60-10-Quai Louis Le Vau;C10;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;35;TA81;2;15;9;60;10;M;Culture et loisirs;
+;Parc Edouard André;3198;0;;60;10;60-10-Parc Edouard André;C10;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;35;TA70;2;15;9;60;10;M;Culture et loisirs;
+;Parc Dioscoride;2566;0;;60;10;60-10-Parc Dioscoride;D10;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;35;TA67;2;15;9;60;10;M;Culture et loisirs;
+;Salle de cinéma Nestor Burma;1861;0;;50;10;50-10-Salle de cinéma Nestor Burma;D10;;;QUART.CULTUR;;M;340172;0;0;Culture et loisirs;Culture et monuments;35;;2;15;9;50;10;M;Culture et loisirs;Culture et monuments
+;M.P.T  Marie Curie;2563;0;;10;10;10-10-M.P.T Marie Curie;D10;;;;;M;340712;0;0;Vie des quartiers;MPT;35;1729;2;15;9;10;10;M;Vie des quartiers;
+0;Halte-garderie André Chamson;2523;105;;21;10;21-10-Halte-garderie André Chamson;E9;;36;CRECH/HGARD;00053201;M;340172;2000;382;Vie des quartiers;Petite enfance;36;1360;3;20;9;21;10;M;Vie des quartiers;Petite enfance
+0;Ecole maternelle Jeanne Deroin;2524;88;;22;10;22-10-Ecole maternelle Jeanne Deroin;E9;;36;ECOLES;00034302;M;340172;2207;300;Enseignement;Ecoles préélementaires;36;1096;3;20;9;22;10;M;Enseignement;
+0;Ecole élémentaire Spinoza;2524;110;;22;20;22-20-Ecole élémentaire Spinoza;E9;;36;ECOLES;00034202;M;340172;2217;299;Enseignement;Ecoles élémentaires;36;1093;3;20;9;22;20;M;Enseignement;Ecoles élémentaires
+0;Plateaux Sportifs La Martelle;2524;0;;40;10;40-10-Plateaux Sportifs La Martelle;E9;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;36;1097;3;20;9;40;10;M;Sport;Autres
+;Chateau de Bionne;2974;0;;98;10;98-10-Chateau de Bionne;C8;C7;;DIVERS;;;340712;0;0;Culture et loisirs;Culture et monuments;45;295;3;20;9;98;10;;Culture et loisirs;Culture et monuments
+;Ruisseau Rieucoulon;2718;0;;60;10;60-10-Ruisseau Rieucoulon;D8;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;45;TA82;3;20;9;60;10;M;Culture et loisirs;
+;Jardin des Amandiers;617;0;;60;10;60-10-Jardin des Amandiers;G7;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;45;;3;20;9;60;10;M;Culture et loisirs;
+;M.P.T. André Chamson;2523;105;;10;10;10-10-M.P.T. André Chamson;E9;;;;00053200;M;340172;0;0;Vie des quartiers;MPT;36;593;3;20;9;10;10;M;Vie des quartiers;
+7;Clinique Beau Soleil;1390;119;;90;20;90-20-Clinique Beau Soleil;G9;G10;37;ADM.SANTE AS;70015500;P;340172;9000;524;Administrations et organismes divers;Santé;37;39069;3;14;10;90;20;P;Administrations et organismes divers;Santé
+0;Jardins des Amandiers;617;99999;;60;10;60-10-Jardins des Amandiers;E8;;46;PARCS/JARDIN;00224500;M;340172;6000;123;Culture et loisirs;Parcs et jardins;46;224500;3;20;10;60;10;M;Culture et loisirs;
+0;Parc du Mas Prunet;2797;99999;;60;10;60-10-Parc du Mas Prunet;D7;E7;45;PARCS/JARDIN;00207900;M;340172;6000;106;Culture et loisirs;Parcs et jardins;45;207900;3;20;10;60;10;M;Culture et loisirs;
+0;Mail du Mas de Perrette;0;0;;60;10;60-10-Mail du Mas de Perrette;E7;F7;46;PARCS/JARDIN;;M;340172;6000;621;Culture et loisirs;Parcs et jardins;46;TA63;3;20;10;60;10;M;Culture et loisirs;
+0;Tennis Saint-Exupery;2259;130;;40;10;40-10-Tennis Saint-Exupery;E7;;46;EQUIP.SPORT;00112200;M;340172;4000;187;Sport;Tennis;46;112200;3;20;10;40;10;M;Sport;Tennis
+0;Terrain de foot Dr Fourcade;617;101;;40;10;40-10-Terrain de foot Dr Fourcade;E7;;46;EQUIP.SPORT;00079700;M;340172;4000;16;Sport;Stades;46;1430;3;20;10;40;10;M;Sport;Stades
+0;Parc Jacques Roseau;1363;99999;;60;10;60-10-Parc Jacques Roseau;E7;;46;PARCS/JARDIN;00179000;M;340172;6000;84;Culture et loisirs;Parcs et jardins;46;179000;3;20;10;60;10;M;Culture et loisirs;
+0;Plateaux Sportifs Montpellier Village;1363;0;;40;10;40-10-Plateaux Sportifs Montpellier Village;E7;F7;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;46;1485;3;20;10;40;10;M;Sport;Autres
+;Chateau Bon;756;0;;98;10;98-10-Chateau Bon;D7;;;DIVERS;;;340712;0;0;Culture et loisirs;Culture et monuments;45;TA19;3;20;10;98;10;;Culture et loisirs;Culture et monuments
+;Parc de Font Colombe;1781;0;;60;10;60-10-Parc de Font Colombe;D7;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;45;TA66;3;20;10;60;10;M;Culture et loisirs;
+;Maison de Quartier Antoine de St-Exupéry;2259;130;;10;10;10-10-Maison de Quartier Antoine de St-Exupéry;F7;;;;00053100;M;340172;0;0;Vie des quartiers;MPT;46;1692;3;20;10;10;10;M;Vie des quartiers;
+7;Collège Fontcarrade;1044;653;;25;10;25-10-Collège Fontcarrade;H9;;37;ADM.EDUC.NAT;70010900;CG;340172;2500;492;Enseignement;Collèges;37;39350;3;22;10;25;10;CG;Enseignement;Collèges
+0;Square des Renoncules;1864;99999;;60;10;60-10-Square des Renoncules;G9;;37;PARCS/JARDIN;00168300;M;340172;6000;73;Culture et loisirs;Parcs et jardins;37;168300;3;22;10;60;10;M;Culture et loisirs;
+0;Square François Dezeuze;1079;99999;;60;10;60-10-Square François Dezeuze;F9;;36;PARCS/JARDIN;00163300;M;340172;6000;59;Culture et loisirs;Parcs et jardins;36;163300;3;22;10;60;10;M;Culture et loisirs;
+0;Petit bois de la Colline;864;0;;60;10;60-10-Petit bois de la Colline;F9;;36;PARCS/JARDIN;00158700;M;340172;6000;623;Culture et loisirs;Parcs et jardins;36;21;3;22;10;60;10;M;Culture et loisirs;
+7;Lycée Professionnel la Colline;806;270;;25;20;25-20-Lycée Professionnel la Colline;F9;;36;ADM.EDUC.NAT;70009300;LR;340172;2515;478;Enseignement;Lycées;36;70009300;3;22;10;25;20;LR;Enseignement;Lycées
+0;Ecole maternelle Maria Callas;864;843;;22;10;22-10-Ecole maternelle Maria Callas;F8;;46;ECOLES;00048301;M;340172;2207;361;Enseignement;Ecoles préélementaires;46;1339;3;22;10;22;10;M;Enseignement;
+0;Ecole élémentaire Dante Alighiéri;864;759;;22;20;22-20-Ecole élémentaire Dante Alighiéri;F8;;46;ECOLES;00048101;M;340172;2217;359;Enseignement;Ecoles élémentaires;46;1334;3;22;10;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole élémentaire Sun Yat Sen;864;759;;22;20;22-20-Ecole élémentaire Sun Yat Sen;F8;;46;ECOLES;00048202;M;340172;2217;360;Enseignement;Ecoles élémentaires;46;1337;3;22;10;22;20;M;Enseignement;Ecoles élémentaires
+0;Salle de sports Louis Lachenal;864;99999;;40;10;40-10-Salle de sports Louis Lachenal;F8;;46;EQUIP.SPORT;00048500;M;340172;4000;362;Sport;Gymnases;46;1342;3;22;10;40;10;M;Sport;Gymnases
+0;Eglise N.D. de la Paix;0;0;;97;15;97-15-Eglise N.D. de la Paix;G8;;47;CULTE;;;340172;9710;656;Culture et loisirs;Cultes et cimetières;47;39260;3;22;10;97;15;;Culture et loisirs;Cultes et cimetières
+0;Crèche Françoise Dolto;1363;64;;21;10;21-10-Crèche Françoise Dolto;G8;;47;CRECH/HGARD;00085300;M;340172;2000;401;Vie des quartiers;Petite enfance;47;1443;3;22;10;21;10;M;Vie des quartiers;Petite enfance
+0;Club de loisirs Paul Valéry;1363;64;;80;10;80-10-Club de loisirs Paul Valéry;G8;;47;CLUB 3 AGE;70020800;M;340172;8000;211;Vie des quartiers;Age d'or;47;70020800;3;22;10;80;10;M;Vie des quartiers;Age d'or
+0;Mairie annexe La Chamberte;1363;64;;05;30;05-30-Mairie annexe La Chamberte;G8;;47;MAIRIES ANN.;00056401;M;340172;500;166;Vie des quartiers;Mairies annexes;47;1783;3;22;10;05;30;M;Vie des quartiers;
+0;Cuisine centrale;1467;950;;99;10;99-10-Cuisine centrale;F7;;46;VIE QUOT.SCE;00021600;M;340172;9900;249;Administrations et organismes divers;Collectivités territoriales;46;850;3;22;10;99;10;M;Administrations et organismes divers;
+0;Boulodrome La Martelle;1781;0;;40;10;40-10-Boulodrome La Martelle;F9;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;36;1579;3;22;10;40;10;M;Sport;Autres
+0;Plaine de Jeu La Colline;864;0;;40;10;40-10-Plaine de Jeu La Colline;F9;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;36;TA128;3;22;10;40;10;M;Sport;Autres
+0;Plateaux Sportifs La Chamberte;864;0;;40;10;40-10-Plateaux Sportifs La Chamberte;F8;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;46;1341;3;22;10;40;10;M;Sport;Autres
+;Espace chiens du petit bois de la colline;864;0;;60;10;60-10-Espace chiens du petit bois de la colline;F9;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;36;;3;22;10;60;10;M;Culture et loisirs;
+;M.P.T Marcel Pagnol;1363;0;;10;10;10-10-M.P.T Marcel Pagnol;G8;;;;;M;340712;0;0;Vie des quartiers;MPT;47;1691;3;22;10;10;10;M;Vie des quartiers;
+0;Salle de sports Jean Farré;1315;10;;40;10;40-10-Salle de sports Jean Farré;H9;;37;EQUIP.SPORT;00047700;M;340172;4000;357;Sport;Gymnases;37;1325;7;24;10;40;10;M;Sport;Gymnases
+0;Ecole élémentaire Frédéric Bazille;1489;146;;22;20;22-20-Ecole élémentaire Frédéric Bazille;H9;;37;ECOLES;00031002;M;340172;2217;285;Enseignement;Ecoles élémentaires;37;1018;7;24;10;22;20;M;Enseignement;Ecoles élémentaires
+;Foyer Logement Eugénie Milleret;200;1787;;80;20;80-20-Foyer Logement Eugénie Milleret;J11;;;SOLIDARITE;;E;340172;0;0;Vie des quartiers;Age d'or;28;;7;10;3;80;20;E;Vie des quartiers;Age d'or
+;Maison de retraite protestante;2252;1518;;80;20;80-20-Maison de retraite protestante;I16;;;SOLIDARITE;;P;340172;0;0;Vie des quartiers;Age d'or;10;;1;2;2;80;20;P;Vie des quartiers;Age d'or
+;M.A.P.A.D Les Couralies;13;1591;;80;20;80-20-M.A.P.A.D Les Couralies;L12;;;SOLIDARITE;;P;340172;0;0;Vie des quartiers;Age d'or;29;;7;11;4;80;20;P;Vie des quartiers;Age d'or
+;Residence Orpea - Les Monts d'Aurelle;1482;1960;;80;20;80-20-Residence Orpea - Les Monts d'Aurelle;E15;;;SOLIDARITE;;P;340172;0;0;Vie des quartiers;Age d'or;08;;1;3;3;80;20;P;Vie des quartiers;Age d'or
+;Centre de la Roseraie Sainte Odile;16;1967;;80;20;80-20-Centre de la Roseraie Sainte Odile;K12;;;SOLIDARITE;;P;340172;0;0;Vie des quartiers;Age d'or;29;;7;10;4;80;20;P;Vie des quartiers;Age d'or
+0;Gymnase Jean Ramel;1315;10;;40;10;40-10-Gymnase Jean Ramel;H9;;37;EQUIP.SPORT;00047600;M;340172;4000;356;Sport;Gymnases;37;1324;7;24;10;40;10;M;Sport;Gymnases
+0;Poste de police municipale Cité Gély;1363;2;;92;20;92-20-Poste de police municipale Cité Gély;I9;;38;POSTE POLICE;00012700;M;340172;9200;233;Administrations et organismes divers;Police et justice;38;1764;7;24;10;92;20;M;Administrations et organismes divers;Police et justice
+0;Plateaux Sportifs Figuerolles;1012;0;;40;10;40-10-Plateaux Sportifs Figuerolles;H9;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;37;1323;7;24;10;40;10;M;Sport;Autres
+0;Chapelle Cité Gely;1308;0;;50;10;50-10-Chapelle Cité Gely;H9;;;QUART.CULTU;;M;340712;0;0;Culture et loisirs;Culture et monuments;37;2000;7;24;10;50;10;M;Culture et loisirs;Culture et monuments
+0;Bibliothèque Jean Paul Sartre;443;4;;50;10;50-10-Bibliothèque Jean Paul Sartre;I9;;;QUART.CULTU;;MA;340712;0;0;Culture et loisirs;Médiathèques;38;TA38;7;24;10;50;10;MA;Culture et loisirs;Médiathèques
+0;Aire de jeux Clos des Orangers;1363;63;;60;10;60-10-Aire de jeux Clos des Orangers;H8;;47;PARCS/JARDIN;00209600;M;340172;6000;110;Culture et loisirs;Parcs et jardins;47;209600;4;26;10;60;10;M;Culture et loisirs;
+7;Poste - Estanove;1362;110;;96;10;96-10-Poste - Estanove;G7;G8;47;ADM.COMMUNIC;70022100;P;340172;9400;564;Administrations et organismes divers;Postes et télécommunications;47;;4;26;10;96;10;P;Administrations et organismes divers;
+0;Ecole élémentaire Winston Churchill;1362;424;;22;20;22-20-Ecole élémentaire Winston Churchill;H7;;47;ECOLES;00030402;M;340172;2217;281;Enseignement;Ecoles élémentaires;47;1002;4;26;10;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole maternelle M. Desbordes-Valmore;1362;460;;22;10;22-10-Ecole maternelle M. Desbordes-Valmore;H7;;47;ECOLES;00030601;M;340172;2207;282;Enseignement;Ecoles préélementaires;47;1005;4;26;10;22;10;M;Enseignement;
+0;Square Saint Berthomieu;1151;99999;;60;10;60-10-Square Saint Berthomieu;H7;;47;PARCS/JARDIN;00168400;M;340172;6000;74;Culture et loisirs;Parcs et jardins;47;168400;4;26;10;60;10;M;Culture et loisirs;
+0;Plateaux Sportifs Clos des Orangers;1362;0;;40;10;40-10-Plateaux Sportifs Clos des Orangers;H7;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;47;1657;4;26;10;40;10;M;Sport;Autres
+;Square Boulevard Paul Valery;1678;0;;60;10;60-10-Square Boulevard Paul Valery;G7;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;47;;4;26;10;60;10;M;Culture et loisirs;
+0;Parc Enclava Del Lop;1363;99999;;60;10;60-10-Parc Enclava Del Lop;G8;;47;PARCS/JARDIN;00164300;M;340172;6000;62;Culture et loisirs;Parcs et jardins;47;164300;4;30;10;60;10;M;Culture et loisirs;
+0;Ecole élémentaire Victor Schoelcher;1884;65;;22;20;22-20-Ecole élémentaire Victor Schoelcher;G8;;47;ECOLES;00040001;M;340172;2217;335;Enseignement;Ecoles élémentaires;47;1257;4;30;10;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole maternelle Lily Boulanger;1884;25;;22;10;22-10-Ecole maternelle Lily Boulanger;G8;;47;ECOLES;00040101;M;340172;2207;336;Enseignement;Ecoles préélementaires;47;1259;4;30;10;22;10;M;Enseignement;
+0;Salle de sports Charles Rigoulot;1655;99999;;40;10;40-10-Salle de sports Charles Rigoulot;G7;;47;EQUIP.SPORT;00236100;M;340172;4000;426;Sport;Gymnases;47;1532;4;30;10;40;10;M;Sport;Gymnases
+0;Gymnase Marcel Cerdan;1206;20;;40;10;40-10-Gymnase Marcel Cerdan;G7;;47;EQUIP.SPORT;00048900;M;340172;4000;364;Sport;Gymnases;47;1344;4;30;10;40;10;M;Sport;Gymnases
+0;Esplanade Paul Valéry;1363;64;;60;10;60-10-Esplanade Paul Valéry;F7;G7;46;PARCS/JARDIN;00209400;M;340172;6000;109;Culture et loisirs;Parcs et jardins;46;209400;4;30;10;60;10;M;Culture et loisirs;
+0;Piscine M. Spilliaert;663;154;;40;10;40-10-Piscine M. Spilliaert;F7;;46;EQUIP.SPORT;70111900;MA;340172;4000;227;Sport;Piscines;46;1484;4;30;10;40;10;MA;Sport;Piscines
+0;Terrain de foot Paul Valéry;1655;550;;40;10;40-10-Terrain de foot Paul Valéry;F7;;46;EQUIP.SPORT;00080800;M;340172;4000;20;Sport;Stades;46;1438;4;30;10;40;10;M;Sport;Stades
+0;Ecole élémentaire Alain Savary;2220;240;;22;20;22-20-Ecole élémentaire Alain Savary;F7;;46;ECOLES;00042503;M;340172;2217;345;Enseignement;Ecoles élémentaires;46;1297;4;30;10;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole maternelle Hélène Boucher;2220;240;;22;10;22-10-Ecole maternelle Hélène Boucher;F7;;46;ECOLES;00042502;M;340172;2207;152;Enseignement;Ecoles préélementaires;46;1296;4;30;10;22;10;M;Enseignement;
+7;Collège Marcel Pagnol;1678;2500;;25;10;25-10-Collège Marcel Pagnol;G7;;47;ADM.EDUC.NAT;70010400;CG;340172;2500;487;Enseignement;Collèges;47;38944;4;30;10;25;10;CG;Enseignement;Collèges
+0;Esplanade Pierre Paraf;1512;99999;;60;10;60-10-Esplanade Pierre Paraf;G6;G7;57;PARCS/JARDIN;00191500;M;340172;6000;97;Culture et loisirs;Parcs et jardins;57;191500;4;30;10;60;10;M;Culture et loisirs;
+0;Parc de Bagatelle;2165;99999;;60;10;60-10-Parc de Bagatelle;E6;F6;56;PARCS/JARDIN;00168000;M;340172;6000;72;Culture et loisirs;Parcs et jardins;56;168000;4;30;10;60;10;M;Culture et loisirs;
+0;E.H.P.A.D Simone Gillet-Demangel;2202;570;;80;20;80-20-E.H.P.D.A Simone Gillet-Demangel;E6;F6;56;SOLIDARITE;70017800;M;340172;8000;539;Vie des quartiers;Age d'or;56;39236;4;30;10;80;20;M;Vie des quartiers;Age d'or
+0;Stade Yves du Manoir;0;0;;40;10;40-10-Stade Yves du Manoir;G6;;57;EQUIP.SPORT;;MA;340172;4000;679;Sport;Stades;57;39618;4;30;10;40;10;MA;Sport;Stades
+0;Boulodrome Bernard Gasset;1512;122;;40;10;40-10-Boulodrome Bernard Gasset;F7;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;46;1567;4;30;10;40;10;M;Sport;Autres
+0;Boulodrome Paul Valery;1206;0;;40;10;40-10-Boulodrome Paul Valery;G7;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;46;778;4;30;10;40;10;M;Sport;Autres
+0;Jeu Lyonnais Bernard Gasset;627;0;;40;10;40-10-Jeu Lyonnais Bernard Gasset;H10;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;37;755;4;30;10;40;10;M;Sport;Autres
+0;Multisport Val de Croze;2168;0;;40;10;40-10-Multisport Val de Croze;G6;;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;56;1660;4;30;10;40;10;M;Sport;Stades
+0;Multisport Paul Valery;1655;0;;40;10;40-10-Multisport Paul Valery;F7;;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;46;TA169;4;30;10;40;10;M;Sport;Stades
+0;Plateaux Sportifs Paul Valery;663;0;;40;10;40-10-Plateaux Sportifs Paul Valery;F7;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;46;1440;4;30;10;40;10;M;Sport;Autres
+;E.H.P.A.D Françoise Gauffier;3435;0;;80;20;80-20-E.H.P.A.D Françoise Gauffier;F6;;;SOLIDARITE;;M;340172;0;0;Vie des quartiers;Age d'or;56;;4;30;10;80;20;M;Vie des quartiers;Age d'or
+;Berges du Rieucoulon;2202;0;;60;10;60-10-Berges du Rieucoulon;E7;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;46;;4;30;10;60;10;M;Culture et loisirs;
+;Espace chiens Bagatelle;2220;0;;60;10;60-10-Espace chiens Bagatelle;E7;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;56;;4;30;10;60;10;M;Culture et loisirs;
+;Espace chiens de l'esplanade Pierre Paraf;1512;0;;60;10;60-10-Espace chiens de l'esplanade Pierre Paraf;G6;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;57;;4;30;10;60;10;M;Culture et loisirs;
+;Salle de sports La Bagatelle;2204;92;;40;10;40-10-Salle de sports La Bagatelle;F6;;;EQUIP.SPORT;;M;340172;0;0;Sport;Gymnases;56;;4;30;10;40;10;M;Sport;Gymnases
+;Crèche associative Bamboubulle;663;241;;21;10;21-10-Crèche associative Bamboubulle;F7;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;46;;4;30;10;21;10;P;Vie des quartiers;Petite enfance
+;Crèche associative La Belle Journée;2207;124;;21;10;21-10-Crèche associative La Belle Journée;F6;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;56;;4;30;10;21;10;P;Vie des quartiers;Petite enfance
+;Crèche associative Ribambelle;2206;170;;21;10;21-10-Crèche associative Ribambelle;F6;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;56;;4;30;10;21;10;P;Vie des quartiers;Petite enfance
+;M.P.T. Michel Colucci;2165;205;;10;10;10-10-M.P.T. Michel Colucci;F6;;;;00010200;M;340172;0;0;Vie des quartiers;MPT;56;1702;4;30;10;10;10;M;Vie des quartiers;
+7;ACM/OPAC siège social;2300;407;;99;10;99-10-ACM/OPAC siège social;N8;;50;OFFICES HLM;70014700;LR;340172;9900;210;Administrations et organismes divers;Collectivités territoriales;50;40254;6;21;11;99;10;LR;Administrations et organismes divers;
+0;Hôtel de Ville;3476;1;;05;10;05-10-Hôtel de Ville;L9;L10;39;MAIRIES ANN.;00053500;M;340172;500;384;Administrations et organismes divers;Collectivités territoriales;39;TA99;5;27;11;05;10;M;Administrations et organismes divers;
+0;Parc des Aiguerelles;1784;99999;;60;10;60-10-Parc des Aiguerelles;M7;N7;50;PARCS/JARDIN;00164500;M;340172;6000;64;Culture et loisirs;Parcs et jardins;50;164500;5;27;11;60;10;M;Culture et loisirs;
+7;Collège des Aiguerelles;1784;686;;25;10;25-10-Collège des Aiguerelles;M7;;50;ADM.EDUC.NAT;70011400;CG;340172;2500;497;Enseignement;Collèges;50;39358;5;27;11;25;10;CG;Enseignement;Collèges
+0;Ecole élémentaire Charles Dickens;1784;686;;22;20;22-20-Ecole élémentaire Charles Dickens;M7;;50;ECOLES;00025202;M;340172;2217;253;Enseignement;Ecoles élémentaires;50;876;5;27;11;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole maternelle Anne Frank;1784;686;;22;10;22-10-Ecole maternelle Anne Frank;M7;;50;ECOLES;00025302;M;340172;2207;254;Enseignement;Ecoles préélementaires;50;879;5;27;11;22;10;M;Enseignement;
+0;Square des Améthystes;470;99999;;60;10;60-10-Square des Améthystes;M7;;50;PARCS/JARDIN;00169300;M;340172;6000;76;Culture et loisirs;Parcs et jardins;50;169300;5;27;11;60;10;M;Culture et loisirs;
+0;Terrain de foot Robert Granier;1784;99999;;40;10;40-10-Terrain de foot Robert Granier;O6;;61;EQUIP.SPORT;00258500;M;340172;4000;27;Sport;Stades;61;1552;5;27;11;40;10;M;Sport;Stades
+0;Ecole élémentaire Jean Macé;1941;289;;22;20;22-20-Ecole élémentaire Jean Macé;N6;;60;ECOLES;00034601;M;340172;2217;302;Enseignement;Ecoles élémentaires;60;1101;5;27;11;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole maternelle Paul Eluard;1941;289;;22;10;22-10-Ecole maternelle Paul Eluard;N6;;60;ECOLES;00034501;M;340172;2207;301;Enseignement;Ecoles préélementaires;60;1099;5;27;11;22;10;M;Enseignement;
+0;Gymnase Henri Ferrari;2199;419;;40;10;40-10-Gymnase Henri Ferrari;N6;;60;EQUIP.SPORT;00018400;M;340172;4000;240;Sport;Gymnases;60;819;5;27;11;40;10;M;Sport;Gymnases
+0;Square du Mas Drevon;2368;99999;;60;10;60-10-Square du Mas Drevon;J6;;58;PARCS/JARDIN;00168600;M;340172;6000;75;Culture et loisirs;Parcs et jardins;58;168600;4;29;12;60;10;M;Culture et loisirs;
+0;Terrain de foot Bernard Giambrone;1553;3;;40;10;40-10-Terrain de foot Bernard Giambrone;J6;;58;EQUIP.SPORT;00079300;M;340172;4000;12;Sport;Stades;58;1426;4;29;12;40;10;M;Sport;Stades
+0;Parc des Sylvains;2139;99999;;60;10;60-10-Parc des Sylvains;J6;;58;PARCS/JARDIN;00164400;M;340172;6000;63;Culture et loisirs;Parcs et jardins;58;164400;4;29;12;60;10;M;Culture et loisirs;
+0;Piscine Jean Vives;1511;1933;;40;10;40-10-Piscine Jean Vives;K5;;59;EQUIP.SPORT;70065800;MA;340172;4000;224;Sport;Piscines;59;1390;4;29;12;40;10;MA;Sport;Piscines
+0;Terrain de foot Cholet;1501;99999;;40;10;40-10-Terrain de foot Cholet;K5;;59;EQUIP.SPORT;00232000;M;340172;4000;25;Sport;Stades;59;1510;4;29;12;40;10;M;Sport;Stades
+0;Boulodrome Yvan Velay;2637;0;;40;10;40-10-Boulodrome Lantissargues;K6;;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;59;TA117;4;29;12;40;10;M;Sport;Autres
+0;Boulodrome Tastavin;2139;0;;40;10;40-10-Boulodrome Tastavin;I5;;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;58;1577;4;29;12;40;10;M;Sport;Autres
+0;Jeu Lyonnais Lucien Feron;1511;0;;40;10;40-10-Jeu Lyonnais Lucien Feron;K5;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;59;TA120;4;29;12;40;10;M;Sport;Autres
+0;Plateaux Sportifs Mas Drevon;1062;0;;40;10;40-10-Plateaux Sportifs Mas Drevon;J6;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;58;1224;4;29;12;40;10;M;Sport;Autres
+;Aire de jeux Villeneuve d'Angoulème;2139;0;;60;10;60-10-Aire de jeux Villeneuve d'Angoulème;J7;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;48;;4;29;12;60;10;M;Culture et loisirs;
+;Espace chiens du Square du Mas Drevon;2368;0;;60;10;60-10-Espace chiens du Square du Mas Drevon;J6;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;58;;4;29;12;60;10;M;Culture et loisirs;
+;Espace chiens Lemasson;476;0;;60;10;60-10-Espace chiens Lemasson;J6;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;58;;4;29;12;60;10;M;Culture et loisirs;
+;Jardin Demain;476;0;;60;10;60-10-Jardin Demain;J6;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;58;;4;29;12;60;10;M;Culture et loisirs;
+;M.P.T. Albert Camus;2480;118;;10;10;10-10-M.P.T. Albert Camus;J7;;;;00077600;M;340172;0;0;Vie des quartiers;MPT;48;1410;4;29;12;10;10;M;Vie des quartiers;
+0;Médiathèque Victor Hugo;1193;99999;;50;10;50-10-Médiathèque Victor Hugo;I7;J7;48;QUART.CULTUR;70133000;MA;340172;5000;586;Culture et loisirs;Médiathèques;48;575;4;31;12;50;10;MA;Culture et loisirs;Médiathèques
+0;Ecole élémentaire Voltaire;1213;157;;22;20;22-20-Ecole élémentaire Voltaire;I7;;48;ECOLES;00043401;M;340172;2217;349;Enseignement;Ecoles élémentaires;48;1311;4;31;12;22;20;M;Enseignement;Ecoles élémentaires
+0;Club de loisirs Jacqueline Maillan;1140;123;;80;10;80-10-Club de loisirs Jacqueline Maillan;I6;I7;48;CLUB 3 AGE;70018600;M;340172;8000;543;Vie des quartiers;Age d'or;48;70018600;4;31;12;80;10;M;Vie des quartiers;Age d'or
+0;Square d'Arsonval;1140;99999;;60;10;60-10-Square d'Arsonval;I6;;58;PARCS/JARDIN;00196500;M;340172;6000;102;Culture et loisirs;Parcs et jardins;58;196500;4;31;12;60;10;M;Culture et loisirs;
+0;Ecole maternelle Marcel Pagnol;1140;305;;22;10;22-10-Ecole maternelle Marcel Pagnol;J6;;58;ECOLES;00038203;M;340172;2207;326;Enseignement;Ecoles préélementaires;58;1210;4;31;12;22;10;M;Enseignement;
+7;Collège Croix d'Argent;505;361;;25;10;25-10-Collège Croix d'Argent;J5;J6;58;ADM.EDUC.NAT;70011000;CG;340172;2500;493;Enseignement;Collèges;58;39427;4;31;12;25;10;CG;Enseignement;Collèges
+0;Gymnase Alain Colas;505;0;;40;10;40-10-Gymnase Alain Colas;J5;;58;EQUIP.SPORT;00314300;M;340172;4000;616;Sport;Gymnases;58;1597;4;31;12;40;10;M;Sport;Gymnases
+0;Halte-garderie Villeneuve-Angoulème;1254;99999;;21;10;21-10-Halte-garderie Villeneuve-Angoulème;I5;;58;CRECH/HGARD;00144600;M;340172;2000;420;Vie des quartiers;Petite enfance;58;1498;4;31;12;21;10;M;Vie des quartiers;Petite enfance
+0;Poste de police municipale Croix d'Argent;2139;1523;;92;20;92-20-Poste de police municipale Croix d'Argent;J5;;58;POSTE POLICE;00299800;M;340172;9200;615;Administrations et organismes divers;Police et justice;58;633;4;31;12;92;20;M;Administrations et organismes divers;Police et justice
+0;Ecole élémentaire Ronsard;1254;694;;22;20;22-20-Ecole élémentaire Ronsard;I5;J5;58;ECOLES;00043002;M;340172;2217;348;Enseignement;Ecoles élémentaires;58;1306;4;31;12;22;20;M;Enseignement;Ecoles élémentaires
+0;Ecole maternelle Aliénor d'Aquitaine;1254;694;;22;10;22-10-Ecole maternelle Aliénor d'Aquitaine;I5;J5;58;ECOLES;00043003;M;340172;2207;153;Enseignement;Ecoles préélementaires;58;1307;4;31;12;22;10;M;Enseignement;
+0;Terrain de foot Gil Fayard;2548;150;;40;10;40-10-Terrain de foot Gil Fayard;I5;;58;EQUIP.SPORT;00079600;M;340172;4000;15;Sport;Stades;58;1429;4;31;12;40;10;M;Sport;Stades
+0;Parc de la Croix d'Argent;2139;99999;;60;10;60-10-Parc de la Croix d'Argent;I5;;58;PARCS/JARDIN;00210300;M;340172;6000;114;Culture et loisirs;Parcs et jardins;58;210300;4;31;12;60;10;M;Culture et loisirs;
+0;Aire de jeux Mas de Bagnères;1794;381;;60;10;60-10-Aire de jeux Mas de Bagnères;H4;;64;PARCS/JARDIN;00168500;M;340172;6000;617;Culture et loisirs;Parcs et jardins;64;168500;4;31;12;60;10;M;Culture et loisirs;
+0;Point de propreté Demeter - Croix d'Argent;1511;2850;;97;10;97-10-Point de propreté Demeter - Croix d'Argent;K4;;66;VIE QUOT.SCE;00109400;MA;340172;9500;410;Vie des quartiers;Propreté;66;00109400;4;31;12;97;10;MA;Vie des quartiers;Propreté
+0;Complexe sportif Albert Batteux;401;207;;40;10;40-10-Salle de sports Albert Batteux;H2;;68;EQUIP.SPORT;00327700;M;340172;4000;435;Sport;Autres;68;1631;4;31;12;40;10;M;Sport;Autres
+0;Centre Municipal Garosud;2514;3490;;99;10;99-10-Centre Municipal Garosud;H2;I2;68;VIE QUOT.SCE;00231600;M;340172;9900;424;Administrations et organismes divers;Collectivités territoriales;68;619;4;31;12;99;10;M;Administrations et organismes divers;
+;Maison de retraite Petites Soeurs des Pauvres;4;1324;;80;20;80-20-Maison de retraite Petites Soeurs des Pauvres;K11;;;SOLIDARITE;;P;340172;0;0;Vie des quartiers;Age d'or;28;;7;11;2;80;20;P;Vie des quartiers;Age d'or
+;Accueil de jour thérapeutique Alzheimer Ciel Bleu;38;1347;;80;20;80-20-Accueil de jour thérapeutique Alzheimer Ciel Bleu;K11;;;SOLIDARITE;;E;340172;0;0;Vie des quartiers;Age d'or;29;;7;10;2;80;20;E;Vie des quartiers;Age d'or
+;Résidence Retraite Maisonnée Lavalette;50;457;;80;20;80-20-Résidence Retraite Maisonnée Lavalette;J16;;;SOLIDARITE;;P;340172;0;0;Vie des quartiers;Age d'or;10;;1;3;2;80;20;P;Vie des quartiers;Age d'or
+;Résidence Les Glycines;34;497;;80;20;80-20-Résidence Les Glycines;I10;;;SOLIDARITE;;P;340172;0;0;Vie des quartiers;Age d'or;38;;7;16;7;80;20;P;Vie des quartiers;Age d'or
+0;Boulodrome Croix d'Argent;1442;0;;40;10;40-10-Boulodrome Croix d'Argent;I6;;;EQUIP.SPORT;;M;340172;0;0;Sport;Autres;58;1647;4;31;12;40;10;M;Sport;Autres
+0;Multisport les Sabines;2461;0;;40;10;40-10-Multisport les Sabines;J5;;;EQUIP.SPORT;;M;340712;0;0;Sport;Stades;58;1584;4;31;12;40;10;M;Sport;Stades
+0;Plateaux Sportifs Alain Colas;505;0;;40;10;40-10-Plateaux Sportifs Alain Colas;J5;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;58;1317;4;31;12;40;10;M;Sport;Autres
+0;Plateaux Sportifs Voltaire;1140;0;;40;10;40-10-Plateaux Sportifs Voltaire;I6;;;EQUIP.SPORT;;M;340712;0;0;Sport;Autres;58;1308;4;31;12;40;10;M;Sport;Autres
+;Centre T.A.M  La jeune Parque;700;0;;99;10;99-10-Centre T.A.M  la jeune Parque;J3;;;ADM.EQUIP.TR;;MA;340712;0;0;Administrations et organismes divers;Collectivités territoriales;65;TA2;4;31;12;99;10;MA;Administrations et organismes divers;
+;Unité de Méthanisation;3300;0;;97;10;97-10-Usine Méthanisation;I3;;;VIE.QUART.SO;;MA;340712;0;0;Vie des quartiers;Propreté;65;254;4;31;12;97;10;MA;Vie des quartiers;Propreté
+;RAM Croix d'Argent;1397;0;;21;10;21-10-RAM Croix d'Argent;I6;;;CRECH/HGAR;;M;340712;0;0;Vie des quartiers;Petite enfance;58;TA201;4;31;12;21;10;M;Vie des quartiers;Petite enfance
+;Parc du Mas Nouguier;2607;0;;60;10;60-10-Parc du Mas Nouguier;H4;;;PARCS/JARDIN;;M;340712;0;0;Culture et loisirs;Parcs et jardins;64;;4;31;12;60;10;M;Culture et loisirs;
+;Salle de sports Alain Colas;505;0;;40;10;40-10-Salle de sports Alain Colas;J5;;;EQUIP.SPORT;;M;340712;0;0;Sport;Gymnases;58;;4;31;12;40;10;M;Sport;Gymnases
+;Réserves Provisoires du Musée Fabre;2514;0;;50;10;50-10-Réserves Provisoires du Musée Fabre;H2;I2;;QUART.CULTUR;;MA;340712;0;0;Culture et loisirs;Culture et monuments;69;;4;31;12;50;10;MA;Culture et loisirs;Culture et monuments
+;Espace chiens du  Mas de Bagnère;2284;0;;60;10;60-10-Espace chiens du  Mas de Bagnère;H4;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;64;;4;31;12;60;10;M;Culture et loisirs;
+;Crèche associative Les Lilas;1397;191;;21;10;21-10-Crèche associative Les Lilas;I6;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;58;;4;31;12;21;10;P;Vie des quartiers;Petite enfance
+;Crèche associative Les Petits Bout'Choux;3082;128;;21;10;21-10-Crèche associative Les Petits Bout'Choux;O11;;;CRECH/HGARD;;P;340172;0;0;Vie des quartiers;Petite enfance;57;;4;31;12;21;10;P;Vie des quartiers;Petite enfance
+;Maison de Quartier Pauline Lafont;0;0;;10;10;10-10-Maison de Quartier Pauline Lafont;I5;;;;;M;340172;0;0;Vie des quartiers;MPT;58;1709;4;31;12;10;10;M;Vie des quartiers;
+0;Berges de la Mosson;840;0;;60;10;60-10-Berges de la Mosson;A14;;14;PARCS/JARDIN;00209900;M;340172;6000;112;Culture et loisirs;Parcs et jardins;14;209900;0;0;0;60;10;M;Culture et loisirs;
+;Miroir d'eau;1519;0;;60;10;60-10-Miroir d'eau;O8;;;PARCS/JARDIN;;M;340172;0;0;Culture et loisirs;Parcs et jardins;51;;6;21;6;60;10;M;Culture et loisirs;
+;Ecole maternelle Chengdu;3352;0;;22;10;22-10-Ecole maternelle Chengdu;O7;;;ECOLES;;M;340172;0;0;Enseignement;Ecoles préélementaires;51;;6;21;6;22;10;M;Enseignement;
+;Ecole élémentaire Chengdu;3352;0;;22;20;22-20-Ecole élémentaire Chengdu;O7;;;ECOLES;;M;340172;0;0;Enseignement;Ecoles élémentaires;51;;6;21;6;22;20;M;Enseignement;Ecoles élémentaires
+;E.H.P.A.D les Glycines;803;60;;80;20;80-20-E.H.P.A.D les Glycines;K8;;;SOLIDARITE;;M;340172;0;0;Administrations et organismes divers;Santé;49;;7;23;8;80;20;M;Administrations et organismes divers;Santé

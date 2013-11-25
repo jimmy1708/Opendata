@@ -1,4 +1,4 @@
-﻿   
+   
 
  
 --------------------------------------------------
@@ -13,7 +13,7 @@ Fiche métadonnées
 
 * IDENTIFIANT : VilleMTP_MTP_PlanVille
 
-* DESCRIPTION : Cette donnée est composée de plusieurs couches spatiales représentant le plan ville de Montpellier. Elle contient plusieurs couche shape, à savoir : les bâtiments, les équipements recevant du public (ERP), les parcs et jardins, les rivières, les voies, les voies piétonnes et les équipements sportifs.
+* DESCRIPTION : Cette donnée est composée de plusieurs couches spatiales représentant le plan ville de Montpellier. Elle contient plusieurs couche shape, à savoir : les bâtiments, les équipements recevant du public (ERP), les parcs et jardins, les rivières, les voies, les voies piétonnes et les équipements sportifs, les cimetières, les sens de circulation, les parkings, les lignes et arrêts de tram, les limites de la commune, les quartiers, les sous quartiers et les voies ferrées. Les fichiers shape sont accompagné d'un fichier .dxf contenant toutes les annotations textuelles.
 
 * COUVERTUTE GÉOGRAPHIQUE : Ville de Montpellier
 
@@ -23,7 +23,7 @@ Fiche métadonnées
 
 * PÉRIODE VALIDITÉE : Annuelle
 
-* MISE À JOUR : 2013-04-22
+* MISE À JOUR : 2013-11-25
 
 * PRORIÉTAIRE : Ville de Montpellier
 
