@@ -1,0 +1,274 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "MONUMENT": 2.0, "NOM": "Monument aux défunts de Madagascar", "X": 3.894119, "Y": 43.627756 }, "geometry": { "type": "Point", "coordinates": [ 3.894119, 43.627756 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "MONUMENT": 3.0, "NOM": "Monument aux morts 1914-1918", "X": 3.892094, "Y": 43.627228 }, "geometry": { "type": "Point", "coordinates": [ 3.892094, 43.627228 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "MONUMENT": 4.0, "NOM": "Monument aux morts 1870-1871", "X": 3.894679, "Y": 43.626281 }, "geometry": { "type": "Point", "coordinates": [ 3.894679, 43.626281 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "MONUMENT": 5.0, "NOM": "Monument Indo-Chinois", "X": 3.892853, "Y": 43.625486 }, "geometry": { "type": "Point", "coordinates": [ 3.892853, 43.625486 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "MONUMENT": 6.0, "NOM": "Monument Franco-Belge", "X": 3.892644, "Y": 43.625731 }, "geometry": { "type": "Point", "coordinates": [ 3.892644, 43.625731 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "MONUMENT": 7.0, "NOM": "Monument aux rapatriés d'Algérie", "X": 3.889756, "Y": 43.62374 }, "geometry": { "type": "Point", "coordinates": [ 3.889756, 43.62374 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "MONUMENT": 8.0, "NOM": "Monument aux morts 1939-1945 Indochine et Algérie", "X": 3.891454, "Y": 43.624123 }, "geometry": { "type": "Point", "coordinates": [ 3.891454, 43.624123 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "MONUMENT": 12.0, "NOM": "Buste de Jean Monnet en bronze", "X": 3.889606, "Y": 43.603915 }, "geometry": { "type": "Point", "coordinates": [ 3.889606, 43.603915 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "MONUMENT": 13.0, "NOM": "Grand Bassin Grammont", "X": 3.928945, "Y": 43.615538 }, "geometry": { "type": "Point", "coordinates": [ 3.928945, 43.615538 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "MONUMENT": 14.0, "NOM": "Buste \"Dame d'Elche\" en pierre", "X": 3.885404, "Y": 43.609039 }, "geometry": { "type": "Point", "coordinates": [ 3.885404, 43.609039 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "MONUMENT": 15.0, "NOM": "Fontaine statue danseuse", "X": 3.890684, "Y": 43.610203 }, "geometry": { "type": "Point", "coordinates": [ 3.890684, 43.610203 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "MONUMENT": 16.0, "NOM": "Statue \"Orlando Furioso\" ou \"Rolland portant son c", "X": 3.896451, "Y": 43.607567 }, "geometry": { "type": "Point", "coordinates": [ 3.896451, 43.607567 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "MONUMENT": 17.0, "NOM": "Statue Vierge en métal", "X": 3.816283, "Y": 43.627829 }, "geometry": { "type": "Point", "coordinates": [ 3.816283, 43.627829 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "MONUMENT": 18.0, "NOM": "Statue Hecate et Cerbère en marbre", "X": 3.926442, "Y": 43.617678 }, "geometry": { "type": "Point", "coordinates": [ 3.926442, 43.617678 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "MONUMENT": 19.0, "NOM": "Statue et bassin parc de Grammont", "X": 3.92941, "Y": 43.616154 }, "geometry": { "type": "Point", "coordinates": [ 3.92941, 43.616154 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "MONUMENT": 20.0, "NOM": "2 lions grand escalier château Grammont", "X": 3.930043, "Y": 43.615564 }, "geometry": { "type": "Point", "coordinates": [ 3.930043, 43.615564 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "MONUMENT": 21.0, "NOM": "Tombe de femme", "X": 3.92944, "Y": 43.615271 }, "geometry": { "type": "Point", "coordinates": [ 3.92944, 43.615271 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "MONUMENT": 22.0, "NOM": "Monument aux morts en béton", "X": 3.826603, "Y": 43.616939 }, "geometry": { "type": "Point", "coordinates": [ 3.826603, 43.616939 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "MONUMENT": 23.0, "NOM": "Buffet d'eau parc Guirlande", "X": 3.859753, "Y": 43.606982 }, "geometry": { "type": "Point", "coordinates": [ 3.859753, 43.606982 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "MONUMENT": 24.0, "NOM": "2 statues lions en pierre", "X": 3.860468, "Y": 43.607535 }, "geometry": { "type": "Point", "coordinates": [ 3.860468, 43.607535 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "MONUMENT": 25.0, "NOM": "Monument aux morts en marbre", "X": 3.857592, "Y": 43.610684 }, "geometry": { "type": "Point", "coordinates": [ 3.857592, 43.610684 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "MONUMENT": 26.0, "NOM": "Statue \"La prairie\" en marbre", "X": 3.882187, "Y": 43.610606 }, "geometry": { "type": "Point", "coordinates": [ 3.882187, 43.610606 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "MONUMENT": 27.0, "NOM": "Statue \"Marsyas\" en marbre", "X": 3.881948, "Y": 43.610609 }, "geometry": { "type": "Point", "coordinates": [ 3.881948, 43.610609 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "MONUMENT": 28.0, "NOM": "Monument à Jean Jaurès", "X": 3.881686, "Y": 43.610374 }, "geometry": { "type": "Point", "coordinates": [ 3.881686, 43.610374 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "MONUMENT": 29.0, "NOM": "Statue \"Le vent\" marbre et fer", "X": 3.88118, "Y": 43.611286 }, "geometry": { "type": "Point", "coordinates": [ 3.88118, 43.611286 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "MONUMENT": 30.0, "NOM": "Monument aux morts (Colonnade)", "X": 3.88256, "Y": 43.610009 }, "geometry": { "type": "Point", "coordinates": [ 3.88256, 43.610009 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "MONUMENT": 31.0, "NOM": "Monument arménien en bronze et béton", "X": 3.881682, "Y": 43.611529 }, "geometry": { "type": "Point", "coordinates": [ 3.881682, 43.611529 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "MONUMENT": 32.0, "NOM": "Statue Jean Jaurès place J. Jaurès", "X": 3.877733, "Y": 43.609961 }, "geometry": { "type": "Point", "coordinates": [ 3.877733, 43.609961 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "MONUMENT": 33.0, "NOM": "Statue \"Le chant rustique\" en pierre", "X": 3.880095, "Y": 43.605296 }, "geometry": { "type": "Point", "coordinates": [ 3.880095, 43.605296 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "MONUMENT": 34.0, "NOM": "Monument à Planchon en pierre", "X": 3.879909, "Y": 43.605843 }, "geometry": { "type": "Point", "coordinates": [ 3.879909, 43.605843 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "MONUMENT": 35.0, "NOM": "Monument aux morts \"Les soldats de l'ombre\" pierre", "X": 3.882341, "Y": 43.609891 }, "geometry": { "type": "Point", "coordinates": [ 3.882341, 43.609891 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "MONUMENT": 36.0, "NOM": "Statue femme à genoux en pierre", "X": 3.818841, "Y": 43.613439 }, "geometry": { "type": "Point", "coordinates": [ 3.818841, 43.613439 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "MONUMENT": 37.0, "NOM": "Statue homme assis en pierre", "X": 3.818858, "Y": 43.613414 }, "geometry": { "type": "Point", "coordinates": [ 3.818858, 43.613414 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "MONUMENT": 38.0, "NOM": "Statue femme et enfant allongés en pierre", "X": 3.818877, "Y": 43.613383 }, "geometry": { "type": "Point", "coordinates": [ 3.818877, 43.613383 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "MONUMENT": 39.0, "NOM": "Statue homme et enfant allongés en pierre", "X": 3.819101, "Y": 43.613433 }, "geometry": { "type": "Point", "coordinates": [ 3.819101, 43.613433 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "MONUMENT": 40.0, "NOM": "Statue femme et enfant allongés en pierre", "X": 3.819353, "Y": 43.613505 }, "geometry": { "type": "Point", "coordinates": [ 3.819353, 43.613505 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "MONUMENT": 41.0, "NOM": "Statue homme et enfant allongés en pierre", "X": 3.819558, "Y": 43.613554 }, "geometry": { "type": "Point", "coordinates": [ 3.819558, 43.613554 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "MONUMENT": 42.0, "NOM": "Statue femme et enfant allongés", "X": 3.819541, "Y": 43.613579 }, "geometry": { "type": "Point", "coordinates": [ 3.819541, 43.613579 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "MONUMENT": 43.0, "NOM": "Homme et enfant allongés", "X": 3.819476, "Y": 43.613684 }, "geometry": { "type": "Point", "coordinates": [ 3.819476, 43.613684 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "MONUMENT": 45.0, "NOM": "Statue équestre Louis XIV", "X": 3.870748, "Y": 43.611261 }, "geometry": { "type": "Point", "coordinates": [ 3.870748, 43.611261 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "MONUMENT": 46.0, "NOM": "Croix du Peyrou", "X": 3.87185, "Y": 43.610422 }, "geometry": { "type": "Point", "coordinates": [ 3.87185, 43.610422 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "MONUMENT": 47.0, "NOM": "Croix sur colonne marbre rose", "X": 3.874887, "Y": 43.61209 }, "geometry": { "type": "Point", "coordinates": [ 3.874887, 43.61209 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "MONUMENT": 48.0, "NOM": "Fontaines des licornes", "X": 3.874807, "Y": 43.612104 }, "geometry": { "type": "Point", "coordinates": [ 3.874807, 43.612104 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "MONUMENT": 49.0, "NOM": "Monument à Albert Fabre", "X": 3.873678, "Y": 43.614106 }, "geometry": { "type": "Point", "coordinates": [ 3.873678, 43.614106 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "MONUMENT": 50.0, "NOM": "Monument au professeur Grasset", "X": 3.873549, "Y": 43.614068 }, "geometry": { "type": "Point", "coordinates": [ 3.873549, 43.614068 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "MONUMENT": 51.0, "NOM": "Monument à Auguste Baussan", "X": 3.873451, "Y": 43.613898 }, "geometry": { "type": "Point", "coordinates": [ 3.873451, 43.613898 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "MONUMENT": 52.0, "NOM": "Monument à Moquin Tendon", "X": 3.873782, "Y": 43.613975 }, "geometry": { "type": "Point", "coordinates": [ 3.873782, 43.613975 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "MONUMENT": 53.0, "NOM": "Plaque Jean Moulin", "X": 3.868629, "Y": 43.611404 }, "geometry": { "type": "Point", "coordinates": [ 3.868629, 43.611404 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "MONUMENT": 56.0, "NOM": "Fontaine de l'intendance ou fontaine de Montpellie", "X": 3.876165, "Y": 43.611319 }, "geometry": { "type": "Point", "coordinates": [ 3.876165, 43.611319 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "MONUMENT": 57.0, "NOM": "Statue \"le paradis perdu\" plan de l'Université", "X": 3.875811, "Y": 43.612985 }, "geometry": { "type": "Point", "coordinates": [ 3.875811, 43.612985 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "MONUMENT": 58.0, "NOM": "Monument à Jeanne d'Arc", "X": 3.875921, "Y": 43.614975 }, "geometry": { "type": "Point", "coordinates": [ 3.875921, 43.614975 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "MONUMENT": 59.0, "NOM": "Fontaine en pierre", "X": 3.876613, "Y": 43.610861 }, "geometry": { "type": "Point", "coordinates": [ 3.876613, 43.610861 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "MONUMENT": 60.0, "NOM": "2 vasques en pierre", "X": 3.876442, "Y": 43.610873 }, "geometry": { "type": "Point", "coordinates": [ 3.876442, 43.610873 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "MONUMENT": 61.0, "NOM": "Statue \"la Vigne\"", "X": 3.860905, "Y": 43.611917 }, "geometry": { "type": "Point", "coordinates": [ 3.860905, 43.611917 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "MONUMENT": 63.0, "NOM": "Poste garde Peyrou nord", "X": 3.87216, "Y": 43.611604 }, "geometry": { "type": "Point", "coordinates": [ 3.87216, 43.611604 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "MONUMENT": 64.0, "NOM": "Poste garde Peyrou sud", "X": 3.872054, "Y": 43.610711 }, "geometry": { "type": "Point", "coordinates": [ 3.872054, 43.610711 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "MONUMENT": 65.0, "NOM": "Arc de Triomphe", "X": 3.87248, "Y": 43.6111 }, "geometry": { "type": "Point", "coordinates": [ 3.87248, 43.6111 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "MONUMENT": 66.0, "NOM": "2 Lions en pierre", "X": 3.871822, "Y": 43.611263 }, "geometry": { "type": "Point", "coordinates": [ 3.871822, 43.611263 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "MONUMENT": 67.0, "NOM": "Buste de la reine d'Italie", "X": 3.88925, "Y": 43.624608 }, "geometry": { "type": "Point", "coordinates": [ 3.88925, 43.624608 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "MONUMENT": 68.0, "NOM": "Croix de la Pierre Rouge", "X": 3.883053, "Y": 43.622442 }, "geometry": { "type": "Point", "coordinates": [ 3.883053, 43.622442 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "MONUMENT": 69.0, "NOM": "Croix de Boutonnet", "X": 3.872302, "Y": 43.622208 }, "geometry": { "type": "Point", "coordinates": [ 3.872302, 43.622208 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "MONUMENT": 70.0, "NOM": "Colonne Saint-Eloi", "X": 3.866456, "Y": 43.62666 }, "geometry": { "type": "Point", "coordinates": [ 3.866456, 43.62666 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "MONUMENT": 72.0, "NOM": "Monument à François-Xavier Fabre", "X": 3.880281, "Y": 43.611397 }, "geometry": { "type": "Point", "coordinates": [ 3.880281, 43.611397 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "MONUMENT": 73.0, "NOM": "Médaillon d'Ernest Michel", "X": 3.880135, "Y": 43.611407 }, "geometry": { "type": "Point", "coordinates": [ 3.880135, 43.611407 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "MONUMENT": 74.0, "NOM": "Statue Sébastien Bourdon rue Montpellieret", "X": 3.880472, "Y": 43.611261 }, "geometry": { "type": "Point", "coordinates": [ 3.880472, 43.611261 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "MONUMENT": 75.0, "NOM": "Statue Marie-Joseph Vien rue Montpellieret", "X": 3.880327, "Y": 43.61125 }, "geometry": { "type": "Point", "coordinates": [ 3.880327, 43.61125 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "MONUMENT": 76.0, "NOM": "Statue Jean Raoux rue Montpellieret", "X": 3.880179, "Y": 43.611231 }, "geometry": { "type": "Point", "coordinates": [ 3.880179, 43.611231 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "MONUMENT": 77.0, "NOM": "4 groupes scultés façade musée Fabre", "X": 3.880425, "Y": 43.611566 }, "geometry": { "type": "Point", "coordinates": [ 3.880425, 43.611566 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "MONUMENT": 78.0, "NOM": "Fronton d'Injalabert", "X": 3.880201, "Y": 43.611747 }, "geometry": { "type": "Point", "coordinates": [ 3.880201, 43.611747 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "MONUMENT": 79.0, "NOM": "Monument à Rabelais", "X": 3.872333, "Y": 43.614 }, "geometry": { "type": "Point", "coordinates": [ 3.872333, 43.614 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "MONUMENT": 80.0, "NOM": "7 bustes des botanistes", "X": 3.871747, "Y": 43.613697 }, "geometry": { "type": "Point", "coordinates": [ 3.871747, 43.613697 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "MONUMENT": 81.0, "NOM": "Statue Richer de Belleval", "X": 3.871085, "Y": 43.613525 }, "geometry": { "type": "Point", "coordinates": [ 3.871085, 43.613525 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "MONUMENT": 82.0, "NOM": "Buste de Candolle", "X": 3.87233, "Y": 43.613473 }, "geometry": { "type": "Point", "coordinates": [ 3.87233, 43.613473 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "MONUMENT": 83.0, "NOM": "Statue de Lapeyronie", "X": 3.873355, "Y": 43.61292 }, "geometry": { "type": "Point", "coordinates": [ 3.873355, 43.61292 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "MONUMENT": 84.0, "NOM": "Statue de Barthez", "X": 3.873463, "Y": 43.612911 }, "geometry": { "type": "Point", "coordinates": [ 3.873463, 43.612911 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "MONUMENT": 85.0, "NOM": "Statue de Jacques Coeur", "X": 3.87929, "Y": 43.60978 }, "geometry": { "type": "Point", "coordinates": [ 3.87929, 43.60978 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "MONUMENT": 86.0, "NOM": "Buste de l'abbé J-B Favre", "X": 3.87586, "Y": 43.608912 }, "geometry": { "type": "Point", "coordinates": [ 3.87586, 43.608912 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "MONUMENT": 87.0, "NOM": "M de Morellet", "X": 3.85644, "Y": 43.590078 }, "geometry": { "type": "Point", "coordinates": [ 3.85644, 43.590078 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "MONUMENT": 88.0, "NOM": "Fontaine place Edouard Adam", "X": 3.875785, "Y": 43.606544 }, "geometry": { "type": "Point", "coordinates": [ 3.875785, 43.606544 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "MONUMENT": 89.0, "NOM": "Fontaine des Trois Grâces", "X": 3.87944, "Y": 43.608505 }, "geometry": { "type": "Point", "coordinates": [ 3.87944, 43.608505 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "MONUMENT": 90.0, "NOM": "Statue du Cardinal de Fleury", "X": 3.872706, "Y": 43.611315 }, "geometry": { "type": "Point", "coordinates": [ 3.872706, 43.611315 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "MONUMENT": 91.0, "NOM": "Statue de Cambaceres", "X": 3.872872, "Y": 43.611302 }, "geometry": { "type": "Point", "coordinates": [ 3.872872, 43.611302 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "MONUMENT": 92.0, "NOM": "Stèle à Valéry Larbaud", "X": 3.879991, "Y": 43.605391 }, "geometry": { "type": "Point", "coordinates": [ 3.879991, 43.605391 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "MONUMENT": 93.0, "NOM": "Fontaine jeune pâtre", "X": 3.880161, "Y": 43.605169 }, "geometry": { "type": "Point", "coordinates": [ 3.880161, 43.605169 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "MONUMENT": 94.0, "NOM": "Bassin square J. Monnet", "X": 3.889758, "Y": 43.60387 }, "geometry": { "type": "Point", "coordinates": [ 3.889758, 43.60387 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "MONUMENT": 95.0, "NOM": "Bassin avec champigon de mousse", "X": 3.879787, "Y": 43.605469 }, "geometry": { "type": "Point", "coordinates": [ 3.879787, 43.605469 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "MONUMENT": 96.0, "NOM": "Stèle aux victimes du régime de Vichy 1940-1944", "X": 3.884588, "Y": 43.609111 }, "geometry": { "type": "Point", "coordinates": [ 3.884588, 43.609111 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "MONUMENT": 97.0, "NOM": "Plaque Municipaux victimes des guerres", "X": 3.884365, "Y": 43.609353 }, "geometry": { "type": "Point", "coordinates": [ 3.884365, 43.609353 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "MONUMENT": 98.0, "NOM": "Tête cheval écurie Grammont", "X": 3.930741, "Y": 43.615787 }, "geometry": { "type": "Point", "coordinates": [ 3.930741, 43.615787 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "MONUMENT": 99.0, "NOM": "Plaque \"Place d'armes\"", "X": 3.882502, "Y": 43.609919 }, "geometry": { "type": "Point", "coordinates": [ 3.882502, 43.609919 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "MONUMENT": 100.0, "NOM": "Kiosque Bosc", "X": 3.881528, "Y": 43.610664 }, "geometry": { "type": "Point", "coordinates": [ 3.881528, 43.610664 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "MONUMENT": 101.0, "NOM": "Bassin ouest Esplanade", "X": 3.881357, "Y": 43.612029 }, "geometry": { "type": "Point", "coordinates": [ 3.881357, 43.612029 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "MONUMENT": 102.0, "NOM": "Gingko institut IPSEN", "X": 3.881954, "Y": 43.611611 }, "geometry": { "type": "Point", "coordinates": [ 3.881954, 43.611611 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "MONUMENT": 103.0, "NOM": "Arbre de la liberté CG", "X": 3.882095, "Y": 43.611459 }, "geometry": { "type": "Point", "coordinates": [ 3.882095, 43.611459 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "MONUMENT": 104.0, "NOM": "Plaque à Auguste Comte", "X": 3.882648, "Y": 43.611395 }, "geometry": { "type": "Point", "coordinates": [ 3.882648, 43.611395 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "MONUMENT": 105.0, "NOM": "Fontaine Chambre de commerce", "X": 3.877456, "Y": 43.608028 }, "geometry": { "type": "Point", "coordinates": [ 3.877456, 43.608028 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "MONUMENT": 106.0, "NOM": "Tombe Serge Ivanovitch Plestscheyeff Conseillé Emp", "X": 3.929744, "Y": 43.614751 }, "geometry": { "type": "Point", "coordinates": [ 3.929744, 43.614751 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "MONUMENT": 107.0, "NOM": "Portail avec 2 lions en pierre", "X": 3.930562, "Y": 43.615557 }, "geometry": { "type": "Point", "coordinates": [ 3.930562, 43.615557 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "MONUMENT": 108.0, "NOM": "Niche en pierre", "X": 3.930883, "Y": 43.616128 }, "geometry": { "type": "Point", "coordinates": [ 3.930883, 43.616128 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "MONUMENT": 109.0, "NOM": "Bascule de vigneron", "X": 3.930678, "Y": 43.616421 }, "geometry": { "type": "Point", "coordinates": [ 3.930678, 43.616421 ] } }
+,
+{ "type": "Feature", "id": 100, "properties": { "MONUMENT": 110.0, "NOM": "2 Plaques aux rois de Mallorque Jaume I et Jaume I", "X": 3.873666, "Y": 43.614069 }, "geometry": { "type": "Point", "coordinates": [ 3.873666, 43.614069 ] } }
+,
+{ "type": "Feature", "id": 101, "properties": { "MONUMENT": 111.0, "NOM": "Observatoire", "X": 3.871279, "Y": 43.614182 }, "geometry": { "type": "Point", "coordinates": [ 3.871279, 43.614182 ] } }
+,
+{ "type": "Feature", "id": 102, "properties": { "MONUMENT": 112.0, "NOM": "Bassin Bas sud Peyrou", "X": 3.86854, "Y": 43.611083 }, "geometry": { "type": "Point", "coordinates": [ 3.86854, 43.611083 ] } }
+,
+{ "type": "Feature", "id": 103, "properties": { "MONUMENT": 113.0, "NOM": "Bassin bas N Peyrou", "X": 3.86863, "Y": 43.611751 }, "geometry": { "type": "Point", "coordinates": [ 3.86863, 43.611751 ] } }
+,
+{ "type": "Feature", "id": 104, "properties": { "MONUMENT": 114.0, "NOM": "Château d'eau Peyrou", "X": 3.869053, "Y": 43.61139 }, "geometry": { "type": "Point", "coordinates": [ 3.869053, 43.61139 ] } }
+,
+{ "type": "Feature", "id": 105, "properties": { "MONUMENT": 115.0, "NOM": "Grand Bassin Peyrou", "X": 3.869265, "Y": 43.611375 }, "geometry": { "type": "Point", "coordinates": [ 3.869265, 43.611375 ] } }
+,
+{ "type": "Feature", "id": 106, "properties": { "MONUMENT": 116.0, "NOM": "Mosaïque Cadran solaire Peyrou", "X": 3.86954, "Y": 43.61135 }, "geometry": { "type": "Point", "coordinates": [ 3.86954, 43.61135 ] } }
+,
+{ "type": "Feature", "id": 107, "properties": { "MONUMENT": 117.0, "NOM": "Croix sur colonne marbre blanc pl Jean Jaurès", "X": 3.877615, "Y": 43.609751 }, "geometry": { "type": "Point", "coordinates": [ 3.877615, 43.609751 ] } }
+,
+{ "type": "Feature", "id": 108, "properties": { "MONUMENT": 118.0, "NOM": "Fontaine Place du marché aux fleurs", "X": 3.877438, "Y": 43.611419 }, "geometry": { "type": "Point", "coordinates": [ 3.877438, 43.611419 ] } }
+,
+{ "type": "Feature", "id": 109, "properties": { "MONUMENT": 119.0, "NOM": "Fontaine square St-Roch", "X": 3.87618, "Y": 43.608867 }, "geometry": { "type": "Point", "coordinates": [ 3.87618, 43.608867 ] } }
+,
+{ "type": "Feature", "id": 110, "properties": { "MONUMENT": 120.0, "NOM": "Vasque marbre rose St-Roch", "X": 3.875882, "Y": 43.609028 }, "geometry": { "type": "Point", "coordinates": [ 3.875882, 43.609028 ] } }
+,
+{ "type": "Feature", "id": 111, "properties": { "MONUMENT": 121.0, "NOM": "Fontaine rue de la Saunerie", "X": 3.87591, "Y": 43.606466 }, "geometry": { "type": "Point", "coordinates": [ 3.87591, 43.606466 ] } }
+,
+{ "type": "Feature", "id": 112, "properties": { "MONUMENT": 122.0, "NOM": "Statue \"la chanson du vin\" pl J Bene", "X": 3.895961, "Y": 43.604069 }, "geometry": { "type": "Point", "coordinates": [ 3.895961, 43.604069 ] } }
+,
+{ "type": "Feature", "id": 113, "properties": { "MONUMENT": 123.0, "NOM": "Monument aux morts place Chaptal", "X": 3.86766, "Y": 43.603355 }, "geometry": { "type": "Point", "coordinates": [ 3.86766, 43.603355 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "MONUMENT": 124.0, "NOM": "Fontaine", "X": 3.856036, "Y": 43.633962 }, "geometry": { "type": "Point", "coordinates": [ 3.856036, 43.633962 ] } }
+,
+{ "type": "Feature", "id": 115, "properties": { "MONUMENT": 125.0, "NOM": "L'octroi de la Paillade", "X": 3.818703, "Y": 43.631055 }, "geometry": { "type": "Point", "coordinates": [ 3.818703, 43.631055 ] } }
+,
+{ "type": "Feature", "id": 116, "properties": { "MONUMENT": 126.0, "NOM": "La Gloriette", "X": 3.818423, "Y": 43.631559 }, "geometry": { "type": "Point", "coordinates": [ 3.818423, 43.631559 ] } }
+,
+{ "type": "Feature", "id": 117, "properties": { "MONUMENT": 128.0, "NOM": "L'octroi du Verdanson", "X": 3.882419, "Y": 43.614847 }, "geometry": { "type": "Point", "coordinates": [ 3.882419, 43.614847 ] } }
+,
+{ "type": "Feature", "id": 118, "properties": { "MONUMENT": 129.0, "NOM": "Lions sur piliers Château d'Ô", "X": 3.841601, "Y": 43.631638 }, "geometry": { "type": "Point", "coordinates": [ 3.841601, 43.631638 ] } }
+,
+{ "type": "Feature", "id": 119, "properties": { "MONUMENT": 130.0, "NOM": "La Noria (haute)", "X": 3.872625, "Y": 43.613755 }, "geometry": { "type": "Point", "coordinates": [ 3.872625, 43.613755 ] } }
+,
+{ "type": "Feature", "id": 120, "properties": { "MONUMENT": 131.0, "NOM": "Scuplture moderne Place Schuman", "X": 3.818126, "Y": 43.6202 }, "geometry": { "type": "Point", "coordinates": [ 3.818126, 43.6202 ] } }
+,
+{ "type": "Feature", "id": 121, "properties": { "MONUMENT": 132.0, "NOM": "Pierre dressée Place Schuman", "X": 3.817994, "Y": 43.619696 }, "geometry": { "type": "Point", "coordinates": [ 3.817994, 43.619696 ] } }
+,
+{ "type": "Feature", "id": 122, "properties": { "MONUMENT": 133.0, "NOM": "Pont romain", "X": 3.817321, "Y": 43.614472 }, "geometry": { "type": "Point", "coordinates": [ 3.817321, 43.614472 ] } }
+,
+{ "type": "Feature", "id": 123, "properties": { "MONUMENT": 134.0, "NOM": "Château de Bonnier de la Mosson", "X": 3.819125, "Y": 43.613767 }, "geometry": { "type": "Point", "coordinates": [ 3.819125, 43.613767 ] } }
+,
+{ "type": "Feature", "id": 124, "properties": { "MONUMENT": 135.0, "NOM": "Buffet d'eau Bonnier de la Mosson", "X": 3.821182, "Y": 43.614095 }, "geometry": { "type": "Point", "coordinates": [ 3.821182, 43.614095 ] } }
+,
+{ "type": "Feature", "id": 125, "properties": { "MONUMENT": 136.0, "NOM": "Plaque à Pierre Mendès France", "X": 3.926036, "Y": 43.607981 }, "geometry": { "type": "Point", "coordinates": [ 3.926036, 43.607981 ] } }
+,
+{ "type": "Feature", "id": 126, "properties": { "MONUMENT": 137.0, "NOM": "Fontaine Moulin de l'Evèque", "X": 3.895336, "Y": 43.609151 }, "geometry": { "type": "Point", "coordinates": [ 3.895336, 43.609151 ] } }
+,
+{ "type": "Feature", "id": 127, "properties": { "MONUMENT": 138.0, "NOM": "Cadran solaire Fac de Médecine", "X": 3.873587, "Y": 43.612917 }, "geometry": { "type": "Point", "coordinates": [ 3.873587, 43.612917 ] } }
+,
+{ "type": "Feature", "id": 128, "properties": { "MONUMENT": 139.0, "NOM": "Aquabe la baleine", "X": 3.878515, "Y": 43.617145 }, "geometry": { "type": "Point", "coordinates": [ 3.878515, 43.617145 ] } }
+,
+{ "type": "Feature", "id": 129, "properties": { "MONUMENT": 140.0, "NOM": "Fontaine à boire", "X": 3.878439, "Y": 43.617177 }, "geometry": { "type": "Point", "coordinates": [ 3.878439, 43.617177 ] } }
+,
+{ "type": "Feature", "id": 130, "properties": { "MONUMENT": 141.0, "NOM": "Bassin Cloître", "X": 3.87865, "Y": 43.617393 }, "geometry": { "type": "Point", "coordinates": [ 3.87865, 43.617393 ] } }
+,
+{ "type": "Feature", "id": 131, "properties": { "MONUMENT": 142.0, "NOM": "Tracteur à chenilles", "X": 3.924797, "Y": 43.617223 }, "geometry": { "type": "Point", "coordinates": [ 3.924797, 43.617223 ] } }
+,
+{ "type": "Feature", "id": 132, "properties": { "MONUMENT": 143.0, "NOM": "Fontaine aux chevaux", "X": 3.872053, "Y": 43.610882 }, "geometry": { "type": "Point", "coordinates": [ 3.872053, 43.610882 ] } }
+,
+{ "type": "Feature", "id": 133, "properties": { "MONUMENT": 145.0, "NOM": "Point of view de Tony Cragg", "X": 3.894573, "Y": 43.608999 }, "geometry": { "type": "Point", "coordinates": [ 3.894573, 43.608999 ] } }
+
+]
+}

@@ -1,0 +1,2158 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>VilleMTP_MTP_JeuEnfantType</name>
+<Schema name="VilleMTP_MTP_JeuEnfantType" id="VilleMTP_MTP_JeuEnfantType">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="DOSSIER" type="float"></SimpleField>
+	<SimpleField name="DE_JEUX" type="float"></SimpleField>
+	<SimpleField name="NOM_AIRE" type="string"></SimpleField>
+	<SimpleField name="TOTAL" type="float"></SimpleField>
+	<SimpleField name="BALAN�oIRE" type="float"></SimpleField>
+	<SimpleField name="BALAN�oI0" type="float"></SimpleField>
+	<SimpleField name="CABANE" type="float"></SimpleField>
+	<SimpleField name="FITNESS" type="float"></SimpleField>
+	<SimpleField name="MOBILIER" type="float"></SimpleField>
+	<SimpleField name="RESSORT" type="float"></SimpleField>
+	<SimpleField name="COMPLEXE" type="float"></SimpleField>
+	<SimpleField name="SIMPLE" type="float"></SimpleField>
+	<SimpleField name="TOBOGGAN" type="float"></SimpleField>
+	<SimpleField name="TOURNIQUET" type="float"></SimpleField>
+	<SimpleField name="LONGITUDE" type="float"></SimpleField>
+	<SimpleField name="LATITUDE" type="float"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>Esplanade Paul Val�ry</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">1.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">1.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Esplanade Paul Val�ry</SimpleData>
+		<SimpleData name="TOTAL">9.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">6.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">3.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.846286000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.599238999999997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.846286290773347,43.599239338840796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire du Petit Bois</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">7.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">2.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire du Petit Bois</SimpleData>
+		<SimpleData name="TOTAL">7.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">1.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">5.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.840232000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.605288000000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.840232345388281,43.605288267414004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire du Mas de la Paillade</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">9.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">3.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire du Mas de la Paillade</SimpleData>
+		<SimpleData name="TOTAL">6.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">1.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">2.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.816150000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.627853000000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.816149875210521,43.627853479392108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parc Edith Piaf</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">11.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">4.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Parc Edith Piaf</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">2.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.888388000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.622216999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.888388377703173,43.62221680179902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parc de la Guirlande</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">13.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">5.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Parc de la Guirlande</SimpleData>
+		<SimpleData name="TOTAL">5.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.860929000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.607973999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.860929254482482,43.607973669316152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parc Rimbaud</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">14.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">6.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Parc Rimbaud</SimpleData>
+		<SimpleData name="TOTAL">7.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">4.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">2.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">1.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.894425000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.618048000000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89442513204788,43.61804821737131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parc Sainte Odile</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">16.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">8.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Parc Sainte Odile</SimpleData>
+		<SimpleData name="TOTAL">7.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">1.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">4.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">1.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">1.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.871725000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.624809999999997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.871725368802224,43.624810048400128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire de jeux Brassens (basse)</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">35.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">11.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire de jeux Brassens (basse)</SimpleData>
+		<SimpleData name="TOTAL">5.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">1.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">1.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">2.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.812949000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.636961999999997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.812948733504609,43.636961856849524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire de Louisville</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">36.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">14.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire de Louisville</SimpleData>
+		<SimpleData name="TOTAL">6.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">4.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">2.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.815174000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.622784000000003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.815173983695401,43.622784053907175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Square Fran�ois Deuzeuze</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">47.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">16.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Square Fran�ois Deuzeuze</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.839686000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.607742999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.839685910006927,43.607743394233793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Square des Arceaux</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">49.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">18.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Square des Arceaux</SimpleData>
+		<SimpleData name="TOTAL">5.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">1.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.860929000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.611969000000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.860929435169586,43.611968644426469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parc Magnol</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">67.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">20.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Parc Magnol</SimpleData>
+		<SimpleData name="TOTAL">5.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">4.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.862917000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.617431000000003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.862916705000467,43.617430991949917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parc Azema</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">69.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">21.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Parc Azema</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.828396000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.615704999999998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.828396455142471,43.615705411021246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Esplanade de la Musique</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">954.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">22.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Esplanade de la Musique</SimpleData>
+		<SimpleData name="TOTAL">5.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">2.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.881877000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.616976000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881877173828118,43.616975561948799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grand Mail</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">143.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">23.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Grand Mail</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.816504000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.622824999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.816503559754382,43.622825382681349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Square Maquis Bir-Hakeim</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">144.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">24.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Square Maquis Bir-Hakeim</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">1.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">2.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.858997000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.611069999999998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.858997422123552,43.61107012757919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Square Jouanique Coliny</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">261.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">27.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Square Jouanique Coliny</SimpleData>
+		<SimpleData name="TOTAL">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">0.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.852441000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.616019000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.852440836423927,43.616018713165808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parc de Bagatelle</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">280.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">30.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Parc de Bagatelle</SimpleData>
+		<SimpleData name="TOTAL">9.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">5.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">2.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">1.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.839156000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.594371000000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.839156125855956,43.594370779347621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire Vert-Bois</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">334.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">32.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire Vert-Bois</SimpleData>
+		<SimpleData name="TOTAL">8.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">6.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">1.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.868144000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.639383000000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86814380208002,43.63938307907457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parc Chico Mendez</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">460.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">33.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Parc Chico Mendez</SimpleData>
+		<SimpleData name="TOTAL">3.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.822957000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.631568999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.82295720678043,43.631569252862612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parc du Mas Prunet</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">531.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">34.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Parc du Mas Prunet</SimpleData>
+		<SimpleData name="TOTAL">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">0.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.832633000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.598140000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.832632785666396,43.598139742347804</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire de jeu Pierre Paraf</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">679.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">35.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire de jeu Pierre Paraf</SimpleData>
+		<SimpleData name="TOTAL">7.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">5.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">1.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">1.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.845259000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.595227000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.84525887813166,43.595226516030436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parc de la Rauze</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">22.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">38.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Parc de la Rauze</SimpleData>
+		<SimpleData name="TOTAL">8.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">3.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">1.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.896121000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.590333000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.896121367962638,43.590333326225007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire du Clos des Orangers</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">57.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">39.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire du Clos des Orangers</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.853747000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.600397000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.853746972385465,43.600397014328351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parc Enclava del lop</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">62.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">40.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Parc Enclava del lop</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.846823000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.600579000000003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.846823451835775,43.600579320610429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parc des Aiguerelles</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">65.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">42.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Parc des Aiguerelles</SimpleData>
+		<SimpleData name="TOTAL">7.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">4.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">2.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">1.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.891781000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.598157999999998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.891781280888554,43.598157748028882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Square Jean Baumel</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">76.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">43.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Square Jean Baumel</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.858190000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.640658000000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.858189604834974,43.640658153787676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire Villeneuve d'Angoul�me</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">84.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">44.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire Villeneuve d'Angoul�me</SimpleData>
+		<SimpleData name="TOTAL">11.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">6.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">2.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">1.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">1.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.869053000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.596468000000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869053367126969,43.596467782358154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Square des Pr�s d'Ar�nes</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">95.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">45.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Square des Pr�s d'Ar�nes</SimpleData>
+		<SimpleData name="TOTAL">3.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.889724000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.590491999999998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.889724399437144,43.59049209863759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parc de la Croix d'Argent</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">115.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">46.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Parc de la Croix d'Argent</SimpleData>
+		<SimpleData name="TOTAL">6.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">4.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">1.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.864464000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.587353999999998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.864464371192537,43.587354101129236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Square Mas Drevon</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">289.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">48.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Square Mas Drevon</SimpleData>
+		<SimpleData name="TOTAL">5.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">2.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.869214000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.592114000000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869213975847716,43.592113891715776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire du Champ de Mars (Espla)</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">19.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">50.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire du Champ de Mars (Espla)</SimpleData>
+		<SimpleData name="TOTAL">10.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">4.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">2.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">4.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.881593000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.611111000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881592903775915,43.611110902765468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire du Champ de Mars (Joffre)</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">19.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">51.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire du Champ de Mars (Joffre)</SimpleData>
+		<SimpleData name="TOTAL">2.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">0.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.882739000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.610869999999998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882739197273394,43.610870078187311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Square Planchon</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">28.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">52.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Square Planchon</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.879774000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.605784000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.879774295991327,43.605783771466079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire des Pastourelles</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">20.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">53.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire des Pastourelles</SimpleData>
+		<SimpleData name="TOTAL">8.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">1.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">5.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.899728000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.620918000000003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89972807343519,43.620918054719716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardin de la P�pini�re</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">23.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">54.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Jardin de la P�pini�re</SimpleData>
+		<SimpleData name="TOTAL">7.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">5.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">1.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.884811000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.595782000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.884811417800354,43.595781556787067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire Mail Saint Martin</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">31.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">56.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire Mail Saint Martin</SimpleData>
+		<SimpleData name="TOTAL">5.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">1.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">1.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.883906000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.593957000000003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883906271264464,43.593957272531554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place de Tib�riade</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">141.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">57.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Place de Tib�riade</SimpleData>
+		<SimpleData name="TOTAL">8.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">7.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.878003000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.580992999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.878002848205436,43.580992898985293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire Saint Martin (Ev�ch�)</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">30.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">58.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire Saint Martin (Ev�ch�)</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">1.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.884915000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.592024000000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.884914702693638,43.592023597093444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parc du Bois de la Chaumi�re</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">305.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">60.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Parc du Bois de la Chaumi�re</SimpleData>
+		<SimpleData name="TOTAL">3.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.929576000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.615375999999998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.929575754187172,43.615376050989788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Square Jean Monnet</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">200.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">61.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Square Jean Monnet</SimpleData>
+		<SimpleData name="TOTAL">6.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">1.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.889402000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.604025000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.889402418670902,43.604024829440334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place de Marathon</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">474.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">66.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Place de Marathon</SimpleData>
+		<SimpleData name="TOTAL">8.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">5.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">2.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">1.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.888689000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.607813999999998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.888689449649287,43.60781384640481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Les Brusses</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">52.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">68.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Les Brusses</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.859202000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.633586999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.859201762611228,43.633586666012661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Les Clolus 2</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">56.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">72.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Les Clolus 2</SimpleData>
+		<SimpleData name="TOTAL">2.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.880109000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.628452000000003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88010889558966,43.628451883287141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire du Mas de Perrette</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">149.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">77.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire du Mas de Perrette</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.839374000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.598013999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.839373881967787,43.598013708418272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire de jeux de Costebelle</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">725.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">83.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire de jeux de Costebelle</SimpleData>
+		<SimpleData name="TOTAL">5.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">4.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.902673000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.610335999999997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.902673472917305,43.610336355700021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire de jeux du Mas M�ric</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">530.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">84.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire de jeux du Mas M�ric</SimpleData>
+		<SimpleData name="TOTAL">6.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">4.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.891411000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.631571999999998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.891411076722385,43.631572458811924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire de jeux de la Carriera</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">626.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">92.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire de jeux de la Carriera</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.817663000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.641353000000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.817662928428618,43.641353331618227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire Ferdinand de Lesseps</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">724.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">93.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire Ferdinand de Lesseps</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">1.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.878612000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.593324000000003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.878612053916222,43.593324448469325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire de jeux du P�re Louis</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">773.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">95.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire de jeux du P�re Louis</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.896778000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.610070999999998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.896777717536128,43.61007129279912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire de Saint-Roch</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">25.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">96.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire de Saint-Roch</SimpleData>
+		<SimpleData name="TOTAL">3.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">1.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.876122000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.608780000000003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876121980254348,43.608779975295967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire square Moli�re</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">774.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">97.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire square Moli�re</SimpleData>
+		<SimpleData name="TOTAL">2.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">1.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">1.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.854956000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.591951000000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.854955810349152,43.591950876424626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire de jeux Dr Fourcade</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">458.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">99.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire de jeux Dr Fourcade</SimpleData>
+		<SimpleData name="TOTAL">5.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">4.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.894641000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.589108000000003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.894640542005856,43.589108437960498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire du square d'Arsonval</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">756.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">100.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire du square d'Arsonval</SimpleData>
+		<SimpleData name="TOTAL">3.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.864203000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.594780999999998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.864203499020238,43.594780800881956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Square Bernard Chely</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">562.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">105.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Square Bernard Chely</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.856563000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.597408000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.856562878412689,43.597408016431309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marcel Pagnol</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">51.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">106.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Marcel Pagnol</SimpleData>
+		<SimpleData name="TOTAL">3.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.850178000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.601334000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.850178354027591,43.601334153145636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Square Andr� Vedel</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">853.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">107.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Square Andr� Vedel</SimpleData>
+		<SimpleData name="TOTAL">3.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.913293000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.615622999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.91329338418445,43.615622503728716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place Mansart</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">643.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">108.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Place Mansart</SimpleData>
+		<SimpleData name="TOTAL">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">0.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.826038000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.613625999999996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.826038226899407,43.613626324680233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire Fabre de Morlhon</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">575.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">109.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire Fabre de Morlhon</SimpleData>
+		<SimpleData name="TOTAL">3.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">1.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.877931000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.594242000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877931369093047,43.594242085609238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mas de Neuville</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">857.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">110.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Mas de Neuville</SimpleData>
+		<SimpleData name="TOTAL">7.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">2.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">4.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.841283000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.626367999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.841283142551188,43.626367577741092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire Aiguelongue haute</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">538.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">111.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire Aiguelongue haute</SimpleData>
+		<SimpleData name="TOTAL">2.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">0.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">2.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.873740000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.629918000000004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873740118526439,43.629917959329056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Place de l'Aiguelongue</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">894.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">112.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Place de l'Aiguelongue</SimpleData>
+		<SimpleData name="TOTAL">3.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">1.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.880922000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.628053999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880921894884473,43.628053809031371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cit� Astruc</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">178.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">113.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Cit� Astruc</SimpleData>
+		<SimpleData name="TOTAL">6.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">1.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">1.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.852129000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.611300999999997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.852128605181564,43.611301212368772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Square la Carriera extension</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">626.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">114.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Square la Carriera extension</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.817663000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.641353000000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.817662928428618,43.641353331618227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pierre Cardenal</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">247.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">115.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Pierre Cardenal</SimpleData>
+		<SimpleData name="TOTAL">3.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.818525000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.637642000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.818525179126088,43.637641574791665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ACM Les Aiguerelles</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">956.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">116.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">ACM Les Aiguerelles</SimpleData>
+		<SimpleData name="TOTAL">3.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">1.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.885534000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.601675000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.885534195724251,43.601675241815492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire des C�toines</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">842.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">118.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire des C�toines</SimpleData>
+		<SimpleData name="TOTAL">3.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.873845000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.628157999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873844716880939,43.628158445932499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ACM Aiguelongue I</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">932.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">119.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">ACM Aiguelongue I</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">2.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.881088000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.627868999999997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881087773832585,43.62786892764435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ACM Aiguelongue II</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">933.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">120.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">ACM Aiguelongue II</SimpleData>
+		<SimpleData name="TOTAL">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">0.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.878998000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.629880999999997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.878998093367106,43.629880660162364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire Alexender Bell</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">958.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">121.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire Alexender Bell</SimpleData>
+		<SimpleData name="TOTAL">9.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">2.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">1.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">1.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.906837000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.611516999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.906836548923116,43.61151741424078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parc Georges Clemenceau</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">836.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">122.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Parc Georges Clemenceau</SimpleData>
+		<SimpleData name="TOTAL">8.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">6.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">2.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.871913000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.603952000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.871913041351152,43.603951642186146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ACM Maurin</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">959.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">123.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">ACM Maurin</SimpleData>
+		<SimpleData name="TOTAL">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">0.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">1.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.875289000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.592167000000003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.875288525349148,43.59216693344429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire Parc Richter</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">659.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">124.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire Parc Richter</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">1.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.897831000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.604804000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.897830570339772,43.604804250984309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dioscoride</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">965.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">125.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Dioscoride</SimpleData>
+		<SimpleData name="TOTAL">5.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">2.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.831812000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.613143000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.831812346403762,43.613143479743073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Billie Holiday</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">1105.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">126.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Billie Holiday</SimpleData>
+		<SimpleData name="TOTAL">5.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">2.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.835554000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.637858000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.835554322946585,43.63785771151511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire Bartolom� de Las Casas</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">971.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">127.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire Bartolom� de Las Casas</SimpleData>
+		<SimpleData name="TOTAL">5.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">4.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.844599000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.616326999999998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.844599185000913,43.616326674890317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire de jeux des Papyrus</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">1010.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">128.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire de jeux des Papyrus</SimpleData>
+		<SimpleData name="TOTAL">5.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">1.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.850360000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.620730000000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.850360307447145,43.620730320361922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire de jeux Joseph Delteil</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">709.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">129.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire de jeux Joseph Delteil</SimpleData>
+		<SimpleData name="TOTAL">2.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">1.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">1.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.838566000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.616204000000003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.83856610279619,43.616204229612904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire de jeux rue Vien</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">1032.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">130.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire de jeux rue Vien</SimpleData>
+		<SimpleData name="TOTAL">3.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.873982000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.609276000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87398215681916,43.609276439903105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire de jeux de la Cath�drale</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">781.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">131.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire de jeux de la Cath�drale</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">4.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.874957000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.613348999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874956741599331,43.613349050545878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire de jeux A. Bramante</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">1034.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">132.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire de jeux A. Bramante</SimpleData>
+		<SimpleData name="TOTAL">6.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">1.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">1.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.835712000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.631357999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.835711928381147,43.63135791326971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aires du Parc Saint Fiacre</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">1038.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">133.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aires du Parc Saint Fiacre</SimpleData>
+		<SimpleData name="TOTAL">5.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">1.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">1.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.832153000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.632917999999997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.832152856116028,43.632917894742192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire de jeux des Patriotes</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">815.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">135.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire de jeux des Patriotes</SimpleData>
+		<SimpleData name="TOTAL">2.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">0.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">2.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.893703000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.601692999999997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89370256322903,43.601693011531047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire Aiguelongue basse</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">538.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">136.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire Aiguelongue basse</SimpleData>
+		<SimpleData name="TOTAL">4.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.873069000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.629387000000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873068618206303,43.629386758335599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ovalie : Parc du Belv�d�re</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">1069.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">137.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Ovalie : Parc du Belv�d�re</SimpleData>
+		<SimpleData name="TOTAL">5.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">3.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.846401000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.590648000000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.846401026123481,43.590647655408993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Square piscine Mosson</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">250.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">138.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Square piscine Mosson</SimpleData>
+		<SimpleData name="TOTAL">6.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">4.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">2.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.815344000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.620762999999997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.815344148365302,43.620762600720148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Square de la Providence</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">589.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">139.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Square de la Providence</SimpleData>
+		<SimpleData name="TOTAL">3.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.875519000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.613858000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.875519413453537,43.61385806118026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fitness Richter</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">659.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">140.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Fitness Richter</SimpleData>
+		<SimpleData name="TOTAL">5.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">5.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">0.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.897823000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.605080999999998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.897823458694967,43.605080650231343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fitness Bois de Montmaur</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">15.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">141.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Fitness Bois de Montmaur</SimpleData>
+		<SimpleData name="TOTAL">11.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">11.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">0.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.872226000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.640400999999997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872225830597973,43.640400931216689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Camille Ernst</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">783.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">142.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Camille Ernst</SimpleData>
+		<SimpleData name="TOTAL">3.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">2.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">1.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.878535000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.618490999999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.878535194414079,43.618491487633996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire de jeux de Fontcolombe</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">1025.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">143.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire de jeux de Fontcolombe</SimpleData>
+		<SimpleData name="TOTAL">1.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">0.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.830477000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.597382000000003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.830477316965549,43.597381843703396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fitness Lac des Garrigues</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">10.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">144.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Fitness Lac des Garrigues</SimpleData>
+		<SimpleData name="TOTAL">6.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">6.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">0.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.816663000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.637041000000004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.816662786114049,43.637040963377864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fitness Champ de Mars</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">19.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">145.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Fitness Champ de Mars</SimpleData>
+		<SimpleData name="TOTAL">5.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">5.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">0.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.881673000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.611612999999998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88167345750865,43.611613494104056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fitness Paul Val�ry</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">1.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">146.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Fitness Paul Val�ry</SimpleData>
+		<SimpleData name="TOTAL">3.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">3.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">0.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.844821000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.598841999999998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.84482079222331,43.598842387401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Le Tintoret</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">995.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">147.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Le Tintoret</SimpleData>
+		<SimpleData name="TOTAL">6.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">1.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">3.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">1.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">1.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.911396000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.605811000000003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.911396464188324,43.605811002445805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P�re Bonnet</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">1112.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">148.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">P�re Bonnet</SimpleData>
+		<SimpleData name="TOTAL">2.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">1.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">0.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">1.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.866269000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.606723000000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.866268520878614,43.606723348140605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aire de jeux Charpak 1(Marianne)</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_JeuEnfantType">
+		<SimpleData name="DOSSIER">527.000000000000000</SimpleData>
+		<SimpleData name="DE_JEUX">149.000000000000000</SimpleData>
+		<SimpleData name="NOM_AIRE">Aire de jeux Charpak 1(Marianne)</SimpleData>
+		<SimpleData name="TOTAL">3.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oIRE">0.000000000000000</SimpleData>
+		<SimpleData name="BALAN�oI0">0.000000000000000</SimpleData>
+		<SimpleData name="CABANE">0.000000000000000</SimpleData>
+		<SimpleData name="FITNESS">0.000000000000000</SimpleData>
+		<SimpleData name="MOBILIER">0.000000000000000</SimpleData>
+		<SimpleData name="RESSORT">1.000000000000000</SimpleData>
+		<SimpleData name="COMPLEXE">2.000000000000000</SimpleData>
+		<SimpleData name="SIMPLE">0.000000000000000</SimpleData>
+		<SimpleData name="TOBOGGAN">0.000000000000000</SimpleData>
+		<SimpleData name="TOURNIQUET">0.000000000000000</SimpleData>
+		<SimpleData name="LONGITUDE">3.903546000000000</SimpleData>
+		<SimpleData name="LATITUDE">43.601413999999998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.90354564878572,43.601413816346302</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

@@ -7,35 +7,35 @@ Données publiques ouvertes - Montpellier Territoire Numérique
 Fiche métadonnées
 --------------------------------------------------
 
-* ID : 102
+* ID : 99
 
-* TITRE : Permis de construire
+* TITRE : Aires de jeux par type
 
-* IDENTIFIANT : VilleMTP_MTP_PermisConst_2012
+* IDENTIFIANT : VilleMTP_MTP_JeuEnfantType
 
-* DESCRIPTION : Cette donnée renseigne les permis de construire favorables délivrés sur la Commune de Montpellier depuis le 01/01/2000. 
+* DESCRIPTION : Cette donnée renseigne l’emplacement des aires de jeux pour enfants sur la commune de Montpellier par type de jeu.
 
-* COUVERTUTE GÉOGRAPHIQUE : Ville de Montpellier
+* COUVERTUTE GÉOGRAPHIQUE : Montpellier
 
 * LANGUE : français
 
-* DATE PUBLICATION : 2012-11-19
+* DATE PUBLICATION : 2012-09-05
 
 * PÉRIODE VALIDITÉE : Annuelle
 
-* MISE À JOUR : 2012-11-19
+* MISE À JOUR : 2013-12-04
 
 * PRORIÉTAIRE : Ville de Montpellier
 
 * DIFFUSEUR : Ville de Montpellier
 
-* CATÉGORIE : Urbanisme
+* CATÉGORIE : Sports &amp; Loisirs
 
-* THÈME INSPIRE : Planification, cadastre
+* THÈME INSPIRE : Localisation
 
 * LICENCE : LICENCE OUVERTE / OPEN LICENCE http://www.etalab.gouv.fr/pages/licence-ouverte-open-licence-5899923.html
 
-* MOTS CLÉS : permis de construire ; urbanisme ; immobilier ; aménagement ; montpellier
+* MOTS CLÉS : aire de jeu ; jeu ; enfant ; loisir ; parc ; jardin ; sport ; montpellier
 
 * TARIFICATION : Gratuite
 
