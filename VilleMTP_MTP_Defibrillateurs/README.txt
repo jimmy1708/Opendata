@@ -1,4 +1,4 @@
-   
+﻿   
 
  
 --------------------------------------------------
@@ -11,7 +11,7 @@ Fiche métadonnées
 
 * TITRE : Défibrillateurs
 
-* IDENTIFIANT : VilleMTP_MTP_Defibrillateur_2012
+* IDENTIFIANT : VilleMTP_MTP_Defibrillateurs
 
 * DESCRIPTION : Cette donnée renseigne l’emplacement des défibrillateurs présents dans les bâtiments publics, non publics et municipaux de la Ville de Montpellier. Les défibrillateurs municipaux sont représentés en vert, ceux présents dans d'autres bâtiments institutionnels (agglomération, Hôpital) sont représentés en bleu et ceux dans des bâtiments privés (Hôtel, centre commercial) sont représentés en rouge.
 
@@ -23,7 +23,7 @@ Fiche métadonnées
 
 * PÉRIODE VALIDITÉE : Annuelle
 
-* MISE À JOUR : 2012-12-03
+* MISE À JOUR : 2013-12-04
 
 * PRORIÉTAIRE : Ville de Montpellier
 

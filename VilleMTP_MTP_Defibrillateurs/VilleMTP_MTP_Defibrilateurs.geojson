@@ -1,0 +1,340 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "Id": 1, "Nom": "Maison de la Prévention Santé", "Adresse": "6 rue Maguelone             340000 Montpellier", "Tel": "04 67 02 21 60", "Coord_X": "3,87952263361082", "Coord_Y": "43,6071285339217" }, "geometry": { "type": "Point", "coordinates": [ 771027.9784, 6279070.6495 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "Id": 2, "Nom": "Hôtel de Ville", "Adresse": "1 place Georges Frêche  34267 Montpellier", "Tel": "04 67 34 44 93", "Coord_X": "3,89652239197876", "Coord_Y": "43,5987299452849" }, "geometry": { "type": "Point", "coordinates": [ 772411.3742, 6278152.7294 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "Id": 3, "Nom": "Zoo de Lunaret", "Adresse": "50 avenue Agropolis  \n34090 Mtp", "Tel": "04 67 54 45 23", "Coord_X": "3,87388031141133", "Coord_Y": "43,6395872778854" }, "geometry": { "type": "Point", "coordinates": [ 770532.4151, 6282672.7856 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "Id": 4, "Nom": "Centre municipal Garosud", "Adresse": "34000 Montpellier", "Tel": "04 67 34 74 62", "Coord_X": "3,85859221929501", "Coord_Y": "43,5725732056683" }, "geometry": { "type": "Point", "coordinates": [ 769379.5183, 6275211.7576 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "Id": 14, "Nom": "Service surveillance voie publique (ASVP)", "Adresse": "8 Avenue Louis Blanc", "Tel": "04 99 58 80 31-32", "Coord_X": "3,87964814275905", "Coord_Y": "43,6144971208687" }, "geometry": { "type": "Point", "coordinates": [ 771028.9909, 6279889.6523 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "Id": 16, "Nom": "Poste de police Ecusson Centre ville", "Adresse": "19 bis Rue durand     34000 Montpellier", "Tel": "04 67 34 70 89", "Coord_X": "3,87860749270054", "Coord_Y": "43,6050174770208" }, "geometry": { "type": "Point", "coordinates": [ 770956.6876, 6278835.2188 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "Id": 17, "Nom": "Unité Service Fourrière", "Adresse": "1945 avenue de toulouse", "Tel": "\n04 67 06 10 51", "Coord_X": "3,85396082760103", "Coord_Y": "43,5873825371736" }, "geometry": { "type": "Point", "coordinates": [ 768987.488, 6276853.539 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "Id": 18, "Nom": "Poste de police Hotel de ville", "Adresse": "789 chemin de moulares", "Tel": null, "Coord_X": "3,89399056177745", "Coord_Y": "43,5988579879724" }, "geometry": { "type": "Point", "coordinates": [ 772206.728, 6278164.6407 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "Id": 20, "Nom": "Palais des sports Pierre-de-Coubertin", "Adresse": "Avenue de Naples\n34000 Montpellier", "Tel": "04 67 03 02 24", "Coord_X": "3,81388672389191", "Coord_Y": "43,6382964524906" }, "geometry": { "type": "Point", "coordinates": [ 765691.8837, 6282477.5851 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "Id": 21, "Nom": "Gymnase François Spinosi", "Adresse": "Rue de la Cavalade\n34000 Montpellier", "Tel": "04 67 15 90 35", "Coord_X": "3,91771560379933", "Coord_Y": "43,5989740159529" }, "geometry": { "type": "Point", "coordinates": [ 774122.741, 6278199.5183 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "Id": 22, "Nom": "Plateau sportif de Grammont\nTerrain 9, 10, 11", "Adresse": "Avenue Albert Einstein\n34000 Montpellier", "Tel": "04 67 64 29 43", "Coord_X": "3,93528362675365", "Coord_Y": "43,6141400501416" }, "geometry": { "type": "Point", "coordinates": [ 775521.6582, 6279901.5988 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "Id": 23, "Nom": "Maison de la Démocratie", "Adresse": "16, rue de la République\n 34 Mtp", "Tel": "04 67 34 88 00", "Coord_X": "3,87908231371128", "Coord_Y": "43,605322134559" }, "geometry": { "type": "Point", "coordinates": [ 770994.6558, 6278869.5031 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "Id": 24, "Nom": "Gymnase Albert Batteux", "Adresse": "150 rue François-Joseph-Gossec 34000 Montpellier", "Tel": "04 67 03 02 24", "Coord_X": "3,85685695958441", "Coord_Y": "43,5740760521572" }, "geometry": { "type": "Point", "coordinates": [ 769237.4917, 6275377.2545 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "Id": 25, "Nom": "Gymnase Bernard-Jouanique", "Adresse": "Rue Jaques-Dalcroze \n34080 Montpellier", "Tel": "04 67 54 63 99\n", "Coord_X": "3,84713719383276", "Coord_Y": "43,6209657932612" }, "geometry": { "type": "Point", "coordinates": [ 768396.2177, 6280579.8281 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "Id": 26, "Nom": "Stade Municipal Sabathé", "Adresse": "Impasse Saint-Cléophas 34000 Montpellier", "Tel": "04 67 47 10 22", "Coord_X": "3,87069461025189", "Coord_Y": "43,5979909515727" }, "geometry": { "type": "Point", "coordinates": [ 770326.277, 6278047.2585 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "Id": 27, "Nom": "Salle de Sports Alain Achille", "Adresse": "1 place Marcel-Godechot \n34000 Montpellier", "Tel": "04 67 15 90 35", "Coord_X": "3,86929208332712", "Coord_Y": "43,6186500172655" }, "geometry": { "type": "Point", "coordinates": [ 770187.7226, 6280341.9124 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "Id": 28, "Nom": "Gymnase Alain Le Hetet", "Adresse": "237 route de Vauguières 34  Montpellier", "Tel": "04 67 65 39 69", "Coord_X": "3,90623909083357", "Coord_Y": "43,6056481110058" }, "geometry": { "type": "Point", "coordinates": [ 773187.3255, 6278930.5233 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "Id": 29, "Nom": "Maison pour tous   \nAlbert Dubout", "Adresse": "1071 avenue de la Justice de Castelnau \n34090 Montpellier", "Tel": "04 67 02 68 58", "Coord_X": "3,88249943562772", "Coord_Y": "43,6264526269792" }, "geometry": { "type": "Point", "coordinates": [ 771244.3651, 6281220.8579 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "Id": 30, "Nom": "Maison pour tous \nAlbert Camus", "Adresse": "118 allée Maurice-Bonafos \n34080 Montpellier", "Tel": "04 67 27 3341", "Coord_X": "3,86999152558735", "Coord_Y": "43,5968636559527" }, "geometry": { "type": "Point", "coordinates": [ 770270.8713, 6277921.352 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "Id": 31, "Nom": "Mairie annexe de proximité Mosson", "Adresse": "111 place de Tipasa \nMas de la Paillade 34080 Montpellier", "Tel": "04 67 75 19 10\n", "Coord_X": "3,81644667226683", "Coord_Y": "43,6280352697417" }, "geometry": { "type": "Point", "coordinates": [ 765910.2907, 6281339.3743 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "Id": 32, "Nom": "Maison pour tous \nFrançois Villon", "Adresse": "Rue des Araucarias  34080 Montpellier", "Tel": "04 67 45 04 57\n", "Coord_X": "3,839535231275", "Coord_Y": "43,6153516866351" }, "geometry": { "type": "Point", "coordinates": [ 767789.1069, 6279949.3626 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "Id": 33, "Nom": "Maison pour tous  \nMélina Mercouri", "Adresse": "842 rue de la Vieille Poste \n34 Montpellier", "Tel": "04 99 92 23 80", "Coord_X": "3,90822213186834", "Coord_Y": "43,6134538722091" }, "geometry": { "type": "Point", "coordinates": [ 773337.4896, 6279799.8347 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "Id": 35, "Nom": "Cimetière Saint-lazare", "Adresse": "2 rond-point du Souvenir Français                      34000 Montpellier", "Tel": "04 67 75 34 46\n", "Coord_X": "3,93613553570902", "Coord_Y": "43,6154360341943" }, "geometry": { "type": "Point", "coordinates": [ 775588.7368, 6280046.4384 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "Id": 36, "Nom": "Cimetière Saint-Etienne", "Adresse": "Avenue Albert Einstein\n34000 Montpellier", "Tel": "04 99 52 87 35\n", "Coord_X": "3,88995587137398", "Coord_Y": "43,6260090150577" }, "geometry": { "type": "Point", "coordinates": [ 771846.855, 6281178.3148 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "Id": 37, "Nom": "Piscine PITOT", "Adresse": "40 Allée J.RAYMOND\nMONTPELLIER", "Tel": "04 67 52 58 89", "Coord_X": "3,870303933901", "Coord_Y": "43,6123825678961" }, "geometry": { "type": "Point", "coordinates": [ 770277.0945, 6279646.296 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "Id": 38, "Nom": "Piscine A. NAKACHE", "Adresse": "237 route de Vauguières\nMONTPELLIER", "Tel": "04 67 22 57 05", "Coord_X": "3,90629916344486", "Coord_Y": "43,6064087905768" }, "geometry": { "type": "Point", "coordinates": [ 773191.2064, 6279015.1152 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "Id": 39, "Nom": "Piscine J. TARIS", "Adresse": "67 rue L.Michel\nMONTPELLIER", "Tel": "04 67 79 03 11", "Coord_X": "3,90104518912559", "Coord_Y": "43,6205269425253" }, "geometry": { "type": "Point", "coordinates": [ 772749.0182, 6280579.238 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "Id": 41, "Nom": "Piscine J. VIVES", "Adresse": "1933 AVENUE DE Maurin\nMONTPELLIER", "Tel": "04 67 27 74 79", "Coord_X": "3,87258256366286", "Coord_Y": "43,5878357304832" }, "geometry": { "type": "Point", "coordinates": [ 770491.2335, 6276920.3511 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "Id": 40, "Nom": "Piscine M. SPILLIART", "Adresse": "154 Rue C.DESMOULINS\nMONTPELLIER", "Tel": "04 67 42 00 92", "Coord_X": "3,8431426079266", "Coord_Y": "43,5982457580602" }, "geometry": { "type": "Point", "coordinates": [ 768100.6767, 6278051.4258 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "Id": 42, "Nom": "Piscine S. BERLIOUX", "Adresse": "551 rue Métairie de Saysset\nMONTPELLIER", "Tel": "04 67 65 38 71", "Coord_X": "3,89523245626307", "Coord_Y": "43,5904333774241" }, "geometry": { "type": "Point", "coordinates": [ 772317.6455, 6277229.5203 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "Id": 43, "Nom": "Piscine NEPTUNE", "Adresse": "Avenue de Heidelberg\nMONTPELLIER", "Tel": "04 67 75 34 93", "Coord_X": "3,89308118861399", "Coord_Y": "43,6074454675728" }, "geometry": { "type": "Point", "coordinates": [ 772122.4876, 6279118.1613 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "Id": 44, "Nom": "Piscine OLYMPIQUE ANTIGONE", "Adresse": "195 avenue J.CARTIER\nMONTPELLIER", "Tel": "04 67 15 63 04", "Coord_X": "3,81486874802702", "Coord_Y": "43,6203748477124" }, "geometry": { "type": "Point", "coordinates": [ 765791.6979, 6280486.7365 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "Id": 45, "Nom": "STADE DE LA MOSSON", "Adresse": "Avenue de Heidelberg\nMONTPELLIER", "Tel": "04 67 75 74 16", "Coord_X": "3,81316555213326", "Coord_Y": "43,6218734166524" }, "geometry": { "type": "Point", "coordinates": [ 765652.4733, 6280651.859 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "Id": 46, "Nom": "STADE Y. DU MANOIR", "Adresse": "Avenue de la Vannière\nMONTPELLIER", "Tel": "04 67 13 60 00", "Coord_X": "3,85003952312189", "Coord_Y": "43,5936065771106" }, "geometry": { "type": "Point", "coordinates": [ 768663.2699, 6277541.8269 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "Id": 47, "Nom": "PALAIS DES SPORTS R.BOUGNOL", "Adresse": "1000, avenue du Val de Montferrand\nMONTPELLIER", "Tel": "04 67 52 76 14", "Coord_X": "3,87431554927809", "Coord_Y": "43,6380433134334" }, "geometry": { "type": "Point", "coordinates": [ 770569.4424, 6282501.5929 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "Id": 48, "Nom": "PATINOIRE VEGAPOLIS", "Adresse": "Place de France\nMONTPELLIER", "Tel": "04 99 522 600", "Coord_X": "3,91489059571308", "Coord_Y": "43,6029210639592" }, "geometry": { "type": "Point", "coordinates": [ 773889.4963, 6278635.5168 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "Id": 49, "Nom": "CAP OMEGA", "Adresse": "Rond point Benjamin Franklin\n MONTPELLIER", "Tel": "\n04 67 59 30 01", "Coord_X": "3,91427706121347", "Coord_Y": "43,618609351242" }, "geometry": { "type": "Point", "coordinates": [ 773819.7596, 6280378.4137 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "Id": 50, "Nom": "S.F.M.A.", "Adresse": "Avenue Albert EINSTEIN\nMONTPELLIER", "Tel": "\n04 67 22 83 78", "Coord_X": "3,93573870254207", "Coord_Y": "43,6156043738023" }, "geometry": { "type": "Point", "coordinates": [ 775556.4741, 6280064.7664 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "Id": 51, "Nom": "MUSEE FABRE", "Adresse": "13, rue Montpelliéret\n34000 Montpellier", "Tel": "\n04 67 14 83 00", "Coord_X": "3,88015202860524", "Coord_Y": "43,6117202928099" }, "geometry": { "type": "Point", "coordinates": [ 771073.1164, 6279581.5102 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "Id": 52, "Nom": "MEDIATHEQUE E.ZOLA", "Adresse": "218 Bd de l'Aéroport International 34000 Montpellier", "Tel": "\n04 67 34 87 00", "Coord_X": "3,89315695628937", "Coord_Y": "43,6084838193755" }, "geometry": { "type": "Point", "coordinates": [ 772127.3008, 6279233.6252 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "Id": 53, "Nom": "DOMAINE DE LA PROVIDENCE", "Adresse": "1784 Avenue de TOULOUSE\nMONTPELLIER", "Tel": "\n04 99 64 25 80", "Coord_X": "3,85389341433135", "Coord_Y": "43,5886305406899" }, "geometry": { "type": "Point", "coordinates": [ 768980.5423, 6276992.1766 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "Id": 54, "Nom": "RDC PAVILLON JUNON", "Adresse": "50 Place Zeus\nMONTPELLIER", "Tel": "\n04 67 13 69 27", "Coord_X": "3,89083244140238", "Coord_Y": "43,6081660748674" }, "geometry": { "type": "Point", "coordinates": [ 771939.9899, 6279196.1929 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "Id": 55, "Nom": "RDC PAVILLON ZEUS", "Adresse": "50 Place Zeus\nMONTPELLIER", "Tel": "\n04 67 13 69 27", "Coord_X": "3,89081696430097", "Coord_Y": "43,6078670518814" }, "geometry": { "type": "Point", "coordinates": [ 771939.115, 6279162.9476 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "Id": 58, "Nom": "PAVILLON ZEUS (Salle Marianne)", "Adresse": "50 Place Zeus\nMONTPELLIER", "Tel": "\n04 67 13 69 27", "Coord_X": "3,89066621413495", "Coord_Y": "43,6077521695801" }, "geometry": { "type": "Point", "coordinates": [ 771927.0855, 6279150.0431 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "Id": 56, "Nom": "E.S.B.A.M.A.", "Adresse": "130 , RUE YEHUDI \n MONTPELLIER", "Tel": "\n04 99 58 32 87", "Coord_X": "3,88438064294719", "Coord_Y": "43,6169436571347" }, "geometry": { "type": "Point", "coordinates": [ 771408.0651, 6280165.8095 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "Id": 57, "Nom": "MONTPELLIER DANCE", "Adresse": "18 Rue Sainte Ursule\nMONTPELLIER", "Tel": "\n04 67 60 83 60", "Coord_X": "3,87836849830977", "Coord_Y": "43,6139908031415" }, "geometry": { "type": "Point", "coordinates": [ 770926.2936, 6279832.2338 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "Id": 59, "Nom": "CRR", "Adresse": "14 Rue Eugène Lisbonne\n34000 Montpellier", "Tel": "\n04 67 66 88 46", "Coord_X": "3,87409666178277", "Coord_Y": "43,610433894746" }, "geometry": { "type": "Point", "coordinates": [ 770585.7424, 6279433.1178 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "Id": 60, "Nom": "TAM", "Adresse": "Parking comédie centre ville", "Tel": "04 67 07 63 79", "Coord_X": "3,88022104344314", "Coord_Y": "43,6089439889165" }, "geometry": { "type": "Point", "coordinates": [ 771082.1287, 6279273.0345 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "Id": 61, "Nom": "TAM", "Adresse": "Parking Corum", "Tel": "04 67 07 63 79", "Coord_X": "3,88238703743398", "Coord_Y": "43,6140271812289" }, "geometry": { "type": "Point", "coordinates": [ 771250.723, 6279839.8944 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "Id": 62, "Nom": "CCAS                                             (Banque d'Acceuil)", "Adresse": "125 place  Thermidor               34000  MONTPELLIER", "Tel": "04 99  52 77 53              06 14 09 40 21", "Coord_X": "3,89927443503256", "Coord_Y": "43,6020241114814" }, "geometry": { "type": "Point", "coordinates": [ 772629.4754, 6278521.3477 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "Id": 65, "Nom": "Université                   Montpellier 1                        UFR d'Economie                                        (1er étage, à côté des bureaux de l'administration)", "Adresse": "Avenue Raymond Dugrand                                     CS 79606                        34960 MONTPELLIER               Cedex 2", "Tel": "04 34 43 24 44", "Coord_X": "3,89956530126954", "Coord_Y": "43,6037248716731" }, "geometry": { "type": "Point", "coordinates": [ 772650.8127, 6278710.6256 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "Id": 66, "Nom": "Université                   Montpellier 1                        UFR AES                                   (1er étage, en face de la salle des professeurs)", "Adresse": "Espace Richter  Avenue Raymond Dugrand               CS 59640                        34960 MONTPELLIER               Cedex 2", "Tel": "04 34 43 23 33", "Coord_X": "3,89991643490189", "Coord_Y": "43,6031038225234" }, "geometry": { "type": "Point", "coordinates": [ 772679.9564, 6278641.9298 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "Id": 64, "Nom": "Université                   Montpellier 1                        ISEM IPAG                                     (Loge)", "Adresse": "Espace Richter Bât b Vendémiaire                       CS 19519                               34960 MONTPELLIER Cedex 2", "Tel": "ISEM :                 04 34 43 20 00 IPAG :                04 67 15 85 46", "Coord_X": "3,89904523736634", "Coord_Y": "43,6042583430944" }, "geometry": { "type": "Point", "coordinates": [ 772608.138, 6278769.4334 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "Id": 63, "Nom": "Université                   Montpellier 1                        Services Mutualisés Richter                                      PC Securité", "Adresse": "Espace Richter Bât E, BIU, MdE, Rue  Vendémiaire                       CS 19519                               34960 MONTPELLIER Cedex 2", "Tel": null, "Coord_X": "3,89848334164309", "Coord_Y": "43,6041786988646" }, "geometry": { "type": "Point", "coordinates": [ 772562.8612, 6278760.0658 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "Id": 67, "Nom": "Université                   Montpellier 1                        UFR Droit                                  (accueil bâtiment1)", "Adresse": "39 rue de l'université              34060 Montpellier       Cedex 2", "Tel": "04 67 61 54 00", "Coord_X": "3,87717345678089", "Coord_Y": "43,6140582253597" }, "geometry": { "type": "Point", "coordinates": [ 770829.7174, 6279838.6539 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "Id": 68, "Nom": "Université                   Montpellier 1                        UFR Droit                                  (accueil bâtiment2)", "Adresse": null, "Tel": null, "Coord_X": "3,87633518840488", "Coord_Y": "43,6138609333465" }, "geometry": { "type": "Point", "coordinates": [ 770762.2753, 6279815.9768 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "Id": 69, "Nom": "Université                   Montpellier 1                        UFR Médecine                                  (Loge bâtiment Historique)", "Adresse": "2 rue Ecole de Médecine   CS 59001                       34060 MONTPELLIER      Cedex 2", "Tel": "04 67 60 10 00", "Coord_X": "3,87354913287527", "Coord_Y": "43,612951860071" }, "geometry": { "type": "Point", "coordinates": [ 770538.4339, 6279712.4565 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "Id": 70, "Nom": "Université                   Montpellier 1                        UFR Médecine                                  (Loge Institut biologie)", "Adresse": null, "Tel": null, "Coord_X": "3,87409700190794", "Coord_Y": "43,6150688127327" }, "geometry": { "type": "Point", "coordinates": [ 770580.0677, 6279948.2081 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "Id": 71, "Nom": "Université                   Montpellier 1                        UFR Odontologie                                 (Hall Premier Etage Bât A)", "Adresse": "545, avenue du Professeur J.L Viala               34193 MONTPELLIER      Cedex 5", "Tel": "04 67 10 44 70", "Coord_X": "3,82353507060243", "Coord_Y": "43,6362497267334" }, "geometry": { "type": "Point", "coordinates": [ 766472.9826, 6282258.204 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "Id": 72, "Nom": "Université                   Montpellier 1                        UFR Pharmacie                                 (LogeBât A)", "Adresse": "15, avenue Charles Flahault                                 BP 14491                       34093 MONTPELLIER          Cedex 5", "Tel": "04 67 54 80 00", "Coord_X": "3,86189868456889", "Coord_Y": "43,6232360922128" }, "geometry": { "type": "Point", "coordinates": [ 769585.2309, 6280845.0285 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "Id": 73, "Nom": "Université                   Montpellier 1                        UFR Pharmacie                                 (Galerie à côté de la pharmacie expérimentale)", "Adresse": null, "Tel": null, "Coord_X": "3,86034021457447", "Coord_Y": "43,6220496094564" }, "geometry": { "type": "Point", "coordinates": [ 769460.8498, 6280711.8002 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "Id": 74, "Nom": "Université                   Montpellier 1                        UFR Staps                                 (Bâtiment A)", "Adresse": "700, avenue du Pic    Saint-Loup                    34090 MONTPELLIER", "Tel": "04 67 41 57 00", "Coord_X": "3,8538650451542", "Coord_Y": "43,640831368515" }, "geometry": { "type": "Point", "coordinates": [ 768915.5164, 6282793.3686 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "Id": 75, "Nom": "Université                   Montpellier 1                        UFR Staps                                 (P1)", "Adresse": null, "Tel": null, "Coord_X": "3,84875782514269", "Coord_Y": "43,6393278958929" }, "geometry": { "type": "Point", "coordinates": [ 768505.1242, 6282621.8424 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "Id": 76, "Nom": "Université                   Montpellier 1                        UFR Staps                                 (Palais des Sports)", "Adresse": null, "Tel": null, "Coord_X": "3,84872346174789", "Coord_Y": "43,6401970759746" }, "geometry": { "type": "Point", "coordinates": [ 768501.3125, 6282718.4053 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "Id": 77, "Nom": "Université              Montpellier 2                        PC Securite", "Adresse": null, "Tel": "04 67 14 31 11", "Coord_X": "3,86080925535177", "Coord_Y": "43,6320478884427" }, "geometry": { "type": "Point", "coordinates": [ 769486.6036, 6281823.3378 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "Id": 79, "Nom": "Université              Montpellier 2                    Secrétariat IAE", "Adresse": "place Eugène Bataillon\n34095 MONTPELLIER CEDEX 5\n\n\n", "Tel": "04 67 14 31 11", "Coord_X": "3,86173924182999", "Coord_Y": "43,6324310982988" }, "geometry": { "type": "Point", "coordinates": [ 769561.2066, 6281866.7432 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "Id": 78, "Nom": "Université              Montpellier 2               Couloir  de la présidence 1er étage", "Adresse": null, "Tel": "04 67 14 31 11", "Coord_X": "3,86403637133178", "Coord_Y": "43,6320955198071" }, "geometry": { "type": "Point", "coordinates": [ 769747.0359, 6281831.4763 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "Id": 80, "Nom": "Université              Montpellier 2                    Laboratoire AREVA", "Adresse": null, "Tel": "04 67 14 31 11", "Coord_X": "3,86719128258212", "Coord_Y": "43,6340354958767" }, "geometry": { "type": "Point", "coordinates": [ 769999.3297, 6282049.8597 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "Id": 81, "Nom": "Université              Montpellier 2                    SCOPPS", "Adresse": null, "Tel": "04 67 14 31 11", "Coord_X": "3,86651938060978", "Coord_Y": "43,6329423512668" }, "geometry": { "type": "Point", "coordinates": [ 769946.4294, 6281927.782 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "Id": 82, "Nom": "Université              Montpellier 2                    Laboratoire L2C", "Adresse": null, "Tel": "04 67 14 31 11", "Coord_X": "3,86500072175922", "Coord_Y": "43,6325272513173" }, "geometry": { "type": "Point", "coordinates": [ 769824.3518, 6281880.3074 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "Id": 86, "Nom": "Université              Montpellier 2                          Centre Sportif Universitaire     Piscine", "Adresse": null, "Tel": "04 67 14 31 11", "Coord_X": "3,86372265447782", "Coord_Y": "43,6347707699201" }, "geometry": { "type": "Point", "coordinates": [ 769718.4608, 6282128.5027 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "Id": 85, "Nom": "Université              Montpellier 2                          Centre Sportif Universitaire     Gymnase", "Adresse": "Rue Emile Jeanbreau", "Tel": "04 67 14 31 11", "Coord_X": "3,86411975731741", "Coord_Y": "43,634431102342" }, "geometry": { "type": "Point", "coordinates": [ 769750.9262, 6282091.1058 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "Id": 84, "Nom": "Université              Montpellier 2                    HALL IEM", "Adresse": null, "Tel": "04 67 14 31 11", "Coord_X": "3,86621601700653", "Coord_Y": "43,6350134840932" }, "geometry": { "type": "Point", "coordinates": [ 769919.4175, 6282157.6804 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "Id": 88, "Nom": "Universite paul valery montpellier 3                   Loge Entrée", "Adresse": "Av. Val de montferrand                    34199 MONTPELLIER", "Tel": "04 67 14 55 23", "Coord_X": "3,86987294089832", "Coord_Y": "43,6310996420996" }, "geometry": { "type": "Point", "coordinates": [ 770219.3777, 6281725.9761 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "Id": 89, "Nom": "Universite paul valery   montpellier  batiment Marc Bloch", "Adresse": "Route de mende                          34199 MONTPELLIER", "Tel": "04 67 14 55 23", "Coord_X": "3,86914576305111", "Coord_Y": "43,6327403750896" }, "geometry": { "type": "Point", "coordinates": [ 770158.6725, 6281907.6662 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "Id": 90, "Nom": "Université Paul Valéry  montpellier 3                         Site Saint Charles                     Loge Entrée", "Adresse": "Rue du Professeur      Henri Serre                   34080 MONTPELLIER           Arrêt tram \" albert 1er\"", "Tel": "04 67 14 55 23", "Coord_X": "3,87378574801668", "Coord_Y": "43,6165624740146" }, "geometry": { "type": "Point", "coordinates": [ 770553.0992, 6280113.9239 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "Id": 91, "Nom": "Montpellier Ecole National Supérieure de Chimie", "Adresse": "8, rue de l'école Normale       34000 MONTPELLIER", "Tel": "04 67 14 72 83", "Coord_X": "3,86759222312708", "Coord_Y": "43,6208396831232" }, "geometry": { "type": "Point", "coordinates": [ 770047.8055, 6280583.745 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "Id": 92, "Nom": "Montpellier Ecole National Supérieure de Chimie                                    (Laboratoire)", "Adresse": "104, rue de la galéra                  34090 MONTPELLIER", "Tel": "04 67 14 72 83", "Coord_X": "3,83738323298412", "Coord_Y": "43,6371761537967" }, "geometry": { "type": "Point", "coordinates": [ 767589.6263, 6282372.9148 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "Id": 93, "Nom": "Montpellier Ecole National Supérieure de Chimie", "Adresse": "220 - 276 rue de la galéra      34090 MONTPELLIER", "Tel": "04 67 14 72 83", "Coord_X": "3,83828534323613", "Coord_Y": "43,6375710817093" }, "geometry": { "type": "Point", "coordinates": [ 767661.9717, 6282417.5762 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "Id": 94, "Nom": "CROUS de MONTPELLIER            Restaurants Universitaires         Boutonnet", "Adresse": "2, Rue Emile Duployé 34090 MONTPELLIER Cedex 01", "Tel": "04 67 63 52 06", "Coord_X": "3,86940780515415", "Coord_Y": "43,6234756772261" }, "geometry": { "type": "Point", "coordinates": [ 770191.1608, 6280878.3002 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "Id": 95, "Nom": "CROUS de MONTPELLIER            Restaurants Universitaires                     Triolet", "Adresse": "1061, av. Prof. Joseph Anglada                       34090 MONTPELLIER", "Tel": "04 67 63 50 16", "Coord_X": "3,86018125270489", "Coord_Y": "43,631191261367" }, "geometry": { "type": "Point", "coordinates": [ 769436.9488, 6281727.5873 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "Id": 96, "Nom": "CROUS de MONTPELLIER            Restaurants Universitaires                    Vert-Bois", "Adresse": "205, rue de la Chênaie\n34090 MONTPELLIER", "Tel": "04 67 63 66 45", "Coord_X": "3,87086361964785", "Coord_Y": "43,6348289810456" }, "geometry": { "type": "Point", "coordinates": [ 770294.7747, 6282141.3028 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "Id": 98, "Nom": "CROUS de MONTPELLIER            Services Centraux", "Adresse": "2, rue Monteil            34033 Montpellier", "Tel": "04 67 41 50 08", "Coord_X": "3,87001135797271", "Coord_Y": "43,6224491662391" }, "geometry": { "type": "Point", "coordinates": [ 770241.1433, 6280764.7589 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "Id": 97, "Nom": "CROUS de MONTPELLIER            Restaurants Universitaires                    Richter", "Adresse": "80, rue Brumaire- 34000 Montpellier", "Tel": "04 67 15 84 47", "Coord_X": "3,89922794228039", "Coord_Y": "43,6028938663275" }, "geometry": { "type": "Point", "coordinates": [ 772624.6198, 6278617.9633 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "Id": 99, "Nom": "CREPS", "Adresse": "2 Avenue Charles Flahault                                34090 MONTPELLIER", "Tel": null, "Coord_X": "3,86618003917991", "Coord_Y": "43,6191123089151" }, "geometry": { "type": "Point", "coordinates": [ 769935.8988, 6280390.5266 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "Id": 100, "Nom": "Maison des sports (Sport Et Psychologie) Hérault Sport", "Adresse": "200 avenue du Père Soulas                            34090 MONTPELLIER", "Tel": "04 67 54 82 29", "Coord_X": "3,86583323268375", "Coord_Y": "43,6183423905225" }, "geometry": { "type": "Point", "coordinates": [ 769908.8368, 6280304.6568 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "Id": 101, "Nom": "Hérault Sport", "Adresse": "747 avenue des apothicaires Parc Euromédecine            34090 Montpellier", "Tel": "04 67 54 82 29", "Coord_X": "3,83559883662065", "Coord_Y": "43,6416646402407" }, "geometry": { "type": "Point", "coordinates": [ 767440.3249, 6282870.1993 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "Id": 103, "Nom": "Lycée Frédéric Bazille", "Adresse": "3224 route de Mende                    34093 MONTPELLIER", "Tel": "04 67 63 89 87", "Coord_X": "3,8639010584102", "Coord_Y": "43,6460180385688" }, "geometry": { "type": "Point", "coordinates": [ 769719.1853, 6283378.5755 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "Id": 104, "Nom": "Lycée Jean Mermoz", "Adresse": "717 avenue Jean Mermoz                             34000 MONTPELLIER", "Tel": "04 67 20 60  00", "Coord_X": "3,89080547314588", "Coord_Y": "43,610863473281" }, "geometry": { "type": "Point", "coordinates": [ 771934.4302, 6279495.9369 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "Id": 106, "Nom": "Lycée Léonard de Vinci", "Adresse": "Rue du Professeur Blayac                                 34085 MONTPELLIER cedex 4", "Tel": "04 67 10 40 10", "Coord_X": "3,82313209556008", "Coord_Y": "43,6271809795402" }, "geometry": { "type": "Point", "coordinates": [ 766450.9633, 6281250.0384 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "Id": 105, "Nom": "Lycée Jules Ferry", "Adresse": "270 avenue de la colline           34070 MONTPELLIER", "Tel": "04 67 10 74 01", "Coord_X": "3,84226731025644", "Coord_Y": "43,6052528635409" }, "geometry": { "type": "Point", "coordinates": [ 768021.6748, 6278829.3977 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "Id": 107, "Nom": "Caisse Primaire d'Assurance Maladie", "Adresse": "29 cours Gambetta                   34000 MONTPELLIER", "Tel": "04 99 52 54 49", "Coord_X": "3,87110915929521", "Coord_Y": "43,6065196099402" }, "geometry": { "type": "Point", "coordinates": [ 770349.3022, 6278995.4461 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "Id": 108, "Nom": "Caisse Primaire d'Assurance Maladie", "Adresse": "90 allée Almicare Calvetti                          34000 Montpellier", "Tel": "04 99 52 54 49", "Coord_X": "3,82126953167633", "Coord_Y": "43,6322018829039" }, "geometry": { "type": "Point", "coordinates": [ 766294.8014, 6281806.4558 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "Id": 109, "Nom": "Caisse d'assurance retraite et de la Santé au travail", "Adresse": "29 cours Gambetta                   34000 MONTPELLIER", "Tel": "04 67 12 94 72", "Coord_X": "3,87064343057042", "Coord_Y": "43,6068847626242" }, "geometry": { "type": "Point", "coordinates": [ 770311.2448, 6279035.6118 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "Id": 110, "Nom": "Caisse d'assurance retraite et de la Santé au travail", "Adresse": "Century 2 , 101 place pierre Duhem                                    le millenaire                           34000 MONTPELLIER", "Tel": "04 67 12 94 72", "Coord_X": "3,91465549573187", "Coord_Y": "43,6068978500869" }, "geometry": { "type": "Point", "coordinates": [ 773865.3902, 6279077.2468 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "Id": 111, "Nom": "Préfecture de l'Hérault", "Adresse": "34 Place des Martyrs de la résistance                               34000 MONTPELLIER", "Tel": "04 67 61 60 45", "Coord_X": "3,87675679668135", "Coord_Y": "43,6114960399587" }, "geometry": { "type": "Point", "coordinates": [ 770799.2362, 6279553.5383 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "Id": 113, "Nom": "Cour d'appel", "Adresse": "1 rue Foch                               34000 MONTPELLIER", "Tel": "04 34 08 81 92", "Coord_X": "3,87282071734522", "Coord_Y": "43,6112848970996" }, "geometry": { "type": "Point", "coordinates": [ 770481.6651, 6279526.5522 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "Id": 112, "Nom": "Tribunal de grande instance", "Adresse": "Place Pierre Flotte                         34000 MONTPELLIER", "Tel": "04 67 12 61 09", "Coord_X": "3,86914794017784", "Coord_Y": "43,6102006063269" }, "geometry": { "type": "Point", "coordinates": [ 770186.4209, 6279402.7806 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "Id": 115, "Nom": "Gare Sncf de Montpellier St Roch", "Adresse": "1, Place Auguste Gibert                         34000 MONTPELLIER", "Tel": "06 25 91 00 28", "Coord_X": "3,88084502925211", "Coord_Y": "43,6047523852628" }, "geometry": { "type": "Point", "coordinates": [ 771137.7131, 6278807.7716 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "Id": 114, "Nom": "Hotel de Police de Montpellier", "Adresse": "206 avenue du Comté de Melgueil                             34000 MONTPELLIER", "Tel": "04 99 13 50 00", "Coord_X": "3,89161633267666", "Coord_Y": "43,603513899768" }, "geometry": { "type": "Point", "coordinates": [ 772009.1292, 6278679.8984 ] } }
+,
+{ "type": "Feature", "id": 100, "properties": { "Id": 116, "Nom": "Pharmacie de L'Europe", "Adresse": "2600 avenue de l'europe   34080 MONTPELLIER", "Tel": "04 67 75 16 37", "Coord_X": "3,82007583943153", "Coord_Y": "43,6418758605771" }, "geometry": { "type": "Point", "coordinates": [ 766187.2814, 6282880.5377 ] } }
+,
+{ "type": "Feature", "id": 101, "properties": { "Id": 117, "Nom": "Pharmacie de l'ovalie", "Adresse": "2750 Boulevard Paul Valery                                                34070 MONTPELLIER", "Tel": "04 67 27 71 72", "Coord_X": "3,84964180769663", "Coord_Y": "43,5950383978097" }, "geometry": { "type": "Point", "coordinates": [ 768629.4328, 6277700.6055 ] } }
+,
+{ "type": "Feature", "id": 102, "properties": { "Id": 118, "Nom": "Pharmacie Ravoire", "Adresse": "33, Rue du Faubourg Saint JAUMES                       34000 MONTPELLIER", "Tel": "04 67 63 38 84", "Coord_X": "3,86983030264785", "Coord_Y": "43,6147553510548" }, "geometry": { "type": "Point", "coordinates": [ 770235.9454, 6279909.5679 ] } }
+,
+{ "type": "Feature", "id": 103, "properties": { "Id": 119, "Nom": "Citroen montpellier", "Adresse": "730 Avenue des pres d'arenes                        34000 MONTPELLIER", "Tel": "04 67 12 67 01", "Coord_X": "3,88299732333175", "Coord_Y": "43,5906567856049" }, "geometry": { "type": "Point", "coordinates": [ 771329.0448, 6277243.2196 ] } }
+,
+{ "type": "Feature", "id": 104, "properties": { "Id": 120, "Nom": "Grand Garage de l'Hérault Peugeot Montpellier             (commerce)", "Adresse": "905 rue de l'industrie           34007 MONTPELLIER", "Tel": "04 67 06 25 02                 04 67 06 25 25", "Coord_X": "3,88118576492958", "Coord_Y": "43,5829591529706" }, "geometry": { "type": "Point", "coordinates": [ 771192.2592, 6276386.1133 ] } }
+,
+{ "type": "Feature", "id": 105, "properties": { "Id": 121, "Nom": "Grand Garage de l'Hérault Peugeot Montpellier             (atelier)", "Adresse": "905 rue de l'industrie           34007 MONTPELLIER", "Tel": "04 67 06 25 02                 04 67 06 25 25", "Coord_X": "3,88146330454406", "Coord_Y": "43,5835668089934" }, "geometry": { "type": "Point", "coordinates": [ 771213.9272, 6276453.8952 ] } }
+,
+{ "type": "Feature", "id": 106, "properties": { "Id": 122, "Nom": "Centre commercial Polygone                                   PC Sécurité                        (es1 montpellier)", "Adresse": "1 rue des Pertuisanes                        34000 MONTPELLIER", "Tel": "04 67 99 41 60", "Coord_X": "3,88578382216927", "Coord_Y": "43,6083221486189" }, "geometry": { "type": "Point", "coordinates": [ 771532.1066, 6279208.9512 ] } }
+,
+{ "type": "Feature", "id": 107, "properties": { "Id": 123, "Nom": "Fnac Montpellier", "Adresse": "Centre cial Le Polygone   1 rue des Pertuisanes                        34000 MONTPELLIER", "Tel": "04 34 09 06 55", "Coord_X": "3,88567011518647", "Coord_Y": "43,6085330470563" }, "geometry": { "type": "Point", "coordinates": [ 771522.6616, 6279232.2859 ] } }
+,
+{ "type": "Feature", "id": 108, "properties": { "Id": 124, "Nom": "Galeries La Fayette", "Adresse": "Centre cial Le Polygone   1 rue des Pertuisanes      BP 3521                        34000 MONTPELLIER", "Tel": "04 67 64 83 00", "Coord_X": "3,88553285006607", "Coord_Y": "43,6081092231254" }, "geometry": { "type": "Point", "coordinates": [ 771512.1054, 6279185.0609 ] } }
+,
+{ "type": "Feature", "id": 109, "properties": { "Id": 125, "Nom": "Géant casino                    Prés d'Arènes                    (Pc Sécurité)", "Adresse": "504 Avenue du mas              d'argelliers                          34070 MONTPELLIER", "Tel": "04 67 86 43 69", "Coord_X": "3,88808523342942", "Coord_Y": "43,586264441135" }, "geometry": { "type": "Point", "coordinates": [ 771745.5222, 6276759.6895 ] } }
+,
+{ "type": "Feature", "id": 110, "properties": { "Id": 126, "Nom": "Géant casino                    Celleneuve                           (Pc Sécurité)", "Adresse": "129 bis avenue de Lodève                           34070 MONTPELLIER", "Tel": "04 67 86 43 69              04 99  77 34 00", "Coord_X": "3,83992052015185", "Coord_Y": "43,6125224275035" }, "geometry": { "type": "Point", "coordinates": [ 767823.5609, 6279635.2696 ] } }
+,
+{ "type": "Feature", "id": 111, "properties": { "Id": 127, "Nom": "Centre Commercial Odysseum", "Adresse": "2 place de Lisbonne         34000 MONTPELLIER", "Tel": "04 67 13 50 55", "Coord_X": "3,92046106179072", "Coord_Y": "43,6045260331335" }, "geometry": { "type": "Point", "coordinates": [ 774337.2854, 6278819.1094 ] } }
+,
+{ "type": "Feature", "id": 112, "properties": { "Id": 128, "Nom": "Magasin IKEA", "Adresse": "Odysseum                              34000 MONTPELLIER", "Tel": null, "Coord_X": "3,92438329923687", "Coord_Y": "43,6041477817148" }, "geometry": { "type": "Point", "coordinates": [ 774654.5266, 6278780.7738 ] } }
+,
+{ "type": "Feature", "id": 113, "properties": { "Id": 129, "Nom": "Chronopost", "Adresse": "1129  Rue de la castelle            34070 MONTPELLIER", "Tel": "04 67 99 11 03                    06 69 58 35 62", "Coord_X": "3,86885461893472", "Coord_Y": "43,5772303319782" }, "geometry": { "type": "Point", "coordinates": [ 770203.0546, 6275738.4004 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "Id": 130, "Nom": "DELL", "Adresse": "1 rond-point Benjamin Franklin                               34000 MONTPELLIER", "Tel": "06 58 57 85 24", "Coord_X": "3,91169360147975", "Coord_Y": "43,6184228864032" }, "geometry": { "type": "Point", "coordinates": [ 773611.4167, 6280355.2798 ] } }
+,
+{ "type": "Feature", "id": 115, "properties": { "Id": 131, "Nom": "France 3 Sud Montpellier", "Adresse": "10 allée John Napier             34000 MONTPELLIER", "Tel": "04 67 20 30 40", "Coord_X": "3,90921459780798", "Coord_Y": "43,6145658661223" }, "geometry": { "type": "Point", "coordinates": [ 773416.2031, 6279924.3349 ] } }
+,
+{ "type": "Feature", "id": 116, "properties": { "Id": 132, "Nom": "France Telecom", "Adresse": "245 rue de la Galéra                     34000 MONTPELLIER", "Tel": "04 67 14 66 66", "Coord_X": "3,83704301955449", "Coord_Y": "43,6384175720502" }, "geometry": { "type": "Point", "coordinates": [ 767560.7044, 6282510.5839 ] } }
+,
+{ "type": "Feature", "id": 117, "properties": { "Id": 133, "Nom": "Sanofi Aventis", "Adresse": "371 rue professeur Blayac                             34000 MONTPELLIER", "Tel": "04 99 77 78 79", "Coord_X": "3,82943569760855", "Coord_Y": "43,6234283430937" }, "geometry": { "type": "Point", "coordinates": [ 766964.2115, 6280838.3247 ] } }
+,
+{ "type": "Feature", "id": 118, "properties": { "Id": 134, "Nom": "Veolia Eau", "Adresse": "765 rue Henri Becquerel      BP41246                                      34965 MONTPELLIER CEDEX 2", "Tel": "04 67 20 73 73                               06 20 69 33 70", "Coord_X": "3,91517278210411", "Coord_Y": "43,612096722739" }, "geometry": { "type": "Point", "coordinates": [ 773900.4666, 6279655.4924 ] } }
+,
+{ "type": "Feature", "id": 119, "properties": { "Id": 135, "Nom": "Banque de France", "Adresse": "98 avenue de Lodève                 34061 MONTPELLIER", "Tel": "04 67 06 79 74", "Coord_X": "3,85350136943136", "Coord_Y": "43,6102729619807" }, "geometry": { "type": "Point", "coordinates": [ 768922.874, 6279397.0393 ] } }
+,
+{ "type": "Feature", "id": 120, "properties": { "Id": 136, "Nom": "Mutuelle des motards", "Adresse": "1056 rue de la croix verte                        34294 MONTPELLIER", "Tel": "04 67 72 73 20", "Coord_X": "3,84315528199888", "Coord_Y": "43,642457500046" }, "geometry": { "type": "Point", "coordinates": [ 768049.2339, 6282964.7934 ] } }
+,
+{ "type": "Feature", "id": 121, "properties": { "Id": 137, "Nom": "Mutuelle des motards", "Adresse": "1027 rue de la croix verte                        34294 MONTPELLIER", "Tel": "04 67 72 73 20", "Coord_X": "3,84351021937092", "Coord_Y": "43,6430362920199" }, "geometry": { "type": "Point", "coordinates": [ 768077.1919, 6283029.4209 ] } }
+,
+{ "type": "Feature", "id": 122, "properties": { "Id": 138, "Nom": "Groupama Sud", "Adresse": "Place Jean Antoine de Chaptal                              34000 MONTPELLIER", "Tel": "04 67 34 78 86", "Coord_X": "3,86748181412747", "Coord_Y": "43,6031265793569" }, "geometry": { "type": "Point", "coordinates": [ 770060.5185, 6278615.1428 ] } }
+,
+{ "type": "Feature", "id": 123, "properties": { "Id": 139, "Nom": "Montpellier beton                      SERVANT Prestations", "Adresse": "1, Rue de la Première Écluse                             34070 MONTPELLIER", "Tel": "04 67 92 15 10", "Coord_X": "3,89578183610751", "Coord_Y": "43,5877632296267" }, "geometry": { "type": "Point", "coordinates": [ 772365.3895, 6276933.2795 ] } }
+,
+{ "type": "Feature", "id": 124, "properties": { "Id": 140, "Nom": "Hôtel IBIS Centre Comédie", "Adresse": "Allée Jules Milhau       Immeuble le Triangle               34000 MONTPELLIER", "Tel": "04 99 13 29 99", "Coord_X": "3,88315927070696", "Coord_Y": "43,6089881225671" }, "geometry": { "type": "Point", "coordinates": [ 771319.3401, 6279280.5886 ] } }
+,
+{ "type": "Feature", "id": 125, "properties": { "Id": 141, "Nom": "Hôtel IBIS Montpellier Sud", "Adresse": "164 avenue palavas                 34070 MONTPELLIER", "Tel": "04 67  58 82 30", "Coord_X": "3,89172749729087", "Coord_Y": "43,5892502551644" }, "geometry": { "type": "Point", "coordinates": [ 772036.0089, 6277094.8315 ] } }
+,
+{ "type": "Feature", "id": 126, "properties": { "Id": 142, "Nom": "Hotel mercure", "Adresse": "Carrefour de l'aeroport               34000 MONTPELLIER", "Tel": "04 67 20 63 63", "Coord_X": "3,8940718175978", "Coord_Y": "43,6089445631649" }, "geometry": { "type": "Point", "coordinates": [ 772200.5979, 6279285.6649 ] } }
+,
+{ "type": "Feature", "id": 127, "properties": { "Id": 143, "Nom": "Hotel mercure centre", "Adresse": "Rue de la Spirale                34000 MONTPELLIER", "Tel": "04 67 99 89 89", "Coord_X": "3,88547541488289", "Coord_Y": "43,6090902690373" }, "geometry": { "type": "Point", "coordinates": [ 771506.2447, 6279294.0351 ] } }
+,
+{ "type": "Feature", "id": 128, "properties": { "Id": 144, "Nom": "Hôtel NOVOTEL", "Adresse": "125 avenue Palavas                        34070 MONTPELLIER", "Tel": "04 99 52 34 34", "Coord_X": "3,89234991103325", "Coord_Y": "43,5895487658564" }, "geometry": { "type": "Point", "coordinates": [ 772085.912, 6277128.5742 ] } }
+,
+{ "type": "Feature", "id": 129, "properties": { "Id": 145, "Nom": "CRS 56", "Adresse": "1 Rue Louis Lépine              34000 MONTPELLIER", "Tel": "04 67 13 17 00", "Coord_X": "3,90653250762828", "Coord_Y": "43,6122198808195" }, "geometry": { "type": "Point", "coordinates": [ 773202.6356, 6279661.131 ] } }
+,
+{ "type": "Feature", "id": 130, "properties": { "Id": 146, "Nom": "Accueil clinique du millenaire                              Accueil", "Adresse": "220 bd penelope           34000 MONTPELLIER", "Tel": "04 99 53 61 03", "Coord_X": "3,91375491076165", "Coord_Y": "43,6020754291092" }, "geometry": { "type": "Point", "coordinates": [ 773798.8664, 6278540.4771 ] } }
+,
+{ "type": "Feature", "id": 131, "properties": { "Id": 147, "Nom": "Accueil clinique du millenaire                                        Urgences", "Adresse": "220 bd penelope           34000 MONTPELLIER", "Tel": "04 99 53 61 03", "Coord_X": "3,91353989374935", "Coord_Y": "43,6014966033821" }, "geometry": { "type": "Point", "coordinates": [ 773782.2457, 6278475.9497 ] } }
+,
+{ "type": "Feature", "id": 132, "properties": { "Id": 148, "Nom": "Ametra", "Adresse": "201 place de Thessalie         34000 MONTPELLIER", "Tel": "04 67 84 76 40", "Coord_X": "3,89226740440157", "Coord_Y": "43,6075603632208" }, "geometry": { "type": "Point", "coordinates": [ 772056.6274, 6279130.187 ] } }
+,
+{ "type": "Feature", "id": 133, "properties": { "Id": 149, "Nom": "apec", "Adresse": "170 rue leon blum          34000 MONTPELLIER", "Tel": null, "Coord_X": "3,89052741878513", "Coord_Y": "43,6087911504281" }, "geometry": { "type": "Point", "coordinates": [ 771914.5751, 6279265.3813 ] } }
+,
+{ "type": "Feature", "id": 134, "properties": { "Id": 150, "Nom": "Arcade SFGE", "Adresse": "1-55 Rue de la Constituante                       34000 MONTPELLIER", "Tel": null, "Coord_X": "3,89422323604739", "Coord_Y": "43,6019066687056" }, "geometry": { "type": "Point", "coordinates": [ 772221.683, 6278503.6629 ] } }
+,
+{ "type": "Feature", "id": 135, "properties": { "Id": 151, "Nom": "ASPM SECTION AFPS", "Adresse": "1635 Avenue Albert Einstein                                   34000 MONTPELLIER", "Tel": null, "Coord_X": "3,9167804322775", "Coord_Y": "43,6113532636814" }, "geometry": { "type": "Point", "coordinates": [ 774031.2383, 6279574.3763 ] } }
+,
+{ "type": "Feature", "id": 136, "properties": { "Id": 152, "Nom": "Cafétéria UFR AES", "Adresse": "257-269 Rue Vendémiaire  34000 MONTPELLIER", "Tel": null, "Coord_X": "3,89935218745248", "Coord_Y": "43,603025020351" }, "geometry": { "type": "Point", "coordinates": [ 772634.4878, 6278632.6531 ] } }
+,
+{ "type": "Feature", "id": 137, "properties": { "Id": 153, "Nom": "Caisse MSA Languedoc", "Adresse": "4 place Jean Antoine de Chaptal                             34000 MONTPELLIER", "Tel": null, "Coord_X": "3,86725032663434", "Coord_Y": "43,6029957496972" }, "geometry": { "type": "Point", "coordinates": [ 770041.9833, 6278600.3979 ] } }
+,
+{ "type": "Feature", "id": 138, "properties": { "Id": 154, "Nom": "Centre Mutualiste Neurologique PROPARA", "Adresse": "263 Rue du Caducée                    34000 MONTPELLIER", "Tel": null, "Coord_X": "3,83221040954412", "Coord_Y": "43,6433843496942" }, "geometry": { "type": "Point", "coordinates": [ 767164.8443, 6283058.424 ] } }
+,
+{ "type": "Feature", "id": 139, "properties": { "Id": 155, "Nom": "Communaute d Agglomeration de Montpellier", "Adresse": "50 place Zeus", "Tel": null, "Coord_X": "3,8906414844389", "Coord_Y": "43,6076132052153" }, "geometry": { "type": "Point", "coordinates": [ 771925.2627, 6279134.5771 ] } }
+,
+{ "type": "Feature", "id": 140, "properties": { "Id": 156, "Nom": "D.D.S.I.S. HERAULT", "Adresse": "2 Rue Duval-Jouve                  34000 MONTPELLIER", "Tel": null, "Coord_X": "3,86542459122745", "Coord_Y": "43,610311327355" }, "geometry": { "type": "Point", "coordinates": [ 769885.626, 6279411.7829 ] } }
+,
+{ "type": "Feature", "id": 141, "properties": { "Id": 157, "Nom": "DDTM34 - site du Millénaire", "Adresse": "233 rue Guglielmo Marconi                                34000 MONTPELLIER", "Tel": null, "Coord_X": "3,91125189536332", "Coord_Y": "43,6121330162831" }, "geometry": { "type": "Point", "coordinates": [ 773583.8214, 6279655.8641 ] } }
+,
+{ "type": "Feature", "id": 142, "properties": { "Id": 158, "Nom": "Ecole Supérieure Des Beaux Arts", "Adresse": "130 Rue Yehudi Menuhin              34000 MONTPELLIER", "Tel": null, "Coord_X": "3,88398298908056", "Coord_Y": "43,6171934153182" }, "geometry": { "type": "Point", "coordinates": [ 771375.6477, 6280193.2061 ] } }
+,
+{ "type": "Feature", "id": 143, "properties": { "Id": 159, "Nom": "Faculté de Droit", "Adresse": "Rue de l'Ecole Mage              34000 MONTPELLIER", "Tel": null, "Coord_X": "3,87687944359565", "Coord_Y": "43,6137132951212" }, "geometry": { "type": "Point", "coordinates": [ 770806.4032, 6279800.0573 ] } }
+,
+{ "type": "Feature", "id": 144, "properties": { "Id": 160, "Nom": "faculte de pharmacie", "Adresse": "15 avenue charles flahault                         34000 MONTPELLIER", "Tel": null, "Coord_X": "3,86185840432793", "Coord_Y": "43,6239506766346" }, "geometry": { "type": "Point", "coordinates": [ 769581.1122, 6280924.4061 ] } }
+,
+{ "type": "Feature", "id": 145, "properties": { "Id": 161, "Nom": "fafsea", "Adresse": "2460 avenue albert einstein                                 34000 MONTPELLIER", "Tel": null, "Coord_X": "3,92771433730696", "Coord_Y": "43,6106200898298" }, "geometry": { "type": "Point", "coordinates": [ 774915.0826, 6279503.2096 ] } }
+,
+{ "type": "Feature", "id": 146, "properties": { "Id": 162, "Nom": "Hotel des impots", "Adresse": "40 rue de louvois                  34000 MONTPELLIER", "Tel": null, "Coord_X": "3,81969688714667", "Coord_Y": "43,6323423132911" }, "geometry": { "type": "Point", "coordinates": [ 766167.6964, 6281820.743 ] } }
+,
+{ "type": "Feature", "id": 147, "properties": { "Id": 163, "Nom": "Inset de Montpellier", "Adresse": "76 Place de la Révolution   34000 MONTPELLIER", "Tel": null, "Coord_X": "3,89825148899358", "Coord_Y": "43,6039740268785" }, "geometry": { "type": "Point", "coordinates": [ 772544.396, 6278737.107 ] } }
+,
+{ "type": "Feature", "id": 148, "properties": { "Id": 164, "Nom": "maison agriculture", "Adresse": "place chaptal                                 34000 MONTPELLIER", "Tel": null, "Coord_X": "3,86633327325595", "Coord_Y": "43,6038860913024" }, "geometry": { "type": "Point", "coordinates": [ 769966.8364, 6278698.5315 ] } }
+,
+{ "type": "Feature", "id": 149, "properties": { "Id": 165, "Nom": "TALCO LR", "Adresse": "40 rue de Pinville              34000 MONTPELLIER", "Tel": null, "Coord_X": "3,90506063238055", "Coord_Y": "43,6138087474829" }, "geometry": { "type": "Point", "coordinates": [ 773081.7627, 6279836.3415 ] } }
+,
+{ "type": "Feature", "id": 150, "properties": { "Id": 166, "Nom": "Zenith Sud", "Adresse": "avenue Albert Einstein                     34000 MONTPELLIER", "Tel": null, "Coord_X": "3,93074702939992", "Coord_Y": "43,6128228432964" }, "geometry": { "type": "Point", "coordinates": [ 775157.0826, 6279750.8872 ] } }
+,
+{ "type": "Feature", "id": 151, "properties": { "Id": 168, "Nom": "Action d'Urgence Internationale", "Adresse": "1401 rue de fontcouverte                   34070 MONTPELLIER", "Tel": null, "Coord_X": "3,85255897515535", "Coord_Y": "43,5935288046927" }, "geometry": { "type": "Point", "coordinates": [ 768866.868, 6277535.3778 ] } }
+,
+{ "type": "Feature", "id": 152, "properties": { "Id": 169, "Nom": "Cfpmea", "Adresse": "501 des metairies de saysset                                   34070 MONTPELLIER", "Tel": null, "Coord_X": "3,89423707713714", "Coord_Y": "43,5906087749725" }, "geometry": { "type": "Point", "coordinates": [ 772237.0206, 6277248.1018 ] } }
+,
+{ "type": "Feature", "id": 153, "properties": { "Id": 172, "Nom": "Amphitheatre d'O", "Adresse": "121 Rue de la Carriérasse                  34090 MONTPELLIER", "Tel": null, "Coord_X": "3,83507767297601", "Coord_Y": "43,6351213340499" }, "geometry": { "type": "Point", "coordinates": [ 767405.9544, 6282142.5892 ] } }
+,
+{ "type": "Feature", "id": 154, "properties": { "Id": 173, "Nom": "Bâtiment k Iut montpellier 2", "Adresse": "139 Avenue d'Occitanie                       34090 MONTPELLIER", "Tel": null, "Coord_X": "3,85149578101552", "Coord_Y": "43,6350358178596" }, "geometry": { "type": "Point", "coordinates": [ 768731.2459, 6282147.2387 ] } }
+,
+{ "type": "Feature", "id": 155, "properties": { "Id": 174, "Nom": "Bibliotheque st charles", "Adresse": "Rue auguste broussonnet                         34090 MONTPELLIER", "Tel": null, "Coord_X": "3,87258316660111", "Coord_Y": "43,6155361363529" }, "geometry": { "type": "Point", "coordinates": [ 770457.2622, 6279998.7909 ] } }
+,
+{ "type": "Feature", "id": 156, "properties": { "Id": 175, "Nom": "Centre de formation professionnel croix rouge", "Adresse": "Rue de la valesière                    34090 MONTPELLIER", "Tel": null, "Coord_X": "3,83009545801086", "Coord_Y": "43,6415334891597" }, "geometry": { "type": "Point", "coordinates": [ 766996.3225, 6282850.9395 ] } }
+,
+{ "type": "Feature", "id": 157, "properties": { "Id": 176, "Nom": "Chru", "Adresse": "Avenue Augustin Fliche                               34090 MONTPELLIER", "Tel": null, "Coord_X": "3,86151292659671", "Coord_Y": "43,6295976450315" }, "geometry": { "type": "Point", "coordinates": [ 769546.3744, 6281551.6585 ] } }
+,
+{ "type": "Feature", "id": 158, "properties": { "Id": 177, "Nom": "Chru euromed", "Adresse": "Rue du caduce                         34090 MONTPELLIER", "Tel": null, "Coord_X": "3,8350137442276", "Coord_Y": "43,6425510639908" }, "geometry": { "type": "Point", "coordinates": [ 767392.0627, 6282968.2088 ] } }
+,
+{ "type": "Feature", "id": 159, "properties": { "Id": 179, "Nom": "CHU Lapeyronie hall d'accueil", "Adresse": "Pont Lapeyronie                            34090 MONTPELLIER", "Tel": null, "Coord_X": "3,85207580919409", "Coord_Y": "43,6301375533552" }, "geometry": { "type": "Point", "coordinates": [ 768783.9372, 6281603.3931 ] } }
+,
+{ "type": "Feature", "id": 160, "properties": { "Id": 178, "Nom": "Chru lapeyronie", "Adresse": "Avenue du doyen gaston giraud                                  34090 MONTPELLIER", "Tel": null, "Coord_X": "3,85081289792181", "Coord_Y": "43,6313023033573" }, "geometry": { "type": "Point", "coordinates": [ 768680.5977, 6281731.7342 ] } }
+,
+{ "type": "Feature", "id": 161, "properties": { "Id": 181, "Nom": "Ipl santé envirronement durable Méditerrranée", "Adresse": "778 rue de la croix verte                  34090 MONTPELLIER", "Tel": null, "Coord_X": "3,84083465416705", "Coord_Y": "43,6447155674701" }, "geometry": { "type": "Point", "coordinates": [ 767859.2759, 6283213.7368 ] } }
+,
+{ "type": "Feature", "id": 162, "properties": { "Id": 182, "Nom": "Les Jardins de Grasse", "Adresse": "1482 Rue de Saint-Priest                            34090 MONTPELLIER", "Tel": null, "Coord_X": "3,83534242743301", "Coord_Y": "43,6375404910418" }, "geometry": { "type": "Point", "coordinates": [ 767424.4799, 6282411.6593 ] } }
+,
+{ "type": "Feature", "id": 163, "properties": { "Id": 183, "Nom": "Parcs Nationaux de France", "Adresse": "1037 rue Jean François Breton                            34090 MONTPELLIER", "Tel": null, "Coord_X": "3,87871736858804", "Coord_Y": "43,6474178784164" }, "geometry": { "type": "Point", "coordinates": [ 770913.122, 6283547.3336 ] } }
+,
+{ "type": "Feature", "id": 164, "properties": { "Id": 187, "Nom": "Cirad", "Adresse": "Avenue agropolis     34398 MONTPELLIER", "Tel": null, "Coord_X": "3,868430789818", "Coord_Y": "43,6504884118088" }, "geometry": { "type": "Point", "coordinates": [ 770079.2684, 6283879.3776 ] } }
+,
+{ "type": "Feature", "id": 165, "properties": { "Id": 188, "Nom": "Mornay", "Adresse": "26 allee jules milhau            34965 MONTPELLIER", "Tel": null, "Coord_X": "3,88335468006384", "Coord_Y": "43,6090204423773" }, "geometry": { "type": "Point", "coordinates": [ 771335.0795, 6279284.3569 ] } }
+,
+{ "type": "Feature", "id": 166, "properties": { "Id": 189, "Nom": "Boulodrome Bernard Gasset", "Adresse": "122 avenue Maurice Planès                                 34070 MONTPELLIER", "Tel": null, "Coord_X": "3,84329169898554", "Coord_Y": "43,5967806501323" }, "geometry": { "type": "Point", "coordinates": [ 768114.4573, 6277888.7309 ] } }
+
+]
+}
