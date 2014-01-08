@@ -1,4 +1,4 @@
-﻿   
+   
 
  
 --------------------------------------------------
@@ -9,11 +9,11 @@ Fiche métadonnées
 
 * ID : 17
 
-* TITRE : Données de l&#8217;Opendata - Montpellier Territoire Numérique
+* TITRE : Données de l&#8217;Open data - Montpellier Territoire Numérique
 
 * IDENTIFIANT : VilleMTP_MTP_Opendata
 
-* DESCRIPTION : Montpellier Territoire Numérique a mis en ligne sur son site Opendata un bon nombre de jeux de données et de ressources. Vous retrouverez ici le recensement de toutes ces données.
+* DESCRIPTION : Vous retrouverez ici le recensement de toutes les données disponibles en open data sur le portail de la Ville de Montpellier. Il s'agit du jeu de données des données open data.
 
 * COUVERTUTE GÉOGRAPHIQUE : Ville de Montpellier
 
@@ -23,7 +23,7 @@ Fiche métadonnées
 
 * PÉRIODE VALIDITÉE : Hebdomadaire
 
-* MISE À JOUR : 2013-12-04
+* MISE À JOUR : 2014-01-08
 
 * PRORIÉTAIRE : Ville de Montpellier
 

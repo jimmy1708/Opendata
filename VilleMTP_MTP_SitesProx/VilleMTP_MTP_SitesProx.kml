@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>VilleMTP_MTP_SitesProx</name>
+<Schema name="VilleMTP_MTP_SitesProx" id="VilleMTP_MTP_SitesProx">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="LIBEL" type="string"></SimpleField>
+	<SimpleField name="COORD1_05" type="string"></SimpleField>
+	<SimpleField name="COORD2_05" type="string"></SimpleField>
+	<SimpleField name="PLAN_05" type="string"></SimpleField>
+	<SimpleField name="RUBRIQUE" type="string"></SimpleField>
+	<SimpleField name="POINT_X" type="float"></SimpleField>
+	<SimpleField name="POINT_Y" type="float"></SimpleField>
+	<SimpleField name="ADRESSE" type="string"></SimpleField>
+	<SimpleField name="QUARTIER" type="string"></SimpleField>
+	<SimpleField name="SSQUARTIER" type="string"></SimpleField>
+	<SimpleField name="POLICE" type="int"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_SitesProx">
+		<SimpleData name="LIBEL">M.P.T. Paul-Emile Victor</SimpleData>
+		<SimpleData name="COORD1_05">F12</SimpleData>
+		<SimpleData name="PLAN_05">26</SimpleData>
+		<SimpleData name="RUBRIQUE">MPT</SimpleData>
+		<SimpleData name="POINT_X">768049.88875299995</SimpleData>
+		<SimpleData name="POINT_Y">6280920.57330999990</SimpleData>
+		<SimpleData name="ADRESSE">1247, av. du Professeur Louis Ravas</SimpleData>
+		<SimpleData name="QUARTIER">Les Cevennes</SimpleData>
+		<SimpleData name="SSQUARTIER">Alco</SimpleData>
+		<SimpleData name="POLICE">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.842893032265643,43.624064914325359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_SitesProx">
+		<SimpleData name="LIBEL">M.P.T. Mélina Mercouri</SimpleData>
+		<SimpleData name="COORD1_05">P11</SimpleData>
+		<SimpleData name="PLAN_05">31</SimpleData>
+		<SimpleData name="RUBRIQUE">MPT</SimpleData>
+		<SimpleData name="POINT_X">773345.08590800001</SimpleData>
+		<SimpleData name="POINT_Y">6279826.10541000030</SimpleData>
+		<SimpleData name="ADRESSE">842 r. de la Vielle Poste</SimpleData>
+		<SimpleData name="QUARTIER">Port Marianne</SimpleData>
+		<SimpleData name="SSQUARTIER">Millénaire</SimpleData>
+		<SimpleData name="POLICE">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.908319939643242,43.613689446941578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_SitesProx">
+		<SimpleData name="LIBEL">M.P.T. Voltaire</SimpleData>
+		<SimpleData name="COORD1_05">M8</SimpleData>
+		<SimpleData name="PLAN_05">50</SimpleData>
+		<SimpleData name="RUBRIQUE">MPT</SimpleData>
+		<SimpleData name="POINT_X">771776.85941799998</SimpleData>
+		<SimpleData name="POINT_Y">6278752.10544000010</SimpleData>
+		<SimpleData name="ADRESSE">1, square Jean Monnet</SimpleData>
+		<SimpleData name="QUARTIER">Centre-ville</SimpleData>
+		<SimpleData name="SSQUARTIER">Gare</SimpleData>
+		<SimpleData name="POLICE">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.888750676399272,43.604187112867336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_SitesProx">
+		<SimpleData name="COORD1_05">M7</SimpleData>
+		<SimpleData name="PLAN_05">50</SimpleData>
+		<SimpleData name="RUBRIQUE">MPT</SimpleData>
+		<SimpleData name="POINT_X">771972.20960099995</SimpleData>
+		<SimpleData name="POINT_Y">6277906.70433999970</SimpleData>
+		<SimpleData name="ADRESSE">14, r. de l'Améthyste</SimpleData>
+		<SimpleData name="QUARTIER">Près d'Arènes</SimpleData>
+		<SimpleData name="SSQUARTIER">Aiguerelles</SimpleData>
+		<SimpleData name="POLICE">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.891051203851685,43.596561172091221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_SitesProx">
+		<SimpleData name="LIBEL">M.P.T. Albert Camus</SimpleData>
+		<SimpleData name="COORD1_05">J7</SimpleData>
+		<SimpleData name="PLAN_05">48</SimpleData>
+		<SimpleData name="RUBRIQUE">MPT</SimpleData>
+		<SimpleData name="POINT_X">770269.60524299997</SimpleData>
+		<SimpleData name="POINT_Y">6277912.80606999990</SimpleData>
+		<SimpleData name="ADRESSE">118, allée Maurice Bonafos</SimpleData>
+		<SimpleData name="QUARTIER">Croix d'Argent</SimpleData>
+		<SimpleData name="SSQUARTIER">Lemasson</SimpleData>
+		<SimpleData name="POLICE">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869974686729929,43.5967868930816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_SitesProx">
+		<SimpleData name="LIBEL">M.P.T Marcel Pagnol</SimpleData>
+		<SimpleData name="COORD1_05">G8</SimpleData>
+		<SimpleData name="RUBRIQUE">MPT</SimpleData>
+		<SimpleData name="POINT_X">768690.04090100003</SimpleData>
+		<SimpleData name="POINT_Y">6278409.26910000020</SimpleData>
+		<SimpleData name="ADRESSE">64, route de Lavérune</SimpleData>
+		<SimpleData name="QUARTIER">Les Cevennes</SimpleData>
+		<SimpleData name="SSQUARTIER">Alco</SimpleData>
+		<SimpleData name="POLICE">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.850486578424631,43.601408448627176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_SitesProx">
+		<SimpleData name="LIBEL">M.P.T. Léo Lagrange</SimpleData>
+		<SimpleData name="COORD1_05">B13</SimpleData>
+		<SimpleData name="PLAN_05">14</SimpleData>
+		<SimpleData name="RUBRIQUE">MPT</SimpleData>
+		<SimpleData name="POINT_X">765924.73131399998</SimpleData>
+		<SimpleData name="POINT_Y">6281381.84644000050</SimpleData>
+		<SimpleData name="ADRESSE">155 rue de Bologne</SimpleData>
+		<SimpleData name="QUARTIER">Mosson</SimpleData>
+		<SimpleData name="SSQUARTIER">La Paillade</SimpleData>
+		<SimpleData name="POLICE">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.816630979758807,43.62841606206085</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

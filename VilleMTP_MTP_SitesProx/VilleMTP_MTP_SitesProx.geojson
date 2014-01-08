@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "LIBEL": "M.P.T. Paul-Emile Victor", "COORD1_05": "F12", "COORD2_05": null, "PLAN_05": "26", "RUBRIQUE": "MPT", "POINT_X": 768049.88875299995, "POINT_Y": 6280920.5733099999, "ADRESSE": "1247, av. du Professeur Louis Ravas", "QUARTIER": "Les Cevennes", "SSQUARTIER": "Alco", "POLICE": 14 }, "geometry": { "type": "Point", "coordinates": [ 768049.88875254546, 6280920.5733079156 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "LIBEL": "M.P.T. Mélina Mercouri", "COORD1_05": "P11", "COORD2_05": null, "PLAN_05": "31", "RUBRIQUE": "MPT", "POINT_X": 773345.085908, "POINT_Y": 6279826.10541, "ADRESSE": "842 r. de la Vielle Poste", "QUARTIER": "Port Marianne", "SSQUARTIER": "Millénaire", "POLICE": 14 }, "geometry": { "type": "Point", "coordinates": [ 773345.08590846055, 6279826.1054100208 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "LIBEL": "M.P.T. Voltaire", "COORD1_05": "M8", "COORD2_05": null, "PLAN_05": "50", "RUBRIQUE": "MPT", "POINT_X": 771776.85941799998, "POINT_Y": 6278752.10544, "ADRESSE": "1, square Jean Monnet", "QUARTIER": "Centre-ville", "SSQUARTIER": "Gare", "POLICE": 14 }, "geometry": { "type": "Point", "coordinates": [ 771776.85941787809, 6278752.1054421505 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "LIBEL": null, "COORD1_05": "M7", "COORD2_05": null, "PLAN_05": "50", "RUBRIQUE": "MPT", "POINT_X": 771972.20960099995, "POINT_Y": 6277906.7043399997, "ADRESSE": "14, r. de l'Améthyste", "QUARTIER": "Près d'Arènes", "SSQUARTIER": "Aiguerelles", "POLICE": 0 }, "geometry": { "type": "Point", "coordinates": [ 771972.20960060949, 6277906.7043381687 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "LIBEL": "M.P.T. Albert Camus", "COORD1_05": "J7", "COORD2_05": null, "PLAN_05": "48", "RUBRIQUE": "MPT", "POINT_X": 770269.60524299997, "POINT_Y": 6277912.8060699999, "ADRESSE": "118, allée Maurice Bonafos", "QUARTIER": "Croix d'Argent", "SSQUARTIER": "Lemasson", "POLICE": 14 }, "geometry": { "type": "Point", "coordinates": [ 770269.60524260672, 6277912.8060671715 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "LIBEL": "M.P.T Marcel Pagnol", "COORD1_05": "G8", "COORD2_05": null, "PLAN_05": null, "RUBRIQUE": "MPT", "POINT_X": 768690.040901, "POINT_Y": 6278409.2691, "ADRESSE": "64, route de Lavérune", "QUARTIER": "Les Cevennes", "SSQUARTIER": "Alco", "POLICE": 14 }, "geometry": { "type": "Point", "coordinates": [ 768690.04090067919, 6278409.2691024989 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "LIBEL": "M.P.T. Léo Lagrange", "COORD1_05": "B13", "COORD2_05": null, "PLAN_05": "14", "RUBRIQUE": "MPT", "POINT_X": 765924.73131399998, "POINT_Y": 6281381.84644, "ADRESSE": "155 rue de Bologne", "QUARTIER": "Mosson", "SSQUARTIER": "La Paillade", "POLICE": 14 }, "geometry": { "type": "Point", "coordinates": [ 765924.73131438403, 6281381.8464423753 ] } }
+
+]
+}

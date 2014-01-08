@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>VilleMtp_MTP_SitesHebUrg</name>
+<Schema name="VilleMtp_MTP_SitesHebUrg" id="VilleMtp_MTP_SitesHebUrg">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="LIBEL" type="string"></SimpleField>
+	<SimpleField name="COORD1_05" type="string"></SimpleField>
+	<SimpleField name="COORD2_05" type="string"></SimpleField>
+	<SimpleField name="PLAN_05" type="string"></SimpleField>
+	<SimpleField name="POLYGONID" type="int"></SimpleField>
+	<SimpleField name="POINT_X" type="float"></SimpleField>
+	<SimpleField name="POINT_Y" type="float"></SimpleField>
+	<SimpleField name="ADRESSE" type="string"></SimpleField>
+	<SimpleField name="QUARTIER" type="string"></SimpleField>
+	<SimpleField name="SSQUARTIER" type="string"></SimpleField>
+	<SimpleField name="POLICE" type="int"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>Zénith</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMtp_MTP_SitesHebUrg">
+		<SimpleData name="LIBEL">Zénith</SimpleData>
+		<SimpleData name="COORD1_05">S10</SimpleData>
+		<SimpleData name="PLAN_05">43</SimpleData>
+		<SimpleData name="POLYGONID">341</SimpleData>
+		<SimpleData name="POINT_X">3.93092016603</SimpleData>
+		<SimpleData name="POINT_Y">43.61303713720</SimpleData>
+		<SimpleData name="ADRESSE">av. Albert Einstein</SimpleData>
+		<SimpleData name="QUARTIER">Port Marianne</SimpleData>
+		<SimpleData name="SSQUARTIER">Grammont</SimpleData>
+		<SimpleData name="POLICE">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.930920166029544,43.613037137192009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gymnase Olympie</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMtp_MTP_SitesHebUrg">
+		<SimpleData name="LIBEL">Gymnase Olympie</SimpleData>
+		<SimpleData name="COORD1_05">N9</SimpleData>
+		<SimpleData name="PLAN_05">40</SimpleData>
+		<SimpleData name="POLYGONID">500</SimpleData>
+		<SimpleData name="POINT_X">3.89379233085</SimpleData>
+		<SimpleData name="POINT_Y">43.60737375900</SimpleData>
+		<SimpleData name="ADRESSE">av Jacques Cartier</SimpleData>
+		<SimpleData name="QUARTIER">Centre-ville</SimpleData>
+		<SimpleData name="SSQUARTIER">Antigone</SimpleData>
+		<SimpleData name="POLICE">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.893792330848442,43.607373758997973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gymnase Emmanuel Gambardella</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMtp_MTP_SitesHebUrg">
+		<SimpleData name="LIBEL">Gymnase Emmanuel Gambardella</SimpleData>
+		<SimpleData name="COORD1_05">J8</SimpleData>
+		<SimpleData name="PLAN_05">48</SimpleData>
+		<SimpleData name="POLYGONID">582</SimpleData>
+		<SimpleData name="POINT_X">3.86939688351</SimpleData>
+		<SimpleData name="POINT_Y">43.60294334270</SimpleData>
+		<SimpleData name="ADRESSE">r. Bourrely</SimpleData>
+		<SimpleData name="QUARTIER">Centre-ville</SimpleData>
+		<SimpleData name="SSQUARTIER">Gambetta</SimpleData>
+		<SimpleData name="POLICE">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869396883507345,43.602943342733859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gymnase Marcel Cerdan</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMtp_MTP_SitesHebUrg">
+		<SimpleData name="LIBEL">Gymnase Marcel Cerdan</SimpleData>
+		<SimpleData name="COORD1_05">G7</SimpleData>
+		<SimpleData name="PLAN_05">47</SimpleData>
+		<SimpleData name="POLYGONID">611</SimpleData>
+		<SimpleData name="POINT_X">3.84717202789</SimpleData>
+		<SimpleData name="POINT_Y">43.59972641120</SimpleData>
+		<SimpleData name="ADRESSE">227 r. de lArnel</SimpleData>
+		<SimpleData name="QUARTIER">Croix-d'Argent</SimpleData>
+		<SimpleData name="SSQUARTIER">Pas du Loup</SimpleData>
+		<SimpleData name="POLICE">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.84717202788569,43.599726411171112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gymnase Alain Colas</name>
+	<ExtendedData><SchemaData schemaUrl="#VilleMtp_MTP_SitesHebUrg">
+		<SimpleData name="LIBEL">Gymnase Alain Colas</SimpleData>
+		<SimpleData name="COORD1_05">J5</SimpleData>
+		<SimpleData name="PLAN_05">58</SimpleData>
+		<SimpleData name="POLYGONID">702</SimpleData>
+		<SimpleData name="POINT_X">3.86825564461</SimpleData>
+		<SimpleData name="POINT_Y">43.58991105970</SimpleData>
+		<SimpleData name="ADRESSE">160 r. du Pas  loup</SimpleData>
+		<SimpleData name="QUARTIER">Croix-d'Argent</SimpleData>
+		<SimpleData name="SSQUARTIER">Croix-d'Argent</SimpleData>
+		<SimpleData name="POLICE">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868255644605994,43.589911059676169</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

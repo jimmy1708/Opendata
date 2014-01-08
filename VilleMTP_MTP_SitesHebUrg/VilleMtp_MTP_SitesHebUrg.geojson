@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "LIBEL": "Zénith", "COORD1_05": "S10", "COORD2_05": null, "PLAN_05": "43", "POLYGONID": 341, "POINT_X": 3.93092016603, "POINT_Y": 43.613037137200003, "ADRESSE": "av. Albert Einstein", "QUARTIER": "Port Marianne", "SSQUARTIER": "Grammont", "POLICE": 14 }, "geometry": { "type": "Point", "coordinates": [ 775170.78182209481, 6279774.866824396 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "LIBEL": "Gymnase Olympie", "COORD1_05": "N9", "COORD2_05": null, "PLAN_05": "40", "POLYGONID": 500, "POINT_X": 3.89379233085, "POINT_Y": 43.607373759, "ADRESSE": "av Jacques Cartier", "QUARTIER": "Centre-ville", "SSQUARTIER": "Antigone", "POLICE": 14 }, "geometry": { "type": "Point", "coordinates": [ 772180.00501437264, 6279110.8419397268 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "LIBEL": "Gymnase Emmanuel Gambardella", "COORD1_05": "J8", "COORD2_05": null, "PLAN_05": "48", "POLYGONID": 582, "POINT_X": 3.86939688351, "POINT_Y": 43.602943342700001, "ADRESSE": "r. Bourrely", "QUARTIER": "Centre-ville", "SSQUARTIER": "Gambetta", "POLICE": 14 }, "geometry": { "type": "Point", "coordinates": [ 770215.40341087501, 6278596.480154613 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "LIBEL": "Gymnase Marcel Cerdan", "COORD1_05": "G7", "COORD2_05": null, "PLAN_05": "47", "POLYGONID": 611, "POINT_X": 3.84717202789, "POINT_Y": 43.599726411200002, "ADRESSE": "227 r. de lArnel", "QUARTIER": "Croix-d'Argent", "SSQUARTIER": "Pas du Loup", "POLICE": 14 }, "geometry": { "type": "Point", "coordinates": [ 768424.35522310843, 6278219.4600919839 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "LIBEL": "Gymnase Alain Colas", "COORD1_05": "J5", "COORD2_05": null, "PLAN_05": "58", "POLYGONID": 702, "POINT_X": 3.86825564461, "POINT_Y": 43.5899110597, "ADRESSE": "160 r. du Pas  loup", "QUARTIER": "Croix-d'Argent", "SSQUARTIER": "Croix-d'Argent", "POLICE": 14 }, "geometry": { "type": "Point", "coordinates": [ 770139.16301770974, 6277147.1384462677 ] } }
+
+]
+}
