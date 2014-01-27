@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>VilleMTP_MTP_ArbresRemarq</name>
+<Schema name="VilleMTP_MTP_ArbresRemarq" id="VilleMTP_MTP_ArbresRemarq">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="SUJET" type="int"></SimpleField>
+	<SimpleField name="NOM_LATIN" type="string"></SimpleField>
+	<SimpleField name="NOM_USUEL" type="string"></SimpleField>
+	<SimpleField name="D_OC" type="string"></SimpleField>
+	<SimpleField name="DESCRIPTIO" type="string"></SimpleField>
+	<SimpleField name="AGE" type="int"></SimpleField>
+	<SimpleField name="DIMENSION" type="int"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">1</SimpleData>
+		<SimpleData name="NOM_LATIN">Acer monspessulanum</SimpleData>
+		<SimpleData name="NOM_USUEL">Erable de Montpellier</SimpleData>
+		<SimpleData name="D_OC">Agast, Viulounié</SimpleData>
+		<SimpleData name="DESCRIPTIO">C'est un arbuste ou un petit arbre à écorce foncée généralement de petite taille dans la nature (il atteint en moyenne 5 mètres). Ici il dépasse les 10 mètres.</SimpleData>
+		<SimpleData name="AGE">5</SimpleData>
+		<SimpleData name="DIMENSION">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.909062359412426,43.608450988643298</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">2</SimpleData>
+		<SimpleData name="NOM_LATIN">Quercus pubescens</SimpleData>
+		<SimpleData name="NOM_USUEL">Chêne pubescent</SimpleData>
+		<SimpleData name="D_OC">Chaine, Blacas</SimpleData>
+		<SimpleData name="DESCRIPTIO">Arbre à feuillage caduc des régions tempérées de l'hemisphère nord. Son nom vient du latin pubescens : à poils courts et mous (face inférieure des feuilles et jeunes rameaux). C'est une adaptation de l'arbre à la sécheresse.arbre de très grande taill</SimpleData>
+		<SimpleData name="AGE">5</SimpleData>
+		<SimpleData name="DIMENSION">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.908737412064226,43.608375064262702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">3</SimpleData>
+		<SimpleData name="NOM_LATIN">Filaria</SimpleData>
+		<SimpleData name="NOM_USUEL">Filaire</SimpleData>
+		<SimpleData name="D_OC">Alaverd, Aure, Taradèu, O</SimpleData>
+		<SimpleData name="DESCRIPTIO">Phillyrea (ou filaria), est un genre de plantes de la famille des Oleaceae. Ce sont des filaires des plantes généralement de garrigue.</SimpleData>
+		<SimpleData name="AGE">4</SimpleData>
+		<SimpleData name="DIMENSION">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.878632849504291,43.642495045179068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">4</SimpleData>
+		<SimpleData name="NOM_LATIN">Celtis australis</SimpleData>
+		<SimpleData name="NOM_USUEL">Micocoulier de Provence</SimpleData>
+		<SimpleData name="D_OC">Falabreguièr</SimpleData>
+		<SimpleData name="DESCRIPTIO">Très grand micocoulier au centre de la place, marquant fortement le paysage.</SimpleData>
+		<SimpleData name="AGE">4</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.866806411200295,43.609257986493716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">5</SimpleData>
+		<SimpleData name="NOM_LATIN">Fraxinus ornus</SimpleData>
+		<SimpleData name="NOM_USUEL">Frêne à fleurs</SimpleData>
+		<SimpleData name="D_OC">Fraissa</SimpleData>
+		<SimpleData name="DESCRIPTIO">Le frêne à fleurs est un arbre de petite taille. Sa floraison blanche lui confère une beauté remarquable au printemps. Sujet particulièrement ancien .</SimpleData>
+		<SimpleData name="AGE">4</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.83270808111008,43.598390388638308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">6</SimpleData>
+		<SimpleData name="NOM_LATIN">Quercus suber</SimpleData>
+		<SimpleData name="NOM_USUEL">Chêne liège</SimpleData>
+		<SimpleData name="D_OC">Siure</SimpleData>
+		<SimpleData name="DESCRIPTIO">Il peut vivre 150 à 200 ans et atteindre 20 à 25 m de Haut. Arbre rare sur la ville. Il fait parti du jardin à l'anglaise du parc de Méric.</SimpleData>
+		<SimpleData name="AGE">0</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.890952414930262,43.632018686342519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">7</SimpleData>
+		<SimpleData name="NOM_LATIN">Zizyphus jujuba</SimpleData>
+		<SimpleData name="NOM_USUEL">Jujubier</SimpleData>
+		<SimpleData name="DESCRIPTIO">Un arbuste épineux originaire de Chine et répandu dans les régions méditerranéennes, le fruit,  la jujube est comestible. Ce spécimen est particulièrement ancien.</SimpleData>
+		<SimpleData name="AGE">4</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.891492741604883,43.630854039100512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">8</SimpleData>
+		<SimpleData name="NOM_LATIN">Cedrus libani</SimpleData>
+		<SimpleData name="NOM_USUEL">Cèdre du Liban</SimpleData>
+		<SimpleData name="DESCRIPTIO">Conifère à feuilles persistantes qui pousse jusqu'à 40 m de Hauteur. C'est l'emblème nationnal du Liban. On trouve peu de sujets de cette taille.</SimpleData>
+		<SimpleData name="AGE">6</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.890470378749559,43.631516216476207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">9</SimpleData>
+		<SimpleData name="NOM_LATIN">Liquidambar orientalis</SimpleData>
+		<SimpleData name="NOM_USUEL">Copalme d'Orient</SimpleData>
+		<SimpleData name="DESCRIPTIO">Originaire d'Asie mineure, cet arbre élégant au port pyramidal trône sur la grande pelouse du jardin dessiné par Edouard André. En Orient, on en extrayait un lait de beauté.</SimpleData>
+		<SimpleData name="AGE">5</SimpleData>
+		<SimpleData name="DIMENSION">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881835149403492,43.611060234594717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">10</SimpleData>
+		<SimpleData name="NOM_LATIN">Morus nigra</SimpleData>
+		<SimpleData name="NOM_USUEL">Mûrier noir</SimpleData>
+		<SimpleData name="D_OC">Aubre d'òr, Amourié</SimpleData>
+		<SimpleData name="DESCRIPTIO">Originaire d' Asie occidentale. Il a étè introduit et cultivé pour l'élevage des vers à soie.</SimpleData>
+		<SimpleData name="AGE">2</SimpleData>
+		<SimpleData name="DIMENSION">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.924758723182786,43.617306697600107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">11</SimpleData>
+		<SimpleData name="NOM_LATIN">Broussonetia papyrifera</SimpleData>
+		<SimpleData name="NOM_USUEL">Mûrier à papier</SimpleData>
+		<SimpleData name="DESCRIPTIO">Le nom de ce genre rend hommage à Pierre Auguste Broussonet.(1761-1807),botaniste français qui fut le premier à introduire des pieds femelles de muçrie à papier de Chine à la fin du 18e siecle.</SimpleData>
+		<SimpleData name="AGE">0</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.885990601852237,43.61286667595671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">12</SimpleData>
+		<SimpleData name="NOM_LATIN">Cedrus libani</SimpleData>
+		<SimpleData name="NOM_USUEL">Cèdre du Liban</SimpleData>
+		<SimpleData name="D_OC">Lo cèdre</SimpleData>
+		<SimpleData name="DESCRIPTIO">Le cèdre du Liban est arbre conifere à feuilles persistantes qui pousse jusqu'à 40 mètres de hauteur sujet marquant le paysage dans ce beau parc.</SimpleData>
+		<SimpleData name="AGE">8</SimpleData>
+		<SimpleData name="DIMENSION">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.929641201775557,43.615534043361173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">13</SimpleData>
+		<SimpleData name="NOM_LATIN">Quercus ilex</SimpleData>
+		<SimpleData name="NOM_USUEL">Chêne vert</SimpleData>
+		<SimpleData name="D_OC">Euse, Garric</SimpleData>
+		<SimpleData name="DESCRIPTIO">Le chêne vet est arbre un arbre à feuillage persistant de la famille des Fagacées présent sous forme de bois clairs et garrigues.</SimpleData>
+		<SimpleData name="AGE">4</SimpleData>
+		<SimpleData name="DIMENSION">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.929686269670468,43.614731944867195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">14</SimpleData>
+		<SimpleData name="NOM_LATIN">Cupressus cashmeriana</SimpleData>
+		<SimpleData name="NOM_USUEL">Cyprès du cachemire</SimpleData>
+		<SimpleData name="DESCRIPTIO">Cet arbre est considéré comme un espèce menacée.Il pousse à des altitudes comprises entre 1250 et 2800m.</SimpleData>
+		<SimpleData name="AGE">3</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.928877454181015,43.615660210627773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">15</SimpleData>
+		<SimpleData name="NOM_LATIN">Celtis Australis</SimpleData>
+		<SimpleData name="NOM_USUEL">Micocoulier de Provence</SimpleData>
+		<SimpleData name="D_OC">Falabreguièr, Fanabregol</SimpleData>
+		<SimpleData name="DESCRIPTIO">Ce micocoulier, malgrès sa vitesse de croissance assez lente forme  un très bel arbre d'ombrage très prèsent dans certaines régions du sud de la France. Arbre de grande taille.</SimpleData>
+		<SimpleData name="AGE">5</SimpleData>
+		<SimpleData name="DIMENSION">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883797434393677,43.615987010945041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">16</SimpleData>
+		<SimpleData name="NOM_LATIN">Taxodium distichum</SimpleData>
+		<SimpleData name="NOM_USUEL">Cyprès chauve</SimpleData>
+		<SimpleData name="DESCRIPTIO">Le cyprès chauve ou cyprès de Louisiane originaire du sud -est des Etats-Unis.C'est une espèce remarquable par son adptation aux milieux humides.</SimpleData>
+		<SimpleData name="AGE">6</SimpleData>
+		<SimpleData name="DIMENSION">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.813065285680859,43.620304924956805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">17</SimpleData>
+		<SimpleData name="NOM_LATIN">Olea europea</SimpleData>
+		<SimpleData name="NOM_USUEL">Olivier d'Europe</SimpleData>
+		<SimpleData name="D_OC">Oliu, Oulivié</SimpleData>
+		<SimpleData name="DESCRIPTIO">L'Olivier est un arbre de la famille des Oléacées cultivé dans les régions de climat méditerranéen pour son fruit olive,qui donne une huile recherchée.</SimpleData>
+		<SimpleData name="AGE">5</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877142481036486,43.606434547612153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">18</SimpleData>
+		<SimpleData name="NOM_LATIN">Sequoia sempervirens</SimpleData>
+		<SimpleData name="NOM_USUEL">Sequoia toujours vert</SimpleData>
+		<SimpleData name="DESCRIPTIO">Le Sequoia à feuilles d'if ou sequoia toujours vert (sequoia sempervirens) est un conifaire originaire de Californie.</SimpleData>
+		<SimpleData name="AGE">3</SimpleData>
+		<SimpleData name="DIMENSION">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873811460681522,43.614087443192311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">19</SimpleData>
+		<SimpleData name="NOM_LATIN">Erythea armata</SimpleData>
+		<SimpleData name="NOM_USUEL">Palmier bleu</SimpleData>
+		<SimpleData name="DESCRIPTIO">Palmier bleu du Mexique.palmier métallique rare et peu connu,de croissance lente la teinte partculière du feuillage et très attractive.</SimpleData>
+		<SimpleData name="AGE">0</SimpleData>
+		<SimpleData name="DIMENSION">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.884882393860186,43.610654376516244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">20</SimpleData>
+		<SimpleData name="NOM_LATIN">Phoenix canariensis</SimpleData>
+		<SimpleData name="NOM_USUEL">Palmier des Canaries</SimpleData>
+		<SimpleData name="DESCRIPTIO">Le dattier des Canaries,très planté,est un des plus masjestueux palmiers à stipe massif,avec de longues et abondantes feuilles pennées.Sa rapidité de croissance et sa facilité de culture expliquent son succès.</SimpleData>
+		<SimpleData name="AGE">0</SimpleData>
+		<SimpleData name="DIMENSION">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.885339984887808,43.610723827861214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">21</SimpleData>
+		<SimpleData name="NOM_LATIN">Jubaea chilensis</SimpleData>
+		<SimpleData name="NOM_USUEL">Jubea, Palma de miel</SimpleData>
+		<SimpleData name="DESCRIPTIO">Jubaea chilensis, appelé également cocotier du Chili,est le plus gros des palmiers.Son stipe atteint parfois 5 mètre de circonférence au sol.C'est un palmier à la croissance lente à l'âge juvénile puis s'accélerant à partir de la quinzième année .</SimpleData>
+		<SimpleData name="AGE">5</SimpleData>
+		<SimpleData name="DIMENSION">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.895504244800655,43.609125481428833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">22</SimpleData>
+		<SimpleData name="NOM_LATIN">Platanus acerifolia</SimpleData>
+		<SimpleData name="NOM_USUEL">Platane</SimpleData>
+		<SimpleData name="D_OC">Platano</SimpleData>
+		<SimpleData name="DESCRIPTIO">Le platane est très fréquent en Europe,où il est planté dans les parcs,le long des routes du fait de sa grande résistance à la pollution. Ici en port libre marque le paysage.</SimpleData>
+		<SimpleData name="AGE">4</SimpleData>
+		<SimpleData name="DIMENSION">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874345301965481,43.615552542749157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">24</SimpleData>
+		<SimpleData name="NOM_LATIN">Celtis occidentalis</SimpleData>
+		<SimpleData name="NOM_USUEL">Micocoulier de Virginie</SimpleData>
+		<SimpleData name="DESCRIPTIO">L'arbre est originaire d' Amérique du Nord.Rare sur la ville il ne supporte pas les grands froids.</SimpleData>
+		<SimpleData name="AGE">4</SimpleData>
+		<SimpleData name="DIMENSION">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874369910751696,43.611847714658097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">25</SimpleData>
+		<SimpleData name="NOM_LATIN">Melia azedarach</SimpleData>
+		<SimpleData name="NOM_USUEL">Lilas des Indes</SimpleData>
+		<SimpleData name="DESCRIPTIO">le melia est une espèce d'arbre à feuillage caduc originaire d'Inde,du sud de la Chine et d'Australie,elle est parfois confondue avec le margousier.</SimpleData>
+		<SimpleData name="AGE">2</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.878290842548293,43.610725243689224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">26</SimpleData>
+		<SimpleData name="NOM_LATIN">Pinus halepensis</SimpleData>
+		<SimpleData name="NOM_USUEL">Pin d'Alep</SimpleData>
+		<SimpleData name="D_OC">Pin blanc</SimpleData>
+		<SimpleData name="DESCRIPTIO">Sa répartition géographique est essentiellement autour des côtes méditerranéennes,et plus principalement en Algérie et en Espagne.</SimpleData>
+		<SimpleData name="AGE">3</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.926385717507865,43.617512892830476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">27</SimpleData>
+		<SimpleData name="NOM_LATIN">Arbutus andrachne</SimpleData>
+		<SimpleData name="NOM_USUEL">Arbousier de Grèce</SimpleData>
+		<SimpleData name="DESCRIPTIO">L'ecorce de l'arbousier de Grèce revêt au printemps de vives couleurs rouges,puis avec les chaleurs estivales se dénude peu à peu,des fragments rectangulaires se détachent,se dessèchent et s'enroulent,laissant apparaître la jeune ecorce. Ce spécimmen</SimpleData>
+		<SimpleData name="AGE">6</SimpleData>
+		<SimpleData name="DIMENSION">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.863343272256307,43.617558613629143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">28</SimpleData>
+		<SimpleData name="NOM_LATIN">Abies pinsapo</SimpleData>
+		<SimpleData name="NOM_USUEL">Sapin d'Espagne</SimpleData>
+		<SimpleData name="DESCRIPTIO">Abies pinsapo est un grand conifère de croissance lente au feuillage sombre originaire des régions montagneuses du sud de l'Espagne et du Maroc, entre 1000 et 1900 mètre d'altitude.</SimpleData>
+		<SimpleData name="AGE">3</SimpleData>
+		<SimpleData name="DIMENSION">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.891108788543559,43.598381707458273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">29</SimpleData>
+		<SimpleData name="NOM_LATIN">Cedrus Atlantica</SimpleData>
+		<SimpleData name="NOM_USUEL">Cèdre de l'Atlas</SimpleData>
+		<SimpleData name="D_OC">Lo cedre</SimpleData>
+		<SimpleData name="DESCRIPTIO">Les cèdres sont de grands arbres.les cèdres peuvent vivre plus de 1000ans.Ilsont reconnus pour leur croissance rapide. Arbre de grande taille.</SimpleData>
+		<SimpleData name="AGE">5</SimpleData>
+		<SimpleData name="DIMENSION">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.899312198197289,43.620852761860078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">30</SimpleData>
+		<SimpleData name="NOM_LATIN">Pinus bungeana</SimpleData>
+		<SimpleData name="NOM_USUEL">Pin Napoleon</SimpleData>
+		<SimpleData name="DESCRIPTIO">Le pin Napoleon (Pinus Bungeana)est un arbre de la famille des pnacées originaire de Chine.Il peut mesurer jusqu'à 15 métres.</SimpleData>
+		<SimpleData name="AGE">3</SimpleData>
+		<SimpleData name="DIMENSION">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873555196679191,43.613794746003002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">31</SimpleData>
+		<SimpleData name="NOM_LATIN">Ginkgo biloba</SimpleData>
+		<SimpleData name="NOM_USUEL">Arbre aux quarante écus</SimpleData>
+		<SimpleData name="DESCRIPTIO">(Arbres aux quarante écus).Origine Chine.Cest la plus ancienne famille d'arbres connue.Elle existait déjà une quarntaine de million d'années avant l'apparition des dinosaures.</SimpleData>
+		<SimpleData name="AGE">3</SimpleData>
+		<SimpleData name="DIMENSION">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874075511571521,43.614125498859629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">32</SimpleData>
+		<SimpleData name="NOM_LATIN">Sterculia platanifolia</SimpleData>
+		<SimpleData name="NOM_USUEL">Sterculier à feuilles de Platane</SimpleData>
+		<SimpleData name="DESCRIPTIO">Origine Géographique:Chine.Climat tropical à tempérè.Il suporte des gelée de l'ordre de -8°c.</SimpleData>
+		<SimpleData name="AGE">3</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873788460259494,43.614206033747394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">33</SimpleData>
+		<SimpleData name="NOM_LATIN">Cupressus sempervirens</SimpleData>
+		<SimpleData name="NOM_USUEL">Cyprès de Provence</SimpleData>
+		<SimpleData name="D_OC">Ciprièr, Ciprès</SimpleData>
+		<SimpleData name="DESCRIPTIO">Cupressus Sempervirens,encore appelé cyprès toujours vert(origine Asie).Cet arbre est planté en haut de la tour. Planté en haut de la Tour.</SimpleData>
+		<SimpleData name="AGE">0</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87353658740428,43.613932202056816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">34</SimpleData>
+		<SimpleData name="NOM_LATIN">Gleditsia triacanthos</SimpleData>
+		<SimpleData name="NOM_USUEL">Févier d'Amérique</SimpleData>
+		<SimpleData name="DESCRIPTIO">Février d'Amérique arbre au port 2tale,courronne iréguliere ouverte,large,longs rameaux souples.</SimpleData>
+		<SimpleData name="AGE">3</SimpleData>
+		<SimpleData name="DIMENSION">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.879880471109293,43.606062355726166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">35</SimpleData>
+		<SimpleData name="NOM_LATIN">Sterculier acerifolia</SimpleData>
+		<SimpleData name="NOM_USUEL">Copalme d'Orient</SimpleData>
+		<SimpleData name="DESCRIPTIO">Origine Australie rare dans la région.</SimpleData>
+		<SimpleData name="AGE">0</SimpleData>
+		<SimpleData name="DIMENSION">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87970353777542,43.605513109972065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">36</SimpleData>
+		<SimpleData name="NOM_LATIN">Eucalyptus gunnii</SimpleData>
+		<SimpleData name="NOM_USUEL">Gommier à cidre</SimpleData>
+		<SimpleData name="DESCRIPTIO">L' eucalyptus Gunnii fait partie des espèce de gommier les plus utilisées sous nos climats.Son feuillage glauque à reflets bleutés,de forme très arrondie en fait toute sa beauté.</SimpleData>
+		<SimpleData name="AGE">2</SimpleData>
+		<SimpleData name="DIMENSION">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.885125352187898,43.59518297931097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">37</SimpleData>
+		<SimpleData name="NOM_LATIN">Cedrus Atlantica</SimpleData>
+		<SimpleData name="NOM_USUEL">Cèdre de l'Atlas</SimpleData>
+		<SimpleData name="D_OC">Lo cedre</SimpleData>
+		<SimpleData name="DESCRIPTIO">Arbre de grande taille.</SimpleData>
+		<SimpleData name="AGE">5</SimpleData>
+		<SimpleData name="DIMENSION">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.899391476281299,43.620696487495564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">38</SimpleData>
+		<SimpleData name="NOM_LATIN">Celtis australis</SimpleData>
+		<SimpleData name="NOM_USUEL">Micocoulier de Provence</SimpleData>
+		<SimpleData name="DESCRIPTIO">Ce micocoulier,malgré sa vitesse de croissance assez lente,forme un très bel arbre très présent dans certaines régions du sud de la France.</SimpleData>
+		<SimpleData name="AGE">4</SimpleData>
+		<SimpleData name="DIMENSION">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.878705035982471,43.606028194526196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">39</SimpleData>
+		<SimpleData name="NOM_LATIN">Maclura pomifera</SimpleData>
+		<SimpleData name="NOM_USUEL">Oranger des Osages</SimpleData>
+		<SimpleData name="DESCRIPTIO">Cet arbre à la cime ovale touffue,ses jolies feuilles vert foncées un peu cordiformes à la base et ses fruits si partculiers qui ressemblent à des oranges (non comestibles.Tres vieux sujet.</SimpleData>
+		<SimpleData name="AGE">5</SimpleData>
+		<SimpleData name="DIMENSION">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882495085639067,43.611501647732844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">40</SimpleData>
+		<SimpleData name="NOM_LATIN">Platanus acerifolia</SimpleData>
+		<SimpleData name="NOM_USUEL">platane</SimpleData>
+		<SimpleData name="D_OC">Platano,la platana</SimpleData>
+		<SimpleData name="DESCRIPTIO">Arbre d'ornement:plusieur espèces sont plantées comme arbre d'ornement urbain et d'alignement le long des rues.Ce sont des arbres qui supportent bien les condition de vie du milieu urbain.sujet en port libre.</SimpleData>
+		<SimpleData name="AGE">4</SimpleData>
+		<SimpleData name="DIMENSION">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8825236013938,43.611698075189622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">41</SimpleData>
+		<SimpleData name="NOM_LATIN">Podocarpus macrophyllus</SimpleData>
+		<SimpleData name="NOM_USUEL">Podocarpus</SimpleData>
+		<SimpleData name="DESCRIPTIO">Originaire d'Extrême-Orient il est également connu sous le nom de&quot; pin des Bouddhistes&quot;.C'est un arbre à croissance lente et rare dans la région.</SimpleData>
+		<SimpleData name="AGE">0</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882584783462648,43.610436859678273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">42</SimpleData>
+		<SimpleData name="NOM_LATIN">Populus nigra 'Italica'</SimpleData>
+		<SimpleData name="NOM_USUEL">Peuplier d'Italie</SimpleData>
+		<SimpleData name="DESCRIPTIO">Le peuplier noir est  un arbre pouvant atteindre une hauteur de 30 métres et dont la longévité est de l'ordre de 400 ans pour les spécimens les plus âgés.</SimpleData>
+		<SimpleData name="AGE">0</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882353740370055,43.610869598080093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">43</SimpleData>
+		<SimpleData name="NOM_LATIN">Tilia Platyphyllos</SimpleData>
+		<SimpleData name="NOM_USUEL">Tilleul à grandes feuilles</SimpleData>
+		<SimpleData name="D_OC">Tilh</SimpleData>
+		<SimpleData name="DESCRIPTIO">Tilleul à grandes feuilles.Cet espèce des régions tempérées d'Europe,souvent planté comme arbre d'alignement. Beau sujet.</SimpleData>
+		<SimpleData name="AGE">5</SimpleData>
+		<SimpleData name="DIMENSION">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.893821015586965,43.617905059766066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">44</SimpleData>
+		<SimpleData name="NOM_LATIN">Sequoia sempervirens</SimpleData>
+		<SimpleData name="NOM_USUEL">Séquoia toujours vert</SimpleData>
+		<SimpleData name="DESCRIPTIO">Son nom vient du chef indien Sequoyah (v. 1770-1843),inventeur de l'alphabet Cherokee.les séquoias à feuilles d'if peuvent mesurer plus de 100mètres de hauteur pour  un diamètre approchant 8 mètres.Surement le plus gros arbre de la ville.</SimpleData>
+		<SimpleData name="AGE">0</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.81448680757204,43.627551492471184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">45</SimpleData>
+		<SimpleData name="NOM_LATIN">Acer platanoidesShwedler</SimpleData>
+		<SimpleData name="NOM_USUEL">Erable pourpre</SimpleData>
+		<SimpleData name="DESCRIPTIO">Le genre Acer compte environ 115 espèces d'arbres et d'arbustes répandues dans les régions tempérées et froides de l'hémisphère boréal ,surtout en Asie et Amérique du Nord.feuillage exceptionnel.</SimpleData>
+		<SimpleData name="AGE">0</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.816073770534883,43.627882801722947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">46</SimpleData>
+		<SimpleData name="NOM_LATIN">Liriodendron tulipifera</SimpleData>
+		<SimpleData name="NOM_USUEL">Tulipier de Virginie</SimpleData>
+		<SimpleData name="D_OC">Tulipié</SimpleData>
+		<SimpleData name="DESCRIPTIO">Le tulipier de Virginie est un arbre feuillu de la famille des magnoliacées.L'arbre a étè introduit en Europe en1663 et il est depuis courant dans les parc du continent.Le plus vieux sujet de la ville.</SimpleData>
+		<SimpleData name="AGE">0</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.815758904320278,43.627634266721479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">47</SimpleData>
+		<SimpleData name="NOM_LATIN">cyprès simperviren</SimpleData>
+		<SimpleData name="NOM_USUEL">cyprès vert de Provence</SimpleData>
+		<SimpleData name="DESCRIPTIO">Cyprès commun,encore appelé cyprès toujours vert.C'est un arbre originaire d'Asie,mais il est acclimaté dans tout l'hémisphère nord et plus particulièrement autour du bassin méditerranéen.Vieux et beau sujet.</SimpleData>
+		<SimpleData name="AGE">5</SimpleData>
+		<SimpleData name="DIMENSION">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.828829543251135,43.616568290960217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">48</SimpleData>
+		<SimpleData name="NOM_LATIN">Zelkova carpinifolia</SimpleData>
+		<SimpleData name="NOM_USUEL">Orme de Sibérie</SimpleData>
+		<SimpleData name="DESCRIPTIO">On l'appelle aussi Orme du Caucase.On trouve cet orme dans le Caucase et le nord de l'Iran.il n'est pas sensible à la graphiose (maladie)qui a ravagé les Ormes dans toute l'Europe.</SimpleData>
+		<SimpleData name="AGE">0</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.875190214332409,43.61270333701583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">49</SimpleData>
+		<SimpleData name="NOM_LATIN">Sorbus domestica</SimpleData>
+		<SimpleData name="NOM_USUEL">Cormier</SimpleData>
+		<SimpleData name="D_OC">Aiprouèr</SimpleData>
+		<SimpleData name="DESCRIPTIO">C'est un arbre à l'écorce brun orangé,aux feuilles caduques pennées et aux fleurs blanches.Le cormier est un arbre de plus en plus rare.</SimpleData>
+		<SimpleData name="AGE">0</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.84956533372771,43.613396259798257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">50</SimpleData>
+		<SimpleData name="NOM_LATIN">Arbutus andrachne</SimpleData>
+		<SimpleData name="NOM_USUEL">Arbousier de Grèce</SimpleData>
+		<SimpleData name="DESCRIPTIO">l'écorce de l'arbousier de Gréce revêtau printemps de vives couleurs rouges,puis avec les chaleurs estivales,se dénude peu à peu.des fragments retangulaires se détachent,se dessèchent et s'enroulent,laissant apparaître la jeune écorce. On trouve peu</SimpleData>
+		<SimpleData name="AGE">4</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.892094112395066,43.631937748934014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">51</SimpleData>
+		<SimpleData name="NOM_LATIN">Thuya occidentalis</SimpleData>
+		<SimpleData name="NOM_USUEL">thuya du Canada ou cèdre blanc</SimpleData>
+		<SimpleData name="DESCRIPTIO">Originaire du nord-est de l'Amérique du nord. Tronc noueux et irrégulier très beau sujet.</SimpleData>
+		<SimpleData name="AGE">4</SimpleData>
+		<SimpleData name="DIMENSION">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.831470178815171,43.597307199208089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">52</SimpleData>
+		<SimpleData name="NOM_LATIN">Pinus pinea</SimpleData>
+		<SimpleData name="NOM_USUEL">Pin pignon</SimpleData>
+		<SimpleData name="D_OC">Pin pinhièr,pincàs</SimpleData>
+		<SimpleData name="DESCRIPTIO">Le pin parasol est un arbre caractéristique des régions méditerraanéennes,reconnaissable à son port évoquant un parasol déployé.Sa graine,le pignon est souvent utilisée en pâtisserie.Très beau sujet dans un parc magnifique.</SimpleData>
+		<SimpleData name="AGE">7</SimpleData>
+		<SimpleData name="DIMENSION">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.83101034401599,43.597141046144351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">53</SimpleData>
+		<SimpleData name="NOM_LATIN">Cupressus simpervirens</SimpleData>
+		<SimpleData name="NOM_USUEL">Cyprès de Provence</SimpleData>
+		<SimpleData name="D_OC">Autciprès,cyprièr,cipres,s</SimpleData>
+		<SimpleData name="DESCRIPTIO">Cyprès commun.Cet arbre et originaire d'Asie,mais il est acclimaté dans tout l'hémisphère nord et plus particulièrement autour du bassin mèditerranéen.Très beau sujet.</SimpleData>
+		<SimpleData name="AGE">6</SimpleData>
+		<SimpleData name="DIMENSION">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.831917966795161,43.597616388581599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">54</SimpleData>
+		<SimpleData name="NOM_LATIN">Taxodichum distichum</SimpleData>
+		<SimpleData name="NOM_USUEL">Cyprès chauve</SimpleData>
+		<SimpleData name="DESCRIPTIO">Le cyprès chauve ,qui est l'arbre emblème de Lousiane et une espèce remarquable par son adaptation aux milieux humides.arbre marquant le paysage.</SimpleData>
+		<SimpleData name="AGE">5</SimpleData>
+		<SimpleData name="DIMENSION">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.830671484954204,43.597805030844079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">55</SimpleData>
+		<SimpleData name="NOM_LATIN">Cedrus atlantica</SimpleData>
+		<SimpleData name="NOM_USUEL">Cèdre de l'Atlas</SimpleData>
+		<SimpleData name="D_OC">Cèdre</SimpleData>
+		<SimpleData name="DESCRIPTIO">Les cèdres sont de grands arbres.les cèdres peuvent vivre plus de 1000 ans.Ils sont reconnus pour leur croissance rapide. On trouve peu de sujet de cette taille.</SimpleData>
+		<SimpleData name="AGE">5</SimpleData>
+		<SimpleData name="DIMENSION">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.829403776525991,43.597873768772601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">56</SimpleData>
+		<SimpleData name="NOM_LATIN">Platanus acerifolia</SimpleData>
+		<SimpleData name="NOM_USUEL">Platane</SimpleData>
+		<SimpleData name="D_OC">Platana,Platanièr</SimpleData>
+		<SimpleData name="DESCRIPTIO">Le platane est très fréquent en Europe, où il est planté dans les parcs,le long des routes du fait de sa grande résistance à la pollution.Ici en port libre.</SimpleData>
+		<SimpleData name="AGE">5</SimpleData>
+		<SimpleData name="DIMENSION">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.829049291499731,43.598068625610154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">57</SimpleData>
+		<SimpleData name="NOM_LATIN">Taxus Baccata</SimpleData>
+		<SimpleData name="NOM_USUEL">if commun</SimpleData>
+		<SimpleData name="D_OC">Tueis</SimpleData>
+		<SimpleData name="DESCRIPTIO">L'if est un arbre qui peut atteindre 20m de haut mais la plupart des individus sont généralement plus petits.La forme est variable avec une cime irrégulière et un tronc court et noueux.</SimpleData>
+		<SimpleData name="AGE">4</SimpleData>
+		<SimpleData name="DIMENSION">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.831470482135901,43.597423580379562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">60</SimpleData>
+		<SimpleData name="NOM_LATIN">Cèdre atlantica</SimpleData>
+		<SimpleData name="NOM_USUEL">cèdre de l'Atlas</SimpleData>
+		<SimpleData name="D_OC">cèdre</SimpleData>
+		<SimpleData name="DESCRIPTIO">Les cèdres sont de grands arbres.Les cèdres peuvent vivre plus de 1000 ans et sont reconnus pour leur croissance rapide.</SimpleData>
+		<SimpleData name="AGE">4</SimpleData>
+		<SimpleData name="DIMENSION">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.854076153653723,43.582363093443298</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">59</SimpleData>
+		<SimpleData name="NOM_LATIN">Pinus pinea</SimpleData>
+		<SimpleData name="NOM_USUEL">Pin pignon</SimpleData>
+		<SimpleData name="D_OC">Pin pinhièr,pincàs</SimpleData>
+		<SimpleData name="DESCRIPTIO">Le pin parasol est un arbre caractéristique des régions méditerranéennes,reconnaisable à son port évoquant un parasol déployé.Sa graine, le pignon est souvent utilisée en pâtisserie.Abre marquant le paysage.</SimpleData>
+		<SimpleData name="AGE">4</SimpleData>
+		<SimpleData name="DIMENSION">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.854303504210078,43.582345856759979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">58</SimpleData>
+		<SimpleData name="NOM_LATIN">Quercus suber L</SimpleData>
+		<SimpleData name="NOM_USUEL">Chêne liège</SimpleData>
+		<SimpleData name="DESCRIPTIO">Le chêne liège est un arbre exploité pour son ecorce qui fournit le liège.Il peut vivre 150 à 200 ans et atteindre 20 à 25 mètre de haut.Sujet rare sur la ville.</SimpleData>
+		<SimpleData name="AGE">4</SimpleData>
+		<SimpleData name="DIMENSION">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.854428617080283,43.582505987333903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">61</SimpleData>
+		<SimpleData name="NOM_LATIN">Pinus pinea</SimpleData>
+		<SimpleData name="NOM_USUEL">pin pignon</SimpleData>
+		<SimpleData name="D_OC">Pin pinhièr,pincàs</SimpleData>
+		<SimpleData name="DESCRIPTIO">Le pin parasol est un arbre caractéristique des régions méditerranéennes,reconnaissable à son port évoquant un parasol déployé.sa graine, le pignon est souvent utilisé en pâtisserie. Ce spécimen est particulièrement ancien.</SimpleData>
+		<SimpleData name="AGE">4</SimpleData>
+		<SimpleData name="DIMENSION">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.839949187012949,43.593807615209549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">62</SimpleData>
+		<SimpleData name="NOM_LATIN">Cedrus atlantica</SimpleData>
+		<SimpleData name="NOM_USUEL">cèdre de l'Atlas</SimpleData>
+		<SimpleData name="D_OC">Cèdre</SimpleData>
+		<SimpleData name="DESCRIPTIO">Les cèdre sont des arbres de grandes tailles.ils peuvent vivre plus de 1000 ans .ils sont reconnus pour leur croissance rapide. On trouve peu de sujet de cette taille.</SimpleData>
+		<SimpleData name="AGE">4</SimpleData>
+		<SimpleData name="DIMENSION">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.839485351147169,43.593844989194658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">71</SimpleData>
+		<SimpleData name="NOM_LATIN">Pinus pinea</SimpleData>
+		<SimpleData name="NOM_USUEL">Pin pignon</SimpleData>
+		<SimpleData name="D_OC">Pin pinhièr,pincàs</SimpleData>
+		<SimpleData name="AGE">4</SimpleData>
+		<SimpleData name="DIMENSION">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.871738643034412,43.604106289087028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">64</SimpleData>
+		<SimpleData name="NOM_LATIN">Cupressus Sempervirens</SimpleData>
+		<SimpleData name="NOM_USUEL">cyprès vert de Provence</SimpleData>
+		<SimpleData name="D_OC">Autciprès,ciprièr,ciprès,s</SimpleData>
+		<SimpleData name="DESCRIPTIO">Cyprès commun,c'est un arbre originaire d'Asie,mais il est acclimaté dans tout l'hémisphère nord et plus particulièrement autour du bassin méditerranéen.Très vieux sujet.</SimpleData>
+		<SimpleData name="AGE">5</SimpleData>
+		<SimpleData name="DIMENSION">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.857759230078537,43.610618301864477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">63</SimpleData>
+		<SimpleData name="NOM_LATIN">Pinus pinea</SimpleData>
+		<SimpleData name="NOM_USUEL">Pin pignon</SimpleData>
+		<SimpleData name="D_OC">pin pinhièr,pincas</SimpleData>
+		<SimpleData name="DESCRIPTIO">Le pin parasol est un arbre caractéristique des régions méditeranéennes,reconnaissable à sont port évoquant un parasol déployé.Sa graine, le pignon est souvent utiliséee en pâtisserie. très beau sujet.</SimpleData>
+		<SimpleData name="AGE">6</SimpleData>
+		<SimpleData name="DIMENSION">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.857809609235535,43.610704679574837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">67</SimpleData>
+		<SimpleData name="NOM_LATIN">Magniolia grandiflora</SimpleData>
+		<SimpleData name="NOM_USUEL">magniolia</SimpleData>
+		<SimpleData name="D_OC">Manholièr</SimpleData>
+		<SimpleData name="DESCRIPTIO">Cet arbre de climats tempérés et tropicaux,préfère un sol acide.age et taille rares pour la région. On trouve peu de sujet de cette taille.</SimpleData>
+		<SimpleData name="AGE">5</SimpleData>
+		<SimpleData name="DIMENSION">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877405367907093,43.648459724925161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">68</SimpleData>
+		<SimpleData name="NOM_LATIN">Cèdre atlantica</SimpleData>
+		<SimpleData name="NOM_USUEL">Cèdre de lAtlas</SimpleData>
+		<SimpleData name="D_OC">cèdre</SimpleData>
+		<SimpleData name="DESCRIPTIO">les cèdres sont de grands arbres.Ils peuvent vivre plus de 1000 ans.Ils sont reconnus pour leur croissance rapide.Beau sujet dans un cadre magnifique.</SimpleData>
+		<SimpleData name="AGE">5</SimpleData>
+		<SimpleData name="DIMENSION">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877717766776812,43.648395870019684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">66</SimpleData>
+		<SimpleData name="NOM_LATIN">platanus hybrida</SimpleData>
+		<SimpleData name="NOM_USUEL">platane</SimpleData>
+		<SimpleData name="D_OC">Platana,platanièr</SimpleData>
+		<SimpleData name="DESCRIPTIO">Abre d'ornement:plusieurs espèces sont plantées comme arbre d'ornement urbain et d'alignement le long des rues.Ici ceplatane enport libre est magnifique.</SimpleData>
+		<SimpleData name="AGE">5</SimpleData>
+		<SimpleData name="DIMENSION">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87717571997913,43.648751443416018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">65</SimpleData>
+		<SimpleData name="NOM_LATIN">Quercus Pubescens</SimpleData>
+		<SimpleData name="NOM_USUEL">Chêne pubescent</SimpleData>
+		<SimpleData name="D_OC">Rore,blacàs,chaine</SimpleData>
+		<SimpleData name="DESCRIPTIO">Le chêne pubescens est une espèce d'arbre à feuillage caduc des régions tempéèes de l'hemisphère nord. Arbre remarquable  de par sa taille.</SimpleData>
+		<SimpleData name="AGE">6</SimpleData>
+		<SimpleData name="DIMENSION">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877440771467809,43.649075240308406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">70</SimpleData>
+		<SimpleData name="NOM_LATIN">Grevillea robusta</SimpleData>
+		<SimpleData name="NOM_USUEL">Grevillea</SimpleData>
+		<SimpleData name="DESCRIPTIO">Grevillea robusta,communément appelé le chêne soyeux d' australie.Sa floraison jaune orangé et magnifique.</SimpleData>
+		<SimpleData name="AGE">0</SimpleData>
+		<SimpleData name="DIMENSION">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.92577520195035,43.615220193469213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">69</SimpleData>
+		<SimpleData name="NOM_LATIN">Eucalyptus gunnii</SimpleData>
+		<SimpleData name="NOM_USUEL">Eucalyptus</SimpleData>
+		<SimpleData name="DESCRIPTIO">L'eucalyptus gunnii fait partie des espèces de Gommier les plus utilisées sous nos climats.Son feuillage glauque à reflets bleutés,de forme très arrondie en fait toute sa beauté.</SimpleData>
+		<SimpleData name="AGE">2</SimpleData>
+		<SimpleData name="DIMENSION">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.925021968689309,43.615399175907811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_ArbresRemarq">
+		<SimpleData name="SUJET">23</SimpleData>
+		<SimpleData name="NOM_LATIN">Magnolia grandifolia</SimpleData>
+		<SimpleData name="NOM_USUEL">Magnolia à grandes fleurs</SimpleData>
+		<SimpleData name="D_OC">Magnoulia</SimpleData>
+		<SimpleData name="DESCRIPTIO">Arbre de climats tempérés et tropicaux,il préferé un sol acide.Arbre d'age important.</SimpleData>
+		<SimpleData name="AGE">5</SimpleData>
+		<SimpleData name="DIMENSION">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.871077314734504,43.611070034089138</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
