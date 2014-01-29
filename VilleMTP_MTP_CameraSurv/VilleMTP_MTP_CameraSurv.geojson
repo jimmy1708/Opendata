@@ -1,0 +1,288 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "FID_1": 17, "Id": 0, "Nom": "C59.04", "Adresse": "Lapeyronie", "QUARTMNO": "HO", "LIBQUART": "HOPITAUX-FACULTES", "SQUARTMNO": "HOP", "LIBSQUART": "Hopitaux-Facultés", "Année": 2004 }, "geometry": { "type": "Point", "coordinates": [ 768915.19479999691, 6281719.3794 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "FID_1": 18, "Id": 0, "Nom": "C94.07", "Adresse": "Rond point de la Lyre", "QUARTMNO": "HO", "LIBQUART": "HOPITAUX-FACULTES", "SQUARTMNO": "PQS", "LIBSQUART": "Plan des 4 Seigneurs", "Année": 2007 }, "geometry": { "type": "Point", "coordinates": [ 768344.74570000172, 6282665.5166000016 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "FID_1": 19, "Id": 0, "Nom": "C70.05", "Adresse": "Avenue Agropolis", "QUARTMNO": "HO", "LIBQUART": "HOPITAUX-FACULTES", "SQUARTMNO": "AIG", "LIBSQUART": "Aiguelongue", "Année": 2005 }, "geometry": { "type": "Point", "coordinates": [ 770448.00110000372, 6282734.2349000014 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "FID_1": 20, "Id": 0, "Nom": "C104.08", "Adresse": "Avenue de Fès", "QUARTMNO": "HO", "LIBQUART": "HOPITAUX-FACULTES", "SQUARTMNO": "PQS", "LIBSQUART": "Plan des 4 Seigneurs", "Année": 2008 }, "geometry": { "type": "Point", "coordinates": [ 767213.34070000052, 6281977.1816999987 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "FID_1": 34, "Id": 0, "Nom": "C21.00", "Adresse": "Pont Vincent Badie", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAH", "LIBSQUART": "Les Hauts de Massane", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 766403.66350000352, 6281634.5905 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "FID_1": 36, "Id": 0, "Nom": "C37.02", "Adresse": "Rue de la Narbonnaise", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAH", "LIBSQUART": "Les Hauts de Massane", "Année": 2002 }, "geometry": { "type": "Point", "coordinates": [ 766183.7397999987, 6281866.0340000018 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "FID_1": 37, "Id": 0, "Nom": "C45.03", "Adresse": "Rue Guilhem de Poitiers", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAH", "LIBSQUART": "Les Hauts de Massane", "Année": 2003 }, "geometry": { "type": "Point", "coordinates": [ 766050.98399999738, 6282866.657299999 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "FID_1": 41, "Id": 0, "Nom": "C80.05", "Adresse": "Rue Pierre Cardenal", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAH", "LIBSQUART": "Les Hauts de Massane", "Année": 2005 }, "geometry": { "type": "Point", "coordinates": [ 766083.15829999745, 6282478.6367999986 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "FID_1": 44, "Id": 0, "Nom": "C84.06", "Adresse": "Palais des sports Pierre de Coubertin", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAH", "LIBSQUART": "Les Hauts de Massane", "Année": 2006 }, "geometry": { "type": "Point", "coordinates": [ 765793.17220000178, 6282481.986299999 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "FID_1": 45, "Id": 0, "Nom": "C85.06", "Adresse": "Centre Commercial Triton", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAH", "LIBSQUART": "Les Hauts de Massane", "Année": 2006 }, "geometry": { "type": "Point", "coordinates": [ 765697.48799999803, 6282871.4034999982 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "FID_1": 46, "Id": 0, "Nom": "C95.07", "Adresse": "Rue de Bologne", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAH", "LIBSQUART": "Les Hauts de Massane", "Année": 2007 }, "geometry": { "type": "Point", "coordinates": [ 766125.82140000165, 6281635.0944 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "FID_1": 47, "Id": 0, "Nom": "C105.08", "Adresse": "Avenue Aglaé Adanson", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAH", "LIBSQUART": "Les Hauts de Massane", "Année": 2008 }, "geometry": { "type": "Point", "coordinates": [ 767063.62550000101, 6281838.914 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "FID_1": 21, "Id": 0, "Nom": "C16.00", "Adresse": "Rue d'Alco", "QUARTMNO": "CV", "LIBQUART": "LES CEVENNES", "SQUARTMNO": "CVA", "LIBSQUART": "Alco", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 767790.30870000273, 6280234.5238999985 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "FID_1": 22, "Id": 0, "Nom": "C17.00", "Adresse": "Rue Rimbaud", "QUARTMNO": "CV", "LIBQUART": "LES CEVENNES", "SQUARTMNO": "CVA", "LIBSQUART": "Alco", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 767506.20260000229, 6280092.1873999983 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "FID_1": 23, "Id": 0, "Nom": "C26.00", "Adresse": "Avenue Louis Ravas", "QUARTMNO": "CV", "LIBQUART": "LES CEVENNES", "SQUARTMNO": "CVA", "LIBSQUART": "Alco", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 768388.91080000252, 6280682.5251 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "FID_1": 24, "Id": 0, "Nom": "C38.02", "Adresse": "Impasse Edmond", "QUARTMNO": "CV", "LIBQUART": "LES CEVENNES", "SQUARTMNO": "CVA", "LIBSQUART": "Alco", "Année": 2002 }, "geometry": { "type": "Point", "coordinates": [ 767964.83680000156, 6280695.8473999985 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "FID_1": 25, "Id": 0, "Nom": "C44.02", "Adresse": "Rue des Araucarias", "QUARTMNO": "CV", "LIBQUART": "LES CEVENNES", "SQUARTMNO": "CVA", "LIBSQUART": "Alco", "Année": 2002 }, "geometry": { "type": "Point", "coordinates": [ 767691.04190000147, 6280001.3715999983 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "FID_1": 26, "Id": 0, "Nom": "C55.03", "Adresse": "Rue Jacques Dalcroze", "QUARTMNO": "CV", "LIBQUART": "LES CEVENNES", "SQUARTMNO": "CVA", "LIBSQUART": "Alco", "Année": 2003 }, "geometry": { "type": "Point", "coordinates": [ 768415.86699999869, 6280595.231899999 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "FID_1": 28, "Id": 0, "Nom": "C96.07", "Adresse": "Rue Rimbaud", "QUARTMNO": "CV", "LIBQUART": "LES CEVENNES", "SQUARTMNO": "CVA", "LIBSQUART": "Alco", "Année": 2007 }, "geometry": { "type": "Point", "coordinates": [ 768459.89800000191, 6280372.342599999 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "FID_1": 29, "Id": 0, "Nom": "C97.07", "Adresse": "Avenue Bringuier", "QUARTMNO": "CV", "LIBQUART": "LES CEVENNES", "SQUARTMNO": "CVA", "LIBSQUART": "Alco", "Année": 2007 }, "geometry": { "type": "Point", "coordinates": [ 767791.94539999962, 6279895.6373 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "FID_1": 35, "Id": 0, "Nom": "C36.02", "Adresse": "Esplanade Celleneuve", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "CVA", "LIBSQUART": "Alco", "Année": 2002 }, "geometry": { "type": "Point", "coordinates": [ 767066.51009999961, 6279883.6697 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "FID_1": 31, "Id": 0, "Nom": "C18.00", "Adresse": "Le Grand Mail", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAI", "LIBSQUART": "Mosson", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 765939.79290000349, 6281115.2678 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "FID_1": 32, "Id": 0, "Nom": "C19.00", "Adresse": "Rue Heildelberg", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAI", "LIBSQUART": "Mosson", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 765855.0252000019, 6280581.1312 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "FID_1": 33, "Id": 0, "Nom": "C20.00", "Adresse": "Rue de Bologne", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAI", "LIBSQUART": "Mosson", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 766001.95340000093, 6281385.0079 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "FID_1": 38, "Id": 0, "Nom": "C46.03", "Adresse": "Avenue de Barcelone", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAI", "LIBSQUART": "Mosson", "Année": 2003 }, "geometry": { "type": "Point", "coordinates": [ 765992.61509999633, 6280869.5388000011 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "FID_1": 39, "Id": 0, "Nom": "C47.03", "Adresse": "Rue d'Oxford", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAI", "LIBSQUART": "Mosson", "Année": 2003 }, "geometry": { "type": "Point", "coordinates": [ 766222.55789999664, 6281236.741599999 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "FID_1": 40, "Id": 0, "Nom": "C79.05", "Adresse": "Rond point Schuman", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAI", "LIBSQUART": "Mosson", "Année": 2005 }, "geometry": { "type": "Point", "coordinates": [ 766014.98610000312, 6280454.5221000016 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "FID_1": 42, "Id": 0, "Nom": "C81.05", "Adresse": "Rue de Tipasa", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAI", "LIBSQUART": "Mosson", "Année": 2005 }, "geometry": { "type": "Point", "coordinates": [ 765926.71840000153, 6281446.8449 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "FID_1": 43, "Id": 0, "Nom": "C83.06", "Adresse": "Avenue Heidelberg \/ Louisville", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAI", "LIBSQUART": "Mosson", "Année": 2006 }, "geometry": { "type": "Point", "coordinates": [ 765846.78400000185, 6281232.158399999 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "FID_1": 48, "Id": 0, "Nom": "C106.08", "Adresse": "Collège Rabelais", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAI", "LIBSQUART": "Mosson", "Année": 2008 }, "geometry": { "type": "Point", "coordinates": [ 767212.82310000062, 6281070.9721 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "FID_1": 49, "Id": 0, "Nom": "C114.08", "Adresse": "Rue Saragosse\/Salamanque", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAI", "LIBSQUART": "Mosson", "Année": 2008 }, "geometry": { "type": "Point", "coordinates": [ 766085.35989999771, 6280967.2780999988 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "FID_1": 113, "Id": 0, "Nom": "C48.03", "Adresse": "Rue de Leyde", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAI", "LIBSQUART": "Mosson", "Année": 2003 }, "geometry": { "type": "Point", "coordinates": [ 765924.06849999726, 6280855.612 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "FID_1": 115, "Id": 0, "Nom": "C118.11", "Adresse": "Rond point René Char", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAI", "LIBSQUART": "Mosson", "Année": 2011 }, "geometry": { "type": "Point", "coordinates": [ 766734.27000000328, 6281001.0698999986 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "FID_1": 15, "Id": 0, "Nom": "C64.04", "Adresse": "Avenue Albert Einstein", "QUARTMNO": "MI", "LIBQUART": "MILLENAIRE", "SQUARTMNO": "MIG", "LIBSQUART": "Grammont", "Année": 2004 }, "geometry": { "type": "Point", "coordinates": [ 775105.45359999686, 6279680.6724000014 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "FID_1": 27, "Id": 0, "Nom": "C60.04", "Adresse": "Voie Domitienne", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCB", "LIBSQUART": "Boutonnet", "Année": 2004 }, "geometry": { "type": "Point", "coordinates": [ 769280.78880000114, 6280560.949000001 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "FID_1": 109, "Id": 0, "Nom": "C102.07", "Adresse": "Faubourg Saint Jaumes", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCB", "LIBSQUART": "Boutonnet", "Année": 2007 }, "geometry": { "type": "Point", "coordinates": [ 770209.65890000015, 6279981.5561 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "FID_1": 62, "Id": 0, "Nom": "C13.00", "Adresse": "Allée des Républicains espagnols", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCX", "LIBSQUART": "Les Beaux - Arts", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 771214.65619999915, 6279670.879 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "FID_1": 63, "Id": 0, "Nom": "C14.00", "Adresse": "Place du 11 Novembre", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCX", "LIBSQUART": "Les Beaux - Arts", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 771303.72739999741, 6279929.4305 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "FID_1": 64, "Id": 0, "Nom": "C15.00", "Adresse": "Place Albert 1er", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCX", "LIBSQUART": "Les Beaux - Arts", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 770637.44879999757, 6280081.112199999 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "FID_1": 72, "Id": 0, "Nom": "C33.02", "Adresse": "Rue de l'Aiguillerie", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCX", "LIBSQUART": "Les Beaux - Arts", "Année": 2002 }, "geometry": { "type": "Point", "coordinates": [ 770992.19789999723, 6279634.459899999 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "FID_1": 89, "Id": 0, "Nom": "C68.04", "Adresse": "Rue du Pila Saint Gely", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCX", "LIBSQUART": "Les Beaux - Arts", "Année": 2004 }, "geometry": { "type": "Point", "coordinates": [ 771084.58739999682, 6279819.1777000017 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "FID_1": 90, "Id": 0, "Nom": "C69.04", "Adresse": "Quai du Verdanson", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCX", "LIBSQUART": "Les Beaux - Arts", "Année": 2004 }, "geometry": { "type": "Point", "coordinates": [ 770843.01410000026, 6279962.4756 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "FID_1": 92, "Id": 0, "Nom": "C72.05", "Adresse": "Place de la Chapelle Neuve", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCX", "LIBSQUART": "Les Beaux - Arts", "Année": 2005 }, "geometry": { "type": "Point", "coordinates": [ 770992.02870000154, 6279721.4708000012 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "FID_1": 107, "Id": 0, "Nom": "C100.07", "Adresse": "Rue Proudhon", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCX", "LIBSQUART": "Les Beaux - Arts", "Année": 2007 }, "geometry": { "type": "Point", "coordinates": [ 771131.05860000104, 6280044.3126000017 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "FID_1": 110, "Id": 0, "Nom": "C103.07", "Adresse": "Corum\/Station Tramway", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCX", "LIBSQUART": "Les Beaux - Arts", "Année": 2007 }, "geometry": { "type": "Point", "coordinates": [ 771184.77950000018, 6279867.1865000017 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "FID_1": 112, "Id": 0, "Nom": "C113.08", "Adresse": "Boulevard Louis Blanc", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCX", "LIBSQUART": "Les Beaux - Arts", "Année": 2008 }, "geometry": { "type": "Point", "coordinates": [ 770852.4124, 6279931.3477 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "FID_1": 16, "Id": 0, "Nom": "C87.06", "Adresse": "Pompignane", "QUARTMNO": "MI", "LIBQUART": "MILLENAIRE", "SQUARTMNO": "MIP", "LIBSQUART": "La Pompignane", "Année": 2006 }, "geometry": { "type": "Point", "coordinates": [ 772450.77160000056, 6280305.8229999989 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "FID_1": 119, "Id": 0, "Nom": "C123.11", "Adresse": "Rond-point du Zenith", "QUARTMNO": "MI", "LIBQUART": "MILLENAIRE", "SQUARTMNO": "MIL", "LIBSQUART": "Millénaire", "Année": 2011 }, "geometry": { "type": "Point", "coordinates": [ 775014.01479999721, 6279243.1975000016 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "FID_1": 116, "Id": 0, "Nom": "C120.11", "Adresse": "Carrefour Paul-Henri SPAAK", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAC", "LIBSQUART": "Celleneuve", "Année": 2011 }, "geometry": { "type": "Point", "coordinates": [ 766295.0503000021, 6279932.285 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "FID_1": 66, "Id": 0, "Nom": "C24.00", "Adresse": "Rue Hilaire Ricard", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCA", "LIBSQUART": "Les Arceaux", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 770108.0493, 6279585.135299999 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "FID_1": 71, "Id": 0, "Nom": "C32.02", "Adresse": "Place Leroy Beaulieu", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCA", "LIBSQUART": "Les Arceaux", "Année": 2002 }, "geometry": { "type": "Point", "coordinates": [ 770007.65720000118, 6279260.3795000017 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "FID_1": 50, "Id": 0, "Nom": "C01.00", "Adresse": "Place des Martyrs de la Résistance", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCH", "LIBSQUART": "Centre Historique", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 770812.32249999791, 6279457.5579 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "FID_1": 51, "Id": 0, "Nom": "C02.00", "Adresse": "Place Jean Jaurès", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCH", "LIBSQUART": "Centre Historique", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 770833.07069999725, 6279394.9573 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "FID_1": 60, "Id": 0, "Nom": "C11.00", "Adresse": "Place Giral", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCH", "LIBSQUART": "Centre Historique", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 770385.02329999954, 6279428.3524000011 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "FID_1": 68, "Id": 0, "Nom": "C29.00", "Adresse": "Place du marché aux fleurs", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCH", "LIBSQUART": "Centre Historique", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 770833.34220000356, 6279513.7509999983 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "FID_1": 73, "Id": 0, "Nom": "C34.02", "Adresse": "Rue de l'Huile", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCH", "LIBSQUART": "Centre Historique", "Année": 2002 }, "geometry": { "type": "Point", "coordinates": [ 770575.36900000274, 6279400.4866999984 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "FID_1": 74, "Id": 0, "Nom": "C35.02", "Adresse": "Rue du Palais des Guilhem", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCH", "LIBSQUART": "Centre Historique", "Année": 2002 }, "geometry": { "type": "Point", "coordinates": [ 770609.03980000317, 6279540.9529 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "FID_1": 76, "Id": 0, "Nom": "C41.02", "Adresse": "Rue du Cannau", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCH", "LIBSQUART": "Centre Historique", "Année": 2002 }, "geometry": { "type": "Point", "coordinates": [ 770902.63549999893, 6279588.401 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "FID_1": 79, "Id": 0, "Nom": "C49.03", "Adresse": "Rue Foch", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCH", "LIBSQUART": "Centre Historique", "Année": 2003 }, "geometry": { "type": "Point", "coordinates": [ 770561.16669999808, 6279505.8381000012 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "FID_1": 88, "Id": 0, "Nom": "C67.04", "Adresse": "Rue Bonnier d'Alco", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCH", "LIBSQUART": "Centre Historique", "Année": 2004 }, "geometry": { "type": "Point", "coordinates": [ 770767.22890000045, 6279592.8614 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "FID_1": 93, "Id": 0, "Nom": "C73.05", "Adresse": "Rue Saint Pierre", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCH", "LIBSQUART": "Centre Historique", "Année": 2005 }, "geometry": { "type": "Point", "coordinates": [ 770643.1595999971, 6279646.3436000012 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "FID_1": 94, "Id": 0, "Nom": "C74.05", "Adresse": "Boulevard Henri IV", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCH", "LIBSQUART": "Centre Historique", "Année": 2005 }, "geometry": { "type": "Point", "coordinates": [ 770476.34560000151, 6279704.77 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "FID_1": 98, "Id": 0, "Nom": "C78.05", "Adresse": "Rue Foch", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCH", "LIBSQUART": "Centre Historique", "Année": 2005 }, "geometry": { "type": "Point", "coordinates": [ 770451.42570000142, 6279522.2982 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "FID_1": 100, "Id": 0, "Nom": "C88.06", "Adresse": "Faubourg du Courreau", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCH", "LIBSQUART": "Centre Historique", "Année": 2006 }, "geometry": { "type": "Point", "coordinates": [ 770323.5999, 6279210.516899999 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "FID_1": 103, "Id": 0, "Nom": "C91.06", "Adresse": "Rue de lCandolle", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCH", "LIBSQUART": "Centre Historique", "Année": 2006 }, "geometry": { "type": "Point", "coordinates": [ 770743.42379999906, 6279737.9723999985 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "FID_1": 104, "Id": 0, "Nom": "C92.06", "Adresse": "Rue de l'Université", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCH", "LIBSQUART": "Centre Historique", "Année": 2006 }, "geometry": { "type": "Point", "coordinates": [ 770845.63960000128, 6279858.081 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "FID_1": 123, "Id": 0, "Nom": "C115.09", "Adresse": "Place d'Aviler", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCH", "LIBSQUART": "Centre Historique", "Année": 2009 }, "geometry": { "type": "Point", "coordinates": [ 770451.75900000334, 6279603.0561 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "FID_1": 124, "Id": 0, "Nom": "C116.09", "Adresse": "Place Pierre Flotte", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCH", "LIBSQUART": "Centre Historique", "Année": 2009 }, "geometry": { "type": "Point", "coordinates": [ 770155.57419999689, 6279397.48 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "FID_1": 61, "Id": 0, "Nom": "C12.00", "Adresse": "Place Paul Bec", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCN", "LIBSQUART": "Antigone", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 771569.20220000297, 6279196.5047000013 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "FID_1": 70, "Id": 0, "Nom": "C31.02", "Adresse": "Rue de Thèbes", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCN", "LIBSQUART": "Antigone", "Année": 2002 }, "geometry": { "type": "Point", "coordinates": [ 771758.16449999809, 6279201.8330999985 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "FID_1": 83, "Id": 0, "Nom": "C58.03", "Adresse": "Pont de Chauliac", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCN", "LIBSQUART": "Antigone", "Année": 2003 }, "geometry": { "type": "Point", "coordinates": [ 772434.88700000197, 6279297.7822000012 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "FID_1": 84, "Id": 0, "Nom": "C61.04", "Adresse": "Place de Thessalie", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCN", "LIBSQUART": "Antigone", "Année": 2004 }, "geometry": { "type": "Point", "coordinates": [ 771947.23579999804, 6279176.3911 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "FID_1": 52, "Id": 0, "Nom": "C82.05", "Adresse": "Place de la Comédie", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCC", "LIBSQUART": "Comédie", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 771039.4485, 6279214.421399999 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "FID_1": 53, "Id": 0, "Nom": "C04.00", "Adresse": "Place de la Comédie", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCC", "LIBSQUART": "Comédie", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 771168.91939999908, 6279326.673599999 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "FID_1": 57, "Id": 0, "Nom": "C08.00", "Adresse": "Rue de Verdun", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCC", "LIBSQUART": "Comédie", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 771124.22160000354, 6279064.1384 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "FID_1": 65, "Id": 0, "Nom": "C23.00", "Adresse": "Rue Saint Côme", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCC", "LIBSQUART": "Comédie", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 770737.38759999722, 6279215.4373999983 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "FID_1": 69, "Id": 0, "Nom": "C30.02", "Adresse": "Rue Boussairolles", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCC", "LIBSQUART": "Comédie", "Année": 2002 }, "geometry": { "type": "Point", "coordinates": [ 771132.48359999806, 6279199.0099 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "FID_1": 75, "Id": 0, "Nom": "C40.02", "Adresse": "Hôtel de Ville", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCC", "LIBSQUART": "Comédie", "Année": 2002 }, "geometry": { "type": "Point", "coordinates": [ 771384.59200000018, 6279361.9496 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "FID_1": 77, "Id": 0, "Nom": "C42.02", "Adresse": "Passage Bruyas", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCC", "LIBSQUART": "Comédie", "Année": 2002 }, "geometry": { "type": "Point", "coordinates": [ 771078.05879999697, 6279309.777899999 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "FID_1": 78, "Id": 0, "Nom": "C43.02", "Adresse": "Place Molière", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCC", "LIBSQUART": "Comédie", "Année": 2002 }, "geometry": { "type": "Point", "coordinates": [ 770898.05860000104, 6279129.3554 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "FID_1": 85, "Id": 0, "Nom": "C62.04", "Adresse": "Passage de l'Horloge", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCC", "LIBSQUART": "Comédie", "Année": 2004 }, "geometry": { "type": "Point", "coordinates": [ 771348.96940000355, 6279243.5298000015 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "FID_1": 86, "Id": 0, "Nom": "C65.04", "Adresse": "Grand rue Jean Moulin", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCC", "LIBSQUART": "Comédie", "Année": 2004 }, "geometry": { "type": "Point", "coordinates": [ 770872.43659999967, 6279171.059599999 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "FID_1": 87, "Id": 0, "Nom": "C66.04", "Adresse": "Rue Valedau", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCC", "LIBSQUART": "Comédie", "Année": 2004 }, "geometry": { "type": "Point", "coordinates": [ 770994.07249999791, 6279394.5923000015 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "FID_1": 91, "Id": 0, "Nom": "C71.05", "Adresse": "Place Fancis Ponge", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCC", "LIBSQUART": "Comédie", "Année": 2005 }, "geometry": { "type": "Point", "coordinates": [ 771407.41070000082, 6279288.8218999989 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "FID_1": 96, "Id": 0, "Nom": "C76.05", "Adresse": "Rue de l'Aiguillerie", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCC", "LIBSQUART": "Comédie", "Année": 2005 }, "geometry": { "type": "Point", "coordinates": [ 770895.08669999987, 6279465.3898 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "FID_1": 97, "Id": 0, "Nom": "C77.05", "Adresse": "Esplanade Charles de Gaulle", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCC", "LIBSQUART": "Comédie", "Année": 2005 }, "geometry": { "type": "Point", "coordinates": [ 771178.73319999874, 6279458.7221 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "FID_1": 99, "Id": 0, "Nom": "C03.00", "Adresse": "Théatre de la Comédie", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCC", "LIBSQUART": "Comédie", "Année": 2005 }, "geometry": { "type": "Point", "coordinates": [ 771017.70440000296, 6279196.5425999984 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "FID_1": 14, "Id": 0, "Nom": "C56.03", "Adresse": "Rue de Vendémiaire", "QUARTMNO": "MI", "LIBQUART": "MILLENAIRE", "SQUARTMNO": "MIP", "LIBSQUART": "Port Marianne", "Année": 2003 }, "geometry": { "type": "Point", "coordinates": [ 772580.54869999737, 6278639.3779 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "FID_1": 106, "Id": 0, "Nom": "C99.07", "Adresse": "Pont Juvénal", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTREAIRE", "SQUARTMNO": "MIP", "LIBSQUART": "Port Marianne", "Année": 2007 }, "geometry": { "type": "Point", "coordinates": [ 772474.91019999981, 6279007.315299999 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "FID_1": 117, "Id": 0, "Nom": "C121.11", "Adresse": "Pont Jean Zuccarelli", "QUARTMNO": "MI", "LIBQUART": "MILLENAIRE", "SQUARTMNO": "MIP", "LIBSQUART": "Port Marianne", "Année": 2011 }, "geometry": { "type": "Point", "coordinates": [ 772378.50310000032, 6278340.6977000013 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "FID_1": 118, "Id": 0, "Nom": "C122.11", "Adresse": "Avenue Professeur Etienne Antonnelli", "QUARTMNO": "MI", "LIBQUART": "MILLENAIRE", "SQUARTMNO": "MIP", "LIBSQUART": "Port Marianne", "Année": 2011 }, "geometry": { "type": "Point", "coordinates": [ 772317.71809999645, 6278272.6215 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "FID_1": 120, "Id": 0, "Nom": "C124.11", "Adresse": "Place Odysseum", "QUARTMNO": "MI", "LIBQUART": "MILLENAIRE", "SQUARTMNO": "MIP", "LIBSQUART": "Port Marianne", "Année": 2011 }, "geometry": { "type": "Point", "coordinates": [ 773683.68110000342, 6278725.9450999983 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "FID_1": 121, "Id": 0, "Nom": "C125.11", "Adresse": "Boulevard de Pénélope", "QUARTMNO": "MI", "LIBQUART": "MILLENAIRE", "SQUARTMNO": "MIP", "LIBSQUART": "Port Marianne", "Année": 2011 }, "geometry": { "type": "Point", "coordinates": [ 774390.46609999985, 6278567.4910999984 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "FID_1": 122, "Id": 0, "Nom": "C126.11", "Adresse": "Lycée Mendes France", "QUARTMNO": "MI", "LIBQUART": "MILLENAIRE", "SQUARTMNO": "MIP", "LIBSQUART": "Port Marianne", "Année": 2011 }, "geometry": { "type": "Point", "coordinates": [ 774317.93919999897, 6278282.1424 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "FID_1": 59, "Id": 0, "Nom": "C10.00", "Adresse": "Boulevard du Jeu de Paume", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCG", "LIBSQUART": "Gambetta", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 770496.40139999986, 6279219.7401 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "FID_1": 81, "Id": 0, "Nom": "C51.03", "Adresse": "Place Saint Denis", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCG", "LIBSQUART": "Gambetta", "Année": 2003 }, "geometry": { "type": "Point", "coordinates": [ 770643.12319999933, 6278866.4409000017 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "FID_1": 95, "Id": 0, "Nom": "C75.05", "Adresse": "Avenue Georges Clemenceau", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCG", "LIBSQUART": "Gambetta", "Année": 2005 }, "geometry": { "type": "Point", "coordinates": [ 770328.53930000216, 6278576.8024 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "FID_1": 101, "Id": 0, "Nom": "C89.06", "Adresse": "Cours Gambetta", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCG", "LIBSQUART": "Gambetta", "Année": 2006 }, "geometry": { "type": "Point", "coordinates": [ 770091.87349999696, 6279236.8946999982 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "FID_1": 105, "Id": 0, "Nom": "C93.06", "Adresse": "Rue Rondelet", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCG", "LIBSQUART": "Gambetta", "Année": 2006 }, "geometry": { "type": "Point", "coordinates": [ 770669.04879999906, 6278627.305 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "FID_1": 67, "Id": 0, "Nom": "C27.00", "Adresse": "Rue Coppée", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCF", "LIBSQUART": "Figuerolles", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 769393.68829999864, 6278804.9063 ] } }
+,
+{ "type": "Feature", "id": 100, "properties": { "FID_1": 82, "Id": 0, "Nom": "C52.03", "Adresse": "Place Salengro", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCF", "LIBSQUART": "Figuerolles", "Année": 2003 }, "geometry": { "type": "Point", "coordinates": [ 769999.38910000026, 6279077.8992 ] } }
+,
+{ "type": "Feature", "id": 101, "properties": { "FID_1": 108, "Id": 0, "Nom": "C101.07", "Adresse": "Rue Joachim du Bellay", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCF", "LIBSQUART": "Figuerolles", "Année": 2007 }, "geometry": { "type": "Point", "coordinates": [ 769423.10279999673, 6279016.3176999986 ] } }
+,
+{ "type": "Feature", "id": 102, "properties": { "FID_1": 54, "Id": 0, "Nom": "C05.00", "Adresse": "Place Auguste Gibert", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCS", "LIBSQUART": "Gares", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 771110.03570000082, 6278812.9411000013 ] } }
+,
+{ "type": "Feature", "id": 103, "properties": { "FID_1": 55, "Id": 0, "Nom": "C06.00", "Adresse": "Rue Jules Ferry", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCS", "LIBSQUART": "Gares", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 771088.54219999909, 6278813.8786000013 ] } }
+,
+{ "type": "Feature", "id": 104, "properties": { "FID_1": 56, "Id": 0, "Nom": "C07.00", "Adresse": "Rue du Grand Saint Jean", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCS", "LIBSQUART": "Gares", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 770907.68219999969, 6278761.6959 ] } }
+,
+{ "type": "Feature", "id": 105, "properties": { "FID_1": 58, "Id": 0, "Nom": "C09.00", "Adresse": "Boulevard de l'Observatoire", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCS", "LIBSQUART": "Gares", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 770838.48359999806, 6278952.028999999 ] } }
+,
+{ "type": "Feature", "id": 106, "properties": { "FID_1": 80, "Id": 0, "Nom": "C50.03", "Adresse": "Place François Jaume", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCS", "LIBSQUART": "Gares", "Année": 2003 }, "geometry": { "type": "Point", "coordinates": [ 771386.89639999717, 6278865.0414999984 ] } }
+,
+{ "type": "Feature", "id": 107, "properties": { "FID_1": 102, "Id": 0, "Nom": "C90.06", "Adresse": "Rue Aristide Ollivier", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCS", "LIBSQUART": "Gares", "Année": 2006 }, "geometry": { "type": "Point", "coordinates": [ 771264.23950000107, 6279001.9932 ] } }
+,
+{ "type": "Feature", "id": 108, "properties": { "FID_1": 111, "Id": 0, "Nom": "C112.08", "Adresse": "Pont de Lattes", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCS", "LIBSQUART": "Gares", "Année": 2008 }, "geometry": { "type": "Point", "coordinates": [ 771259.45549999923, 6278893.3636999987 ] } }
+,
+{ "type": "Feature", "id": 109, "properties": { "FID_1": 114, "Id": 0, "Nom": "C117.11", "Adresse": "Pont de Sète", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "MCS", "LIBSQUART": "Gares", "Année": 2011 }, "geometry": { "type": "Point", "coordinates": [ 771027.96010000259, 6278646.4201 ] } }
+,
+{ "type": "Feature", "id": 110, "properties": { "FID_1": 5, "Id": 0, "Nom": "C108.08", "Adresse": "Rond point Flandres Dunkerque", "QUARTMNO": "CX", "LIBQUART": "CROIX D ARGENT", "SQUARTMNO": "CXE", "LIBSQUART": "Estanove", "Année": 2008 }, "geometry": { "type": "Point", "coordinates": [ 769126.68980000168, 6277184.1464999989 ] } }
+,
+{ "type": "Feature", "id": 111, "properties": { "FID_1": 30, "Id": 0, "Nom": "C107.08", "Adresse": "Route de Lavérune", "QUARTMNO": "CV", "LIBQUART": "LES CEVENNES", "SQUARTMNO": "CVA", "LIBSQUART": "Estanove", "Année": 2008 }, "geometry": { "type": "Point", "coordinates": [ 768730.43079999834, 6278381.3869999982 ] } }
+,
+{ "type": "Feature", "id": 112, "properties": { "FID_1": 12, "Id": 0, "Nom": "C63.04", "Adresse": "Rond point Près d'Arènes", "QUARTMNO": "PR", "LIBQUART": "PRES D ARENES", "SQUARTMNO": "PRA", "LIBSQUART": "Aiguerelles", "Année": 2004 }, "geometry": { "type": "Point", "coordinates": [ 771957.1963, 6277105.1898000017 ] } }
+,
+{ "type": "Feature", "id": 113, "properties": { "FID_1": 10, "Id": 0, "Nom": "C22.00", "Adresse": "Rue Vachet", "QUARTMNO": "PR", "LIBQUART": "PRES D ARENES", "SQUARTMNO": "PRM", "LIBSQUART": "Saint Martin", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 771488.04360000044, 6277428.4853 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "FID_1": 11, "Id": 0, "Nom": "C57.04", "Adresse": "Rue des Razeteurs", "QUARTMNO": "PR", "LIBQUART": "PRES D ARENES", "SQUARTMNO": "PRM", "LIBSQUART": "Saint Martin", "Année": 2004 }, "geometry": { "type": "Point", "coordinates": [ 771445.50840000063, 6277810.4836000018 ] } }
+,
+{ "type": "Feature", "id": 115, "properties": { "FID_1": 8, "Id": 0, "Nom": "C25.00", "Adresse": "Avenue Pedro de Luna", "QUARTMNO": "CX", "LIBQUART": "CROIX D ARGENT", "SQUARTMNO": "CXM", "LIBSQUART": "Lemasson", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 770142.10670000315, 6277788.5883999988 ] } }
+,
+{ "type": "Feature", "id": 116, "properties": { "FID_1": 9, "Id": 0, "Nom": "C86.06", "Adresse": "Place du 8 mai 1945", "QUARTMNO": "CX", "LIBQUART": "CROIX D ARGENT", "SQUARTMNO": "CXM", "LIBSQUART": "Lemasson", "Année": 2006 }, "geometry": { "type": "Point", "coordinates": [ 770122.84759999812, 6278377.1345 ] } }
+,
+{ "type": "Feature", "id": 117, "properties": { "FID_1": 0, "Id": 0, "Nom": "C28.00", "Adresse": "Avenue de Vanières", "QUARTMNO": "CX", "LIBQUART": "CROIX D ARGENT", "SQUARTMNO": "CXP", "LIBSQUART": "Pas du Loup", "Année": 2000 }, "geometry": { "type": "Point", "coordinates": [ 768114.32370000333, 6277943.4131999984 ] } }
+,
+{ "type": "Feature", "id": 118, "properties": { "FID_1": 1, "Id": 0, "Nom": "C39.02", "Adresse": "Rue du Pas du Loup", "QUARTMNO": "CX", "LIBQUART": "CROIX D ARGENT", "SQUARTMNO": "CXP", "LIBSQUART": "Pas du Loup", "Année": 2002 }, "geometry": { "type": "Point", "coordinates": [ 768421.8981000036, 6278195.305199999 ] } }
+,
+{ "type": "Feature", "id": 119, "properties": { "FID_1": 2, "Id": 0, "Nom": "C53.03", "Adresse": "Place Fourier", "QUARTMNO": "CX", "LIBQUART": "CROIX D ARGENT", "SQUARTMNO": "CXP", "LIBSQUART": "Pas du Loup", "Année": 2003 }, "geometry": { "type": "Point", "coordinates": [ 768082.07209999859, 6277564.8488 ] } }
+,
+{ "type": "Feature", "id": 120, "properties": { "FID_1": 6, "Id": 0, "Nom": "C109.08", "Adresse": "Cité Paul Valery", "QUARTMNO": "CX", "LIBQUART": "CROIX D ARGENT", "SQUARTMNO": "CXP", "LIBSQUART": "Pas du Loup", "Année": 2008 }, "geometry": { "type": "Point", "coordinates": [ 768166.5372999981, 6278131.498300001 ] } }
+,
+{ "type": "Feature", "id": 121, "properties": { "FID_1": 7, "Id": 0, "Nom": "C110.08", "Adresse": "Val de Croze", "QUARTMNO": "CX", "LIBQUART": "CROIX D ARGENT", "SQUARTMNO": "CXP", "LIBSQUART": "Pas du Loup", "Année": 2008 }, "geometry": { "type": "Point", "coordinates": [ 767909.61599999666, 6277560.7188999988 ] } }
+,
+{ "type": "Feature", "id": 122, "properties": { "FID_1": 3, "Id": 0, "Nom": "C54.03", "Adresse": "Avenue Villeneuve d'Angoulême", "QUARTMNO": "CX", "LIBQUART": "CROIX D ARGENT", "SQUARTMNO": "CXA", "LIBSQUART": "Lemasson", "Année": 2003 }, "geometry": { "type": "Point", "coordinates": [ 769952.07660000026, 6277248.5780000016 ] } }
+,
+{ "type": "Feature", "id": 123, "properties": { "FID_1": 4, "Id": 0, "Nom": "C98.07", "Adresse": "Rue Colucci", "QUARTMNO": "CX", "LIBQUART": "CROIX D ARGENT", "SQUARTMNO": "CXA", "LIBSQUART": "Lemasson", "Année": 2007 }, "geometry": { "type": "Point", "coordinates": [ 769936.17170000076, 6276955.0064999983 ] } }
+,
+{ "type": "Feature", "id": 124, "properties": { "FID_1": 13, "Id": 0, "Nom": "C111.08", "Adresse": "Rond point Tournezy", "QUARTMNO": "PR", "LIBQUART": "PRES D ARENES", "SQUARTMNO": "PRE", "LIBSQUART": "Près d'Arènes", "Année": 2008 }, "geometry": { "type": "Point", "coordinates": [ 771207.74920000136, 6276194.0042 ] } }
+,
+{ "type": "Feature", "id": 125, "properties": { "FID_1": 119, "Id": 0, "Nom": "C119.11", "Adresse": "Avenue de l'Europe", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "PAH", "LIBSQUART": "Les Hauts de Massane", "Année": 2011 }, "geometry": { "type": "Point", "coordinates": [ 766407.15420000255, 6282051.938000001 ] } }
+,
+{ "type": "Feature", "id": 126, "properties": { "FID_1": 0, "Id": 0, "Nom": "C127.12", "Adresse": "Stade de la Mosson\/Heidelberg", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "MOS", "LIBSQUART": "Mosson", "Année": 2012 }, "geometry": { "type": "Point", "coordinates": [ 765528.48189999908, 6280862.036699999 ] } }
+,
+{ "type": "Feature", "id": 127, "properties": { "FID_1": 0, "Id": 0, "Nom": "C128.12", "Adresse": "Stade de la Mosson\/Surville", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "MOS", "LIBSQUART": "Mosson", "Année": 2012 }, "geometry": { "type": "Point", "coordinates": [ 765649.3273999989, 6280757.3039 ] } }
+,
+{ "type": "Feature", "id": 128, "properties": { "FID_1": 0, "Id": 0, "Nom": "C129.12", "Adresse": "Stade de la Mosson\/Espace Mosson", "QUARTMNO": "MO", "LIBQUART": "MOSSON", "SQUARTMNO": "MOS", "LIBSQUART": "Mosson", "Année": 2012 }, "geometry": { "type": "Point", "coordinates": [ 765831.93840000033, 6280545.152899999 ] } }
+,
+{ "type": "Feature", "id": 129, "properties": { "FID_1": 0, "Id": 0, "Nom": "C130.12", "Adresse": "Av de Lodève\/Av du Petit Bard", "QUARTMNO": "CV", "LIBQUART": "LES CEVENNES", "SQUARTMNO": "CVA", "LIBSQUART": "Alco", "Année": 2012 }, "geometry": { "type": "Point", "coordinates": [ 767488.86490000039, 6279833.506999999 ] } }
+,
+{ "type": "Feature", "id": 130, "properties": { "FID_1": 0, "Id": 0, "Nom": "C131.12", "Adresse": "Rd-Pt de l'Oasis", "QUARTMNO": "CV", "LIBQUART": "LES CEVENNES", "SQUARTMNO": "CVA", "LIBSQUART": "Alco", "Année": 2012 }, "geometry": { "type": "Point", "coordinates": [ 767419.04309999943, 6280069.8271000013 ] } }
+,
+{ "type": "Feature", "id": 131, "properties": { "FID_1": 0, "Id": 0, "Nom": "C132.12", "Adresse": "Av des Garrats\/Av de Lodève", "QUARTMNO": "CV", "LIBQUART": "LES CEVENNES", "SQUARTMNO": "CVA", "LIBSQUART": "Alco", "Année": 2012 }, "geometry": { "type": "Point", "coordinates": [ 767722.49960000068, 6279744.8869 ] } }
+,
+{ "type": "Feature", "id": 132, "properties": { "FID_1": 0, "Id": 0, "Nom": "C133.12", "Adresse": "Rd-Pt d'Alco\/Av du Professeur Blayac", "QUARTMNO": "CV", "LIBQUART": "LES CEVENNES", "SQUARTMNO": "CVA", "LIBSQUART": "Alco", "Année": 2012 }, "geometry": { "type": "Point", "coordinates": [ 767316.99570000172, 6280741.191199999 ] } }
+,
+{ "type": "Feature", "id": 133, "properties": { "FID_1": 0, "Id": 0, "Nom": "C134.12", "Adresse": "Rd-Pt d'Alco\/Av des Moulins", "QUARTMNO": "CV", "LIBQUART": "LES CEVENNES", "SQUARTMNO": "CVA", "LIBSQUART": "Alco", "Année": 2012 }, "geometry": { "type": "Point", "coordinates": [ 767577.484999999, 6281098.356899999 ] } }
+,
+{ "type": "Feature", "id": 134, "properties": { "FID_1": 0, "Id": 0, "Nom": "C135.12", "Adresse": "Chemin de Moularès\/Av du Prof. Antonelli", "QUARTMNO": "MI", "LIBQUART": "MILLENAIRE", "SQUARTMNO": "MIP", "LIBSQUART": "Port Marianne", "Année": 2012 }, "geometry": { "type": "Point", "coordinates": [ 772191.34899999946, 6278225.6393 ] } }
+,
+{ "type": "Feature", "id": 135, "properties": { "FID_1": 0, "Id": 0, "Nom": "C136.12", "Adresse": "Place Ernest Granier", "QUARTMNO": "MI", "LIBQUART": "MILLENAIRE", "SQUARTMNO": "MIP", "LIBSQUART": "Port Marianne", "Année": 2012 }, "geometry": { "type": "Point", "coordinates": [ 772761.9747999981, 6278531.0918999985 ] } }
+,
+{ "type": "Feature", "id": 136, "properties": { "FID_1": 0, "Id": 0, "Nom": "C137.12", "Adresse": "Av Raymond Dugrand\/Bassin Jacques Coeur", "QUARTMNO": "MI", "LIBQUART": "MILLENAIRE", "SQUARTMNO": "MIP", "LIBSQUART": "Port Marianne", "Année": 2012 }, "geometry": { "type": "Point", "coordinates": [ 772822.39400000125, 6278269.2754000016 ] } }
+,
+{ "type": "Feature", "id": 137, "properties": { "FID_1": 0, "Id": 0, "Nom": "C138.12", "Adresse": "Rd-Pt Pablo Picasso", "QUARTMNO": "MI", "LIBQUART": "MILLENAIRE", "SQUARTMNO": "MIP", "LIBSQUART": "Port Marianne", "Année": 2012 }, "geometry": { "type": "Point", "coordinates": [ 772933.16250000149, 6278088.0178 ] } }
+,
+{ "type": "Feature", "id": 138, "properties": { "FID_1": 0, "Id": 0, "Nom": "C139.12", "Adresse": "Pont de la République", "QUARTMNO": "MI", "LIBQUART": "MILLENAIRE", "SQUARTMNO": "MIP", "LIBSQUART": "Port Marianne", "Année": 2012 }, "geometry": { "type": "Point", "coordinates": [ 772641.13639999926, 6277943.6829999983 ] } }
+,
+{ "type": "Feature", "id": 139, "properties": { "FID_1": 0, "Id": 0, "Nom": "C140.12", "Adresse": "Place Edouard Adam", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "ECU", "LIBSQUART": "Ecusson", "Année": 2012 }, "geometry": { "type": "Point", "coordinates": [ 770720.13459999859, 6278990.6785 ] } }
+,
+{ "type": "Feature", "id": 140, "properties": { "FID_1": 0, "Id": 0, "Nom": "C141.12", "Adresse": "Rue André Michel\/Bvd Jeu de Paume", "QUARTMNO": "MC", "LIBQUART": "MONTPELLIER CENTRE", "SQUARTMNO": "ECU", "LIBSQUART": "Ecusson", "Année": 2012 }, "geometry": { "type": "Point", "coordinates": [ 770600.68680000305, 6279123.1097000018 ] } }
+
+]
+}
