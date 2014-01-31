@@ -347,89 +347,87 @@ Nous travaillons actuellement sur la version 2011 de l’orthophoto et tenons à
 
 Il différencie pour chacun des tronçons le type de voie, à savoir voie bidirectionnelle, voie unidirectionnelle, voie fléchée, voie verte et couloir de bus cyclable. Sur ce dernier type de voie (couloir de bus), les données ne sont pas entièrement fiables à cause des travaux liés aux futures lignes 3 et 4 du tramway, de fait elles ont été marquées en rouge sur le fichier .kml.","Transport","Transport","Ville de Montpellier","Ville de Montpellier","","Ville de Montpellier","français","05.12.2011","Annuelle","2013-04-05","piste cyclables ; vélo ; mobilité ; transport ; déplacement ; montpellier","LICENCE OUVERTE / OPEN LICENCE","http://opendata.montpelliernumerique.fr/Pistes-cyclables" 
      57,"pub","Zones piétonnes","VilleMTP_MTP_ZonePietonne_2011","Ce fichier surfacique renseigne l'emplacement des zones piétonnes de la commune. Une zone piétonne se définit comme l'ensemble des rues sur lesquelles la circulation est réservée prioritairement aux piétons et aux cyclistes.","Urbanisme","Planification, cadastre","Ville de Montpellier","Ville de Montpellier","","Ville de Montpellier","français","07.11.2011","Annuelle","2011-11-07","piéton ; centre ville ; mobilité ; zone piétonne ; zone piétonnière ; montpellier","LICENCE OUVERTE / OPEN LICENCE","http://opendata.montpelliernumerique.fr/Zones-pietonnes" 
-     56,"pub","Stationnement payant en voirie","VilleMTP_MTP_TarifStaVoies_2011","Cette donnée renseigne la tarification en vigueur par rue selon les trois zones de stationnement (verte, orange et jaune). De plus, pour toutes les rues le fichier renseigne le sens de circulation. 
+     56,"pub","Stationnement payant en voirie","VilleMTP_MTP_TarifStaVoies","Cette donnée renseigne la tarification en vigueur par rue selon les trois zones de stationnement (verte, orange et jaune). De plus, pour toutes les rues le fichier renseigne le sens de circulation. 
+
+La donnée  VilleMTP_MTP_TarifStaVoies  a été réalisée à partir de la donnée filaire de voirie (VilleMTP_MTP_FilaireVoies). 
+
+Deux champs ont été créés et enrichis sur le thème  tarification du stationnement payant sur voirie  :  tarifs2011 = Tarification du stationnement payant sur voirie appliquée en 2011 (verte/orange/jaune) 
+
+et  tarprojph1  = Tarification du stationnement payant sur voirie appliquée en 2014 (verte/orange/jaune) 
 
 Zone jaune  Courte durée  limitée à 2 heures 
 
-Tarif normal : 
+Tarif normal 1/2h 1,00 € 
 
-1ère demi-heure : 1 € 
+Tarif normal 45min 1,50 € 
 
-45 minutes : 1.50 € 
+Tarif normal 1h 2,00 € 
 
-1 heure : 2 € 
+Tarif normal 1h15 2,50 € 
 
-1 heure 15 : 2.50 € 
+Tarif normal 1h30 3,00 € 
 
-1 heure 30 : 3 € 
+Tarif normal 1h45 3,50 € 
 
-1 heure 45 : 3.50 € 
+Tarif normal 2h 4,00 € 
 
-2 heures : 4 € 
+Tarif résidant 4h 0,60 € 
 
-Tarif résidants : 
+Tarif résidant 5h 0,70 € 
 
-4 heures : 0.60 € 
+Tarif résidant 1 jour 1,00 € 
 
-5 heures : 0.70 € 
+Tarif résidant 6 jours 4,00 € 
 
-9 heures : 1.30 € 
+Tarif résidant 15 jours 7,50 € 
 
-6 jours : 7.80 € 
+Tarif résident disposant d’un abonnement de transport collectif TAM – Tarif mensuel (nouveau tarif) 7,50 € Carte mensuelle de stationnement 15,00 € 
 
-15 jours : 12.50 € 
+Stationnement payant zone moyenne durée  Orange  limitée à 5 heures : 
 
-Zone orange  Demi-journée  limitée à 5 heures 
+Tarif normal 1h 1,30 € 
 
-Tarif normal : 
+Tarif normal 2h 2,60 € 
 
-1 heure : 1.30 € 
+Tarif normal 3h 3,10 € 
 
-2 heures : 2.60 € 
+Tarif normal 4h 3,60 € 
 
-3 heures : 3.10 € 
+Tarif normal 5h 4,00 € 
 
-4 heures : 3.60 € 
+Tarif résidant 4h 0,60 € 
 
-5 heures : 4 € 
+Tarif résidant 5h 0,70 € 
 
-Tarif résidants : 
+Tarif résidant 1 jour 1,00 € 
 
-4 heures : 0.60 € 
+Tarif résidant 6 jours 4,00 € 
 
-5 heures : 0.70 € 
+Tarif résidant 15 jours 7,50 € 
 
-9 heures : 1.30 € 
+Tarif résident disposant d’un abonnement de transport collectif TAM – Tarif mensuel (nouveau tarif) 7,50 € Carte mensuelle de stationnement (carte à gratter) 15,00 € 
 
-6 jours : 7.80 € 
+Stationnement payant zone longue durée  Verte  limitée à 9 heures : 
 
-15 jours : 12.50 € 
+Tarif normal 1h 0,80 € 
 
-Zone verte  Journée  limitée à 9 heures 
+Tarif normal 2h 1,20 € 
 
-Tarif normal : 
+Tarif normal 3h 1,40 € 
 
-1 heure : 0.80 € 
+Tarif normal 4h 1,50 € 
 
-2 heures : 1.20 € 
+Tarif normal 5h 1,60 € 
 
-3 heures : 1.40 € 
+Tarif normal 6ème heure 1,70 € 
 
-4 heures : 1.50 € 
+Tarif normal 7ème heure 1,80 € 
 
-5 heures : 1.60 € 
+Tarif normal 8ème heure 1,90 € 
 
-6ème heures : 1.70 € 
+Tarif normal 9ème heure 2,00 € 
 
-7ème heures : 1.80 € 
-
-8ème heures : 1.90 € 
-
-9ème heures : 2 € 
-
-Tarif résidants : 
-
-Gratuit pour ce secteur de résidence.","Transport","Transport","Ville de Montpellier","Ville de Montpellier","","Ville de Montpellier","français","07.11.2011","Annuelle","2013-02-12","stationnement ; voirie ; parking ; tarif ; voiture ; montpellier","LICENCE OUVERTE / OPEN LICENCE","http://opendata.montpelliernumerique.fr/Stationnement-payant-en-voirie" 
+Tarif résident disposant d’un abonnement de transport collectif TAM – Tarif mensuel : gratuit","Transport","Transport","Ville de Montpellier","Ville de Montpellier","","Ville de Montpellier","français","07.11.2011","Annuelle","2014-01-30","stationnement ; voirie ; parking ; tarif ; voiture ; montpellier","LICENCE OUVERTE / OPEN LICENCE","http://opendata.montpelliernumerique.fr/Stationnement-payant-en-voirie" 
      55,"pub","Parkings en ouvrage","VilleMTP_MTP_ParkingOuvrage","Cette donnée renseigne l’emplacement des parkings en ouvrage de la commune, ainsi que des informations complémentaires comme le nombre de places, le mode de gestion ou encore l’exploitant.","Transport","Structure, constructions humaines","Ville de Montpellier","Ville de Montpellier","","Ville de Montpellier","français","07.11.2011","Annuelle","2013-07-03","parking ; parking souterrain ; ouvrage ; tarif ; voiture; montpellier","LICENCE OUVERTE / OPEN LICENCE","http://opendata.montpelliernumerique.fr/Parkings-en-ouvrage" 
      54,"pub","Finances locales","VilleMTP_MTP_FinancesLocal_2011","Les finances locales recouvrent l’attribution des principaux concours financiers de l’Etat aux collectivités locales (notamment la dotation globale de fonctionnement et la dotation globale d’équipement) ; les règles et le calcul des compensations financières allouées aux collectivités territoriales en contrepartie des règles de transfert de compétences ainsi que les règles de fixation de la fiscalité locale et de la fiscalité d’Etat partagée avec les collectivités locales.Ces indicateurs généraux, fournis par l'administration, permettent de calculer le montant des aides financières attribuées par l'État à la ville de Montpellier.","Économie","Économie","Ville de Montpellier","Ville de Montpellier","","Ville de Montpellier","français","07.11.2011","Annuelle","2011-11-07","finance ; budget ; dotation ; collectivités ; montpellier","LICENCE OUVERTE / OPEN LICENCE","http://opendata.montpelliernumerique.fr/Finances-locales" 
      53,"pub","Horodateurs","VilleMTP_MTP_Horodateurs_2011","Cette donnée renseigne l’emplacement des horodateurs présents dans les trois zones de stationnement payant (verte, jaune et orange), ainsi que le nombre de places existantes pour chacune des rues. 
