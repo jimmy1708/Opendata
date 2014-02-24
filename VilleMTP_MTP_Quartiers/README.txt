@@ -1,4 +1,4 @@
-﻿   
+   
 
  
 --------------------------------------------------
@@ -11,7 +11,7 @@ Fiche métadonnées
 
 * TITRE : Quartiers
 
-* IDENTIFIANT : VilleMTP_MTP_Quartiers_2011
+* IDENTIFIANT : VilleMTP_MTP_Quartiers
 
 * DESCRIPTION : Cette donnée représente le découpage administratif en quartier de la ville de Montpellier.
 
@@ -23,7 +23,7 @@ Fiche métadonnées
 
 * PÉRIODE VALIDITÉE : Annuelle
 
-* MISE À JOUR : 2011-10-11
+* MISE À JOUR : 2014-02-24
 
 * PRORIÉTAIRE : Ville de Montpellier
 

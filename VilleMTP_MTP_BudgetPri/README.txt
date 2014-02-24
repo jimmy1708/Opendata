@@ -1,4 +1,4 @@
-﻿   
+   
 
  
 --------------------------------------------------
@@ -9,7 +9,7 @@ Fiche métadonnées
 
 * ID : 72
 
-* TITRE : Budget primitif 2013
+* TITRE : Budget primitif
 
 * IDENTIFIANT : VilleMTP_MTP_BudgetPri
 
@@ -31,7 +31,7 @@ Voici les fonctions que l'on retrouve dans les documents budgétaires. Elles cor
 
 *Services généraux *Sécurité et salubrité publique *Enseignement, formation *Culture *Sport et jeunesse *Interventions sociales et santé *Famille *Logement *Aménagements, services urbains et environnement *Action économique 
 
-Les crédits qui ne peuvent être affectés à une fonction en particulier sont présentés dans des chapitres distincts. Il s'agit notamment des frais financiers, qui sont gérés de manière globale, du produit des impôts et des dotations de l'Etat qui ont vocation à financer l'ensemble des dépenses sans distinction. 
+Les crédits qui ne peuvent être affectés à une fonction en particulier sont présentés dans des chapitres distincts. Il s'agit notamment des frais financiers, qui sont gérés de manière globale, du produit des impôts et des dotations de l'Etat qui ont vocation à financer l'ensemble des dépenses sans distinction.
 
 * COUVERTUTE GÉOGRAPHIQUE : Ville de Montpellier
 
@@ -41,7 +41,7 @@ Les crédits qui ne peuvent être affectés à une fonction en particulier sont 
 
 * PÉRIODE VALIDITÉE : Annuelle
 
-* MISE À JOUR : 2013-04-29
+* MISE À JOUR : 2014-02-24
 
 * PRORIÉTAIRE : Ville de Montpellier
 
