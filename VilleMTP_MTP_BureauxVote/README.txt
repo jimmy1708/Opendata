@@ -9,25 +9,13 @@ Fiche métadonnées
 
 * ID : 85
 
-* TITRE : Bureaux de vote
+* URL : http://opendata.montpelliernumerique.fr/Bureaux-de-vote
 
 * IDENTIFIANT : VilleMTP_MTP_BureauxVote
 
+* TITRE : Bureaux de vote
+
 * DESCRIPTION : Cette donnée (surfacique) renseigne l’attachement aux bureaux de vote de la Ville de Montpellier.
-
-* COUVERTUTE GÉOGRAPHIQUE : Ville de Montpellier
-
-* LANGUE : français
-
-* DATE PUBLICATION : 2012-06-21
-
-* PÉRIODE VALIDITÉE : Annuelle
-
-* MISE À JOUR : 2014-01-08
-
-* PRORIÉTAIRE : Ville de Montpellier
-
-* DIFFUSEUR : Ville de Montpellier
 
 * CATÉGORIE : Politique Publique &amp; Démocratie
 
@@ -36,6 +24,24 @@ Fiche métadonnées
 * LICENCE : LICENCE OUVERTE / OPEN LICENCE http://www.etalab.gouv.fr/pages/licence-ouverte-open-licence-5899923.html
 
 * MOTS CLÉS : bureaux de vote ; élection ; découpage électoral ; démocratie ; citoyenneté ; montpellier
+
+* DATE PUBLICATION : 2012-06-21
+
+* MISE À JOUR : 2014-03-13
+
+* COUVERTUTE GÉOGRAPHIQUE : Ville de Montpellier
+
+
+
+* PÉRIODE VALIDITÉE : Annuelle
+
+* PRORIÉTAIRE : Ville de Montpellier
+
+* DIFFUSEUR : Ville de Montpellier
+
+
+
+* LANGUE : français
 
 * TARIFICATION : Gratuite
 

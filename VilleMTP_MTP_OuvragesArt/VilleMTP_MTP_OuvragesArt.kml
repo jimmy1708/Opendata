@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>VilleMTP_MTP_OuvragesArt</name>
+<Schema name="VilleMTP_MTP_OuvragesArt" id="VilleMTP_MTP_OuvragesArt">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="DÉNOMINATI" type="string"></SimpleField>
+	<SimpleField name="VOIE_DE_GE" type="string"></SimpleField>
+	<SimpleField name="VOIE_PORTÉ" type="string"></SimpleField>
+	<SimpleField name="OBSTACLE_F" type="string"></SimpleField>
+	<SimpleField name="IDENTIFIAN" type="string"></SimpleField>
+	<SimpleField name="STRUCTURE" type="string"></SimpleField>
+	<SimpleField name="TYPE_VISIT" type="string"></SimpleField>
+	<SimpleField name="INDICE_DE_" type="string"></SimpleField>
+	<SimpleField name="GESTIONNAI" type="string"></SimpleField>
+	<SimpleField name="SECTEUR" type="string"></SimpleField>
+	<SimpleField name="TRAMWAY" type="string"></SimpleField>
+	<SimpleField name="OUVERTURE_" type="float"></SimpleField>
+	<SimpleField name="LONGUEUR__" type="float"></SimpleField>
+	<SimpleField name="LARGEUR_UT" type="float"></SimpleField>
+	<SimpleField name="SURFACE_AU" type="float"></SimpleField>
+	<SimpleField name="NUM__ORDRE" type="int"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Vieussens / SNCF</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Boulevard VIEUSSENS</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Boulevard VIEUSSENS</SimpleData>
+		<SimpleData name="OBSTACLE_F">Voies SNCF</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-02C-420</SimpleData>
+		<SimpleData name="STRUCTURE">Poutrelles enrobées</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">3</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">CA</SimpleData>
+		<SimpleData name="OUVERTURE_">32.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">49.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">10.95000000</SimpleData>
+		<SimpleData name="SURFACE_AU">536.55000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877215299967284,43.600065825055374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Liberté / Fermaud</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue de la LIBERTE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue de la LIBERTE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Rue Pierre FERMAUD</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-02B-204</SimpleData>
+		<SimpleData name="STRUCTURE">Poutres béton armé PBA</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">3</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC3</SimpleData>
+		<SimpleData name="OUVERTURE_">8.95000000</SimpleData>
+		<SimpleData name="LONGUEUR__">11.45000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">9.20000000</SimpleData>
+		<SimpleData name="SURFACE_AU">105.34000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.863663341786546,43.607408364837688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Couverture du Verdanson</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Rue du FAUBOURG BOUTONNET</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Rue du FAUBOURG BOUTONNET</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Verdanson</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-02B-301A</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle pleine PSIDA</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">2</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC2</SimpleData>
+		<SimpleData name="OUVERTURE_">13.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">14.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">88.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">1232.00000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">54</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874705194175962,43.616338023691526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Couverture du Verdanson</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Quais du VERDANSON et des TANNEURS</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Quais du VERDANSON et des TANNEURS</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Verdanson</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-02B-301B</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle pleine PSIDA</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">3</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC1</SimpleData>
+		<SimpleData name="OUVERTURE_">15.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">16.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">156.80000000</SimpleData>
+		<SimpleData name="SURFACE_AU">2508.80000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">55</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874702479626269,43.616159992763713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Couverture du Verdanson</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Quais du VERDANSON et des TANNEURS</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Quais du VERDANSON et des TANNEURS</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Verdanson</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-02B-301D</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle pleine PSIDA</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">3</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC1</SimpleData>
+		<SimpleData name="TRAMWAY">L2</SimpleData>
+		<SimpleData name="OUVERTURE_">11.30000000</SimpleData>
+		<SimpleData name="LONGUEUR__">13.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">127.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">165.00000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874649368812582,43.616012602610027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Couverture du Verdanson</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Place du 11 NOVEMBRE 1918</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Place du 11 NOVEMBRE 1918</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Verdanson</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-02B-302</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle pleine PSIDA</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">4</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC1</SimpleData>
+		<SimpleData name="TRAMWAY">L2</SimpleData>
+		<SimpleData name="OUVERTURE_">9.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">9.80000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">188.15000000</SimpleData>
+		<SimpleData name="SURFACE_AU">1843.87000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882868940448035,43.614689690562017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Chancel / Verdanson</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue CHANCEL</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue CHANCEL</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Verdanson</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-02B-305</SimpleData>
+		<SimpleData name="STRUCTURE">Poutres béton armé PBA</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">3</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC2</SimpleData>
+		<SimpleData name="TRAMWAY">L1</SimpleData>
+		<SimpleData name="OUVERTURE_">13.20000000</SimpleData>
+		<SimpleData name="LONGUEUR__">20.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">6.44000000</SimpleData>
+		<SimpleData name="SURFACE_AU">128.80000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">58</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869520951572742,43.618119839734504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Passage piétons / Bonnes nouvelles</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Boulevard de BONNES NOUVELLES</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Passerelle pour piétons</SimpleData>
+		<SimpleData name="OBSTACLE_F">Boulevard de BONNES NOUVELLES</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-02B-307</SimpleData>
+		<SimpleData name="STRUCTURE">Voute en anse de panier</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">1</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC1</SimpleData>
+		<SimpleData name="OUVERTURE_">9.50000000</SimpleData>
+		<SimpleData name="LONGUEUR__">11.65000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">3.95000000</SimpleData>
+		<SimpleData name="SURFACE_AU">46.02000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">59</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88108659680412,43.61317351751179</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Antigone / SNCF</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Boulevard d'ANTIGONE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Boulevard d'ANTIGONE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Voies SNCF</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-02B-409</SimpleData>
+		<SimpleData name="STRUCTURE">Poutrelles enrobées</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">4</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC1</SimpleData>
+		<SimpleData name="OUVERTURE_">10.60000000</SimpleData>
+		<SimpleData name="LONGUEUR__">12.20000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">12.40000000</SimpleData>
+		<SimpleData name="SURFACE_AU">151.28000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">60</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883375396982508,43.609959071425827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Pradiers / Verdanson</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Rue des PRADIERS</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Rue des PRADIERS</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Verdanson</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-02C-303</SimpleData>
+		<SimpleData name="STRUCTURE">Cadre multiple</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">2</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC1</SimpleData>
+		<SimpleData name="TRAMWAY">L2</SimpleData>
+		<SimpleData name="OUVERTURE_">9.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">9.80000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">0.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">0.00000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.892066106812451,43.614837273325406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Couverture du Verdanson</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue SAINT CHARLES</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue SAINT CHARLES</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Verdanson</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-02C-323</SimpleData>
+		<SimpleData name="STRUCTURE">Cadre fermé PICF</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">1</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC2</SimpleData>
+		<SimpleData name="TRAMWAY">L1</SimpleData>
+		<SimpleData name="OUVERTURE_">2.95000000</SimpleData>
+		<SimpleData name="LONGUEUR__">48.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">0.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">0.00000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870680960763077,43.617523450079887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Milhau / SNCF - Palladium</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Quai du PALLADIUM</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Allée Jules MILHAU</SimpleData>
+		<SimpleData name="OBSTACLE_F">Voies SNCF et quai du Palladium</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-02D-411</SimpleData>
+		<SimpleData name="STRUCTURE">Poutres précontraintes</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">4</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC1</SimpleData>
+		<SimpleData name="OUVERTURE_">10.30000000</SimpleData>
+		<SimpleData name="LONGUEUR__">50.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">20.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">1000.00000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883594628355394,43.60894658918285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Couverture du Verdanson</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Place ALBERT 1er</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Place ALBERT 1er</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Verdanson</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-03B-308</SimpleData>
+		<SimpleData name="STRUCTURE">Poutres précontarintes PRAD</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">4</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC2</SimpleData>
+		<SimpleData name="TRAMWAY">L1</SimpleData>
+		<SimpleData name="OUVERTURE_">15.50000000</SimpleData>
+		<SimpleData name="LONGUEUR__">18.08000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">17.40000000</SimpleData>
+		<SimpleData name="SURFACE_AU">314.59000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">64</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874589358848917,43.615860767024756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Passerelle Auguste Comte</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Rue Michel de l'HOSPITAL</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Rue Michel de l'HOSPITAL</SimpleData>
+		<SimpleData name="OBSTACLE_F">Voies SNCF et allée de la CITADELLE</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-03B-408</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle élègie précontraintes</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">1</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC1</SimpleData>
+		<SimpleData name="OUVERTURE_">23.35000000</SimpleData>
+		<SimpleData name="LONGUEUR__">29.50000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">3.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">88.50000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">65</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882992321757928,43.611418179086328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Flahault / Le Verdanson</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue Charles FLAHAULT</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue Charles FLAHAULT</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Verdanson</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-03C-218</SimpleData>
+		<SimpleData name="STRUCTURE">Poutres précontraintes VIPP</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">3</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC2</SimpleData>
+		<SimpleData name="OUVERTURE_">17.85000000</SimpleData>
+		<SimpleData name="LONGUEUR__">30.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">19.33000000</SimpleData>
+		<SimpleData name="SURFACE_AU">579.90000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">66</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.864612137238976,43.62110754384085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Pont Juvénal</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue du PONT JUVENAL</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue du PONT JUVENAL</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Lez</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-03D-106</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle élègie précontraintes</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">3</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">PM</SimpleData>
+		<SimpleData name="OUVERTURE_">83.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">91.27000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">15.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">1369.05000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">67</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.897178304936981,43.606274055048686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Pont du Garigliano</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue SAINT ANDRE DE NOVIGENS</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue SAINT ANDRE DE NOVIGENS</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Lez</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-03D-107</SimpleData>
+		<SimpleData name="STRUCTURE">Poutres précontraintes VIPP</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">1</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">PM</SimpleData>
+		<SimpleData name="OUVERTURE_">71.18000000</SimpleData>
+		<SimpleData name="LONGUEUR__">82.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">12.85000000</SimpleData>
+		<SimpleData name="SURFACE_AU">1053.70000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.896675539836796,43.618343137119531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Antigone / Valançay - Jeu de Ballon</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Boulevard d'ANTIGONE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Boulevard d'ANTIGONE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Rue du JEU DE BALLON et Rue de VALANCAY</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-03D-108</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle pleine PSIDP</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">2</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC1</SimpleData>
+		<SimpleData name="OUVERTURE_">108.55000000</SimpleData>
+		<SimpleData name="LONGUEUR__">114.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">8.85000000</SimpleData>
+		<SimpleData name="SURFACE_AU">1008.90000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.884017765022075,43.609996886327643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Passerelle piétonne / Vallois</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Rue PROFESSEUR Léon VALLOIS</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Passerelle piétonne</SimpleData>
+		<SimpleData name="OBSTACLE_F">Rue PROFESSEUR Léon VALLOIS</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-04B-405</SimpleData>
+		<SimpleData name="STRUCTURE">Poutrelles enrobées</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">2</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC2</SimpleData>
+		<SimpleData name="OUVERTURE_">25.52000000</SimpleData>
+		<SimpleData name="LONGUEUR__">28.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">10.15000000</SimpleData>
+		<SimpleData name="SURFACE_AU">284.20000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883484414730038,43.614578859002016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Vallois / Verdanson</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Rue PROFESSEUR Léon VALLOIS</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Rue PROFESSEUR Léon VALLOIS</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Verdanson</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-02B-208</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle nervurée PSIDN</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">1</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC1</SimpleData>
+		<SimpleData name="TRAMWAY">L2</SimpleData>
+		<SimpleData name="OUVERTURE_">15.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">16.35000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">16.90000000</SimpleData>
+		<SimpleData name="SURFACE_AU">276.32000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">53</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.888765844971944,43.613590105003986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Beins / Jeu de Ballon et parking officiel</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Allée Jean de BEINS</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Allée Jean de BEINS</SimpleData>
+		<SimpleData name="OBSTACLE_F">Rue du JEU DE BALLON</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-03D-108B</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle pleine PSIDP</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">4</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC1</SimpleData>
+		<SimpleData name="OUVERTURE_">80.35000000</SimpleData>
+		<SimpleData name="LONGUEUR__">86.66000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">6.50000000</SimpleData>
+		<SimpleData name="SURFACE_AU">563.29000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883892726706531,43.609720576984678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Rue du Jeau de Ballon / Hôtel Ibis</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Rue du JEU DE BALLON</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Rue du JEU DE BALLON</SimpleData>
+		<SimpleData name="OBSTACLE_F">Soffitel</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-03D-109</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle pleine PSIDP</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">1</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC1</SimpleData>
+		<SimpleData name="OUVERTURE_">107.36000000</SimpleData>
+		<SimpleData name="LONGUEUR__">117.56000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">8.05000000</SimpleData>
+		<SimpleData name="SURFACE_AU">946.36000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883251460608534,43.609232876332754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Rue du Jeu de Ballon / SNCF</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Rue du JEU DE BALLON</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Rue du JEU DE BALLON</SimpleData>
+		<SimpleData name="OBSTACLE_F">Voies SNCF</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-03D-410</SimpleData>
+		<SimpleData name="STRUCTURE">Poutrelles enrobées</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">3</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC1</SimpleData>
+		<SimpleData name="OUVERTURE_">12.40000000</SimpleData>
+		<SimpleData name="LONGUEUR__">14.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">10.60000000</SimpleData>
+		<SimpleData name="SURFACE_AU">148.40000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883474942799933,43.609252681534898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Truc / Verdanson</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Allée Hermantaire TRUC</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Allée Hermantaire TRUC</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Verdanson</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-04B-304</SimpleData>
+		<SimpleData name="STRUCTURE">Pont à tabliers</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">NC</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC2</SimpleData>
+		<SimpleData name="OUVERTURE_">15.30000000</SimpleData>
+		<SimpleData name="LONGUEUR__">17.30000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">2.07000000</SimpleData>
+		<SimpleData name="SURFACE_AU">35.81000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">43</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.871636842175608,43.617633354355284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Pont de la Concorde / Le Lez</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue de la JUSTICE DE CASTELNAU</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue de la JUSTICE DE CASTELNAU</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Lez</SimpleData>
+		<SimpleData name="STRUCTURE">Poutres précontraintes PRAD</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">NC</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">H-F</SimpleData>
+		<SimpleData name="TRAMWAY">L2</SimpleData>
+		<SimpleData name="OUVERTURE_">31.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">33.82000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">7.50000000</SimpleData>
+		<SimpleData name="SURFACE_AU">253.65000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">44</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.894550446757049,43.628683161759184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Pont de Lattes / SNCF</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Rue du PONT DE LATTES</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Rue du PONT DE LATTES</SimpleData>
+		<SimpleData name="OBSTACLE_F">Voies SNCF</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-02C-417</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">4</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC3</SimpleData>
+		<SimpleData name="TRAMWAY">L1 + L2</SimpleData>
+		<SimpleData name="OUVERTURE_">0.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">0.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">0.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">0.00000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882231045347423,43.605637657853045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Pont de Sète / SNCF</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Rue du GRAND SAINT JEAN</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Rue du GRAND SAINT JEAN</SimpleData>
+		<SimpleData name="OBSTACLE_F">Voies SNCF</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">NC</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC3</SimpleData>
+		<SimpleData name="TRAMWAY">L2</SimpleData>
+		<SimpleData name="OUVERTURE_">0.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">0.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">0.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">0.00000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.879368549133942,43.6035969888474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Viaduc Alphonse Loubat</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Viaduc Alphonse LOUBAT</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Viaduc Alphonse LOUBAT</SimpleData>
+		<SimpleData name="OBSTACLE_F">Voies SNCF</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">NC</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC1</SimpleData>
+		<SimpleData name="TRAMWAY">L2</SimpleData>
+		<SimpleData name="OUVERTURE_">0.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">0.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">0.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">0.00000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883260383529058,43.614701229246592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Luna / Lantissargues</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue Pedro de LUNA</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue Pedro de LUNA</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Lantissargues</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">NC</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">CA</SimpleData>
+		<SimpleData name="TRAMWAY">L2</SimpleData>
+		<SimpleData name="OUVERTURE_">0.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">0.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">0.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">0.00000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874612446211796,43.592871407017022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Pépinière / Chambéry</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Rue de la PEPINIERE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Rue de la PEPINIERE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Chambéry</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">NC</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC2</SimpleData>
+		<SimpleData name="TRAMWAY">L2</SimpleData>
+		<SimpleData name="OUVERTURE_">0.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">0.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">0.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">0.00000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.890644461983086,43.614244394398661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Agropolis / Le Lavalette</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue AGROPOLIS</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue AGROPOLIS</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Lavalette</SimpleData>
+		<SimpleData name="IDENTIFIAN">01-01B-310</SimpleData>
+		<SimpleData name="STRUCTURE">Voute en arc surbaissé</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">2</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">H-F</SimpleData>
+		<SimpleData name="OUVERTURE_">4.10000000</SimpleData>
+		<SimpleData name="LONGUEUR__">16.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">10.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">160.00000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868585862703704,43.64518019155043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Agropolis / La Lironde</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue AGROPOLIS</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue AGROPOLIS</SimpleData>
+		<SimpleData name="OBSTACLE_F">La Lironde</SimpleData>
+		<SimpleData name="IDENTIFIAN">01-01D-309</SimpleData>
+		<SimpleData name="STRUCTURE">Voute en arc surbaissé</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">4</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">H-F</SimpleData>
+		<SimpleData name="OUVERTURE_">35.20000000</SimpleData>
+		<SimpleData name="LONGUEUR__">60.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">6.57000000</SimpleData>
+		<SimpleData name="SURFACE_AU">394.20000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86860760965771,43.647780004525274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Grandel / La Lironde</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Rue Jean GRANDEL</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Rue Jean GRANDEL</SimpleData>
+		<SimpleData name="OBSTACLE_F">La Lironde</SimpleData>
+		<SimpleData name="IDENTIFIAN">01-02B-311</SimpleData>
+		<SimpleData name="STRUCTURE">Poutres béton armé PBA</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">S</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">H-F</SimpleData>
+		<SimpleData name="OUVERTURE_">12.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">20.60000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">5.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">103.00000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.858915148769857,43.652565361220823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Apothicaires / Ganges</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue des APOTHICAIRES</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue des APOTHICAIRES</SimpleData>
+		<SimpleData name="OBSTACLE_F">Route de GANGES</SimpleData>
+		<SimpleData name="IDENTIFIAN">01-02C-117</SimpleData>
+		<SimpleData name="STRUCTURE">Portique ouvert double POD</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">1</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">H-F</SimpleData>
+		<SimpleData name="OUVERTURE_">25.03000000</SimpleData>
+		<SimpleData name="LONGUEUR__">26.18000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">12.50000000</SimpleData>
+		<SimpleData name="SURFACE_AU">327.25000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.842924265453985,43.645126211434139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Pont Lapeyronie</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Rue du Professeur Joseph ANGLADA</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Rue du Professeur Joseph ANGLADA</SimpleData>
+		<SimpleData name="OBSTACLE_F">Route de GANGES + Avenue du Doyen Gaston GIRAUD</SimpleData>
+		<SimpleData name="IDENTIFIAN">01-02C-212</SimpleData>
+		<SimpleData name="STRUCTURE">Portique ouvert double POD</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">1</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">H-F</SimpleData>
+		<SimpleData name="OUVERTURE_">18.60000000</SimpleData>
+		<SimpleData name="LONGUEUR__">30.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">9.20000000</SimpleData>
+		<SimpleData name="SURFACE_AU">276.00000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.853496299685482,43.631493910136875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Domitienne / Le Verdanson</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Voie DOMITIENNE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Voie DOMITIENNE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Verdanson</SimpleData>
+		<SimpleData name="IDENTIFIAN">01-04C-324</SimpleData>
+		<SimpleData name="STRUCTURE">Buse métallique</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">3</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">H-F</SimpleData>
+		<SimpleData name="OUVERTURE_">6.40000000</SimpleData>
+		<SimpleData name="LONGUEUR__">11.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">28.40000000</SimpleData>
+		<SimpleData name="SURFACE_AU">312.40000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.858504889694829,43.621187210772561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Pont Vincent Badie</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Rue de BOLOGNE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Rue de BOLOGNE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Avenue de l'EUROPE</SimpleData>
+		<SimpleData name="IDENTIFIAN">02-03D-118</SimpleData>
+		<SimpleData name="STRUCTURE">Poutres précontarintes PRAD</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">1</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">Mosson</SimpleData>
+		<SimpleData name="TRAMWAY">L1</SimpleData>
+		<SimpleData name="OUVERTURE_">43.95000000</SimpleData>
+		<SimpleData name="LONGUEUR__">51.50000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">8.95000000</SimpleData>
+		<SimpleData name="SURFACE_AU">460.92000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.822636954620756,43.630548601767821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Lavérune / Recambale</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Route de LAVERUNE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Route de LAVERUNE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Avenue de la RECAMBALE</SimpleData>
+		<SimpleData name="IDENTIFIAN">03-02C-211</SimpleData>
+		<SimpleData name="STRUCTURE">Portique ouvert double POD</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">2</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">CA</SimpleData>
+		<SimpleData name="TRAMWAY">L2</SimpleData>
+		<SimpleData name="OUVERTURE_">21.05000000</SimpleData>
+		<SimpleData name="LONGUEUR__">25.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">11.76000000</SimpleData>
+		<SimpleData name="SURFACE_AU">294.00000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.841834639297038,43.59865551242617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Taillade / Liberté</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Rue de la TAILLADE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Rue de la TAILLADE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Avenue de la LIBERTE</SimpleData>
+		<SimpleData name="IDENTIFIAN">03-03B-201</SimpleData>
+		<SimpleData name="STRUCTURE">Poutres précontarintes PRAD</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">3</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">Cévennes</SimpleData>
+		<SimpleData name="OUVERTURE_">16.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">16.96000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">9.40000000</SimpleData>
+		<SimpleData name="SURFACE_AU">159.42000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.847864860799918,43.608684867969245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Garrats / Liberté</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue des GARRATS</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue des GARRATS</SimpleData>
+		<SimpleData name="OBSTACLE_F">Avenue de la LIBERTE</SimpleData>
+		<SimpleData name="IDENTIFIAN">03-03D-114</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle pleine PSIDP</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">3</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">Cévennes</SimpleData>
+		<SimpleData name="OUVERTURE_">48.60000000</SimpleData>
+		<SimpleData name="LONGUEUR__">51.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">16.70000000</SimpleData>
+		<SimpleData name="SURFACE_AU">851.70000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.838539783123184,43.609482413325289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Liberté / Maurin</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue de la LIBERTE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue de la LIBERTE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Avenue de MAURIN</SimpleData>
+		<SimpleData name="IDENTIFIAN">04-03C-110</SimpleData>
+		<SimpleData name="STRUCTURE">Poutres précontraintes VIPP</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">3</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">CA</SimpleData>
+		<SimpleData name="OUVERTURE_">35.90000000</SimpleData>
+		<SimpleData name="LONGUEUR__">37.65000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">10.75000000</SimpleData>
+		<SimpleData name="SURFACE_AU">404.74000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876071726875851,43.59661958643153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Liberté / Angoulème</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue de la LIBERTE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue de la LIBERTE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Avenue de VILLENEUVE-ANGOULEME</SimpleData>
+		<SimpleData name="IDENTIFIAN">04-03C-205</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle pleine PSIDP</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">2</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">CA</SimpleData>
+		<SimpleData name="OUVERTURE_">25.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">26.57000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">12.05000000</SimpleData>
+		<SimpleData name="SURFACE_AU">320.17000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872767516873788,43.598630894849506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Pont Jean Rodolphe Perronet</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue Albert DUBOUT</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue Albert DUBOUT</SimpleData>
+		<SimpleData name="OBSTACLE_F">Voies SNCF</SimpleData>
+		<SimpleData name="IDENTIFIAN">04-03C-421</SimpleData>
+		<SimpleData name="STRUCTURE">Poutres précontraintes</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">1</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">CA</SimpleData>
+		<SimpleData name="OUVERTURE_">24.80000000</SimpleData>
+		<SimpleData name="LONGUEUR__">38.05000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">17.40000000</SimpleData>
+		<SimpleData name="SURFACE_AU">662.07000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877022885556833,43.597003130477489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Liberté / 8 Mai 1945</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue de la LIBERTE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue de la LIBERTE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Place du HUIT MAI 1945</SimpleData>
+		<SimpleData name="IDENTIFIAN">04-03D-113</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle pleine PSIDP</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">3</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">CA</SimpleData>
+		<SimpleData name="OUVERTURE_">76.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">80.80000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">8.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">646.40000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86814475317122,43.601158367870845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Pont Bertrand Garipuy</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue Albert DUBOUT</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue Albert DUBOUT</SimpleData>
+		<SimpleData name="OBSTACLE_F">Avenue de MAURIN</SimpleData>
+		<SimpleData name="IDENTIFIAN">04-04B-110B</SimpleData>
+		<SimpleData name="STRUCTURE">Poutres précontraintes</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">1</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">CA</SimpleData>
+		<SimpleData name="OUVERTURE_">26.20000000</SimpleData>
+		<SimpleData name="LONGUEUR__">44.65000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">13.90000000</SimpleData>
+		<SimpleData name="SURFACE_AU">620.64000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87601453573086,43.597173477500938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Montels Saint Pierre / SNCF</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Rue MONTELS SAINT PIERRE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Rue MONTELS SAINT PIERRE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Voies SNCF</SimpleData>
+		<SimpleData name="IDENTIFIAN">05-01C-424</SimpleData>
+		<SimpleData name="STRUCTURE">Voute en arc surbaissé</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">S</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">CA</SimpleData>
+		<SimpleData name="OUVERTURE_">18.50000000</SimpleData>
+		<SimpleData name="LONGUEUR__">27.20000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">4.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">108.80000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876293505165208,43.585794296173255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Dubout / Pont Trinquat</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue Albert DUBOUT</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue Albert DUBOUT</SimpleData>
+		<SimpleData name="OBSTACLE_F">Avenue du PONT TRINQUAT</SimpleData>
+		<SimpleData name="IDENTIFIAN">05-02B-207</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle pleine PSIDA</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">3</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">CA</SimpleData>
+		<SimpleData name="OUVERTURE_">12.40000000</SimpleData>
+		<SimpleData name="LONGUEUR__">14.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">11.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">154.00000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.889783983942074,43.598944792092546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Industrie / Lantissargues</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Rue de l'INDUSTRIE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Rue de l'INDUSTRIE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Lantissargues</SimpleData>
+		<SimpleData name="IDENTIFIAN">05-02B-321</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle pleine PSIDA</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">2</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">PA</SimpleData>
+		<SimpleData name="OUVERTURE_">3.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">9.45000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">12.36000000</SimpleData>
+		<SimpleData name="SURFACE_AU">116.80000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.884794136243656,43.589095954134265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Dubout / Palavas</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue Albert DUBOUT</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue Albert DUBOUT</SimpleData>
+		<SimpleData name="OBSTACLE_F">Avenue de PALAVAS</SimpleData>
+		<SimpleData name="IDENTIFIAN">05-03C-206</SimpleData>
+		<SimpleData name="STRUCTURE">Poutres précontarintes PRAD</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">3</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">PA</SimpleData>
+		<SimpleData name="OUVERTURE_">20.30000000</SimpleData>
+		<SimpleData name="LONGUEUR__">20.94000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">8.80000000</SimpleData>
+		<SimpleData name="SURFACE_AU">184.27000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.886628391556616,43.597240030660835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Vauguières / La Lironde</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Route de VAUGUIERES</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Route de VAUGUIERES</SimpleData>
+		<SimpleData name="OBSTACLE_F">La Lironde</SimpleData>
+		<SimpleData name="IDENTIFIAN">06-02B-318</SimpleData>
+		<SimpleData name="STRUCTURE">Cadre fermé PICF</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">2</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">PM</SimpleData>
+		<SimpleData name="OUVERTURE_">5.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">6.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">9.50000000</SimpleData>
+		<SimpleData name="SURFACE_AU">57.00000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.906169749137562,43.605271096030435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Pierre Mendès France / Einstein</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue Président Pierre MENDES FRANCE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue Président Pierre MENDES FRANCE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Avenue Albert EINSTEIN</SimpleData>
+		<SimpleData name="IDENTIFIAN">06-02C-104</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle pleine PSIDA</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">1</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">PM</SimpleData>
+		<SimpleData name="OUVERTURE_">41.66000000</SimpleData>
+		<SimpleData name="LONGUEUR__">45.06000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">0.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">0.00000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.908483374112168,43.609491646313842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Pierre Mendès France / Galois</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue Président Pierre MENDES FRANCE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue Président Pierre MENDES FRANCE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Rond-point Evariste GALOIS</SimpleData>
+		<SimpleData name="IDENTIFIAN">06-02C-214</SimpleData>
+		<SimpleData name="STRUCTURE">Portique ouvert PIPO</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">S</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">PM</SimpleData>
+		<SimpleData name="OUVERTURE_">10.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">28.90000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">32.15000000</SimpleData>
+		<SimpleData name="SURFACE_AU">929.14000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.913685467472428,43.608159169072316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Pierre Mendès France / Galois</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue Président Pierre MENDES FRANCE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue Président Pierre MENDES FRANCE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Rond-point Evariste GALOIS</SimpleData>
+		<SimpleData name="IDENTIFIAN">06-02C-213</SimpleData>
+		<SimpleData name="STRUCTURE">Cadre fermé PICF</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">4</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">PM</SimpleData>
+		<SimpleData name="OUVERTURE_">8.55000000</SimpleData>
+		<SimpleData name="LONGUEUR__">27.90000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">42.50000000</SimpleData>
+		<SimpleData name="SURFACE_AU">1185.75000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.911776567970997,43.608628571012339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Passerelle Barons de Caravettes</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Passerelle Barons de Caravettes</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Passerelle Barons de Caravettes</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Lez</SimpleData>
+		<SimpleData name="IDENTIFIAN">06-02D-120</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle nervurée PSIDN</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">1</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">PM</SimpleData>
+		<SimpleData name="OUVERTURE_">86.39000000</SimpleData>
+		<SimpleData name="LONGUEUR__">87.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">6.16000000</SimpleData>
+		<SimpleData name="SURFACE_AU">535.92000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.897136462419479,43.604117480136317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Einstein - Nobel / La Lironde</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Carrefour Av. Albert Einstein - R. Alfred Nobel</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Carrefour Av. Albert Einstein - R. Alfred Nobel</SimpleData>
+		<SimpleData name="OBSTACLE_F">La Lironde</SimpleData>
+		<SimpleData name="IDENTIFIAN">06-02D-317</SimpleData>
+		<SimpleData name="STRUCTURE">Cadre fermé PICF</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">1</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">PM</SimpleData>
+		<SimpleData name="OUVERTURE_">5.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">5.90000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">50.50000000</SimpleData>
+		<SimpleData name="SURFACE_AU">297.95000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.912321478276633,43.610016022225551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Pierre Mendès France / Pompignane</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue Président Pierre MENDES FRANCE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue Président Pierre MENDES FRANCE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Avenue de la POMPIGNANE</SimpleData>
+		<SimpleData name="IDENTIFIAN">06-03C-102</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle pleine PSIDP</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">3</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">PM</SimpleData>
+		<SimpleData name="OUVERTURE_">41.20000000</SimpleData>
+		<SimpleData name="LONGUEUR__">43.60000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">14.75000000</SimpleData>
+		<SimpleData name="SURFACE_AU">643.10000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898993467025713,43.60935025885113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Pont Raymond CHAULIAC</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue Président Pierre MENDES FRANCE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue Président Pierre MENDES FRANCE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Lez</SimpleData>
+		<SimpleData name="IDENTIFIAN">06-03D-101</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle pleine PSIDP</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">3</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">PM</SimpleData>
+		<SimpleData name="OUVERTURE_">79.80000000</SimpleData>
+		<SimpleData name="LONGUEUR__">80.80000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">14.75000000</SimpleData>
+		<SimpleData name="SURFACE_AU">1191.80000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.897280500975951,43.609091508813627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Vinci / Pierre Mendès France</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Rue Léonard DE VINCI</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Rue Léonard DE VINCI</SimpleData>
+		<SimpleData name="OBSTACLE_F">Avenue Président Pierre MENDES FRANCE</SimpleData>
+		<SimpleData name="IDENTIFIAN">06-03D-103</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle pleine PSIDP</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">3</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">PM</SimpleData>
+		<SimpleData name="OUVERTURE_">56.80000000</SimpleData>
+		<SimpleData name="LONGUEUR__">60.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">8.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">480.00000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.90633960384815,43.609962410059289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Pont Jean Zuccarelli</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue Marie de MONTPELLIER</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue Marie de MONTPELLIER</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Lez</SimpleData>
+		<SimpleData name="IDENTIFIAN">06-03D-119</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle pleine PSIDP</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">1</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">PM</SimpleData>
+		<SimpleData name="TRAMWAY">L1</SimpleData>
+		<SimpleData name="OUVERTURE_">72.26000000</SimpleData>
+		<SimpleData name="LONGUEUR__">79.90000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">29.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">2317.10000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.896575123191827,43.600405242432494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Passerelle du Moulin de l'Evêque</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Passerelle du MOULIN DE L'EVEQUE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Passerelle du MOULIN DE L'EVEQUE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Lez</SimpleData>
+		<SimpleData name="IDENTIFIAN">06-04D-121</SimpleData>
+		<SimpleData name="STRUCTURE">Ossature métallique</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">1</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">PM</SimpleData>
+		<SimpleData name="OUVERTURE_">0.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">78.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">2.70000000</SimpleData>
+		<SimpleData name="SURFACE_AU">210.60000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.897255749496583,43.609910436797911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Castelnau / Le Chambéry</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue de CASTELNAU</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue de CASTELNAU</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Chambéry</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-01A-312D</SimpleData>
+		<SimpleData name="STRUCTURE">Voute en arc surbaissé</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">5</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC2</SimpleData>
+		<SimpleData name="OUVERTURE_">3.70000000</SimpleData>
+		<SimpleData name="LONGUEUR__">7.20000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">8.50000000</SimpleData>
+		<SimpleData name="SURFACE_AU">61.20000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88049620431622,43.6200246970321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Tour Buffel / Liberté</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Rue de la TOUR BUFFEL</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Rue de la TOUR BUFFEL</SimpleData>
+		<SimpleData name="OBSTACLE_F">Avenue de la LIBERTE</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-01C-313</SimpleData>
+		<SimpleData name="STRUCTURE">Voute en arc surbaissé</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">4</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC3</SimpleData>
+		<SimpleData name="OUVERTURE_">15.80000000</SimpleData>
+		<SimpleData name="LONGUEUR__">23.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">3.85000000</SimpleData>
+		<SimpleData name="SURFACE_AU">88.55000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.85812564288049,43.609152577480572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Delmas / Le Lez</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue François DELMAS</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue François DELMAS</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Lez</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-01D-111</SimpleData>
+		<SimpleData name="STRUCTURE">Voute plein cintre</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">3</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">H-F</SimpleData>
+		<SimpleData name="OUVERTURE_">0.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">83.50000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">12.60000000</SimpleData>
+		<SimpleData name="SURFACE_AU">1052.10000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.896198615648145,43.627339101839041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Lunaret / Chambéry</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Rue LUNARET</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Rue LUNARET</SimpleData>
+		<SimpleData name="OBSTACLE_F">Le Chambéry</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-02A-312B</SimpleData>
+		<SimpleData name="STRUCTURE">Dalle pleine PSIDA</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">4</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 1</SimpleData>
+		<SimpleData name="SECTEUR">MC2</SimpleData>
+		<SimpleData name="OUVERTURE_">2.60000000</SimpleData>
+		<SimpleData name="LONGUEUR__">3.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">7.60000000</SimpleData>
+		<SimpleData name="SURFACE_AU">22.80000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882315028722627,43.619187653468039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Sauvages / Ollivier</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Quai des SAUVAGES</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Quai des SAUVAGES</SimpleData>
+		<SimpleData name="OBSTACLE_F">Rue Aristide OLLIVIER</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-02A-416</SimpleData>
+		<SimpleData name="STRUCTURE">Poutrelles enrobées</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">1</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC3</SimpleData>
+		<SimpleData name="OUVERTURE_">8.50000000</SimpleData>
+		<SimpleData name="LONGUEUR__">10.00000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">20.00000000</SimpleData>
+		<SimpleData name="SURFACE_AU">200.00000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883020897154189,43.606366548337071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Liberté / Anterrieu</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue de la LIBERTE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue de la LIBERTE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Rue ANTERRIEU</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-02B-202</SimpleData>
+		<SimpleData name="STRUCTURE">Poutres béton armé PBA</SimpleData>
+		<SimpleData name="TYPE_VISIT">IQOA</SimpleData>
+		<SimpleData name="INDICE_DE_">3</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC3</SimpleData>
+		<SimpleData name="OUVERTURE_">6.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">8.80000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">9.30000000</SimpleData>
+		<SimpleData name="SURFACE_AU">81.84000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.864730895867188,43.605800188403961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_OuvragesArt">
+		<SimpleData name="DÉNOMINATI">Liberté / Faubourg Figuerolles</SimpleData>
+		<SimpleData name="VOIE_DE_GE">Avenue de la LIBERTE</SimpleData>
+		<SimpleData name="VOIE_PORTÉ">Avenue de la LIBERTE</SimpleData>
+		<SimpleData name="OBSTACLE_F">Rue du FAUBOURG FIGUEROLLES</SimpleData>
+		<SimpleData name="IDENTIFIAN">07-02B-203</SimpleData>
+		<SimpleData name="STRUCTURE">Poutres béton armé PBA</SimpleData>
+		<SimpleData name="TYPE_VISIT">IDP</SimpleData>
+		<SimpleData name="INDICE_DE_">S</SimpleData>
+		<SimpleData name="GESTIONNAI">SUBDIVISION 2</SimpleData>
+		<SimpleData name="SECTEUR">MC3</SimpleData>
+		<SimpleData name="OUVERTURE_">12.00000000</SimpleData>
+		<SimpleData name="LONGUEUR__">14.50000000</SimpleData>
+		<SimpleData name="LARGEUR_UT">10.40000000</SimpleData>
+		<SimpleData name="SURFACE_AU">147.03000000</SimpleData>
+		<SimpleData name="NUM__ORDRE">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.864382387961849,43.606427228679124</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

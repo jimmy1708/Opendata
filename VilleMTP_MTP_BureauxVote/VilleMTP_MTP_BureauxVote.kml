@@ -4,6 +4,7 @@
 <Schema name="VilleMTP_MTP_BureauxVote" id="VilleMTP_MTP_BureauxVote">
 	<SimpleField name="Name" type="string"></SimpleField>
 	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
 	<SimpleField name="Bureau" type="int"></SimpleField>
 	<SimpleField name="CANTON" type="int"></SimpleField>
 	<SimpleField name="CIRCONS" type="int"></SimpleField>
@@ -14,6 +15,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">1</SimpleData>
 		<SimpleData name="Bureau">62</SimpleData>
 		<SimpleData name="CANTON">6</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -26,6 +28,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">3</SimpleData>
 		<SimpleData name="Bureau">61</SimpleData>
 		<SimpleData name="CANTON">6</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -38,6 +41,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">4</SimpleData>
 		<SimpleData name="Bureau">49</SimpleData>
 		<SimpleData name="CANTON">5</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -50,10 +54,11 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">5</SimpleData>
 		<SimpleData name="Bureau">75</SimpleData>
 		<SimpleData name="CANTON">7</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
-		<SimpleData name="Nom_Bureau">élémentaire Esope</SimpleData>
+		<SimpleData name="Nom_Bureau">primaire Olympe de Gouges</SimpleData>
 		<SimpleData name="Shape_Leng">4568.95910452000</SimpleData>
 		<SimpleData name="Shape_Area">832705.95118900004</SimpleData>
 	</SchemaData></ExtendedData>
@@ -62,6 +67,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">6</SimpleData>
 		<SimpleData name="Bureau">57</SimpleData>
 		<SimpleData name="CANTON">6</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -74,6 +80,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">7</SimpleData>
 		<SimpleData name="Bureau">60</SimpleData>
 		<SimpleData name="CANTON">6</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -86,10 +93,11 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">8</SimpleData>
 		<SimpleData name="Bureau">126</SimpleData>
 		<SimpleData name="CANTON">5</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
-		<SimpleData name="Nom_Bureau">MPT Jean Pierre Caillens</SimpleData>
+		<SimpleData name="Nom_Bureau">M.d.Q Jean Pierre Caillens</SimpleData>
 		<SimpleData name="Shape_Leng">5909.31715331000</SimpleData>
 		<SimpleData name="Shape_Area">930578.33805499994</SimpleData>
 	</SchemaData></ExtendedData>
@@ -98,6 +106,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">9</SimpleData>
 		<SimpleData name="Bureau">55</SimpleData>
 		<SimpleData name="CANTON">6</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -110,6 +119,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">10</SimpleData>
 		<SimpleData name="Bureau">58</SimpleData>
 		<SimpleData name="CANTON">6</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -122,6 +132,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">11</SimpleData>
 		<SimpleData name="Bureau">50</SimpleData>
 		<SimpleData name="CANTON">5</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -134,10 +145,11 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">12</SimpleData>
 		<SimpleData name="Bureau">47</SimpleData>
 		<SimpleData name="CANTON">5</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
-		<SimpleData name="Nom_Bureau">élémentaire Jean Mace</SimpleData>
+		<SimpleData name="Nom_Bureau">élémentaire Jean Macé</SimpleData>
 		<SimpleData name="Shape_Leng">3602.92296160000</SimpleData>
 		<SimpleData name="Shape_Area">739562.31041000003</SimpleData>
 	</SchemaData></ExtendedData>
@@ -146,6 +158,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">13</SimpleData>
 		<SimpleData name="Bureau">59</SimpleData>
 		<SimpleData name="CANTON">6</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -158,10 +171,11 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">14</SimpleData>
 		<SimpleData name="Bureau">130</SimpleData>
 		<SimpleData name="CANTON">8</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
-		<SimpleData name="Nom_Bureau">MPT Colucci</SimpleData>
+		<SimpleData name="Nom_Bureau">M.P.T Colucci</SimpleData>
 		<SimpleData name="Shape_Leng">3064.43543101000</SimpleData>
 		<SimpleData name="Shape_Area">357476.75357300002</SimpleData>
 	</SchemaData></ExtendedData>
@@ -170,6 +184,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">15</SimpleData>
 		<SimpleData name="Bureau">51</SimpleData>
 		<SimpleData name="CANTON">5</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -182,6 +197,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">16</SimpleData>
 		<SimpleData name="Bureau">54</SimpleData>
 		<SimpleData name="CANTON">6</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -194,6 +210,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">18</SimpleData>
 		<SimpleData name="Bureau">82</SimpleData>
 		<SimpleData name="CANTON">8</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -206,6 +223,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">19</SimpleData>
 		<SimpleData name="Bureau">113</SimpleData>
 		<SimpleData name="CANTON">8</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -218,6 +236,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">20</SimpleData>
 		<SimpleData name="Bureau">80</SimpleData>
 		<SimpleData name="CANTON">8</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -230,6 +249,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">21</SimpleData>
 		<SimpleData name="Bureau">53</SimpleData>
 		<SimpleData name="CANTON">6</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -242,6 +262,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">22</SimpleData>
 		<SimpleData name="Bureau">45</SimpleData>
 		<SimpleData name="CANTON">5</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -254,6 +275,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">23</SimpleData>
 		<SimpleData name="Bureau">81</SimpleData>
 		<SimpleData name="CANTON">8</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -266,6 +288,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">24</SimpleData>
 		<SimpleData name="Bureau">52</SimpleData>
 		<SimpleData name="CANTON">5</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -278,10 +301,11 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">25</SimpleData>
 		<SimpleData name="Bureau">46</SimpleData>
 		<SimpleData name="CANTON">5</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
-		<SimpleData name="Nom_Bureau">Hôtel de Ville</SimpleData>
+		<SimpleData name="Nom_Bureau">Mairie</SimpleData>
 		<SimpleData name="Shape_Leng">3087.10322977000</SimpleData>
 		<SimpleData name="Shape_Area">396902.99794099998</SimpleData>
 	</SchemaData></ExtendedData>
@@ -290,6 +314,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">26</SimpleData>
 		<SimpleData name="Bureau">44</SimpleData>
 		<SimpleData name="CANTON">5</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -302,6 +327,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">27</SimpleData>
 		<SimpleData name="Bureau">12</SimpleData>
 		<SimpleData name="CANTON">1</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -314,6 +340,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">28</SimpleData>
 		<SimpleData name="Bureau">74</SimpleData>
 		<SimpleData name="CANTON">7</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -326,6 +353,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">29</SimpleData>
 		<SimpleData name="Bureau">43</SimpleData>
 		<SimpleData name="CANTON">4</SimpleData>
 		<SimpleData name="CIRCONS">9</SimpleData>
@@ -338,6 +366,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">30</SimpleData>
 		<SimpleData name="Bureau">39</SimpleData>
 		<SimpleData name="CANTON">4</SimpleData>
 		<SimpleData name="CIRCONS">9</SimpleData>
@@ -350,6 +379,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">31</SimpleData>
 		<SimpleData name="Bureau">11</SimpleData>
 		<SimpleData name="CANTON">1</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -362,6 +392,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">32</SimpleData>
 		<SimpleData name="Bureau">42</SimpleData>
 		<SimpleData name="CANTON">4</SimpleData>
 		<SimpleData name="CIRCONS">9</SimpleData>
@@ -374,6 +405,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">33</SimpleData>
 		<SimpleData name="Bureau">79</SimpleData>
 		<SimpleData name="CANTON">8</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -386,6 +418,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">34</SimpleData>
 		<SimpleData name="Bureau">40</SimpleData>
 		<SimpleData name="CANTON">4</SimpleData>
 		<SimpleData name="CIRCONS">9</SimpleData>
@@ -398,6 +431,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">35</SimpleData>
 		<SimpleData name="Bureau">73</SimpleData>
 		<SimpleData name="CANTON">7</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -410,6 +444,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">36</SimpleData>
 		<SimpleData name="Bureau">10</SimpleData>
 		<SimpleData name="CANTON">1</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -422,10 +457,11 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">37</SimpleData>
 		<SimpleData name="Bureau">121</SimpleData>
 		<SimpleData name="CANTON">4</SimpleData>
 		<SimpleData name="CIRCONS">9</SimpleData>
-		<SimpleData name="Nom_Bureau">Hôtel de Ville</SimpleData>
+		<SimpleData name="Nom_Bureau">Mairie</SimpleData>
 		<SimpleData name="Shape_Leng">8040.13977279000</SimpleData>
 		<SimpleData name="Shape_Area">2267380.57315000010</SimpleData>
 	</SchemaData></ExtendedData>
@@ -434,6 +470,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">38</SimpleData>
 		<SimpleData name="Bureau">117</SimpleData>
 		<SimpleData name="CANTON">4</SimpleData>
 		<SimpleData name="CIRCONS">9</SimpleData>
@@ -446,6 +483,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">39</SimpleData>
 		<SimpleData name="Bureau">78</SimpleData>
 		<SimpleData name="CANTON">8</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -458,6 +496,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">40</SimpleData>
 		<SimpleData name="Bureau">83</SimpleData>
 		<SimpleData name="CANTON">8</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -470,6 +509,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">41</SimpleData>
 		<SimpleData name="Bureau">9</SimpleData>
 		<SimpleData name="CANTON">1</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -482,6 +522,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">42</SimpleData>
 		<SimpleData name="Bureau">41</SimpleData>
 		<SimpleData name="CANTON">4</SimpleData>
 		<SimpleData name="CIRCONS">9</SimpleData>
@@ -494,6 +535,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">43</SimpleData>
 		<SimpleData name="Bureau">77</SimpleData>
 		<SimpleData name="CANTON">8</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -506,6 +548,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">44</SimpleData>
 		<SimpleData name="Bureau">21</SimpleData>
 		<SimpleData name="CANTON">3</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -518,6 +561,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">45</SimpleData>
 		<SimpleData name="Bureau">84</SimpleData>
 		<SimpleData name="CANTON">8</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -530,6 +574,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">46</SimpleData>
 		<SimpleData name="Bureau">85</SimpleData>
 		<SimpleData name="CANTON">8</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -542,6 +587,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">47</SimpleData>
 		<SimpleData name="Bureau">72</SimpleData>
 		<SimpleData name="CANTON">7</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -554,6 +600,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">48</SimpleData>
 		<SimpleData name="Bureau">8</SimpleData>
 		<SimpleData name="CANTON">1</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -566,6 +613,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">49</SimpleData>
 		<SimpleData name="Bureau">7</SimpleData>
 		<SimpleData name="CANTON">1</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -578,6 +626,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">50</SimpleData>
 		<SimpleData name="Bureau">1</SimpleData>
 		<SimpleData name="CANTON">1</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -590,6 +639,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">52</SimpleData>
 		<SimpleData name="Bureau">6</SimpleData>
 		<SimpleData name="CANTON">1</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -602,6 +652,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">53</SimpleData>
 		<SimpleData name="Bureau">20</SimpleData>
 		<SimpleData name="CANTON">3</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -614,6 +665,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">54</SimpleData>
 		<SimpleData name="Bureau">107</SimpleData>
 		<SimpleData name="CANTON">10</SimpleData>
 		<SimpleData name="CIRCONS">8</SimpleData>
@@ -626,6 +678,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">55</SimpleData>
 		<SimpleData name="Bureau">5</SimpleData>
 		<SimpleData name="CANTON">1</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -638,6 +691,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">56</SimpleData>
 		<SimpleData name="Bureau">4</SimpleData>
 		<SimpleData name="CANTON">1</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -650,6 +704,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">57</SimpleData>
 		<SimpleData name="Bureau">71</SimpleData>
 		<SimpleData name="CANTON">7</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -662,6 +717,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">58</SimpleData>
 		<SimpleData name="Bureau">110</SimpleData>
 		<SimpleData name="CANTON">3</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -674,6 +730,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">59</SimpleData>
 		<SimpleData name="Bureau">76</SimpleData>
 		<SimpleData name="CANTON">8</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -686,6 +743,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">60</SimpleData>
 		<SimpleData name="Bureau">97</SimpleData>
 		<SimpleData name="CANTON">10</SimpleData>
 		<SimpleData name="CIRCONS">8</SimpleData>
@@ -698,6 +756,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">61</SimpleData>
 		<SimpleData name="Bureau">69</SimpleData>
 		<SimpleData name="CANTON">7</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -710,6 +769,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">62</SimpleData>
 		<SimpleData name="Bureau">105</SimpleData>
 		<SimpleData name="CANTON">10</SimpleData>
 		<SimpleData name="CIRCONS">8</SimpleData>
@@ -722,6 +782,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">63</SimpleData>
 		<SimpleData name="Bureau">2</SimpleData>
 		<SimpleData name="CANTON">1</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -734,6 +795,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">64</SimpleData>
 		<SimpleData name="Bureau">106</SimpleData>
 		<SimpleData name="CANTON">10</SimpleData>
 		<SimpleData name="CIRCONS">8</SimpleData>
@@ -746,6 +808,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">65</SimpleData>
 		<SimpleData name="Bureau">22</SimpleData>
 		<SimpleData name="CANTON">3</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -758,6 +821,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">66</SimpleData>
 		<SimpleData name="Bureau">115</SimpleData>
 		<SimpleData name="CANTON">10</SimpleData>
 		<SimpleData name="CIRCONS">8</SimpleData>
@@ -770,6 +834,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">67</SimpleData>
 		<SimpleData name="Bureau">3</SimpleData>
 		<SimpleData name="CANTON">1</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -782,6 +847,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">68</SimpleData>
 		<SimpleData name="Bureau">70</SimpleData>
 		<SimpleData name="CANTON">7</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -794,6 +860,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">69</SimpleData>
 		<SimpleData name="Bureau">118</SimpleData>
 		<SimpleData name="CANTON">4</SimpleData>
 		<SimpleData name="CIRCONS">9</SimpleData>
@@ -806,6 +873,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">70</SimpleData>
 		<SimpleData name="Bureau">99</SimpleData>
 		<SimpleData name="CANTON">10</SimpleData>
 		<SimpleData name="CIRCONS">8</SimpleData>
@@ -818,6 +886,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">71</SimpleData>
 		<SimpleData name="Bureau">98</SimpleData>
 		<SimpleData name="CANTON">10</SimpleData>
 		<SimpleData name="CIRCONS">8</SimpleData>
@@ -830,6 +899,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">72</SimpleData>
 		<SimpleData name="Bureau">63</SimpleData>
 		<SimpleData name="CANTON">7</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -842,6 +912,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">73</SimpleData>
 		<SimpleData name="Bureau">68</SimpleData>
 		<SimpleData name="CANTON">7</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -854,6 +925,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">74</SimpleData>
 		<SimpleData name="Bureau">86</SimpleData>
 		<SimpleData name="CANTON">9</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -866,6 +938,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">75</SimpleData>
 		<SimpleData name="Bureau">32</SimpleData>
 		<SimpleData name="CANTON">4</SimpleData>
 		<SimpleData name="CIRCONS">9</SimpleData>
@@ -878,6 +951,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">76</SimpleData>
 		<SimpleData name="Bureau">67</SimpleData>
 		<SimpleData name="CANTON">7</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -890,6 +964,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">77</SimpleData>
 		<SimpleData name="Bureau">33</SimpleData>
 		<SimpleData name="CANTON">4</SimpleData>
 		<SimpleData name="CIRCONS">9</SimpleData>
@@ -902,6 +977,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">78</SimpleData>
 		<SimpleData name="Bureau">64</SimpleData>
 		<SimpleData name="CANTON">7</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -914,6 +990,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">79</SimpleData>
 		<SimpleData name="Bureau">23</SimpleData>
 		<SimpleData name="CANTON">3</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -926,6 +1003,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">80</SimpleData>
 		<SimpleData name="Bureau">36</SimpleData>
 		<SimpleData name="CANTON">4</SimpleData>
 		<SimpleData name="CIRCONS">9</SimpleData>
@@ -938,6 +1016,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">81</SimpleData>
 		<SimpleData name="Bureau">13</SimpleData>
 		<SimpleData name="CANTON">2</SimpleData>
 		<SimpleData name="CIRCONS">3</SimpleData>
@@ -950,6 +1029,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">82</SimpleData>
 		<SimpleData name="Bureau">66</SimpleData>
 		<SimpleData name="CANTON">7</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -962,6 +1042,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">83</SimpleData>
 		<SimpleData name="Bureau">109</SimpleData>
 		<SimpleData name="CANTON">9</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -974,6 +1055,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">84</SimpleData>
 		<SimpleData name="Bureau">37</SimpleData>
 		<SimpleData name="CANTON">4</SimpleData>
 		<SimpleData name="CIRCONS">9</SimpleData>
@@ -986,6 +1068,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">85</SimpleData>
 		<SimpleData name="Bureau">35</SimpleData>
 		<SimpleData name="CANTON">4</SimpleData>
 		<SimpleData name="CIRCONS">9</SimpleData>
@@ -998,6 +1081,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">86</SimpleData>
 		<SimpleData name="Bureau">14</SimpleData>
 		<SimpleData name="CANTON">2</SimpleData>
 		<SimpleData name="CIRCONS">3</SimpleData>
@@ -1010,6 +1094,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">87</SimpleData>
 		<SimpleData name="Bureau">88</SimpleData>
 		<SimpleData name="CANTON">9</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1022,6 +1107,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">88</SimpleData>
 		<SimpleData name="Bureau">100</SimpleData>
 		<SimpleData name="CANTON">10</SimpleData>
 		<SimpleData name="CIRCONS">8</SimpleData>
@@ -1034,6 +1120,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">89</SimpleData>
 		<SimpleData name="Bureau">101</SimpleData>
 		<SimpleData name="CANTON">10</SimpleData>
 		<SimpleData name="CIRCONS">8</SimpleData>
@@ -1046,6 +1133,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">90</SimpleData>
 		<SimpleData name="Bureau">102</SimpleData>
 		<SimpleData name="CANTON">10</SimpleData>
 		<SimpleData name="CIRCONS">8</SimpleData>
@@ -1058,6 +1146,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">91</SimpleData>
 		<SimpleData name="Bureau">65</SimpleData>
 		<SimpleData name="CANTON">7</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1070,6 +1159,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">92</SimpleData>
 		<SimpleData name="Bureau">87</SimpleData>
 		<SimpleData name="CANTON">9</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1082,6 +1172,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">93</SimpleData>
 		<SimpleData name="Bureau">89</SimpleData>
 		<SimpleData name="CANTON">9</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1094,6 +1185,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">94</SimpleData>
 		<SimpleData name="Bureau">91</SimpleData>
 		<SimpleData name="CANTON">9</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1106,6 +1198,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">95</SimpleData>
 		<SimpleData name="Bureau">90</SimpleData>
 		<SimpleData name="CANTON">9</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1118,6 +1211,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">96</SimpleData>
 		<SimpleData name="Bureau">27</SimpleData>
 		<SimpleData name="CANTON">3</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1130,6 +1224,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">97</SimpleData>
 		<SimpleData name="Bureau">34</SimpleData>
 		<SimpleData name="CANTON">4</SimpleData>
 		<SimpleData name="CIRCONS">9</SimpleData>
@@ -1142,6 +1237,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">98</SimpleData>
 		<SimpleData name="Bureau">25</SimpleData>
 		<SimpleData name="CANTON">3</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1154,6 +1250,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">99</SimpleData>
 		<SimpleData name="Bureau">24</SimpleData>
 		<SimpleData name="CANTON">3</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1166,6 +1263,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">100</SimpleData>
 		<SimpleData name="Bureau">26</SimpleData>
 		<SimpleData name="CANTON">3</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1178,6 +1276,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">101</SimpleData>
 		<SimpleData name="Bureau">92</SimpleData>
 		<SimpleData name="CANTON">9</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1190,6 +1289,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">102</SimpleData>
 		<SimpleData name="Bureau">28</SimpleData>
 		<SimpleData name="CANTON">3</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1202,6 +1302,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">103</SimpleData>
 		<SimpleData name="Bureau">111</SimpleData>
 		<SimpleData name="CANTON">4</SimpleData>
 		<SimpleData name="CIRCONS">9</SimpleData>
@@ -1214,6 +1315,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">104</SimpleData>
 		<SimpleData name="Bureau">103</SimpleData>
 		<SimpleData name="CANTON">10</SimpleData>
 		<SimpleData name="CIRCONS">8</SimpleData>
@@ -1226,6 +1328,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">105</SimpleData>
 		<SimpleData name="Bureau">15</SimpleData>
 		<SimpleData name="CANTON">2</SimpleData>
 		<SimpleData name="CIRCONS">3</SimpleData>
@@ -1238,6 +1341,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">106</SimpleData>
 		<SimpleData name="Bureau">16</SimpleData>
 		<SimpleData name="CANTON">2</SimpleData>
 		<SimpleData name="CIRCONS">3</SimpleData>
@@ -1250,6 +1354,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">107</SimpleData>
 		<SimpleData name="Bureau">29</SimpleData>
 		<SimpleData name="CANTON">3</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1262,6 +1367,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">108</SimpleData>
 		<SimpleData name="Bureau">30</SimpleData>
 		<SimpleData name="CANTON">3</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1274,6 +1380,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">109</SimpleData>
 		<SimpleData name="Bureau">104</SimpleData>
 		<SimpleData name="CANTON">10</SimpleData>
 		<SimpleData name="CIRCONS">8</SimpleData>
@@ -1286,6 +1393,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">110</SimpleData>
 		<SimpleData name="Bureau">94</SimpleData>
 		<SimpleData name="CANTON">9</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1298,10 +1406,11 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">111</SimpleData>
 		<SimpleData name="Bureau">129</SimpleData>
 		<SimpleData name="CANTON">9</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
-		<SimpleData name="Nom_Bureau">maternelle rabelais</SimpleData>
+		<SimpleData name="Nom_Bureau">élémentaire Rabelais</SimpleData>
 		<SimpleData name="Shape_Leng">5488.19830419000</SimpleData>
 		<SimpleData name="Shape_Area">933584.14588400000</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1310,10 +1419,11 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">112</SimpleData>
 		<SimpleData name="Bureau">114</SimpleData>
 		<SimpleData name="CANTON">10</SimpleData>
 		<SimpleData name="CIRCONS">8</SimpleData>
-		<SimpleData name="Nom_Bureau">élémentaire Emile Combes</SimpleData>
+		<SimpleData name="Nom_Bureau">maternelle Marguerite Yourcenar</SimpleData>
 		<SimpleData name="Shape_Leng">5311.18859883000</SimpleData>
 		<SimpleData name="Shape_Area">1219372.83852000000</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1322,6 +1432,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">113</SimpleData>
 		<SimpleData name="Bureau">17</SimpleData>
 		<SimpleData name="CANTON">2</SimpleData>
 		<SimpleData name="CIRCONS">3</SimpleData>
@@ -1334,6 +1445,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">114</SimpleData>
 		<SimpleData name="Bureau">96</SimpleData>
 		<SimpleData name="CANTON">9</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1346,6 +1458,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">115</SimpleData>
 		<SimpleData name="Bureau">95</SimpleData>
 		<SimpleData name="CANTON">9</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1358,6 +1471,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">116</SimpleData>
 		<SimpleData name="Bureau">119</SimpleData>
 		<SimpleData name="CANTON">9</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1370,6 +1484,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">117</SimpleData>
 		<SimpleData name="Bureau">31</SimpleData>
 		<SimpleData name="CANTON">3</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1382,6 +1497,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">118</SimpleData>
 		<SimpleData name="Bureau">18</SimpleData>
 		<SimpleData name="CANTON">2</SimpleData>
 		<SimpleData name="CIRCONS">3</SimpleData>
@@ -1394,6 +1510,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">120</SimpleData>
 		<SimpleData name="Bureau">19</SimpleData>
 		<SimpleData name="CANTON">2</SimpleData>
 		<SimpleData name="CIRCONS">3</SimpleData>
@@ -1406,6 +1523,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">121</SimpleData>
 		<SimpleData name="Bureau">38</SimpleData>
 		<SimpleData name="CANTON">4</SimpleData>
 		<SimpleData name="CIRCONS">9</SimpleData>
@@ -1418,10 +1536,11 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">122</SimpleData>
 		<SimpleData name="Bureau">122</SimpleData>
 		<SimpleData name="CANTON">4</SimpleData>
 		<SimpleData name="CIRCONS">9</SimpleData>
-		<SimpleData name="Nom_Bureau">maternelle Michel de l'Hospital</SimpleData>
+		<SimpleData name="Nom_Bureau">primaire Michel de l'Hospital</SimpleData>
 		<SimpleData name="Shape_Leng">3907.15248042000</SimpleData>
 		<SimpleData name="Shape_Area">630377.23002999998</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1430,6 +1549,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">123</SimpleData>
 		<SimpleData name="Bureau">116</SimpleData>
 		<SimpleData name="CANTON">4</SimpleData>
 		<SimpleData name="CIRCONS">9</SimpleData>
@@ -1442,10 +1562,11 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">124</SimpleData>
 		<SimpleData name="Bureau">123</SimpleData>
 		<SimpleData name="CANTON">4</SimpleData>
 		<SimpleData name="CIRCONS">9</SimpleData>
-		<SimpleData name="Nom_Bureau">Primaire Cheng-Du</SimpleData>
+		<SimpleData name="Nom_Bureau">primaire Cheng-Du</SimpleData>
 		<SimpleData name="Shape_Leng">1960.18426116000</SimpleData>
 		<SimpleData name="Shape_Area">226129.17432300001</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1454,6 +1575,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">125</SimpleData>
 		<SimpleData name="Bureau">124</SimpleData>
 		<SimpleData name="CANTON">2</SimpleData>
 		<SimpleData name="CIRCONS">3</SimpleData>
@@ -1466,6 +1588,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">126</SimpleData>
 		<SimpleData name="Bureau">125</SimpleData>
 		<SimpleData name="CANTON">3</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1478,6 +1601,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">127</SimpleData>
 		<SimpleData name="Bureau">48</SimpleData>
 		<SimpleData name="CANTON">5</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -1490,10 +1614,11 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">128</SimpleData>
 		<SimpleData name="Bureau">56</SimpleData>
 		<SimpleData name="CANTON">6</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
-		<SimpleData name="Nom_Bureau">élémentaire Garibaldi</SimpleData>
+		<SimpleData name="Nom_Bureau">élémentaire Georges Simenon</SimpleData>
 		<SimpleData name="Shape_Leng">3307.05561450000</SimpleData>
 		<SimpleData name="Shape_Area">313345.89811299997</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1502,6 +1627,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">129</SimpleData>
 		<SimpleData name="Bureau">127</SimpleData>
 		<SimpleData name="CANTON">6</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -1514,10 +1640,11 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">130</SimpleData>
 		<SimpleData name="Bureau">112</SimpleData>
 		<SimpleData name="CANTON">6</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
-		<SimpleData name="Nom_Bureau">élémentaire Pierre de Ronsard</SimpleData>
+		<SimpleData name="Nom_Bureau">maternelle Alienor d'Aquitaine</SimpleData>
 		<SimpleData name="Shape_Leng">2969.34509078000</SimpleData>
 		<SimpleData name="Shape_Area">301202.94177500001</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1526,6 +1653,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">131</SimpleData>
 		<SimpleData name="Bureau">128</SimpleData>
 		<SimpleData name="CANTON">6</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -1538,6 +1666,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">132</SimpleData>
 		<SimpleData name="Bureau">93</SimpleData>
 		<SimpleData name="CANTON">9</SimpleData>
 		<SimpleData name="CIRCONS">2</SimpleData>
@@ -1550,6 +1679,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">133</SimpleData>
 		<SimpleData name="Bureau">108</SimpleData>
 		<SimpleData name="CANTON">8</SimpleData>
 		<SimpleData name="CIRCONS">1</SimpleData>
@@ -1562,10 +1692,11 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">135</SimpleData>
 		<SimpleData name="Bureau">131</SimpleData>
 		<SimpleData name="CANTON">10</SimpleData>
 		<SimpleData name="CIRCONS">8</SimpleData>
-		<SimpleData name="Nom_Bureau">élémentaire François Mitterrand</SimpleData>
+		<SimpleData name="Nom_Bureau">primaire François Mitterrand</SimpleData>
 		<SimpleData name="Shape_Leng">3428.91336780000</SimpleData>
 		<SimpleData name="Shape_Area">489390.28077399998</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1574,6 +1705,7 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_BureauxVote">
+		<SimpleData name="OBJECTID">136</SimpleData>
 		<SimpleData name="Bureau">120</SimpleData>
 		<SimpleData name="CANTON">10</SimpleData>
 		<SimpleData name="CIRCONS">8</SimpleData>
