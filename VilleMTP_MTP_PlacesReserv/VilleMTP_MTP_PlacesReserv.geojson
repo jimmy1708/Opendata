@@ -1,0 +1,624 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "F00_DATE_S": "14\/09\/2010 14:28", "F01_TYPE_D": "Autre", "F03_COMMEN": "3,85729997585435", "F05_COMMEN": "43,6068736382548" }, "geometry": { "type": "Point", "coordinates": [ 3.857299975854346, 43.606873638254676 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "F00_DATE_S": "20\/09\/2010 14:03", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87271289323652", "F05_COMMEN": "43,6170843912751" }, "geometry": { "type": "Point", "coordinates": [ 3.872712893236519, 43.617084391275071 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "F00_DATE_S": "20\/09\/2010 14:08", "F01_TYPE_D": "Taxi", "F03_COMMEN": "3,87001456548742", "F05_COMMEN": "43,6167877009072" }, "geometry": { "type": "Point", "coordinates": [ 3.870014565487423, 43.616787700907125 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "F00_DATE_S": "20\/09\/2010 14:10", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87002623540423", "F05_COMMEN": "43,6147476973713" }, "geometry": { "type": "Point", "coordinates": [ 3.870026235404229, 43.614747697371186 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "F00_DATE_S": "20\/09\/2010 14:11", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87002623543097", "F05_COMMEN": "43,6147310306748" }, "geometry": { "type": "Point", "coordinates": [ 3.870026235430973, 43.614731030674754 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "F00_DATE_S": "20\/09\/2010 14:12", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,869881235849", "F05_COMMEN": "43,6146443625959" }, "geometry": { "type": "Point", "coordinates": [ 3.869881235849004, 43.614644362595826 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "F00_DATE_S": "20\/09\/2010 14:14", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86961957243119", "F05_COMMEN": "43,6129393572537" }, "geometry": { "type": "Point", "coordinates": [ 3.869619572431188, 43.61293935725358 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "F00_DATE_S": "20\/09\/2010 14:15", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,86955457243141", "F05_COMMEN": "43,613017690161" }, "geometry": { "type": "Point", "coordinates": [ 3.869554572431408, 43.613017690160873 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "F00_DATE_S": "20\/09\/2010 14:15", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,86899790707373", "F05_COMMEN": "43,6128776850461" }, "geometry": { "type": "Point", "coordinates": [ 3.868997907073727, 43.61287768504603 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "F00_DATE_S": "20\/09\/2010 14:18", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86648457927756", "F05_COMMEN": "43,6124859956795" }, "geometry": { "type": "Point", "coordinates": [ 3.866484579277565, 43.612485995679464 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "F00_DATE_S": "20\/09\/2010 14:18", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,866409580046", "F05_COMMEN": "43,6121093276343" }, "geometry": { "type": "Point", "coordinates": [ 3.866409580046005, 43.612109327634187 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "F00_DATE_S": "20\/09\/2010 14:19", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86682624560428", "F05_COMMEN": "43,6122876649571" }, "geometry": { "type": "Point", "coordinates": [ 3.86682624560428, 43.61228766495703 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "F00_DATE_S": "20\/09\/2010 14:20", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86722624416101", "F05_COMMEN": "43,612691002554" }, "geometry": { "type": "Point", "coordinates": [ 3.86722624416101, 43.612691002553923 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "F00_DATE_S": "20\/09\/2010 14:21", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86668457666018", "F05_COMMEN": "43,6138376666723" }, "geometry": { "type": "Point", "coordinates": [ 3.866684576660181, 43.613837666672204 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "F00_DATE_S": "20\/09\/2010 14:23", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87044790021013", "F05_COMMEN": "43,6154043688555" }, "geometry": { "type": "Point", "coordinates": [ 3.870447900210135, 43.615404368855451 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "F00_DATE_S": "20\/09\/2010 14:24", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87390122634319", "F05_COMMEN": "43,6157827326727" }, "geometry": { "type": "Point", "coordinates": [ 3.873901226343194, 43.615782732672635 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "F00_DATE_S": "20\/09\/2010 14:25", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87335622997752", "F05_COMMEN": "43,6141227251969" }, "geometry": { "type": "Point", "coordinates": [ 3.873356229977522, 43.614122725196822 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "F00_DATE_S": "20\/09\/2010 14:26", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,8725695669902", "F05_COMMEN": "43,6127493826906" }, "geometry": { "type": "Point", "coordinates": [ 3.872569566990202, 43.612749382690545 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "F00_DATE_S": "20\/09\/2010 14:29", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,86431125104475", "F05_COMMEN": "43,6119726423152" }, "geometry": { "type": "Point", "coordinates": [ 3.864311251044749, 43.611972642315102 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "F00_DATE_S": "20\/09\/2010 14:30", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86413458458931", "F05_COMMEN": "43,6120526409268" }, "geometry": { "type": "Point", "coordinates": [ 3.864134584589315, 43.612052640926741 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "F00_DATE_S": "20\/09\/2010 14:31", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86209958842374", "F05_COMMEN": "43,6121376232747" }, "geometry": { "type": "Point", "coordinates": [ 3.862099588423744, 43.612137623274648 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "F00_DATE_S": "20\/09\/2010 14:32", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86266458790019", "F05_COMMEN": "43,6117959608557" }, "geometry": { "type": "Point", "coordinates": [ 3.862664587900186, 43.611795960855602 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "F00_DATE_S": "20\/09\/2010 14:32", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,8639012523381", "F05_COMMEN": "43,61168097147" }, "geometry": { "type": "Point", "coordinates": [ 3.8639012523381, 43.611680971469866 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "F00_DATE_S": "20\/09\/2010 14:33", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,86504625040496", "F05_COMMEN": "43,6114943144822" }, "geometry": { "type": "Point", "coordinates": [ 3.865046250404964, 43.611494314482144 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "F00_DATE_S": "20\/09\/2010 14:34", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,86558458274528", "F05_COMMEN": "43,6114559858012" }, "geometry": { "type": "Point", "coordinates": [ 3.865584582745282, 43.611455985801079 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "F00_DATE_S": "20\/09\/2010 14:37", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,86782291571846", "F05_COMMEN": "43,6089876674977" }, "geometry": { "type": "Point", "coordinates": [ 3.867822915718462, 43.608987667497559 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "F00_DATE_S": "20\/09\/2010 14:38", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86783791559587", "F05_COMMEN": "43,6090443344038" }, "geometry": { "type": "Point", "coordinates": [ 3.86783791559587, 43.609044334403713 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "F00_DATE_S": "20\/09\/2010 14:39", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,86905791057678", "F05_COMMEN": "43,6106410148155" }, "geometry": { "type": "Point", "coordinates": [ 3.869057910576776, 43.610641014815407 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "F00_DATE_S": "20\/09\/2010 14:40", "F01_TYPE_D": "Taxi", "F03_COMMEN": "3,86719624924495", "F05_COMMEN": "43,6096309964953" }, "geometry": { "type": "Point", "coordinates": [ 3.867196249244951, 43.609630996495227 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "F00_DATE_S": "20\/09\/2010 14:43", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87011791174933", "F05_COMMEN": "43,608607687169" }, "geometry": { "type": "Point", "coordinates": [ 3.870117911749325, 43.608607687168899 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "F00_DATE_S": "20\/09\/2010 14:45", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87076790938352", "F05_COMMEN": "43,6092743607938" }, "geometry": { "type": "Point", "coordinates": [ 3.870767909383525, 43.609274360793719 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "F00_DATE_S": "20\/09\/2010 14:48", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87096957364658", "F05_COMMEN": "43,6105293647975" }, "geometry": { "type": "Point", "coordinates": [ 3.870969573646579, 43.610529364797436 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "F00_DATE_S": "20\/09\/2010 14:54", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,86993957627699", "F05_COMMEN": "43,6101593550505" }, "geometry": { "type": "Point", "coordinates": [ 3.869939576276986, 43.610159355050399 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "F00_DATE_S": "20\/09\/2010 14:56", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87038957834546", "F05_COMMEN": "43,6083126890539" }, "geometry": { "type": "Point", "coordinates": [ 3.870389578345462, 43.608312689053847 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "F00_DATE_S": "20\/09\/2010 14:56", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,8709712440963", "F05_COMMEN": "43,6081560272828" }, "geometry": { "type": "Point", "coordinates": [ 3.870971244096299, 43.608156027282675 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "F00_DATE_S": "20\/09\/2010 14:57", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87130457650881", "F05_COMMEN": "43,608314363861" }, "geometry": { "type": "Point", "coordinates": [ 3.871304576508808, 43.608314363860941 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "F00_DATE_S": "20\/09\/2010 14:57", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87179457543148", "F05_COMMEN": "43,6083743683234" }, "geometry": { "type": "Point", "coordinates": [ 3.871794575431485, 43.608374368323325 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "F00_DATE_S": "20\/09\/2010 14:58", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87222457432759", "F05_COMMEN": "43,608527705745" }, "geometry": { "type": "Point", "coordinates": [ 3.872224574327589, 43.608527705744869 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "F00_DATE_S": "20\/09\/2010 14:58", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87228124074396", "F05_COMMEN": "43,6086143730647" }, "geometry": { "type": "Point", "coordinates": [ 3.872281240743956, 43.608614373064583 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "F00_DATE_S": "20\/09\/2010 14:59", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87318290682421", "F05_COMMEN": "43,6078377130922" }, "geometry": { "type": "Point", "coordinates": [ 3.873182906824215, 43.607837713092124 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "F00_DATE_S": "21\/09\/2010 09:09", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87893123299866", "F05_COMMEN": "43,6048944265733" }, "geometry": { "type": "Point", "coordinates": [ 3.878931232998663, 43.604894426573175 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "F00_DATE_S": "21\/09\/2010 09:12", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87758456857426", "F05_COMMEN": "43,6052360816294" }, "geometry": { "type": "Point", "coordinates": [ 3.87758456857426, 43.605236081629322 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "F00_DATE_S": "21\/09\/2010 09:13", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87765956892767", "F05_COMMEN": "43,6049010817863" }, "geometry": { "type": "Point", "coordinates": [ 3.877659568927675, 43.604901081786217 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "F00_DATE_S": "21\/09\/2010 09:15", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87697456913183", "F05_COMMEN": "43,6056894101828" }, "geometry": { "type": "Point", "coordinates": [ 3.876974569131832, 43.605689410182727 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "F00_DATE_S": "21\/09\/2010 09:16", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,8766445695199", "F05_COMMEN": "43,6058760741789" }, "geometry": { "type": "Point", "coordinates": [ 3.876644569519906, 43.605876074178816 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "F00_DATE_S": "21\/09\/2010 09:17", "F01_TYPE_D": "Taxi", "F03_COMMEN": "3,87634123679661", "F05_COMMEN": "43,6058810714629" }, "geometry": { "type": "Point", "coordinates": [ 3.876341236796609, 43.605881071462775 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "F00_DATE_S": "21\/09\/2010 09:17", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87609457053006", "F05_COMMEN": "43,6059477360211" }, "geometry": { "type": "Point", "coordinates": [ 3.876094570530063, 43.605947736021051 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "F00_DATE_S": "21\/09\/2010 09:18", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87613790365778", "F05_COMMEN": "43,6060244031993" }, "geometry": { "type": "Point", "coordinates": [ 3.876137903657778, 43.606024403199243 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "F00_DATE_S": "21\/09\/2010 09:19", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87580623812402", "F05_COMMEN": "43,6057260664092" }, "geometry": { "type": "Point", "coordinates": [ 3.87580623812402, 43.605726066409062 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "F00_DATE_S": "21\/09\/2010 09:19", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87558790492025", "F05_COMMEN": "43,6059310647789" }, "geometry": { "type": "Point", "coordinates": [ 3.875587904920248, 43.605931064778844 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "F00_DATE_S": "21\/09\/2010 09:23", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87683790439637", "F05_COMMEN": "43,604604407245" }, "geometry": { "type": "Point", "coordinates": [ 3.876837904396371, 43.604604407244913 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "F00_DATE_S": "21\/09\/2010 09:26", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87651623906969", "F05_COMMEN": "43,6041594036349" }, "geometry": { "type": "Point", "coordinates": [ 3.876516239069693, 43.604159403634839 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "F00_DATE_S": "21\/09\/2010 09:28", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87610623876907", "F05_COMMEN": "43,6049060677921" }, "geometry": { "type": "Point", "coordinates": [ 3.876106238769074, 43.604906067792051 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "F00_DATE_S": "21\/09\/2010 09:30", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87495957487159", "F05_COMMEN": "43,6046343903437" }, "geometry": { "type": "Point", "coordinates": [ 3.874959574871593, 43.604634390343641 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "F00_DATE_S": "21\/09\/2010 09:31", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87509624194305", "F05_COMMEN": "43,6041910575171" }, "geometry": { "type": "Point", "coordinates": [ 3.875096241943053, 43.604191057517028 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "F00_DATE_S": "21\/09\/2010 09:32", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87516624208998", "F05_COMMEN": "43,6040027245082" }, "geometry": { "type": "Point", "coordinates": [ 3.875166242089981, 43.604002724508092 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "F00_DATE_S": "21\/09\/2010 09:33", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87505957590332", "F05_COMMEN": "43,6038343899338" }, "geometry": { "type": "Point", "coordinates": [ 3.875059575903323, 43.603834389933724 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "F00_DATE_S": "21\/09\/2010 09:34", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87432291022408", "F05_COMMEN": "43,6041760505025" }, "geometry": { "type": "Point", "coordinates": [ 3.874322910224081, 43.604176050502431 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "F00_DATE_S": "21\/09\/2010 09:35", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87364957798673", "F05_COMMEN": "43,6043610447291" }, "geometry": { "type": "Point", "coordinates": [ 3.873649577986734, 43.604361044728996 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "F00_DATE_S": "21\/09\/2010 09:37", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87407791136204", "F05_COMMEN": "43,6037693809401" }, "geometry": { "type": "Point", "coordinates": [ 3.874077911362038, 43.603769380940051 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "F00_DATE_S": "21\/09\/2010 09:41", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87364957952227", "F05_COMMEN": "43,603379376403" }, "geometry": { "type": "Point", "coordinates": [ 3.873649579522266, 43.603379376402884 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "F00_DATE_S": "21\/09\/2010 09:41", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87328291341491", "F05_COMMEN": "43,6035060399613" }, "geometry": { "type": "Point", "coordinates": [ 3.873282913414909, 43.603506039961175 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "F00_DATE_S": "21\/09\/2010 09:42", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,8729845800111", "F05_COMMEN": "43,603942704673" }, "geometry": { "type": "Point", "coordinates": [ 3.872984580011105, 43.603942704672932 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "F00_DATE_S": "21\/09\/2010 09:44", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,8724662483668", "F05_COMMEN": "43,6035493659695" }, "geometry": { "type": "Point", "coordinates": [ 3.872466248366802, 43.603549365969364 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "F00_DATE_S": "21\/09\/2010 09:46", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87429791223627", "F05_COMMEN": "43,6029160481739" }, "geometry": { "type": "Point", "coordinates": [ 3.87429791223627, 43.602916048173803 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "F00_DATE_S": "21\/09\/2010 09:49", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,8736112486188", "F05_COMMEN": "43,6018777068429" }, "geometry": { "type": "Point", "coordinates": [ 3.873611248618797, 43.601877706842835 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "F00_DATE_S": "21\/09\/2010 10:02", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87490291159103", "F05_COMMEN": "43,6025227196865" }, "geometry": { "type": "Point", "coordinates": [ 3.874902911591029, 43.602522719686469 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "F00_DATE_S": "21\/09\/2010 10:07", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,8733262445992", "F05_COMMEN": "43,6048193759211" }, "geometry": { "type": "Point", "coordinates": [ 3.873326244599202, 43.604819375920982 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "F00_DATE_S": "21\/09\/2010 10:08", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87380790973749", "F05_COMMEN": "43,6051660475135" }, "geometry": { "type": "Point", "coordinates": [ 3.873807909737485, 43.605166047513357 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "F00_DATE_S": "21\/09\/2010 10:09", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87344457651807", "F05_COMMEN": "43,6055677115888" }, "geometry": { "type": "Point", "coordinates": [ 3.873444576518067, 43.605567711588719 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "F00_DATE_S": "21\/09\/2010 10:11", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87264791175735", "F05_COMMEN": "43,6053893707868" }, "geometry": { "type": "Point", "coordinates": [ 3.872647911757346, 43.605389370786689 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "F00_DATE_S": "21\/09\/2010 10:14", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87184291347231", "F05_COMMEN": "43,6053443634665" }, "geometry": { "type": "Point", "coordinates": [ 3.871842913472309, 43.605344363466422 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "F00_DATE_S": "21\/09\/2010 10:18", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87098958101652", "F05_COMMEN": "43,6058860234189" }, "geometry": { "type": "Point", "coordinates": [ 3.870989581016524, 43.605886023418769 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "F00_DATE_S": "21\/09\/2010 10:20", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86886625092169", "F05_COMMEN": "43,6065526722564" }, "geometry": { "type": "Point", "coordinates": [ 3.868866250921693, 43.606552672256349 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "F00_DATE_S": "21\/09\/2010 10:21", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,86875625128", "F05_COMMEN": "43,6064693377837" }, "geometry": { "type": "Point", "coordinates": [ 3.868756251279997, 43.606469337783615 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "F00_DATE_S": "21\/09\/2010 10:22", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86902625193807", "F05_COMMEN": "43,6057260054972" }, "geometry": { "type": "Point", "coordinates": [ 3.869026251938071, 43.605726005497139 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "F00_DATE_S": "21\/09\/2010 10:23", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,86926791838231", "F05_COMMEN": "43,6055593406952" }, "geometry": { "type": "Point", "coordinates": [ 3.869267918382307, 43.605559340695073 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "F00_DATE_S": "21\/09\/2010 10:24", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,86950291860881", "F05_COMMEN": "43,6051226753414" }, "geometry": { "type": "Point", "coordinates": [ 3.86950291860881, 43.605122675341342 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "F00_DATE_S": "21\/09\/2010 10:27", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87002458495199", "F05_COMMEN": "43,6046610125347" }, "geometry": { "type": "Point", "coordinates": [ 3.870024584951986, 43.604661012534571 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "F00_DATE_S": "21\/09\/2010 10:29", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87020458387028", "F05_COMMEN": "43,605104348293" }, "geometry": { "type": "Point", "coordinates": [ 3.870204583870278, 43.605104348292905 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "F00_DATE_S": "21\/09\/2010 10:30", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86981791834094", "F05_COMMEN": "43,6048893444197" }, "geometry": { "type": "Point", "coordinates": [ 3.869817918340945, 43.604889344419597 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "F00_DATE_S": "21\/09\/2010 10:31", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86921625344352", "F05_COMMEN": "43,6045576717195" }, "geometry": { "type": "Point", "coordinates": [ 3.869216253443523, 43.604557671719398 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "F00_DATE_S": "21\/09\/2010 10:34", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86852958894581", "F05_COMMEN": "43,6040909979851" }, "geometry": { "type": "Point", "coordinates": [ 3.868529588945814, 43.604090997985047 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "F00_DATE_S": "21\/09\/2010 10:38", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86941625457009", "F05_COMMEN": "43,6036076717789" }, "geometry": { "type": "Point", "coordinates": [ 3.869416254570089, 43.603607671778775 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "F00_DATE_S": "21\/09\/2010 10:40", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87044625123534", "F05_COMMEN": "43,6043610157982" }, "geometry": { "type": "Point", "coordinates": [ 3.870446251235345, 43.604361015798105 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "F00_DATE_S": "21\/09\/2010 10:40", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87098791713536", "F05_COMMEN": "43,6041443536373" }, "geometry": { "type": "Point", "coordinates": [ 3.870987917135356, 43.604144353637167 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "F00_DATE_S": "21\/09\/2010 10:49", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87055458657508", "F05_COMMEN": "43,6029710142762" }, "geometry": { "type": "Point", "coordinates": [ 3.870554586575085, 43.602971014276086 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "F00_DATE_S": "21\/09\/2010 10:50", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87112958558319", "F05_COMMEN": "43,6028460192743" }, "geometry": { "type": "Point", "coordinates": [ 3.871129585583195, 43.602846019274168 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "F00_DATE_S": "21\/09\/2010 10:50", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87133291842312", "F05_COMMEN": "43,6028910212012" }, "geometry": { "type": "Point", "coordinates": [ 3.871332918423124, 43.602891021201089 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "F00_DATE_S": "21\/09\/2010 10:51", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87145958466262", "F05_COMMEN": "43,6029943558678" }, "geometry": { "type": "Point", "coordinates": [ 3.871459584662622, 43.6029943558677 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "F00_DATE_S": "21\/09\/2010 10:52", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87092625312467", "F05_COMMEN": "43,6025626835871" }, "geometry": { "type": "Point", "coordinates": [ 3.870926253124673, 43.602562683586989 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "F00_DATE_S": "21\/09\/2010 10:54", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86940625625232", "F05_COMMEN": "43,602581003132" }, "geometry": { "type": "Point", "coordinates": [ 3.869406256252318, 43.602581003131917 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "F00_DATE_S": "21\/09\/2010 10:54", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,86927458948372", "F05_COMMEN": "43,6028126690292" }, "geometry": { "type": "Point", "coordinates": [ 3.869274589483723, 43.602812669029134 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "F00_DATE_S": "21\/09\/2010 10:59", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,86767625829202", "F05_COMMEN": "43,6035276558684" }, "geometry": { "type": "Point", "coordinates": [ 3.867676258292021, 43.603527655868305 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "F00_DATE_S": "21\/09\/2010 11:00", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,86726459307307", "F05_COMMEN": "43,6031643181102" }, "geometry": { "type": "Point", "coordinates": [ 3.867264593073075, 43.603164318110153 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "F00_DATE_S": "21\/09\/2010 11:00", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86730792635788", "F05_COMMEN": "43,6031393184555" }, "geometry": { "type": "Point", "coordinates": [ 3.867307926357877, 43.603139318455383 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "F00_DATE_S": "21\/09\/2010 11:03", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86869459084387", "F05_COMMEN": "43,6027159969132" }, "geometry": { "type": "Point", "coordinates": [ 3.868694590843866, 43.602715996913084 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "F00_DATE_S": "21\/09\/2010 11:04", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,86922959047938", "F05_COMMEN": "43,6022560009249" }, "geometry": { "type": "Point", "coordinates": [ 3.869229590479384, 43.60225600092479 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "F00_DATE_S": "21\/09\/2010 11:07", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86817292582075", "F05_COMMEN": "43,6023726581919" }, "geometry": { "type": "Point", "coordinates": [ 3.868172925820747, 43.602372658191832 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "F00_DATE_S": "21\/09\/2010 11:08", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,86798959267219", "F05_COMMEN": "43,6024926567507" }, "geometry": { "type": "Point", "coordinates": [ 3.867989592672195, 43.602492656750599 ] } }
+,
+{ "type": "Feature", "id": 100, "properties": { "F00_DATE_S": "21\/09\/2010 11:09", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86797959197827", "F05_COMMEN": "43,6029293241523" }, "geometry": { "type": "Point", "coordinates": [ 3.867979591978265, 43.602929324152186 ] } }
+,
+{ "type": "Feature", "id": 101, "properties": { "F00_DATE_S": "21\/09\/2010 11:12", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,86737792368987", "F05_COMMEN": "43,6046743220206" }, "geometry": { "type": "Point", "coordinates": [ 3.867377923689872, 43.604674322020493 ] } }
+,
+{ "type": "Feature", "id": 102, "properties": { "F00_DATE_S": "21\/09\/2010 11:13", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86766125571002", "F05_COMMEN": "43,6051209920896" }, "geometry": { "type": "Point", "coordinates": [ 3.867661255710022, 43.605120992089475 ] } }
+,
+{ "type": "Feature", "id": 103, "properties": { "F00_DATE_S": "21\/09\/2010 11:14", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86752125559138", "F05_COMMEN": "43,6053676579644" }, "geometry": { "type": "Point", "coordinates": [ 3.86752125559138, 43.605367657964308 ] } }
+,
+{ "type": "Feature", "id": 104, "properties": { "F00_DATE_S": "21\/09\/2010 11:16", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86819958560315", "F05_COMMEN": "43,6065543329569" }, "geometry": { "type": "Point", "coordinates": [ 3.868199585603153, 43.606554332956797 ] } }
+,
+{ "type": "Feature", "id": 105, "properties": { "F00_DATE_S": "21\/09\/2010 11:18", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,86874791682886", "F05_COMMEN": "43,6071676723362" }, "geometry": { "type": "Point", "coordinates": [ 3.868747916828856, 43.607167672336146 ] } }
+,
+{ "type": "Feature", "id": 106, "properties": { "F00_DATE_S": "21\/09\/2010 11:20", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,86793291835671", "F05_COMMEN": "43,6072393318576" }, "geometry": { "type": "Point", "coordinates": [ 3.867932918356709, 43.607239331857528 ] } }
+,
+{ "type": "Feature", "id": 107, "properties": { "F00_DATE_S": "21\/09\/2010 11:21", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86826291641907", "F05_COMMEN": "43,608019336261" }, "geometry": { "type": "Point", "coordinates": [ 3.868262916419067, 43.608019336260895 ] } }
+,
+{ "type": "Feature", "id": 108, "properties": { "F00_DATE_S": "21\/09\/2010 11:24", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86731625241664", "F05_COMMEN": "43,6075543269497" }, "geometry": { "type": "Point", "coordinates": [ 3.867316252416643, 43.607554326949611 ] } }
+,
+{ "type": "Feature", "id": 109, "properties": { "F00_DATE_S": "21\/09\/2010 11:25", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,8674229187564", "F05_COMMEN": "43,607622661364" }, "geometry": { "type": "Point", "coordinates": [ 3.867422918756399, 43.607622661363862 ] } }
+,
+{ "type": "Feature", "id": 110, "properties": { "F00_DATE_S": "21\/09\/2010 11:26", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86793291730224", "F05_COMMEN": "43,6078843330695" }, "geometry": { "type": "Point", "coordinates": [ 3.867932917302245, 43.60788433306945 ] } }
+,
+{ "type": "Feature", "id": 111, "properties": { "F00_DATE_S": "21\/09\/2010 11:28", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86753458365164", "F05_COMMEN": "43,6085659974771" }, "geometry": { "type": "Point", "coordinates": [ 3.867534583651638, 43.608565997477029 ] } }
+,
+{ "type": "Feature", "id": 112, "properties": { "F00_DATE_S": "21\/09\/2010 11:40", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87262623433808", "F05_COMMEN": "43,6122460489962" }, "geometry": { "type": "Point", "coordinates": [ 3.872626234338079, 43.612246048996141 ] } }
+,
+{ "type": "Feature", "id": 113, "properties": { "F00_DATE_S": "22\/09\/2010 09:14", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88532287522937", "F05_COMMEN": "43,6129128277128" }, "geometry": { "type": "Point", "coordinates": [ 3.885322875229373, 43.612912827712734 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "F00_DATE_S": "22\/09\/2010 09:15", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88607954015981", "F05_COMMEN": "43,6130995012211" }, "geometry": { "type": "Point", "coordinates": [ 3.886079540159814, 43.613099501220965 ] } }
+,
+{ "type": "Feature", "id": 115, "properties": { "F00_DATE_S": "22\/09\/2010 09:17", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88610954013412", "F05_COMMEN": "43,613076168121" }, "geometry": { "type": "Point", "coordinates": [ 3.886109540134122, 43.613076168120891 ] } }
+,
+{ "type": "Feature", "id": 116, "properties": { "F00_DATE_S": "22\/09\/2010 09:22", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88226455694616", "F05_COMMEN": "43,6066511257249" }, "geometry": { "type": "Point", "coordinates": [ 3.882264556946165, 43.606651125724845 ] } }
+,
+{ "type": "Feature", "id": 117, "properties": { "F00_DATE_S": "22\/09\/2010 09:23", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88218622361408", "F05_COMMEN": "43,6067594585069" }, "geometry": { "type": "Point", "coordinates": [ 3.882186223614084, 43.606759458506744 ] } }
+,
+{ "type": "Feature", "id": 118, "properties": { "F00_DATE_S": "22\/09\/2010 09:24", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88170289002603", "F05_COMMEN": "43,6076044553637" }, "geometry": { "type": "Point", "coordinates": [ 3.881702890026036, 43.607604455363649 ] } }
+,
+{ "type": "Feature", "id": 119, "properties": { "F00_DATE_S": "22\/09\/2010 09:26", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88242122085252", "F05_COMMEN": "43,6083344627749" }, "geometry": { "type": "Point", "coordinates": [ 3.88242122085252, 43.608334462774806 ] } }
+,
+{ "type": "Feature", "id": 120, "properties": { "F00_DATE_S": "22\/09\/2010 09:27", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88282621990989", "F05_COMMEN": "43,6084244665002" }, "geometry": { "type": "Point", "coordinates": [ 3.882826219909894, 43.608424466500104 ] } }
+,
+{ "type": "Feature", "id": 121, "properties": { "F00_DATE_S": "22\/09\/2010 09:28", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88194122166495", "F05_COMMEN": "43,6084377919815" }, "geometry": { "type": "Point", "coordinates": [ 3.881941221664953, 43.608437791981387 ] } }
+,
+{ "type": "Feature", "id": 122, "properties": { "F00_DATE_S": "22\/09\/2010 09:28", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88180288867215", "F05_COMMEN": "43,6083944573576" }, "geometry": { "type": "Point", "coordinates": [ 3.881802888672151, 43.60839445735752 ] } }
+,
+{ "type": "Feature", "id": 123, "properties": { "F00_DATE_S": "22\/09\/2010 09:29", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,8815078891175", "F05_COMMEN": "43,6084944548742" }, "geometry": { "type": "Point", "coordinates": [ 3.881507889117501, 43.608494454874084 ] } }
+,
+{ "type": "Feature", "id": 124, "properties": { "F00_DATE_S": "22\/09\/2010 09:31", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88145288919359", "F05_COMMEN": "43,6085177877513" }, "geometry": { "type": "Point", "coordinates": [ 3.881452889193587, 43.608517787751246 ] } }
+,
+{ "type": "Feature", "id": 125, "properties": { "F00_DATE_S": "22\/09\/2010 09:33", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88318788632447", "F05_COMMEN": "43,6080961359415" }, "geometry": { "type": "Point", "coordinates": [ 3.883187886324472, 43.608096135941409 ] } }
+,
+{ "type": "Feature", "id": 126, "properties": { "F00_DATE_S": "22\/09\/2010 09:34", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,881759558245", "F05_COMMEN": "43,6064627876057" }, "geometry": { "type": "Point", "coordinates": [ 3.881759558245005, 43.606462787605572 ] } }
+,
+{ "type": "Feature", "id": 127, "properties": { "F00_DATE_S": "22\/09\/2010 09:37", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87960622935652", "F05_COMMEN": "43,6064127682357" }, "geometry": { "type": "Point", "coordinates": [ 3.879606229356523, 43.606412768235593 ] } }
+,
+{ "type": "Feature", "id": 128, "properties": { "F00_DATE_S": "22\/09\/2010 09:38", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,8783795645663", "F05_COMMEN": "43,6068210911951" }, "geometry": { "type": "Point", "coordinates": [ 3.878379564566299, 43.606821091194995 ] } }
+,
+{ "type": "Feature", "id": 129, "properties": { "F00_DATE_S": "22\/09\/2010 09:39", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88013289471709", "F05_COMMEN": "43,6065727731891" }, "geometry": { "type": "Point", "coordinates": [ 3.880132894717093, 43.606572773189001 ] } }
+,
+{ "type": "Feature", "id": 130, "properties": { "F00_DATE_S": "22\/09\/2010 09:40", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88022956106689", "F05_COMMEN": "43,6066544408403" }, "geometry": { "type": "Point", "coordinates": [ 3.880229561066892, 43.606654440840181 ] } }
+,
+{ "type": "Feature", "id": 131, "properties": { "F00_DATE_S": "22\/09\/2010 09:41", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88098122606281", "F05_COMMEN": "43,6067544477137" }, "geometry": { "type": "Point", "coordinates": [ 3.88098122606281, 43.606754447713634 ] } }
+,
+{ "type": "Feature", "id": 132, "properties": { "F00_DATE_S": "22\/09\/2010 09:42", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88168122568191", "F05_COMMEN": "43,6060444529831" }, "geometry": { "type": "Point", "coordinates": [ 3.881681225681905, 43.606044452982985 ] } }
+,
+{ "type": "Feature", "id": 133, "properties": { "F00_DATE_S": "22\/09\/2010 09:50", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,8816195599571", "F05_COMMEN": "43,6054861183105" }, "geometry": { "type": "Point", "coordinates": [ 3.8816195599571, 43.605486118310395 ] } }
+,
+{ "type": "Feature", "id": 134, "properties": { "F00_DATE_S": "22\/09\/2010 09:52", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,8825228925024", "F05_COMMEN": "43,6047577920997" }, "geometry": { "type": "Point", "coordinates": [ 3.882522892502397, 43.604757792099619 ] } }
+,
+{ "type": "Feature", "id": 135, "properties": { "F00_DATE_S": "22\/09\/2010 09:53", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88208622673157", "F05_COMMEN": "43,6047577881605" }, "geometry": { "type": "Point", "coordinates": [ 3.882086226731575, 43.604757788160391 ] } }
+,
+{ "type": "Feature", "id": 136, "properties": { "F00_DATE_S": "22\/09\/2010 09:54", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,882144560467", "F05_COMMEN": "43,6043994548544" }, "geometry": { "type": "Point", "coordinates": [ 3.882144560467004, 43.604399454854303 ] } }
+,
+{ "type": "Feature", "id": 137, "properties": { "F00_DATE_S": "22\/09\/2010 09:55", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88260455976534", "F05_COMMEN": "43,6042311254447" }, "geometry": { "type": "Point", "coordinates": [ 3.882604559765337, 43.604231125444564 ] } }
+,
+{ "type": "Feature", "id": 138, "properties": { "F00_DATE_S": "22\/09\/2010 09:56", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,8827228937149", "F05_COMMEN": "43,6036377923657" }, "geometry": { "type": "Point", "coordinates": [ 3.882722893714897, 43.603637792365582 ] } }
+,
+{ "type": "Feature", "id": 139, "properties": { "F00_DATE_S": "22\/09\/2010 09:57", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88271122783575", "F05_COMMEN": "43,6031111248685" }, "geometry": { "type": "Point", "coordinates": [ 3.882711227835748, 43.603111124868448 ] } }
+,
+{ "type": "Feature", "id": 140, "properties": { "F00_DATE_S": "22\/09\/2010 09:59", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88356955800193", "F05_COMMEN": "43,6040761339596" }, "geometry": { "type": "Point", "coordinates": [ 3.883569558001925, 43.60407613395946 ] } }
+,
+{ "type": "Feature", "id": 141, "properties": { "F00_DATE_S": "22\/09\/2010 09:59", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88370955738547", "F05_COMMEN": "43,604304468865" }, "geometry": { "type": "Point", "coordinates": [ 3.883709557385475, 43.604304468864903 ] } }
+,
+{ "type": "Feature", "id": 142, "properties": { "F00_DATE_S": "22\/09\/2010 10:01", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88465289004331", "F05_COMMEN": "43,6034161428957" }, "geometry": { "type": "Point", "coordinates": [ 3.884652890043313, 43.603416142895625 ] } }
+,
+{ "type": "Feature", "id": 143, "properties": { "F00_DATE_S": "22\/09\/2010 10:02", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88349789250007", "F05_COMMEN": "43,6033694656922" }, "geometry": { "type": "Point", "coordinates": [ 3.883497892500073, 43.603369465692111 ] } }
+,
+{ "type": "Feature", "id": 144, "properties": { "F00_DATE_S": "22\/09\/2010 10:04", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88287289435313", "F05_COMMEN": "43,6029827928268" }, "geometry": { "type": "Point", "coordinates": [ 3.882872894353133, 43.602982792826758 ] } }
+,
+{ "type": "Feature", "id": 145, "properties": { "F00_DATE_S": "22\/09\/2010 10:05", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88437122596926", "F05_COMMEN": "43,6020094718176" }, "geometry": { "type": "Point", "coordinates": [ 3.88437122596926, 43.602009471817539 ] } }
+,
+{ "type": "Feature", "id": 146, "properties": { "F00_DATE_S": "22\/09\/2010 10:06", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88460955898588", "F05_COMMEN": "43,6018828071575" }, "geometry": { "type": "Point", "coordinates": [ 3.884609558985884, 43.601882807157381 ] } }
+,
+{ "type": "Feature", "id": 147, "properties": { "F00_DATE_S": "22\/09\/2010 10:08", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88161956318512", "F05_COMMEN": "43,6032794485295" }, "geometry": { "type": "Point", "coordinates": [ 3.881619563185126, 43.60327944852942 ] } }
+,
+{ "type": "Feature", "id": 148, "properties": { "F00_DATE_S": "22\/09\/2010 10:08", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88080789846152", "F05_COMMEN": "43,6031011075753" }, "geometry": { "type": "Point", "coordinates": [ 3.880807898461519, 43.603101107575178 ] } }
+,
+{ "type": "Feature", "id": 149, "properties": { "F00_DATE_S": "22\/09\/2010 10:29", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88379622323278", "F05_COMMEN": "43,6047511369112" }, "geometry": { "type": "Point", "coordinates": [ 3.883796223232777, 43.604751136911119 ] } }
+,
+{ "type": "Feature", "id": 150, "properties": { "F00_DATE_S": "22\/09\/2010 10:30", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88402288856319", "F05_COMMEN": "43,6053594730959" }, "geometry": { "type": "Point", "coordinates": [ 3.88402288856319, 43.60535947309581 ] } }
+,
+{ "type": "Feature", "id": 151, "properties": { "F00_DATE_S": "22\/09\/2010 10:31", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88410788819151", "F05_COMMEN": "43,6054978073771" }, "geometry": { "type": "Point", "coordinates": [ 3.884107888191509, 43.605497807377006 ] } }
+,
+{ "type": "Feature", "id": 152, "properties": { "F00_DATE_S": "22\/09\/2010 10:32", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88530455322551", "F05_COMMEN": "43,6049244840748" }, "geometry": { "type": "Point", "coordinates": [ 3.885304553225506, 43.604924484074722 ] } }
+,
+{ "type": "Feature", "id": 153, "properties": { "F00_DATE_S": "22\/09\/2010 10:33", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88614788369898", "F05_COMMEN": "43,6057294926855" }, "geometry": { "type": "Point", "coordinates": [ 3.886147883698984, 43.605729492685434 ] } }
+,
+{ "type": "Feature", "id": 154, "properties": { "F00_DATE_S": "22\/09\/2010 10:33", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88565955118544", "F05_COMMEN": "43,6058544884545" }, "geometry": { "type": "Point", "coordinates": [ 3.885659551185437, 43.605854488454405 ] } }
+,
+{ "type": "Feature", "id": 155, "properties": { "F00_DATE_S": "22\/09\/2010 10:34", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88557788539359", "F05_COMMEN": "43,6053528204171" }, "geometry": { "type": "Point", "coordinates": [ 3.885577885393587, 43.605352820416975 ] } }
+,
+{ "type": "Feature", "id": 156, "properties": { "F00_DATE_S": "22\/09\/2010 10:37", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,8833428884986", "F05_COMMEN": "43,6063694683361" }, "geometry": { "type": "Point", "coordinates": [ 3.883342888498601, 43.606369468335963 ] } }
+,
+{ "type": "Feature", "id": 157, "properties": { "F00_DATE_S": "22\/09\/2010 10:39", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88251455771093", "F05_COMMEN": "43,6057744600917" }, "geometry": { "type": "Point", "coordinates": [ 3.88251455771093, 43.605774460091659 ] } }
+,
+{ "type": "Feature", "id": 158, "properties": { "F00_DATE_S": "22\/09\/2010 10:40", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88355455614888", "F05_COMMEN": "43,6053861355831" }, "geometry": { "type": "Point", "coordinates": [ 3.883554556148881, 43.605386135583011 ] } }
+,
+{ "type": "Feature", "id": 159, "properties": { "F00_DATE_S": "22\/09\/2010 10:42", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88625121654552", "F05_COMMEN": "43,605926160526" }, "geometry": { "type": "Point", "coordinates": [ 3.886251216545525, 43.605926160525875 ] } }
+,
+{ "type": "Feature", "id": 160, "properties": { "F00_DATE_S": "22\/09\/2010 10:42", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88658621603318", "F05_COMMEN": "43,605804496718" }, "geometry": { "type": "Point", "coordinates": [ 3.886586216033185, 43.605804496717909 ] } }
+,
+{ "type": "Feature", "id": 161, "properties": { "F00_DATE_S": "22\/09\/2010 10:44", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88794621346487", "F05_COMMEN": "43,6056561754297" }, "geometry": { "type": "Point", "coordinates": [ 3.887946213464871, 43.605656175429644 ] } }
+,
+{ "type": "Feature", "id": 162, "properties": { "F00_DATE_S": "22\/09\/2010 10:48", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88901621243943", "F05_COMMEN": "43,6048095174095" }, "geometry": { "type": "Point", "coordinates": [ 3.889016212439429, 43.604809517409436 ] } }
+,
+{ "type": "Feature", "id": 163, "properties": { "F00_DATE_S": "22\/09\/2010 10:51", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88981787903048", "F05_COMMEN": "43,603654523341" }, "geometry": { "type": "Point", "coordinates": [ 3.889817879030483, 43.603654523340929 ] } }
+,
+{ "type": "Feature", "id": 164, "properties": { "F00_DATE_S": "22\/09\/2010 10:51", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88962954608415", "F05_COMMEN": "43,603656188303" }, "geometry": { "type": "Point", "coordinates": [ 3.88962954608415, 43.603656188302871 ] } }
+,
+{ "type": "Feature", "id": 165, "properties": { "F00_DATE_S": "22\/09\/2010 10:54", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,89128953997279", "F05_COMMEN": "43,6056562054932" }, "geometry": { "type": "Point", "coordinates": [ 3.891289539972785, 43.605656205493126 ] } }
+,
+{ "type": "Feature", "id": 166, "properties": { "F00_DATE_S": "22\/09\/2010 10:55", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89097454077046", "F05_COMMEN": "43,6055412025362" }, "geometry": { "type": "Point", "coordinates": [ 3.890974540770455, 43.605541202536088 ] } }
+,
+{ "type": "Feature", "id": 167, "properties": { "F00_DATE_S": "22\/09\/2010 10:56", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89238953696898", "F05_COMMEN": "43,6062278826418" }, "geometry": { "type": "Point", "coordinates": [ 3.892389536968978, 43.606227882641662 ] } }
+,
+{ "type": "Feature", "id": 168, "properties": { "F00_DATE_S": "22\/09\/2010 10:57", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89281620288186", "F05_COMMEN": "43,6061412197155" }, "geometry": { "type": "Point", "coordinates": [ 3.892816202881859, 43.606141219715404 ] } }
+,
+{ "type": "Feature", "id": 169, "properties": { "F00_DATE_S": "22\/09\/2010 10:59", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89112953840614", "F05_COMMEN": "43,6070678722377" }, "geometry": { "type": "Point", "coordinates": [ 3.891129538406138, 43.6070678722376 ] } }
+,
+{ "type": "Feature", "id": 170, "properties": { "F00_DATE_S": "22\/09\/2010 10:59", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,89104287147429", "F05_COMMEN": "43,6073962051488" }, "geometry": { "type": "Point", "coordinates": [ 3.891042871474295, 43.607396205148746 ] } }
+,
+{ "type": "Feature", "id": 171, "properties": { "F00_DATE_S": "22\/09\/2010 11:02", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88894121198613", "F05_COMMEN": "43,605252850578" }, "geometry": { "type": "Point", "coordinates": [ 3.88894121198613, 43.605252850577926 ] } }
+,
+{ "type": "Feature", "id": 172, "properties": { "F00_DATE_S": "22\/09\/2010 14:25", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88767454995817", "F05_COMMEN": "43,6037761707321" }, "geometry": { "type": "Point", "coordinates": [ 3.88767454995817, 43.603776170732019 ] } }
+,
+{ "type": "Feature", "id": 173, "properties": { "F00_DATE_S": "22\/09\/2010 14:28", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88001956808753", "F05_COMMEN": "43,6022077657704" }, "geometry": { "type": "Point", "coordinates": [ 3.880019568087533, 43.602207765770281 ] } }
+,
+{ "type": "Feature", "id": 174, "properties": { "F00_DATE_S": "22\/09\/2010 14:30", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87932457061813", "F05_COMMEN": "43,6014827583532" }, "geometry": { "type": "Point", "coordinates": [ 3.87932457061813, 43.6014827583531 ] } }
+,
+{ "type": "Feature", "id": 175, "properties": { "F00_DATE_S": "22\/09\/2010 14:31", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87962456933496", "F05_COMMEN": "43,6019227617484" }, "geometry": { "type": "Point", "coordinates": [ 3.879624569334959, 43.601922761748291 ] } }
+,
+{ "type": "Feature", "id": 176, "properties": { "F00_DATE_S": "22\/09\/2010 14:32", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87893956991569", "F05_COMMEN": "43,6024894230249" }, "geometry": { "type": "Point", "coordinates": [ 3.878939569915687, 43.602489423024778 ] } }
+,
+{ "type": "Feature", "id": 177, "properties": { "F00_DATE_S": "22\/09\/2010 14:33", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87833290544169", "F05_COMMEN": "43,6018710832242" }, "geometry": { "type": "Point", "coordinates": [ 3.878332905441689, 43.601871083224118 ] } }
+,
+{ "type": "Feature", "id": 178, "properties": { "F00_DATE_S": "22\/09\/2010 14:35", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87795290763248", "F05_COMMEN": "43,600946078327" }, "geometry": { "type": "Point", "coordinates": [ 3.877952907632482, 43.600946078326885 ] } }
+,
+{ "type": "Feature", "id": 179, "properties": { "F00_DATE_S": "22\/09\/2010 14:39", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,882314562915", "F05_COMMEN": "43,6024761203837" }, "geometry": { "type": "Point", "coordinates": [ 3.882314562914996, 43.602476120383606 ] } }
+,
+{ "type": "Feature", "id": 180, "properties": { "F00_DATE_S": "22\/09\/2010 14:42", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88224956452574", "F05_COMMEN": "43,6014627850439" }, "geometry": { "type": "Point", "coordinates": [ 3.882249564525743, 43.6014627850438 ] } }
+,
+{ "type": "Feature", "id": 181, "properties": { "F00_DATE_S": "22\/09\/2010 14:47", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88225623131438", "F05_COMMEN": "43,601369451641" }, "geometry": { "type": "Point", "coordinates": [ 3.882256231314375, 43.60136945164092 ] } }
+,
+{ "type": "Feature", "id": 182, "properties": { "F00_DATE_S": "22\/09\/2010 14:50", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88440455956404", "F05_COMMEN": "43,6017778051487" }, "geometry": { "type": "Point", "coordinates": [ 3.88440455956404, 43.601777805148636 ] } }
+,
+{ "type": "Feature", "id": 183, "properties": { "F00_DATE_S": "22\/09\/2010 15:01", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89268120198506", "F05_COMMEN": "43,6070278860745" }, "geometry": { "type": "Point", "coordinates": [ 3.892681201985058, 43.607027886074427 ] } }
+,
+{ "type": "Feature", "id": 184, "properties": { "F00_DATE_S": "22\/09\/2010 15:03", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89378453304737", "F05_COMMEN": "43,6070562293054" }, "geometry": { "type": "Point", "coordinates": [ 3.893784533047365, 43.607056229305307 ] } }
+,
+{ "type": "Feature", "id": 185, "properties": { "F00_DATE_S": "22\/09\/2010 15:04", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89438619877967", "F05_COMMEN": "43,6068379011445" }, "geometry": { "type": "Point", "coordinates": [ 3.894386198779668, 43.606837901144374 ] } }
+,
+{ "type": "Feature", "id": 186, "properties": { "F00_DATE_S": "22\/09\/2010 15:05", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89410119944652", "F05_COMMEN": "43,6067695651934" }, "geometry": { "type": "Point", "coordinates": [ 3.894101199446522, 43.606769565193311 ] } }
+,
+{ "type": "Feature", "id": 187, "properties": { "F00_DATE_S": "22\/09\/2010 15:07", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89589286231044", "F05_COMMEN": "43,6069012480239" }, "geometry": { "type": "Point", "coordinates": [ 3.895892862310437, 43.606901248023846 ] } }
+,
+{ "type": "Feature", "id": 188, "properties": { "F00_DATE_S": "22\/09\/2010 15:07", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,896122860767", "F05_COMMEN": "43,6077445841729" }, "geometry": { "type": "Point", "coordinates": [ 3.896122860767002, 43.607744584172849 ] } }
+,
+{ "type": "Feature", "id": 189, "properties": { "F00_DATE_S": "22\/09\/2010 15:09", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89416119687913", "F05_COMMEN": "43,6086479008764" }, "geometry": { "type": "Point", "coordinates": [ 3.894161196879131, 43.608647900876264 ] } }
+,
+{ "type": "Feature", "id": 190, "properties": { "F00_DATE_S": "22\/09\/2010 15:12", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89648119469104", "F05_COMMEN": "43,6067129197897" }, "geometry": { "type": "Point", "coordinates": [ 3.896481194691039, 43.606712919789572 ] } }
+,
+{ "type": "Feature", "id": 191, "properties": { "F00_DATE_S": "22\/09\/2010 15:13", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89617286485382", "F05_COMMEN": "43,6044662483372" }, "geometry": { "type": "Point", "coordinates": [ 3.896172864853822, 43.604466248337097 ] } }
+,
+{ "type": "Feature", "id": 192, "properties": { "F00_DATE_S": "22\/09\/2010 15:14", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89498286783061", "F05_COMMEN": "43,6040579038653" }, "geometry": { "type": "Point", "coordinates": [ 3.894982867830608, 43.604057903865225 ] } }
+,
+{ "type": "Feature", "id": 193, "properties": { "F00_DATE_S": "22\/09\/2010 15:15", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89570953382463", "F05_COMMEN": "43,6034145765147" }, "geometry": { "type": "Point", "coordinates": [ 3.895709533824626, 43.603414576514581 ] } }
+,
+{ "type": "Feature", "id": 194, "properties": { "F00_DATE_S": "22\/09\/2010 15:16", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89532286963342", "F05_COMMEN": "43,6021162384548" }, "geometry": { "type": "Point", "coordinates": [ 3.895322869633421, 43.602116238454727 ] } }
+,
+{ "type": "Feature", "id": 195, "properties": { "F00_DATE_S": "22\/09\/2010 14:19", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89340954019953", "F05_COMMEN": "43,6021878877499" }, "geometry": { "type": "Point", "coordinates": [ 3.893409540199532, 43.602187887749842 ] } }
+,
+{ "type": "Feature", "id": 196, "properties": { "F00_DATE_S": "22\/09\/2010 15:19", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89340787349472", "F05_COMMEN": "43,6022195544333" }, "geometry": { "type": "Point", "coordinates": [ 3.893407873494717, 43.602219554433198 ] } }
+,
+{ "type": "Feature", "id": 197, "properties": { "F00_DATE_S": "22\/09\/2010 15:24", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89054621117112", "F05_COMMEN": "43,603422863019" }, "geometry": { "type": "Point", "coordinates": [ 3.890546211171118, 43.603422863018942 ] } }
+,
+{ "type": "Feature", "id": 198, "properties": { "F00_DATE_S": "22\/09\/2010 15:25", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,89063954434498", "F05_COMMEN": "43,6033978638381" }, "geometry": { "type": "Point", "coordinates": [ 3.890639544344977, 43.603397863837991 ] } }
+,
+{ "type": "Feature", "id": 199, "properties": { "F00_DATE_S": "22\/09\/2010 15:31", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89342620204233", "F05_COMMEN": "43,6058345582191" }, "geometry": { "type": "Point", "coordinates": [ 3.893426202042334, 43.605834558219051 ] } }
+,
+{ "type": "Feature", "id": 200, "properties": { "F00_DATE_S": "28\/09\/2010 09:07", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88650954722272", "F05_COMMEN": "43,6074478313911" }, "geometry": { "type": "Point", "coordinates": [ 3.886509547222719, 43.607447831391028 ] } }
+,
+{ "type": "Feature", "id": 201, "properties": { "F00_DATE_S": "28\/09\/2010 09:08", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89233787524172", "F05_COMMEN": "43,6025845450635" }, "geometry": { "type": "Point", "coordinates": [ 3.892337875241719, 43.602584545063394 ] } }
+,
+{ "type": "Feature", "id": 202, "properties": { "F00_DATE_S": "28\/09\/2010 09:12", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88982120619827", "F05_COMMEN": "43,6081895284558" }, "geometry": { "type": "Point", "coordinates": [ 3.889821206198275, 43.608189528455725 ] } }
+,
+{ "type": "Feature", "id": 203, "properties": { "F00_DATE_S": "28\/09\/2010 09:14", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88953287475972", "F05_COMMEN": "43,6072228581333" }, "geometry": { "type": "Point", "coordinates": [ 3.889532874759723, 43.60722285813322 ] } }
+,
+{ "type": "Feature", "id": 204, "properties": { "F00_DATE_S": "28\/09\/2010 09:15", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88935620844566", "F05_COMMEN": "43,6072261898915" }, "geometry": { "type": "Point", "coordinates": [ 3.88935620844566, 43.607226189891392 ] } }
+,
+{ "type": "Feature", "id": 205, "properties": { "F00_DATE_S": "28\/09\/2010 10:16", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88901787613817", "F05_COMMEN": "43,6069761865812" }, "geometry": { "type": "Point", "coordinates": [ 3.889017876138174, 43.606976186581143 ] } }
+,
+{ "type": "Feature", "id": 206, "properties": { "F00_DATE_S": "28\/09\/2010 09:18", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,89011954081792", "F05_COMMEN": "43,6067961962374" }, "geometry": { "type": "Point", "coordinates": [ 3.890119540817918, 43.606796196237326 ] } }
+,
+{ "type": "Feature", "id": 207, "properties": { "F00_DATE_S": "28\/09\/2010 09:24", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89504952735675", "F05_COMMEN": "43,6094812428815" }, "geometry": { "type": "Point", "coordinates": [ 3.89504952735675, 43.609481242881458 ] } }
+,
+{ "type": "Feature", "id": 208, "properties": { "F00_DATE_S": "28\/09\/2010 09:26", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,89446619434125", "F05_COMMEN": "43,6101329049975" }, "geometry": { "type": "Point", "coordinates": [ 3.894466194341253, 43.6101329049974 ] } }
+,
+{ "type": "Feature", "id": 209, "properties": { "F00_DATE_S": "28\/09\/2010 09:27", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,8947845254246", "F05_COMMEN": "43,6113845756471" }, "geometry": { "type": "Point", "coordinates": [ 3.894784525424605, 43.611384575646966 ] } }
+,
+{ "type": "Feature", "id": 210, "properties": { "F00_DATE_S": "28\/09\/2010 09:28", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,8947311933688", "F05_COMMEN": "43,6104779076629" }, "geometry": { "type": "Point", "coordinates": [ 3.894731193368804, 43.61047790766284 ] } }
+,
+{ "type": "Feature", "id": 211, "properties": { "F00_DATE_S": "28\/09\/2010 09:30", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89130453471146", "F05_COMMEN": "43,6095645431225" }, "geometry": { "type": "Point", "coordinates": [ 3.891304534711461, 43.609564543122389 ] } }
+,
+{ "type": "Feature", "id": 212, "properties": { "F00_DATE_S": "28\/09\/2010 09:32", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89268786604986", "F05_COMMEN": "43,6089878881241" }, "geometry": { "type": "Point", "coordinates": [ 3.892687866049863, 43.608987888124069 ] } }
+,
+{ "type": "Feature", "id": 213, "properties": { "F00_DATE_S": "28\/09\/2010 09:33", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,8913928689736", "F05_COMMEN": "43,6087378763642" }, "geometry": { "type": "Point", "coordinates": [ 3.891392868973598, 43.608737876364138 ] } }
+,
+{ "type": "Feature", "id": 214, "properties": { "F00_DATE_S": "28\/09\/2010 09:35", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88900787300244", "F05_COMMEN": "43,6092845224639" }, "geometry": { "type": "Point", "coordinates": [ 3.889007873002443, 43.609284522463831 ] } }
+,
+{ "type": "Feature", "id": 215, "properties": { "F00_DATE_S": "28\/09\/2010 09:35", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88906953961891", "F05_COMMEN": "43,6092311896166" }, "geometry": { "type": "Point", "coordinates": [ 3.889069539618907, 43.609231189616558 ] } }
+,
+{ "type": "Feature", "id": 216, "properties": { "F00_DATE_S": "28\/09\/2010 09:37", "F01_TYPE_D": "Taxi", "F03_COMMEN": "3,89010787001395", "F05_COMMEN": "43,6098711995286" }, "geometry": { "type": "Point", "coordinates": [ 3.890107870013954, 43.60987119952847 ] } }
+,
+{ "type": "Feature", "id": 217, "properties": { "F00_DATE_S": "28\/09\/2010 09:39", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88847953952184", "F05_COMMEN": "43,6101595187925" }, "geometry": { "type": "Point", "coordinates": [ 3.888479539521846, 43.610159518792358 ] } }
+,
+{ "type": "Feature", "id": 218, "properties": { "F00_DATE_S": "28\/09\/2010 09:41", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88524954644114", "F05_COMMEN": "43,6097978231321" }, "geometry": { "type": "Point", "coordinates": [ 3.885249546441138, 43.609797823132006 ] } }
+,
+{ "type": "Feature", "id": 219, "properties": { "F00_DATE_S": "28\/09\/2010 09:43", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88569954662866", "F05_COMMEN": "43,6090294928156" }, "geometry": { "type": "Point", "coordinates": [ 3.885699546628656, 43.609029492815544 ] } }
+,
+{ "type": "Feature", "id": 220, "properties": { "F00_DATE_S": "28\/09\/2010 09:44", "F01_TYPE_D": "Transport public", "F03_COMMEN": "3,88576454671232", "F05_COMMEN": "43,6088778265356" }, "geometry": { "type": "Point", "coordinates": [ 3.88576454671232, 43.608877826535483 ] } }
+,
+{ "type": "Feature", "id": 221, "properties": { "F00_DATE_S": "28\/09\/2010 09:45", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88688787718112", "F05_COMMEN": "43,6093211703811" }, "geometry": { "type": "Point", "coordinates": [ 3.886887877181116, 43.609321170380952 ] } }
+,
+{ "type": "Feature", "id": 222, "properties": { "F00_DATE_S": "28\/09\/2010 09:47", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88985287157844", "F05_COMMEN": "43,6090911964073" }, "geometry": { "type": "Point", "coordinates": [ 3.889852871578445, 43.609091196407213 ] } }
+,
+{ "type": "Feature", "id": 223, "properties": { "F00_DATE_S": "28\/09\/2010 09:51", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89837619071394", "F05_COMMEN": "43,6068179368509" }, "geometry": { "type": "Point", "coordinates": [ 3.898376190713937, 43.606817936850788 ] } }
+,
+{ "type": "Feature", "id": 224, "properties": { "F00_DATE_S": "28\/09\/2010 09:54", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,89936119305939", "F05_COMMEN": "43,6033079428936" }, "geometry": { "type": "Point", "coordinates": [ 3.899361193059387, 43.603307942893537 ] } }
+,
+{ "type": "Feature", "id": 225, "properties": { "F00_DATE_S": "28\/09\/2010 09:55", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,89857786154755", "F05_COMMEN": "43,6031496023196" }, "geometry": { "type": "Point", "coordinates": [ 3.898577861547556, 43.603149602319526 ] } }
+,
+{ "type": "Feature", "id": 226, "properties": { "F00_DATE_S": "28\/09\/2010 09:55", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89837952853401", "F05_COMMEN": "43,6032229339125" }, "geometry": { "type": "Point", "coordinates": [ 3.898379528534015, 43.603222933912463 ] } }
+,
+{ "type": "Feature", "id": 227, "properties": { "F00_DATE_S": "28\/09\/2010 09:56", "F01_TYPE_D": "Réservé service public", "F03_COMMEN": "3,89796619618143", "F05_COMMEN": "43,6031245967432" }, "geometry": { "type": "Point", "coordinates": [ 3.897966196181427, 43.603124596743136 ] } }
+,
+{ "type": "Feature", "id": 228, "properties": { "F00_DATE_S": "28\/09\/2010 09:57", "F01_TYPE_D": "Réservé service public", "F03_COMMEN": "3,89834286208939", "F05_COMMEN": "43,6031062668158" }, "geometry": { "type": "Point", "coordinates": [ 3.898342862089386, 43.603106266815765 ] } }
+,
+{ "type": "Feature", "id": 229, "properties": { "F00_DATE_S": "28\/09\/2010 09:57", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,89881452795978", "F05_COMMEN": "43,602959604314" }, "geometry": { "type": "Point", "coordinates": [ 3.898814527959778, 43.602959604313945 ] } }
+,
+{ "type": "Feature", "id": 230, "properties": { "F00_DATE_S": "28\/09\/2010 09:58", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89857619556688", "F05_COMMEN": "43,6026029351868" }, "geometry": { "type": "Point", "coordinates": [ 3.898576195566879, 43.602602935186724 ] } }
+,
+{ "type": "Feature", "id": 231, "properties": { "F00_DATE_S": "28\/09\/2010 09:59", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,89853619588542", "F05_COMMEN": "43,6024146013336" }, "geometry": { "type": "Point", "coordinates": [ 3.898536195885426, 43.602414601333528 ] } }
+,
+{ "type": "Feature", "id": 232, "properties": { "F00_DATE_S": "28\/09\/2010 09:59", "F01_TYPE_D": "Réservé service public", "F03_COMMEN": "3,89807786342368", "F05_COMMEN": "43,6024812638821" }, "geometry": { "type": "Point", "coordinates": [ 3.898077863423685, 43.602481263882026 ] } }
+,
+{ "type": "Feature", "id": 233, "properties": { "F00_DATE_S": "28\/09\/2010 10:00", "F01_TYPE_D": "Réservé service public", "F03_COMMEN": "3,8980978638547", "F05_COMMEN": "43,6021045970799" }, "geometry": { "type": "Point", "coordinates": [ 3.898097863854699, 43.602104597079816 ] } }
+,
+{ "type": "Feature", "id": 234, "properties": { "F00_DATE_S": "28\/09\/2010 10:01", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89826286402807", "F05_COMMEN": "43,6016912649045" }, "geometry": { "type": "Point", "coordinates": [ 3.89826286402807, 43.601691264904389 ] } }
+,
+{ "type": "Feature", "id": 235, "properties": { "F00_DATE_S": "28\/09\/2010 10:01", "F01_TYPE_D": "Réservé service public", "F03_COMMEN": "3,89811786413082", "F05_COMMEN": "43,6018512637153" }, "geometry": { "type": "Point", "coordinates": [ 3.898117864130822, 43.601851263715162 ] } }
+,
+{ "type": "Feature", "id": 236, "properties": { "F00_DATE_S": "28\/09\/2010 10:02", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,89883286273099", "F05_COMMEN": "43,6017746035119" }, "geometry": { "type": "Point", "coordinates": [ 3.898832862730995, 43.601774603511835 ] } }
+,
+{ "type": "Feature", "id": 237, "properties": { "F00_DATE_S": "28\/09\/2010 10:04", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,89880286321128", "F05_COMMEN": "43,6014396029631" }, "geometry": { "type": "Point", "coordinates": [ 3.898802863211285, 43.601439602963005 ] } }
+,
+{ "type": "Feature", "id": 238, "properties": { "F00_DATE_S": "28\/09\/2010 10:05", "F01_TYPE_D": "Taxi", "F03_COMMEN": "3,89854619708484", "F05_COMMEN": "43,6014379339486" }, "geometry": { "type": "Point", "coordinates": [ 3.898546197084839, 43.601437933948525 ] } }
+,
+{ "type": "Feature", "id": 239, "properties": { "F00_DATE_S": "28\/09\/2010 10:06", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89798286521956", "F05_COMMEN": "43,6012095952713" }, "geometry": { "type": "Point", "coordinates": [ 3.897982865219564, 43.601209595271243 ] } }
+,
+{ "type": "Feature", "id": 240, "properties": { "F00_DATE_S": "28\/09\/2010 10:08", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89903619565337", "F05_COMMEN": "43,6017629386923" }, "geometry": { "type": "Point", "coordinates": [ 3.899036195653372, 43.601762938692211 ] } }
+,
+{ "type": "Feature", "id": 241, "properties": { "F00_DATE_S": "28\/09\/2010 10:09", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89992952451693", "F05_COMMEN": "43,6038746151587" }, "geometry": { "type": "Point", "coordinates": [ 3.89992952451693, 43.603874615158617 ] } }
+,
+{ "type": "Feature", "id": 242, "properties": { "F00_DATE_S": "28\/09\/2010 10:11", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,89956285656783", "F05_COMMEN": "43,6055262798015" }, "geometry": { "type": "Point", "coordinates": [ 3.899562856567826, 43.605526279801353 ] } }
+,
+{ "type": "Feature", "id": 243, "properties": { "F00_DATE_S": "28\/09\/2010 10:13", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,90050119135656", "F05_COMMEN": "43,6023896188742" }, "geometry": { "type": "Point", "coordinates": [ 3.900501191356563, 43.602389618874128 ] } }
+,
+{ "type": "Feature", "id": 244, "properties": { "F00_DATE_S": "28\/09\/2010 10:16", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89881953028128", "F05_COMMEN": "43,6010879361601" }, "geometry": { "type": "Point", "coordinates": [ 3.898819530281279, 43.601087936159978 ] } }
+,
+{ "type": "Feature", "id": 245, "properties": { "F00_DATE_S": "28\/09\/2010 10:17", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,89925452915633", "F05_COMMEN": "43,6012579402792" }, "geometry": { "type": "Point", "coordinates": [ 3.899254529156334, 43.601257940279119 ] } }
+,
+{ "type": "Feature", "id": 246, "properties": { "F00_DATE_S": "28\/09\/2010 10:17", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,89989119394013", "F05_COMMEN": "43,6017012797843" }, "geometry": { "type": "Point", "coordinates": [ 3.899891193940127, 43.601701279784201 ] } }
+,
+{ "type": "Feature", "id": 247, "properties": { "F00_DATE_S": "28\/09\/2010 10:20", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,90028619493599", "F05_COMMEN": "43,600016281911" }, "geometry": { "type": "Point", "coordinates": [ 3.90028619493599, 43.600016281910875 ] } }
+,
+{ "type": "Feature", "id": 248, "properties": { "F00_DATE_S": "28\/09\/2010 10:23", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,90038619259302", "F05_COMMEN": "43,6016696173586" }, "geometry": { "type": "Point", "coordinates": [ 3.900386192593019, 43.60166961735851 ] } }
+,
+{ "type": "Feature", "id": 249, "properties": { "F00_DATE_S": "28\/09\/2010 10:23", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,90084952477087", "F05_COMMEN": "43,6014812878123" }, "geometry": { "type": "Point", "coordinates": [ 3.900849524770866, 43.60148128781217 ] } }
+,
+{ "type": "Feature", "id": 250, "properties": { "F00_DATE_S": "28\/09\/2010 10:25", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,90137285532452", "F05_COMMEN": "43,6024496262691" }, "geometry": { "type": "Point", "coordinates": [ 3.901372855324521, 43.602449626269035 ] } }
+,
+{ "type": "Feature", "id": 251, "properties": { "F00_DATE_S": "28\/09\/2010 10:26", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,90044119094337", "F05_COMMEN": "43,6028696187296" }, "geometry": { "type": "Point", "coordinates": [ 3.900441190943369, 43.602869618729564 ] } }
+,
+{ "type": "Feature", "id": 252, "properties": { "F00_DATE_S": "28\/09\/2010 10:28", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,9029595173984", "F05_COMMEN": "43,6023046395581" }, "geometry": { "type": "Point", "coordinates": [ 3.902959517398401, 43.602304639557957 ] } }
+,
+{ "type": "Feature", "id": 253, "properties": { "F00_DATE_S": "28\/09\/2010 10:28", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,90351118289871", "F05_COMMEN": "43,6019196439849" }, "geometry": { "type": "Point", "coordinates": [ 3.903511182898709, 43.601919643984758 ] } }
+,
+{ "type": "Feature", "id": 254, "properties": { "F00_DATE_S": "28\/09\/2010 10:29", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,90356951615094", "F05_COMMEN": "43,6018463111015" }, "geometry": { "type": "Point", "coordinates": [ 3.903569516150939, 43.60184631110139 ] } }
+,
+{ "type": "Feature", "id": 255, "properties": { "F00_DATE_S": "29\/09\/2010 09:50", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86697792026682", "F05_COMMEN": "43,6072493233488" }, "geometry": { "type": "Point", "coordinates": [ 3.866977920266825, 43.607249323348753 ] } }
+,
+{ "type": "Feature", "id": 256, "properties": { "F00_DATE_S": "29\/09\/2010 09:52", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,8633595963759", "F05_COMMEN": "43,6059826217901" }, "geometry": { "type": "Point", "coordinates": [ 3.863359596375904, 43.605982621790027 ] } }
+,
+{ "type": "Feature", "id": 257, "properties": { "F00_DATE_S": "29\/09\/2010 09:53", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86260793132783", "F05_COMMEN": "43,6059292816025" }, "geometry": { "type": "Point", "coordinates": [ 3.862607931327831, 43.60592928160235 ] } }
+,
+{ "type": "Feature", "id": 258, "properties": { "F00_DATE_S": "29\/09\/2010 09:55", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,86116126821624", "F05_COMMEN": "43,6055726011978" }, "geometry": { "type": "Point", "coordinates": [ 3.861161268216244, 43.605572601197728 ] } }
+,
+{ "type": "Feature", "id": 259, "properties": { "F00_DATE_S": "29\/09\/2010 09:57", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,8632479297441", "F05_COMMEN": "43,6060959543535" }, "geometry": { "type": "Point", "coordinates": [ 3.863247929744101, 43.606095954353414 ] } }
+,
+{ "type": "Feature", "id": 260, "properties": { "F00_DATE_S": "29\/09\/2010 09:58", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,8636112621338", "F05_COMMEN": "43,606217624526" }, "geometry": { "type": "Point", "coordinates": [ 3.863611262133797, 43.606217624525954 ] } }
+,
+{ "type": "Feature", "id": 261, "properties": { "F00_DATE_S": "19\/11\/2010 10:34", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88002621392353", "F05_COMMEN": "43,6162677862585" }, "geometry": { "type": "Point", "coordinates": [ 3.880026213923529, 43.616267786258391 ] } }
+,
+{ "type": "Feature", "id": 262, "properties": { "F00_DATE_S": "19\/11\/2010 10:39", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88087787995735", "F05_COMMEN": "43,6155927926517" }, "geometry": { "type": "Point", "coordinates": [ 3.880877879957348, 43.615592792651626 ] } }
+,
+{ "type": "Feature", "id": 263, "properties": { "F00_DATE_S": "19\/11\/2010 10:40", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88078288022233", "F05_COMMEN": "43,6155361250841" }, "geometry": { "type": "Point", "coordinates": [ 3.880782880222333, 43.615536125084013 ] } }
+,
+{ "type": "Feature", "id": 264, "properties": { "F00_DATE_S": "19\/11\/2010 10:41", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88117121327054", "F05_COMMEN": "43,6152227946707" }, "geometry": { "type": "Point", "coordinates": [ 3.881171213270535, 43.615222794670665 ] } }
+,
+{ "type": "Feature", "id": 265, "properties": { "F00_DATE_S": "19\/11\/2010 10:42", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,88097788013961", "F05_COMMEN": "43,6153377931585" }, "geometry": { "type": "Point", "coordinates": [ 3.88097788013961, 43.615337793158425 ] } }
+,
+{ "type": "Feature", "id": 266, "properties": { "F00_DATE_S": "19\/11\/2010 10:47", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88408620599231", "F05_COMMEN": "43,6164044880986" }, "geometry": { "type": "Point", "coordinates": [ 3.884086205992314, 43.616404488098524 ] } }
+,
+{ "type": "Feature", "id": 267, "properties": { "F00_DATE_S": "19\/11\/2010 10:48", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88483953708183", "F05_COMMEN": "43,6169761619784" }, "geometry": { "type": "Point", "coordinates": [ 3.88483953708183, 43.616976161978307 ] } }
+,
+{ "type": "Feature", "id": 268, "properties": { "F00_DATE_S": "19\/11\/2010 10:51", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88243620786136", "F05_COMMEN": "43,6172844750683" }, "geometry": { "type": "Point", "coordinates": [ 3.882436207861366, 43.617284475068203 ] } }
+,
+{ "type": "Feature", "id": 269, "properties": { "F00_DATE_S": "19\/11\/2010 10:52", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88217954074108", "F05_COMMEN": "43,617932807076" }, "geometry": { "type": "Point", "coordinates": [ 3.882179540741078, 43.61793280707586 ] } }
+,
+{ "type": "Feature", "id": 270, "properties": { "F00_DATE_S": "19\/11\/2010 10:53", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,8819778745149", "F05_COMMEN": "43,617891138626" }, "geometry": { "type": "Point", "coordinates": [ 3.881977874514906, 43.617891138625879 ] } }
+,
+{ "type": "Feature", "id": 271, "properties": { "F00_DATE_S": "19\/11\/2010 10:53", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88218120727905", "F05_COMMEN": "43,6180194738741" }, "geometry": { "type": "Point", "coordinates": [ 3.882181207279048, 43.618019473874035 ] } }
+,
+{ "type": "Feature", "id": 272, "properties": { "F00_DATE_S": "19\/11\/2010 10:54", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88144454298645", "F05_COMMEN": "43,6173427999692" }, "geometry": { "type": "Point", "coordinates": [ 3.881444542986455, 43.617342799969073 ] } }
+,
+{ "type": "Feature", "id": 273, "properties": { "F00_DATE_S": "19\/11\/2010 10:55", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88123287692964", "F05_COMMEN": "43,6171994646204" }, "geometry": { "type": "Point", "coordinates": [ 3.881232876929637, 43.617199464620263 ] } }
+,
+{ "type": "Feature", "id": 274, "properties": { "F00_DATE_S": "19\/11\/2010 10:56", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88032121285082", "F05_COMMEN": "43,6166144559608" }, "geometry": { "type": "Point", "coordinates": [ 3.880321212850818, 43.616614455960686 ] } }
+,
+{ "type": "Feature", "id": 275, "properties": { "F00_DATE_S": "19\/11\/2010 10:58", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,8804545446778", "F05_COMMEN": "43,6174661249806" }, "geometry": { "type": "Point", "coordinates": [ 3.880454544677801, 43.617466124980524 ] } }
+,
+{ "type": "Feature", "id": 276, "properties": { "F00_DATE_S": "19\/11\/2010 11:00", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88095954263728", "F05_COMMEN": "43,6182077970142" }, "geometry": { "type": "Point", "coordinates": [ 3.880959542637283, 43.618207797014108 ] } }
+,
+{ "type": "Feature", "id": 277, "properties": { "F00_DATE_S": "19\/11\/2010 11:07", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87829288281307", "F05_COMMEN": "43,6169877723931" }, "geometry": { "type": "Point", "coordinates": [ 3.878292882813073, 43.616987772393031 ] } }
+,
+{ "type": "Feature", "id": 278, "properties": { "F00_DATE_S": "19\/11\/2010 11:08", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87863788294108", "F05_COMMEN": "43,6164644412502" }, "geometry": { "type": "Point", "coordinates": [ 3.878637882941077, 43.616464441250123 ] } }
+,
+{ "type": "Feature", "id": 279, "properties": { "F00_DATE_S": "19\/11\/2010 11:16", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,8766128856151", "F05_COMMEN": "43,6172394250128" }, "geometry": { "type": "Point", "coordinates": [ 3.876612885615099, 43.617239425012684 ] } }
+,
+{ "type": "Feature", "id": 280, "properties": { "F00_DATE_S": "19\/11\/2010 11:19", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87475455640744", "F05_COMMEN": "43,6168444084232" }, "geometry": { "type": "Point", "coordinates": [ 3.874754556407438, 43.616844408423127 ] } }
+,
+{ "type": "Feature", "id": 281, "properties": { "F00_DATE_S": "19\/11\/2010 11:20", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87435622317416", "F05_COMMEN": "43,6172677390211" }, "geometry": { "type": "Point", "coordinates": [ 3.87435622317416, 43.61726773902096 ] } }
+,
+{ "type": "Feature", "id": 282, "properties": { "F00_DATE_S": "19\/11\/2010 11:22", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87375788964235", "F05_COMMEN": "43,618122735294" }, "geometry": { "type": "Point", "coordinates": [ 3.87375788964235, 43.618122735293881 ] } }
+,
+{ "type": "Feature", "id": 283, "properties": { "F00_DATE_S": "19\/11\/2010 11:23", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87335288951184", "F05_COMMEN": "43,6186943994452" }, "geometry": { "type": "Point", "coordinates": [ 3.873352889511842, 43.618694399445154 ] } }
+,
+{ "type": "Feature", "id": 284, "properties": { "F00_DATE_S": "19\/11\/2010 11:24", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87354955447055", "F05_COMMEN": "43,6195544025424" }, "geometry": { "type": "Point", "coordinates": [ 3.873549554470548, 43.619554402542313 ] } }
+,
+{ "type": "Feature", "id": 285, "properties": { "F00_DATE_S": "19\/11\/2010 11:24", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,8736712209625", "F05_COMMEN": "43,6195210701887" }, "geometry": { "type": "Point", "coordinates": [ 3.873671220962499, 43.619521070188604 ] } }
+,
+{ "type": "Feature", "id": 286, "properties": { "F00_DATE_S": "19\/11\/2010 11:25", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87396788781646", "F05_COMMEN": "43,6190444052655" }, "geometry": { "type": "Point", "coordinates": [ 3.873967887816456, 43.619044405265448 ] } }
+,
+{ "type": "Feature", "id": 287, "properties": { "F00_DATE_S": "19\/11\/2010 11:26", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87473788537226", "F05_COMMEN": "43,619696079541" }, "geometry": { "type": "Point", "coordinates": [ 3.874737885372256, 43.619696079540908 ] } }
+,
+{ "type": "Feature", "id": 288, "properties": { "F00_DATE_S": "19\/11\/2010 11:27", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87406955286893", "F05_COMMEN": "43,6199627409628" }, "geometry": { "type": "Point", "coordinates": [ 3.874069552868932, 43.61996274096272 ] } }
+,
+{ "type": "Feature", "id": 289, "properties": { "F00_DATE_S": "19\/11\/2010 11:28", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87372288686682", "F05_COMMEN": "43,6199494046649" }, "geometry": { "type": "Point", "coordinates": [ 3.873722886866816, 43.61994940466478 ] } }
+,
+{ "type": "Feature", "id": 290, "properties": { "F00_DATE_S": "19\/11\/2010 11:30", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87393955079807", "F05_COMMEN": "43,6214527422909" }, "geometry": { "type": "Point", "coordinates": [ 3.873939550798071, 43.621452742290785 ] } }
+,
+{ "type": "Feature", "id": 291, "properties": { "F00_DATE_S": "19\/11\/2010 11:32", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87257788641995", "F05_COMMEN": "43,6215893976991" }, "geometry": { "type": "Point", "coordinates": [ 3.872577886419951, 43.621589397699005 ] } }
+,
+{ "type": "Feature", "id": 292, "properties": { "F00_DATE_S": "19\/11\/2010 11:33", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87292122013714", "F05_COMMEN": "43,6209410661806" }, "geometry": { "type": "Point", "coordinates": [ 3.872921220137137, 43.620941066180514 ] } }
+,
+{ "type": "Feature", "id": 293, "properties": { "F00_DATE_S": "19\/11\/2010 11:34", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87272122079076", "F05_COMMEN": "43,620759397519" }, "geometry": { "type": "Point", "coordinates": [ 3.872721220790765, 43.62075939751886 ] } }
+,
+{ "type": "Feature", "id": 294, "properties": { "F00_DATE_S": "19\/11\/2010 11:35", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87296455466025", "F05_COMMEN": "43,6201293985277" }, "geometry": { "type": "Point", "coordinates": [ 3.872964554660252, 43.620129398527617 ] } }
+,
+{ "type": "Feature", "id": 295, "properties": { "F00_DATE_S": "19\/11\/2010 11:36", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87318288790357", "F05_COMMEN": "43,6199277333782" }, "geometry": { "type": "Point", "coordinates": [ 3.873182887903569, 43.61992773337812 ] } }
+,
+{ "type": "Feature", "id": 296, "properties": { "F00_DATE_S": "19\/11\/2010 11:37", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87238788966316", "F05_COMMEN": "43,6197477263252" }, "geometry": { "type": "Point", "coordinates": [ 3.872387889663161, 43.619747726325066 ] } }
+,
+{ "type": "Feature", "id": 297, "properties": { "F00_DATE_S": "19\/11\/2010 11:41", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87227955903631", "F05_COMMEN": "43,6181560560406" }, "geometry": { "type": "Point", "coordinates": [ 3.872279559036307, 43.618156056040505 ] } }
+,
+{ "type": "Feature", "id": 298, "properties": { "F00_DATE_S": "19\/11\/2010 11:47", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87259622692166", "F05_COMMEN": "43,6170010567991" }, "geometry": { "type": "Point", "coordinates": [ 3.872596226921656, 43.617001056798991 ] } }
+,
+{ "type": "Feature", "id": 299, "properties": { "F00_DATE_S": "19\/11\/2010 11:50", "F01_TYPE_D": "Taxi", "F03_COMMEN": "3,87002289909627", "F05_COMMEN": "43,6166060339888" }, "geometry": { "type": "Point", "coordinates": [ 3.870022899096274, 43.616606033988724 ] } }
+,
+{ "type": "Feature", "id": 300, "properties": { "F00_DATE_S": "19\/11\/2010 11:55", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,87396289377022", "F05_COMMEN": "43,6152177322752" }, "geometry": { "type": "Point", "coordinates": [ 3.87396289377022, 43.615217732275056 ] } }
+,
+{ "type": "Feature", "id": 301, "properties": { "F00_DATE_S": "19\/11\/2010 11:56", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87550622400864", "F05_COMMEN": "43,6153060791054" }, "geometry": { "type": "Point", "coordinates": [ 3.875506224008638, 43.615306079105309 ] } }
+,
+{ "type": "Feature", "id": 302, "properties": { "F00_DATE_S": "19\/11\/2010 11:57", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87558955749668", "F05_COMMEN": "43,6151010795004" }, "geometry": { "type": "Point", "coordinates": [ 3.875589557496684, 43.615101079500278 ] } }
+,
+{ "type": "Feature", "id": 303, "properties": { "F00_DATE_S": "19\/11\/2010 11:57", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87556455766484", "F05_COMMEN": "43,6150227458259" }, "geometry": { "type": "Point", "coordinates": [ 3.875564557664842, 43.61502274582584 ] } }
+,
+{ "type": "Feature", "id": 304, "properties": { "F00_DATE_S": "19\/11\/2010 11:59", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,8769912208567", "F05_COMMEN": "43,6155077589304" }, "geometry": { "type": "Point", "coordinates": [ 3.8769912208567, 43.615507758930327 ] } }
+,
+{ "type": "Feature", "id": 305, "properties": { "F00_DATE_S": "19\/11\/2010 12:01", "F01_TYPE_D": "Livraison", "F03_COMMEN": "3,87858288478293", "F05_COMMEN": "43,6153027723859" }, "geometry": { "type": "Point", "coordinates": [ 3.878582884782934, 43.615302772385839 ] } }
+,
+{ "type": "Feature", "id": 306, "properties": { "F00_DATE_S": "19\/11\/2010 13:59", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88891787532548", "F05_COMMEN": "43,6077178532052" }, "geometry": { "type": "Point", "coordinates": [ 3.888917875325476, 43.607717853205081 ] } }
+,
+{ "type": "Feature", "id": 307, "properties": { "F00_DATE_S": "19\/11\/2010 14:00", "F01_TYPE_D": "Autre", "F03_COMMEN": "3,88900787484556", "F05_COMMEN": "43,6079361875911" }, "geometry": { "type": "Point", "coordinates": [ 3.889007874845565, 43.607936187590987 ] } }
+,
+{ "type": "Feature", "id": 308, "properties": { "F00_DATE_S": "19\/11\/2010 14:01", "F01_TYPE_D": "GIG\/GIC", "F03_COMMEN": "3,88852954273579", "F05_COMMEN": "43,6077461831075" }, "geometry": { "type": "Point", "coordinates": [ 3.888529542735794, 43.607746183107416 ] } }
+
+]
+}

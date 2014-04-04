@@ -1,0 +1,102 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "Dossier": 1056.0, "Nom": "Square Théophraste Renaudot", "BORNE_FONT": 1.0, "CatÉgorie": "Square", "Longitude": 3.87576, "Latitude": 43.615 }, "geometry": { "type": "Point", "coordinates": [ 3.87576, 43.615 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "Dossier": 1069.0, "Nom": "Parc du Belvédère", "BORNE_FONT": 1.0, "CatÉgorie": "Parc", "Longitude": 3.84642, "Latitude": 43.5902 }, "geometry": { "type": "Point", "coordinates": [ 3.84642, 43.5902 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "Dossier": 1.0, "Nom": "Esplanade Paul Valéry", "BORNE_FONT": 1.0, "CatÉgorie": "Parc", "Longitude": 3.84423, "Latitude": 43.5985 }, "geometry": { "type": "Point", "coordinates": [ 3.84423, 43.5985 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "Dossier": 7.0, "Nom": "Petit bois de la Colline", "BORNE_FONT": 2.0, "CatÉgorie": "Bois", "Longitude": 3.84022, "Latitude": 43.6053 }, "geometry": { "type": "Point", "coordinates": [ 3.84022, 43.6053 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "Dossier": 9.0, "Nom": "Parc du Mas de la Paillade", "BORNE_FONT": 1.0, "CatÉgorie": "Parc", "Longitude": 3.81614, "Latitude": 43.6279 }, "geometry": { "type": "Point", "coordinates": [ 3.81614, 43.6279 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "Dossier": 11.0, "Nom": "Parc Edith Piaf", "BORNE_FONT": 1.0, "CatÉgorie": "Parc", "Longitude": 3.88853, "Latitude": 43.6223 }, "geometry": { "type": "Point", "coordinates": [ 3.88853, 43.6223 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "Dossier": 13.0, "Nom": "Parc de la Guirlande", "BORNE_FONT": 1.0, "CatÉgorie": "Parc", "Longitude": 3.86091, "Latitude": 43.6076 }, "geometry": { "type": "Point", "coordinates": [ 3.86091, 43.6076 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "Dossier": 14.0, "Nom": "Parc Rimbaud", "BORNE_FONT": 1.0, "CatÉgorie": "Parc", "Longitude": 3.89442, "Latitude": 43.6181 }, "geometry": { "type": "Point", "coordinates": [ 3.89442, 43.6181 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "Dossier": 15.0, "Nom": "Bois de Montmaur", "BORNE_FONT": 1.0, "CatÉgorie": "Bois", "Longitude": 3.86923, "Latitude": 43.6424 }, "geometry": { "type": "Point", "coordinates": [ 3.86923, 43.6424 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "Dossier": 16.0, "Nom": "Parc Sainte Odile", "BORNE_FONT": 1.0, "CatÉgorie": "Parc", "Longitude": 3.87212, "Latitude": 43.6241 }, "geometry": { "type": "Point", "coordinates": [ 3.87212, 43.6241 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "Dossier": 18.0, "Nom": "Esplanade Charles de Gaulle", "BORNE_FONT": 2.0, "CatÉgorie": "Parc", "Longitude": 3.8809, "Latitude": 43.6105 }, "geometry": { "type": "Point", "coordinates": [ 3.8809, 43.6105 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "Dossier": 19.0, "Nom": "Jardin du Champ de Mars", "BORNE_FONT": 1.0, "CatÉgorie": "Parc", "Longitude": 3.88212, "Latitude": 43.6113 }, "geometry": { "type": "Point", "coordinates": [ 3.88212, 43.6113 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "Dossier": 20.0, "Nom": "Parc des Pastourelles", "BORNE_FONT": 1.0, "CatÉgorie": "Parc", "Longitude": 3.89944, "Latitude": 43.6209 }, "geometry": { "type": "Point", "coordinates": [ 3.89944, 43.6209 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "Dossier": 21.0, "Nom": "Parc Tastavin", "BORNE_FONT": 1.0, "CatÉgorie": "Parc", "Longitude": 3.86919, "Latitude": 43.5962 }, "geometry": { "type": "Point", "coordinates": [ 3.86919, 43.5962 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "Dossier": 22.0, "Nom": "Parc de la Rauze", "BORNE_FONT": 1.0, "CatÉgorie": "Parc", "Longitude": 3.89582, "Latitude": 43.5908 }, "geometry": { "type": "Point", "coordinates": [ 3.89582, 43.5908 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "Dossier": 23.0, "Nom": "Jardin de la Pépinière", "BORNE_FONT": 1.0, "CatÉgorie": "Square", "Longitude": 3.88507, "Latitude": 43.5956 }, "geometry": { "type": "Point", "coordinates": [ 3.88507, 43.5956 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "Dossier": 27.0, "Nom": "Cimetière Saint-Etienne", "BORNE_FONT": 29.0, "CatÉgorie": "Cimeti", "Longitude": 3.93586, "Latitude": 43.6175 }, "geometry": { "type": "Point", "coordinates": [ 3.93586, 43.6175 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "Dossier": 28.0, "Nom": "Square Planchon", "BORNE_FONT": 1.0, "CatÉgorie": "Square", "Longitude": 3.87992, "Latitude": 43.6055 }, "geometry": { "type": "Point", "coordinates": [ 3.87992, 43.6055 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "Dossier": 29.0, "Nom": "Square de la Tour des pins", "BORNE_FONT": 1.0, "CatÉgorie": "Square", "Longitude": 3.87377, "Latitude": 43.614 }, "geometry": { "type": "Point", "coordinates": [ 3.87377, 43.614 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "Dossier": 30.0, "Nom": "Parc Saint-Martin (ancien évéché)", "BORNE_FONT": 1.0, "CatÉgorie": "Square", "Longitude": 3.88491, "Latitude": 43.592 }, "geometry": { "type": "Point", "coordinates": [ 3.88491, 43.592 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "Dossier": 31.0, "Nom": "Mail Alain Bashung", "BORNE_FONT": 1.0, "CatÉgorie": "Square", "Longitude": 3.88351, "Latitude": 43.5939 }, "geometry": { "type": "Point", "coordinates": [ 3.88351, 43.5939 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "Dossier": 32.0, "Nom": "Esplanade de Celleneuve", "BORNE_FONT": 1.0, "CatÉgorie": "Square", "Longitude": 3.8306, "Latitude": 43.6138 }, "geometry": { "type": "Point", "coordinates": [ 3.8306, 43.6138 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "Dossier": 48.0, "Nom": "Square Boussinesq", "BORNE_FONT": 1.0, "CatÉgorie": "Square", "Longitude": 3.85835, "Latitude": 43.612 }, "geometry": { "type": "Point", "coordinates": [ 3.85835, 43.612 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "Dossier": 49.0, "Nom": "Square des Arceaux", "BORNE_FONT": 1.0, "CatÉgorie": "Square", "Longitude": 3.86092, "Latitude": 43.612 }, "geometry": { "type": "Point", "coordinates": [ 3.86092, 43.612 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "Dossier": 65.0, "Nom": "Parc des Aiguerelles", "BORNE_FONT": 1.0, "CatÉgorie": "Square", "Longitude": 3.89113, "Latitude": 43.5984 }, "geometry": { "type": "Point", "coordinates": [ 3.89113, 43.5984 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "Dossier": 66.0, "Nom": "Mare écologique", "BORNE_FONT": 1.0, "CatÉgorie": "Bois", "Longitude": 3.92447, "Latitude": 43.6162 }, "geometry": { "type": "Point", "coordinates": [ 3.92447, 43.6162 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "Dossier": 67.0, "Nom": "Parc Magnol", "BORNE_FONT": 1.0, "CatÉgorie": "Square", "Longitude": 3.86322, "Latitude": 43.6173 }, "geometry": { "type": "Point", "coordinates": [ 3.86322, 43.6173 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "Dossier": 83.0, "Nom": "Promenade du Peyrou", "BORNE_FONT": 2.0, "CatÉgorie": "Parc", "Longitude": 3.86967, "Latitude": 43.6112 }, "geometry": { "type": "Point", "coordinates": [ 3.86967, 43.6112 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "Dossier": 84.0, "Nom": "Aire de jeux Villeneuve d'Angoulême", "BORNE_FONT": 1.0, "CatÉgorie": "Square", "Longitude": 3.86902, "Latitude": 43.5967 }, "geometry": { "type": "Point", "coordinates": [ 3.86902, 43.5967 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "Dossier": 95.0, "Nom": "Square des Près d'Arènes", "BORNE_FONT": 1.0, "CatÉgorie": "Square", "Longitude": 3.88972, "Latitude": 43.5905 }, "geometry": { "type": "Point", "coordinates": [ 3.88972, 43.5905 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "Dossier": 136.0, "Nom": "Tour de la Babotte", "BORNE_FONT": 1.0, "CatÉgorie": "Ab,bat", "Longitude": 3.87725, "Latitude": 43.6064 }, "geometry": { "type": "Point", "coordinates": [ 3.87725, 43.6064 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "Dossier": 162.0, "Nom": "Jardinière Saint-Denis", "BORNE_FONT": 1.0, "CatÉgorie": "Jard,", "Longitude": 3.87487, "Latitude": 43.6053 }, "geometry": { "type": "Point", "coordinates": [ 3.87487, 43.6053 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "Dossier": 200.0, "Nom": "Square Jean Monnet", "BORNE_FONT": 1.0, "CatÉgorie": "Square", "Longitude": 3.88918, "Latitude": 43.6042 }, "geometry": { "type": "Point", "coordinates": [ 3.88918, 43.6042 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "Dossier": 226.0, "Nom": "Plan de l'olivier", "BORNE_FONT": 1.0, "CatÉgorie": "Place", "Longitude": 3.87809, "Latitude": 43.6134 }, "geometry": { "type": "Point", "coordinates": [ 3.87809, 43.6134 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "Dossier": 289.0, "Nom": "Square du Mas Drevon", "BORNE_FONT": 1.0, "CatÉgorie": "Square", "Longitude": 3.86968, "Latitude": 43.5918 }, "geometry": { "type": "Point", "coordinates": [ 3.86968, 43.5918 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "Dossier": 305.0, "Nom": "Bois de la Chaumière", "BORNE_FONT": 1.0, "CatÉgorie": "Bois", "Longitude": 3.93316, "Latitude": 43.6155 }, "geometry": { "type": "Point", "coordinates": [ 3.93316, 43.6155 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "Dossier": 310.0, "Nom": "Parc du château de Grammont", "BORNE_FONT": 1.0, "CatÉgorie": "Parc", "Longitude": 3.92957, "Latitude": 43.6154 }, "geometry": { "type": "Point", "coordinates": [ 3.92957, 43.6154 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "Dossier": 429.0, "Nom": "Cimetière de Celleneuve", "BORNE_FONT": 1.0, "CatÉgorie": "Cimeti", "Longitude": 3.82682, "Latitude": 43.6166 }, "geometry": { "type": "Point", "coordinates": [ 3.82682, 43.6166 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "Dossier": 457.0, "Nom": "Square Charles Flahaut", "BORNE_FONT": 1.0, "CatÉgorie": "Square", "Longitude": 3.87863, "Latitude": 43.6171 }, "geometry": { "type": "Point", "coordinates": [ 3.87863, 43.6171 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "Dossier": 474.0, "Nom": "Place de Marathon", "BORNE_FONT": 1.0, "CatÉgorie": "Place", "Longitude": 3.88932, "Latitude": 43.6076 }, "geometry": { "type": "Point", "coordinates": [ 3.88932, 43.6076 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "Dossier": 575.0, "Nom": "Square Fabre de Morlhon", "BORNE_FONT": 1.0, "CatÉgorie": "Square", "Longitude": 3.87792, "Latitude": 43.5942 }, "geometry": { "type": "Point", "coordinates": [ 3.87792, 43.5942 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "Dossier": 945.0, "Nom": "Esplanade Gabriel Michel", "BORNE_FONT": 1.0, "CatÉgorie": "Square", "Longitude": 3.90862, "Latitude": 43.6138 }, "geometry": { "type": "Point", "coordinates": [ 3.90862, 43.6138 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "Dossier": 670.0, "Nom": "Centre horticole R de Belleval", "BORNE_FONT": 1.0, "CatÉgorie": "Divers", "Longitude": 3.9247, "Latitude": 43.6157 }, "geometry": { "type": "Point", "coordinates": [ 3.9247, 43.6157 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "Dossier": 709.0, "Nom": "Square Joseph Delteil", "BORNE_FONT": 1.0, "CatÉgorie": "Square", "Longitude": 3.83854, "Latitude": 43.6161 }, "geometry": { "type": "Point", "coordinates": [ 3.83854, 43.6161 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "Dossier": 797.0, "Nom": "Place Louis et Marie Trégaro", "BORNE_FONT": 1.0, "CatÉgorie": "Place", "Longitude": 3.89507, "Latitude": 43.6031 }, "geometry": { "type": "Point", "coordinates": [ 3.89507, 43.6031 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "Dossier": 815.0, "Nom": "Place des Patriotes", "BORNE_FONT": 1.0, "CatÉgorie": "Place", "Longitude": 3.89373, "Latitude": 43.6016 }, "geometry": { "type": "Point", "coordinates": [ 3.89373, 43.6016 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "Dossier": 873.0, "Nom": "Parc Edouard André", "BORNE_FONT": 1.0, "CatÉgorie": "Square", "Longitude": 3.82308, "Latitude": 43.6135 }, "geometry": { "type": "Point", "coordinates": [ 3.82308, 43.6135 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "Dossier": 965.0, "Nom": "Parc Dioscoride", "BORNE_FONT": 1.0, "CatÉgorie": "Parc", "Longitude": 3.8318, "Latitude": 43.6131 }, "geometry": { "type": "Point", "coordinates": [ 3.8318, 43.6131 ] } }
+
+]
+}

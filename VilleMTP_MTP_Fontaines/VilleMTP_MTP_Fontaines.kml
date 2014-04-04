@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>VilleMTP_MTP_Fontaines</name>
+<Schema name="VilleMTP_MTP_Fontaines" id="VilleMTP_MTP_Fontaines">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Dossier" type="float"></SimpleField>
+	<SimpleField name="Nom" type="string"></SimpleField>
+	<SimpleField name="BORNE_FONT" type="float"></SimpleField>
+	<SimpleField name="CatÉgorie" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">1056.000000</SimpleData>
+		<SimpleData name="Nom">Square Théophraste Renaudot</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Square</SimpleData>
+		<SimpleData name="Longitude">3.875760</SimpleData>
+		<SimpleData name="Latitude">43.615000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87576,43.615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">1069.000000</SimpleData>
+		<SimpleData name="Nom">Parc du Belvédère</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Parc</SimpleData>
+		<SimpleData name="Longitude">3.846420</SimpleData>
+		<SimpleData name="Latitude">43.590200</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.84642,43.5902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">1.000000</SimpleData>
+		<SimpleData name="Nom">Esplanade Paul Valéry</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Parc</SimpleData>
+		<SimpleData name="Longitude">3.844230</SimpleData>
+		<SimpleData name="Latitude">43.598500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.84423,43.5985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">7.000000</SimpleData>
+		<SimpleData name="Nom">Petit bois de la Colline</SimpleData>
+		<SimpleData name="BORNE_FONT">2.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Bois</SimpleData>
+		<SimpleData name="Longitude">3.840220</SimpleData>
+		<SimpleData name="Latitude">43.605300</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.84022,43.6053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">9.000000</SimpleData>
+		<SimpleData name="Nom">Parc du Mas de la Paillade</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Parc</SimpleData>
+		<SimpleData name="Longitude">3.816140</SimpleData>
+		<SimpleData name="Latitude">43.627900</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.81614,43.6279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">11.000000</SimpleData>
+		<SimpleData name="Nom">Parc Edith Piaf</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Parc</SimpleData>
+		<SimpleData name="Longitude">3.888530</SimpleData>
+		<SimpleData name="Latitude">43.622300</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88853,43.6223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">13.000000</SimpleData>
+		<SimpleData name="Nom">Parc de la Guirlande</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Parc</SimpleData>
+		<SimpleData name="Longitude">3.860910</SimpleData>
+		<SimpleData name="Latitude">43.607600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86091,43.6076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">14.000000</SimpleData>
+		<SimpleData name="Nom">Parc Rimbaud</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Parc</SimpleData>
+		<SimpleData name="Longitude">3.894420</SimpleData>
+		<SimpleData name="Latitude">43.618100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89442,43.6181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">15.000000</SimpleData>
+		<SimpleData name="Nom">Bois de Montmaur</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Bois</SimpleData>
+		<SimpleData name="Longitude">3.869230</SimpleData>
+		<SimpleData name="Latitude">43.642400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86923,43.6424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">16.000000</SimpleData>
+		<SimpleData name="Nom">Parc Sainte Odile</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Parc</SimpleData>
+		<SimpleData name="Longitude">3.872120</SimpleData>
+		<SimpleData name="Latitude">43.624100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87212,43.6241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">18.000000</SimpleData>
+		<SimpleData name="Nom">Esplanade Charles de Gaulle</SimpleData>
+		<SimpleData name="BORNE_FONT">2.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Parc</SimpleData>
+		<SimpleData name="Longitude">3.880900</SimpleData>
+		<SimpleData name="Latitude">43.610500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8809,43.6105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">19.000000</SimpleData>
+		<SimpleData name="Nom">Jardin du Champ de Mars</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Parc</SimpleData>
+		<SimpleData name="Longitude">3.882120</SimpleData>
+		<SimpleData name="Latitude">43.611300</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88212,43.6113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">20.000000</SimpleData>
+		<SimpleData name="Nom">Parc des Pastourelles</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Parc</SimpleData>
+		<SimpleData name="Longitude">3.899440</SimpleData>
+		<SimpleData name="Latitude">43.620900</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89944,43.6209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">21.000000</SimpleData>
+		<SimpleData name="Nom">Parc Tastavin</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Parc</SimpleData>
+		<SimpleData name="Longitude">3.869190</SimpleData>
+		<SimpleData name="Latitude">43.596200</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86919,43.5962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">22.000000</SimpleData>
+		<SimpleData name="Nom">Parc de la Rauze</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Parc</SimpleData>
+		<SimpleData name="Longitude">3.895820</SimpleData>
+		<SimpleData name="Latitude">43.590800</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89582,43.5908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">23.000000</SimpleData>
+		<SimpleData name="Nom">Jardin de la Pépinière</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Square</SimpleData>
+		<SimpleData name="Longitude">3.885070</SimpleData>
+		<SimpleData name="Latitude">43.595600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88507,43.5956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">27.000000</SimpleData>
+		<SimpleData name="Nom">Cimetière Saint-Etienne</SimpleData>
+		<SimpleData name="BORNE_FONT">29.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Cimeti</SimpleData>
+		<SimpleData name="Longitude">3.935860</SimpleData>
+		<SimpleData name="Latitude">43.617500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.93586,43.6175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">28.000000</SimpleData>
+		<SimpleData name="Nom">Square Planchon</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Square</SimpleData>
+		<SimpleData name="Longitude">3.879920</SimpleData>
+		<SimpleData name="Latitude">43.605500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87992,43.6055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">29.000000</SimpleData>
+		<SimpleData name="Nom">Square de la Tour des pins</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Square</SimpleData>
+		<SimpleData name="Longitude">3.873770</SimpleData>
+		<SimpleData name="Latitude">43.614000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87377,43.614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">30.000000</SimpleData>
+		<SimpleData name="Nom">Parc Saint-Martin (ancien évéché)</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Square</SimpleData>
+		<SimpleData name="Longitude">3.884910</SimpleData>
+		<SimpleData name="Latitude">43.592000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88491,43.592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">31.000000</SimpleData>
+		<SimpleData name="Nom">Mail Alain Bashung</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Square</SimpleData>
+		<SimpleData name="Longitude">3.883510</SimpleData>
+		<SimpleData name="Latitude">43.593900</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88351,43.5939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">32.000000</SimpleData>
+		<SimpleData name="Nom">Esplanade de Celleneuve</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Square</SimpleData>
+		<SimpleData name="Longitude">3.830600</SimpleData>
+		<SimpleData name="Latitude">43.613800</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8306,43.6138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">48.000000</SimpleData>
+		<SimpleData name="Nom">Square Boussinesq</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Square</SimpleData>
+		<SimpleData name="Longitude">3.858350</SimpleData>
+		<SimpleData name="Latitude">43.612000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.85835,43.612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">49.000000</SimpleData>
+		<SimpleData name="Nom">Square des Arceaux</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Square</SimpleData>
+		<SimpleData name="Longitude">3.860920</SimpleData>
+		<SimpleData name="Latitude">43.612000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86092,43.612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">65.000000</SimpleData>
+		<SimpleData name="Nom">Parc des Aiguerelles</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Square</SimpleData>
+		<SimpleData name="Longitude">3.891130</SimpleData>
+		<SimpleData name="Latitude">43.598400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89113,43.5984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">66.000000</SimpleData>
+		<SimpleData name="Nom">Mare écologique</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Bois</SimpleData>
+		<SimpleData name="Longitude">3.924470</SimpleData>
+		<SimpleData name="Latitude">43.616200</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.92447,43.6162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">67.000000</SimpleData>
+		<SimpleData name="Nom">Parc Magnol</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Square</SimpleData>
+		<SimpleData name="Longitude">3.863220</SimpleData>
+		<SimpleData name="Latitude">43.617300</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86322,43.6173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">83.000000</SimpleData>
+		<SimpleData name="Nom">Promenade du Peyrou</SimpleData>
+		<SimpleData name="BORNE_FONT">2.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Parc</SimpleData>
+		<SimpleData name="Longitude">3.869670</SimpleData>
+		<SimpleData name="Latitude">43.611200</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86967,43.6112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">84.000000</SimpleData>
+		<SimpleData name="Nom">Aire de jeux Villeneuve d'Angoulême</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Square</SimpleData>
+		<SimpleData name="Longitude">3.869020</SimpleData>
+		<SimpleData name="Latitude">43.596700</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86902,43.5967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">95.000000</SimpleData>
+		<SimpleData name="Nom">Square des Près d'Arènes</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Square</SimpleData>
+		<SimpleData name="Longitude">3.889720</SimpleData>
+		<SimpleData name="Latitude">43.590500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88972,43.5905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">136.000000</SimpleData>
+		<SimpleData name="Nom">Tour de la Babotte</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Ab,bat</SimpleData>
+		<SimpleData name="Longitude">3.877250</SimpleData>
+		<SimpleData name="Latitude">43.606400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87725,43.6064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">162.000000</SimpleData>
+		<SimpleData name="Nom">Jardinière Saint-Denis</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Jard,</SimpleData>
+		<SimpleData name="Longitude">3.874870</SimpleData>
+		<SimpleData name="Latitude">43.605300</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87487,43.6053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">200.000000</SimpleData>
+		<SimpleData name="Nom">Square Jean Monnet</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Square</SimpleData>
+		<SimpleData name="Longitude">3.889180</SimpleData>
+		<SimpleData name="Latitude">43.604200</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88918,43.6042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">226.000000</SimpleData>
+		<SimpleData name="Nom">Plan de l'olivier</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Place</SimpleData>
+		<SimpleData name="Longitude">3.878090</SimpleData>
+		<SimpleData name="Latitude">43.613400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87809,43.6134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">289.000000</SimpleData>
+		<SimpleData name="Nom">Square du Mas Drevon</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Square</SimpleData>
+		<SimpleData name="Longitude">3.869680</SimpleData>
+		<SimpleData name="Latitude">43.591800</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86968,43.5918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">305.000000</SimpleData>
+		<SimpleData name="Nom">Bois de la Chaumière</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Bois</SimpleData>
+		<SimpleData name="Longitude">3.933160</SimpleData>
+		<SimpleData name="Latitude">43.615500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.93316,43.6155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">310.000000</SimpleData>
+		<SimpleData name="Nom">Parc du château de Grammont</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Parc</SimpleData>
+		<SimpleData name="Longitude">3.929570</SimpleData>
+		<SimpleData name="Latitude">43.615400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.92957,43.6154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">429.000000</SimpleData>
+		<SimpleData name="Nom">Cimetière de Celleneuve</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Cimeti</SimpleData>
+		<SimpleData name="Longitude">3.826820</SimpleData>
+		<SimpleData name="Latitude">43.616600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.82682,43.6166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">457.000000</SimpleData>
+		<SimpleData name="Nom">Square Charles Flahaut</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Square</SimpleData>
+		<SimpleData name="Longitude">3.878630</SimpleData>
+		<SimpleData name="Latitude">43.617100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87863,43.6171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">474.000000</SimpleData>
+		<SimpleData name="Nom">Place de Marathon</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Place</SimpleData>
+		<SimpleData name="Longitude">3.889320</SimpleData>
+		<SimpleData name="Latitude">43.607600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88932,43.6076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">575.000000</SimpleData>
+		<SimpleData name="Nom">Square Fabre de Morlhon</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Square</SimpleData>
+		<SimpleData name="Longitude">3.877920</SimpleData>
+		<SimpleData name="Latitude">43.594200</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87792,43.5942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">945.000000</SimpleData>
+		<SimpleData name="Nom">Esplanade Gabriel Michel</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Square</SimpleData>
+		<SimpleData name="Longitude">3.908620</SimpleData>
+		<SimpleData name="Latitude">43.613800</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.90862,43.6138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">670.000000</SimpleData>
+		<SimpleData name="Nom">Centre horticole R de Belleval</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Divers</SimpleData>
+		<SimpleData name="Longitude">3.924700</SimpleData>
+		<SimpleData name="Latitude">43.615700</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.9247,43.6157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">709.000000</SimpleData>
+		<SimpleData name="Nom">Square Joseph Delteil</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Square</SimpleData>
+		<SimpleData name="Longitude">3.838540</SimpleData>
+		<SimpleData name="Latitude">43.616100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.83854,43.6161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">797.000000</SimpleData>
+		<SimpleData name="Nom">Place Louis et Marie Trégaro</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Place</SimpleData>
+		<SimpleData name="Longitude">3.895070</SimpleData>
+		<SimpleData name="Latitude">43.603100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89507,43.6031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">815.000000</SimpleData>
+		<SimpleData name="Nom">Place des Patriotes</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Place</SimpleData>
+		<SimpleData name="Longitude">3.893730</SimpleData>
+		<SimpleData name="Latitude">43.601600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89373,43.6016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">873.000000</SimpleData>
+		<SimpleData name="Nom">Parc Edouard André</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Square</SimpleData>
+		<SimpleData name="Longitude">3.823080</SimpleData>
+		<SimpleData name="Latitude">43.613500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.82308,43.6135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_Fontaines">
+		<SimpleData name="Dossier">965.000000</SimpleData>
+		<SimpleData name="Nom">Parc Dioscoride</SimpleData>
+		<SimpleData name="BORNE_FONT">1.000000</SimpleData>
+		<SimpleData name="CatÉgorie">Parc</SimpleData>
+		<SimpleData name="Longitude">3.831800</SimpleData>
+		<SimpleData name="Latitude">43.613100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8318,43.6131</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

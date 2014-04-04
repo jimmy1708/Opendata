@@ -1,0 +1,2793 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>VilleMTP_MTP_PlacesReserv</name>
+<Schema name="VilleMTP_MTP_PlacesReserv" id="VilleMTP_MTP_PlacesReserv">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="F00_DATE_S" type="string"></SimpleField>
+	<SimpleField name="F01_TYPE_D" type="string"></SimpleField>
+	<SimpleField name="F03_COMMEN" type="string"></SimpleField>
+	<SimpleField name="F05_COMMEN" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">14/09/2010 14:28</SimpleData>
+		<SimpleData name="F01_TYPE_D">Autre</SimpleData>
+		<SimpleData name="F03_COMMEN">3,85729997585435</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6068736382548</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.857299975854345,43.606873638254662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:03</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87271289323652</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6170843912751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872712893236518,43.617084391275064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:08</SimpleData>
+		<SimpleData name="F01_TYPE_D">Taxi</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87001456548742</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6167877009072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870014565487422,43.616787700907118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:10</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87002623540423</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6147476973713</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870026235404228,43.614747697371179</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:11</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87002623543097</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6147310306748</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870026235430972,43.61473103067474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:12</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,869881235849</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6146443625959</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869881235849003,43.614644362595811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:14</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86961957243119</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6129393572537</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869619572431187,43.612939357253573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:15</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86955457243141</SimpleData>
+		<SimpleData name="F05_COMMEN">43,613017690161</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869554572431408,43.613017690160866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:15</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86899790707373</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6128776850461</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868997907073725,43.612877685046016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:18</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86648457927756</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6124859956795</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.866484579277564,43.61248599567945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:18</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,866409580046</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6121093276343</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.866409580046004,43.61210932763418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:19</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86682624560428</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6122876649571</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.866826245604279,43.612287664957016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:20</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86722624416101</SimpleData>
+		<SimpleData name="F05_COMMEN">43,612691002554</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.867226244161009,43.612691002553916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:21</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86668457666018</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6138376666723</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86668457666018,43.61383766667219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:23</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87044790021013</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6154043688555</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870447900210134,43.615404368855437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:24</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87390122634319</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6157827326727</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873901226343192,43.615782732672628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:25</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87335622997752</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6141227251969</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873356229977521,43.614122725196808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:26</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8725695669902</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6127493826906</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872569566990201,43.612749382690531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:29</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86431125104475</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6119726423152</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.864311251044748,43.611972642315088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:30</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86413458458931</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6120526409268</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.864134584589314,43.612052640926734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:31</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86209958842374</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6121376232747</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.862099588423743,43.612137623274641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:32</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86266458790019</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6117959608557</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.862664587900186,43.611795960855595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:32</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8639012523381</SimpleData>
+		<SimpleData name="F05_COMMEN">43,61168097147</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.863901252338099,43.611680971469859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:33</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86504625040496</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6114943144822</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.865046250404963,43.61149431448213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:34</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86558458274528</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6114559858012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86558458274528,43.611455985801065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:37</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86782291571846</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6089876674977</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.867822915718461,43.608987667497551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:38</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86783791559587</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6090443344038</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.867837915595869,43.609044334403698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:39</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86905791057678</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6106410148155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869057910576775,43.610641014815393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:40</SimpleData>
+		<SimpleData name="F01_TYPE_D">Taxi</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86719624924495</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6096309964953</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86719624924495,43.60963099649522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:43</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87011791174933</SimpleData>
+		<SimpleData name="F05_COMMEN">43,608607687169</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870117911749324,43.608607687168892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:45</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87076790938352</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6092743607938</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870767909383524,43.609274360793712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:48</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87096957364658</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6105293647975</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870969573646578,43.610529364797422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:54</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86993957627699</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6101593550505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869939576276985,43.610159355050385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:56</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87038957834546</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6083126890539</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870389578345461,43.60831268905384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:56</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8709712440963</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6081560272828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870971244096298,43.608156027282661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:57</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87130457650881</SimpleData>
+		<SimpleData name="F05_COMMEN">43,608314363861</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.871304576508807,43.608314363860934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:57</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87179457543148</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6083743683234</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.871794575431484,43.608374368323318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:58</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87222457432759</SimpleData>
+		<SimpleData name="F05_COMMEN">43,608527705745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872224574327588,43.608527705744855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:58</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87228124074396</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6086143730647</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872281240743956,43.608614373064569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">20/09/2010 14:59</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87318290682421</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6078377130922</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873182906824214,43.60783771309211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:09</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87893123299866</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6048944265733</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.878931232998662,43.604894426573161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:12</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87758456857426</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6052360816294</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877584568574259,43.605236081629307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:13</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87765956892767</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6049010817863</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877659568927674,43.604901081786203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:15</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87697456913183</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6056894101828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876974569131831,43.60568941018272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:16</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8766445695199</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6058760741789</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876644569519904,43.605876074178809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:17</SimpleData>
+		<SimpleData name="F01_TYPE_D">Taxi</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87634123679661</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6058810714629</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876341236796608,43.605881071462768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:17</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87609457053006</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6059477360211</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876094570530062,43.605947736021044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:18</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87613790365778</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6060244031993</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876137903657777,43.606024403199228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:19</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87580623812402</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6057260664092</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87580623812402,43.605726066409055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:19</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87558790492025</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6059310647789</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.875587904920247,43.605931064778829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:23</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87683790439637</SimpleData>
+		<SimpleData name="F05_COMMEN">43,604604407245</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87683790439637,43.604604407244906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:26</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87651623906969</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6041594036349</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876516239069693,43.604159403634824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:28</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87610623876907</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6049060677921</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876106238769073,43.604906067792037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:30</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87495957487159</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6046343903437</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874959574871592,43.604634390343634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:31</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87509624194305</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6041910575171</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.875096241943052,43.604191057517021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:32</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87516624208998</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6040027245082</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87516624208998,43.604002724508085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:33</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87505957590332</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6038343899338</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.875059575903322,43.603834389933716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:34</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87432291022408</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6041760505025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87432291022408,43.604176050502424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:35</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87364957798673</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6043610447291</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873649577986733,43.604361044728982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:37</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87407791136204</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6037693809401</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874077911362037,43.603769380940037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:41</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87364957952227</SimpleData>
+		<SimpleData name="F05_COMMEN">43,603379376403</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873649579522265,43.60337937640287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:41</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87328291341491</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6035060399613</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873282913414908,43.603506039961168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:42</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8729845800111</SimpleData>
+		<SimpleData name="F05_COMMEN">43,603942704673</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872984580011104,43.603942704672924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:44</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8724662483668</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6035493659695</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872466248366801,43.603549365969357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:46</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87429791223627</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6029160481739</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874297912236269,43.602916048173789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 09:49</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8736112486188</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6018777068429</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873611248618796,43.601877706842828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:02</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87490291159103</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6025227196865</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874902911591028,43.602522719686455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:07</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8733262445992</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6048193759211</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873326244599201,43.604819375920975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:08</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87380790973749</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6051660475135</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873807909737484,43.605166047513343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:09</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87344457651807</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6055677115888</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873444576518066,43.605567711588705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:11</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87264791175735</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6053893707868</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872647911757345,43.605389370786675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:14</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87184291347231</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6053443634665</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.871842913472309,43.605344363466408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:18</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87098958101652</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6058860234189</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870989581016523,43.605886023418762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:20</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86886625092169</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6065526722564</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868866250921692,43.606552672256335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:21</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86875625128</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6064693377837</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868756251279996,43.606469337783601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:22</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86902625193807</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6057260054972</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86902625193807,43.605726005497132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:23</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86926791838231</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6055593406952</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869267918382306,43.605559340695059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:24</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86950291860881</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6051226753414</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869502918608809,43.605122675341335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:27</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87002458495199</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6046610125347</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870024584951985,43.604661012534564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:29</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87020458387028</SimpleData>
+		<SimpleData name="F05_COMMEN">43,605104348293</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870204583870277,43.605104348292897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:30</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86981791834094</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6048893444197</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869817918340944,43.60488934441959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:31</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86921625344352</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6045576717195</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869216253443522,43.604557671719384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:34</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86852958894581</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6040909979851</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868529588945813,43.604090997985033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:38</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86941625457009</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6036076717789</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869416254570088,43.603607671778768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:40</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87044625123534</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6043610157982</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870446251235344,43.604361015798091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:40</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87098791713536</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6041443536373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870987917135355,43.60414435363716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:49</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87055458657508</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6029710142762</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870554586575083,43.602971014276079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:50</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87112958558319</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6028460192743</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.871129585583194,43.602846019274153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:50</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87133291842312</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6028910212012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.871332918423122,43.602891021201081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:51</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87145958466262</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6029943558678</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.871459584662621,43.602994355867686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:52</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87092625312467</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6025626835871</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870926253124672,43.602562683586974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:54</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86940625625232</SimpleData>
+		<SimpleData name="F05_COMMEN">43,602581003132</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869406256252317,43.60258100313191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:54</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86927458948372</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6028126690292</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869274589483722,43.60281266902912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 10:59</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86767625829202</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6035276558684</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86767625829202,43.603527655868298</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 11:00</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86726459307307</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6031643181102</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.867264593073073,43.603164318110139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 11:00</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86730792635788</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6031393184555</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.867307926357876,43.603139318455376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 11:03</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86869459084387</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6027159969132</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868694590843865,43.602715996913076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 11:04</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86922959047938</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6022560009249</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.869229590479383,43.602256000924783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 11:07</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86817292582075</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6023726581919</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868172925820746,43.602372658191825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 11:08</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86798959267219</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6024926567507</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.867989592672194,43.602492656750584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 11:09</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86797959197827</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6029293241523</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.867979591978264,43.602929324152178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 11:12</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86737792368987</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6046743220206</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86737792368987,43.604674322020486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 11:13</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86766125571002</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6051209920896</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86766125571002,43.605120992089468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 11:14</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86752125559138</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6053676579644</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.867521255591379,43.605367657964301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 11:16</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86819958560315</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6065543329569</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868199585603152,43.606554332956783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 11:18</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86874791682886</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6071676723362</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868747916828855,43.607167672336139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 11:20</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86793291835671</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6072393318576</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.867932918356707,43.607239331857514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 11:21</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86826291641907</SimpleData>
+		<SimpleData name="F05_COMMEN">43,608019336261</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.868262916419066,43.608019336260881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 11:24</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86731625241664</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6075543269497</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.867316252416642,43.607554326949597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 11:25</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8674229187564</SimpleData>
+		<SimpleData name="F05_COMMEN">43,607622661364</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.867422918756398,43.607622661363848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 11:26</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86793291730224</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6078843330695</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.867932917302245,43.607884333069443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 11:28</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86753458365164</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6085659974771</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.867534583651637,43.608565997477022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">21/09/2010 11:40</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87262623433808</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6122460489962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872626234338078,43.612246048996134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:14</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88532287522937</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6129128277128</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.885322875229373,43.612912827712719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:15</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88607954015981</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6130995012211</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.886079540159813,43.613099501220951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:17</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88610954013412</SimpleData>
+		<SimpleData name="F05_COMMEN">43,613076168121</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.886109540134121,43.613076168120884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:22</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88226455694616</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6066511257249</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882264556946164,43.606651125724831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:23</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88218622361408</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6067594585069</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882186223614082,43.606759458506737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:24</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88170289002603</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6076044553637</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881702890026034,43.607604455363635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:26</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88242122085252</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6083344627749</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882421220852519,43.608334462774792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:27</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88282621990989</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6084244665002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882826219909894,43.60842446650009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:28</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88194122166495</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6084377919815</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881941221664952,43.608437791981373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:28</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88180288867215</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6083944573576</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88180288867215,43.608394457357505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:29</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8815078891175</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6084944548742</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8815078891175,43.608494454874076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:31</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88145288919359</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6085177877513</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881452889193586,43.608517787751232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:33</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88318788632447</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6080961359415</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883187886324471,43.608096135941402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:34</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,881759558245</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6064627876057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881759558245004,43.606462787605565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:37</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87960622935652</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6064127682357</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.879606229356522,43.606412768235586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:38</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8783795645663</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6068210911951</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.878379564566298,43.606821091194988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:39</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88013289471709</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6065727731891</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880132894717093,43.606572773188987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:40</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88022956106689</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6066544408403</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88022956106689,43.606654440840174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:41</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88098122606281</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6067544477137</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880981226062809,43.606754447713627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:42</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88168122568191</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6060444529831</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881681225681904,43.606044452982971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:50</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8816195599571</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6054861183105</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8816195599571,43.605486118310388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:52</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8825228925024</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6047577920997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882522892502396,43.604757792099605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:53</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88208622673157</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6047577881605</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882086226731575,43.604757788160377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:54</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,882144560467</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6043994548544</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882144560467003,43.604399454854295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:55</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88260455976534</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6042311254447</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882604559765336,43.604231125444556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:56</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8827228937149</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6036377923657</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882722893714896,43.603637792365568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:57</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88271122783575</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6031111248685</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882711227835747,43.603111124868434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:59</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88356955800193</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6040761339596</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883569558001924,43.604076133959452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 09:59</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88370955738547</SimpleData>
+		<SimpleData name="F05_COMMEN">43,604304468865</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883709557385474,43.604304468864889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:01</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88465289004331</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6034161428957</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.884652890043312,43.603416142895611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:02</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88349789250007</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6033694656922</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883497892500072,43.603369465692097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:04</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88287289435313</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6029827928268</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882872894353132,43.602982792826751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:05</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88437122596926</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6020094718176</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88437122596926,43.602009471817524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:06</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88460955898588</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6018828071575</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.884609558985883,43.601882807157367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:08</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88161956318512</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6032794485295</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881619563185125,43.603279448529413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:08</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88080789846152</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6031011075753</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880807898461518,43.603101107575164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:29</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88379622323278</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6047511369112</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.883796223232775,43.604751136911105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:30</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88402288856319</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6053594730959</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.884022888563189,43.605359473095795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:31</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88410788819151</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6054978073771</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.884107888191509,43.605497807376999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:32</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88530455322551</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6049244840748</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.885304553225505,43.604924484074708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:33</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88614788369898</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6057294926855</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.886147883698982,43.60572949268542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:33</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88565955118544</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6058544884545</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.885659551185436,43.605854488454398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:34</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88557788539359</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6053528204171</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.885577885393587,43.605352820416968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:37</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8833428884986</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6063694683361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8833428884986,43.606369468335949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:39</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88251455771093</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6057744600917</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882514557710929,43.605774460091652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:40</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88355455614888</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6053861355831</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88355455614888,43.605386135582997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:42</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88625121654552</SimpleData>
+		<SimpleData name="F05_COMMEN">43,605926160526</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.886251216545524,43.605926160525868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:42</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88658621603318</SimpleData>
+		<SimpleData name="F05_COMMEN">43,605804496718</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.886586216033184,43.605804496717894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:44</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88794621346487</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6056561754297</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88794621346487,43.605656175429637</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:48</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88901621243943</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6048095174095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.889016212439428,43.604809517409421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:51</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88981787903048</SimpleData>
+		<SimpleData name="F05_COMMEN">43,603654523341</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.889817879030482,43.603654523340914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:51</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88962954608415</SimpleData>
+		<SimpleData name="F05_COMMEN">43,603656188303</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.889629546084149,43.603656188302857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:54</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89128953997279</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6056562054932</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.891289539972784,43.605656205493119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:55</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89097454077046</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6055412025362</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.890974540770454,43.605541202536074</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:56</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89238953696898</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6062278826418</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.892389536968977,43.606227882641647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:57</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89281620288186</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6061412197155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.892816202881858,43.60614121971539</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:59</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89112953840614</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6070678722377</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.891129538406137,43.607067872237593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 10:59</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89104287147429</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6073962051488</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.891042871474293,43.607396205148738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 11:02</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88894121198613</SimpleData>
+		<SimpleData name="F05_COMMEN">43,605252850578</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.888941211986129,43.605252850577919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 14:25</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88767454995817</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6037761707321</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.887674549958169,43.603776170732012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 14:28</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88001956808753</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6022077657704</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880019568087532,43.602207765770274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 14:30</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87932457061813</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6014827583532</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.879324570618129,43.601482758353086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 14:31</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87962456933496</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6019227617484</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.879624569334958,43.601922761748284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 14:32</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87893956991569</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6024894230249</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.878939569915686,43.602489423024764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 14:33</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87833290544169</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6018710832242</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.878332905441688,43.601871083224111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 14:35</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87795290763248</SimpleData>
+		<SimpleData name="F05_COMMEN">43,600946078327</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.877952907632481,43.600946078326871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 14:39</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,882314562915</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6024761203837</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882314562914996,43.602476120383592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 14:42</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88224956452574</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6014627850439</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882249564525742,43.601462785043793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 14:47</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88225623131438</SimpleData>
+		<SimpleData name="F05_COMMEN">43,601369451641</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882256231314374,43.601369451640906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 14:50</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88440455956404</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6017778051487</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88440455956404,43.601777805148622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 15:01</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89268120198506</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6070278860745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.892681201985056,43.60702788607442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 15:03</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89378453304737</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6070562293054</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.893784533047364,43.607056229305293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 15:04</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89438619877967</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6068379011445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.894386198779667,43.60683790114436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 15:05</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89410119944652</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6067695651934</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.894101199446522,43.606769565193297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 15:07</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89589286231044</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6069012480239</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.895892862310436,43.606901248023838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 15:07</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,896122860767</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6077445841729</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.896122860767001,43.607744584172835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 15:09</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89416119687913</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6086479008764</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89416119687913,43.608647900876257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 15:12</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89648119469104</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6067129197897</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.896481194691038,43.606712919789565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 15:13</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89617286485382</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6044662483372</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.896172864853821,43.604466248337083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 15:14</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89498286783061</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6040579038653</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.894982867830608,43.604057903865218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 15:15</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89570953382463</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6034145765147</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.895709533824624,43.603414576514567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 15:16</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89532286963342</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6021162384548</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.895322869633421,43.60211623845472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 14:19</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89340954019953</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6021878877499</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.893409540199531,43.602187887749835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 15:19</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89340787349472</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6022195544333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.893407873494716,43.602219554433184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 15:24</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89054621117112</SimpleData>
+		<SimpleData name="F05_COMMEN">43,603422863019</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.890546211171117,43.603422863018935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 15:25</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89063954434498</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6033978638381</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.890639544344976,43.603397863837984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">22/09/2010 15:31</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89342620204233</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6058345582191</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.893426202042333,43.605834558219037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:07</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88650954722272</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6074478313911</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.886509547222718,43.607447831391021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:08</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89233787524172</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6025845450635</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.892337875241717,43.60258454506338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:12</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88982120619827</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6081895284558</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.889821206198274,43.608189528455711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:14</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88953287475972</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6072228581333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.889532874759722,43.607222858133206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:15</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88935620844566</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6072261898915</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.889356208445659,43.607226189891385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:16</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88901787613817</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6069761865812</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.889017876138173,43.606976186581136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:18</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89011954081792</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6067961962374</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.890119540817917,43.606796196237312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:24</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89504952735675</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6094812428815</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.895049527356749,43.609481242881444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:26</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89446619434125</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6101329049975</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.894466194341252,43.610132904997386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:27</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8947845254246</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6113845756471</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.894784525424604,43.611384575646959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:28</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8947311933688</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6104779076629</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.894731193368803,43.610477907662833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:30</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89130453471146</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6095645431225</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89130453471146,43.609564543122374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:32</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89268786604986</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6089878881241</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.892687866049863,43.608987888124055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:33</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8913928689736</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6087378763642</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.891392868973597,43.608737876364124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:35</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88900787300244</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6092845224639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.889007873002442,43.609284522463817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:35</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88906953961891</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6092311896166</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.889069539618907,43.609231189616544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:37</SimpleData>
+		<SimpleData name="F01_TYPE_D">Taxi</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89010787001395</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6098711995286</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.890107870013953,43.609871199528456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:39</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88847953952184</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6101595187925</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.888479539521845,43.610159518792344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:41</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88524954644114</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6097978231321</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.885249546441137,43.609797823131998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:43</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88569954662866</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6090294928156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.885699546628655,43.60902949281553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:44</SimpleData>
+		<SimpleData name="F01_TYPE_D">Transport public</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88576454671232</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6088778265356</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.885764546712319,43.608877826535469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:45</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88688787718112</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6093211703811</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.886887877181115,43.609321170380937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:47</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88985287157844</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6090911964073</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.889852871578444,43.609091196407199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:51</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89837619071394</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6068179368509</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898376190713935,43.606817936850781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:54</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89936119305939</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6033079428936</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.899361193059386,43.603307942893522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:55</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89857786154755</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6031496023196</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898577861547555,43.603149602319519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:55</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89837952853401</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6032229339125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898379528534013,43.603222933912456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:56</SimpleData>
+		<SimpleData name="F01_TYPE_D">Réservé service public</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89796619618143</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6031245967432</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.897966196181426,43.603124596743122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:57</SimpleData>
+		<SimpleData name="F01_TYPE_D">Réservé service public</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89834286208939</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6031062668158</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898342862089385,43.60310626681575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:57</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89881452795978</SimpleData>
+		<SimpleData name="F05_COMMEN">43,602959604314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898814527959777,43.602959604313931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:58</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89857619556688</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6026029351868</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898576195566879,43.602602935186717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:59</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89853619588542</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6024146013336</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898536195885425,43.602414601333521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 09:59</SimpleData>
+		<SimpleData name="F01_TYPE_D">Réservé service public</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89807786342368</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6024812638821</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898077863423684,43.602481263882019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:00</SimpleData>
+		<SimpleData name="F01_TYPE_D">Réservé service public</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8980978638547</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6021045970799</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898097863854698,43.602104597079801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:01</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89826286402807</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6016912649045</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898262864028069,43.601691264904382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:01</SimpleData>
+		<SimpleData name="F01_TYPE_D">Réservé service public</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89811786413082</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6018512637153</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89811786413082,43.601851263715155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:02</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89883286273099</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6017746035119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898832862730994,43.601774603511828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:04</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89880286321128</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6014396029631</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898802863211284,43.601439602962998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:05</SimpleData>
+		<SimpleData name="F01_TYPE_D">Taxi</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89854619708484</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6014379339486</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898546197084838,43.601437933948517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:06</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89798286521956</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6012095952713</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.897982865219563,43.601209595271229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:08</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89903619565337</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6017629386923</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.899036195653371,43.601762938692197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:09</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89992952451693</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6038746151587</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.899929524516929,43.60387461515861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:11</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89956285656783</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6055262798015</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.899562856567825,43.605526279801339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:13</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,90050119135656</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6023896188742</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.900501191356562,43.60238961887412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:16</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89881953028128</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6010879361601</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.898819530281278,43.601087936159963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:17</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89925452915633</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6012579402792</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.899254529156333,43.601257940279105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:17</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,89989119394013</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6017012797843</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.899891193940126,43.601701279784194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:20</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,90028619493599</SimpleData>
+		<SimpleData name="F05_COMMEN">43,600016281911</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.900286194935989,43.600016281910861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:23</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,90038619259302</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6016696173586</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.900386192593018,43.601669617358496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:23</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,90084952477087</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6014812878123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.900849524770865,43.601481287812156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:25</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,90137285532452</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6024496262691</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.90137285532452,43.602449626269021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:26</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,90044119094337</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6028696187296</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.900441190943369,43.602869618729549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:28</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,9029595173984</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6023046395581</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.9029595173984,43.602304639557943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:28</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,90351118289871</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6019196439849</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.903511182898708,43.601919643984751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">28/09/2010 10:29</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,90356951615094</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6018463111015</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.903569516150939,43.601846311101376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">29/09/2010 09:50</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86697792026682</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6072493233488</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.866977920266824,43.607249323348746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">29/09/2010 09:52</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8633595963759</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6059826217901</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.863359596375903,43.605982621790012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">29/09/2010 09:53</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86260793132783</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6059292816025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86260793132783,43.605929281602336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">29/09/2010 09:55</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,86116126821624</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6055726011978</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.861161268216243,43.605572601197714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">29/09/2010 09:57</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8632479297441</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6060959543535</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8632479297441,43.606095954353407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">29/09/2010 09:58</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8636112621338</SimpleData>
+		<SimpleData name="F05_COMMEN">43,606217624526</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.863611262133796,43.606217624525939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 10:34</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88002621392353</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6162677862585</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880026213923528,43.616267786258376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 10:39</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88087787995735</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6155927926517</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880877879957347,43.615592792651618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 10:40</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88078288022233</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6155361250841</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880782880222332,43.615536125083999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 10:41</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88117121327054</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6152227946707</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881171213270534,43.615222794670657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 10:42</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88097788013961</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6153377931585</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880977880139609,43.615337793158417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 10:47</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88408620599231</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6164044880986</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.884086205992313,43.616404488098517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 10:48</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88483953708183</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6169761619784</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.884839537081829,43.6169761619783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 10:51</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88243620786136</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6172844750683</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882436207861365,43.617284475068189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 10:52</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88217954074108</SimpleData>
+		<SimpleData name="F05_COMMEN">43,617932807076</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882179540741077,43.617932807075846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 10:53</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8819778745149</SimpleData>
+		<SimpleData name="F05_COMMEN">43,617891138626</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881977874514905,43.617891138625865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 10:53</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88218120727905</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6180194738741</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.882181207279047,43.618019473874028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 10:54</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88144454298645</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6173427999692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881444542986454,43.617342799969059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 10:55</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88123287692964</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6171994646204</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.881232876929636,43.617199464620256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 10:56</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88032121285082</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6166144559608</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880321212850817,43.616614455960672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 10:58</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8804545446778</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6174661249806</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8804545446778,43.61746612498051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:00</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88095954263728</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6182077970142</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.880959542637283,43.618207797014101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:07</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87829288281307</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6169877723931</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.878292882813072,43.616987772393024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:08</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87863788294108</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6164644412502</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.878637882941076,43.616464441250109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:16</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8766128856151</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6172394250128</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876612885615098,43.61723942501267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:19</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87475455640744</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6168444084232</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874754556407437,43.61684440842312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:20</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87435622317416</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6172677390211</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874356223174159,43.617267739020953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:22</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87375788964235</SimpleData>
+		<SimpleData name="F05_COMMEN">43,618122735294</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873757889642349,43.618122735293873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:23</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87335288951184</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6186943994452</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87335288951184,43.618694399445147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:24</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87354955447055</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6195544025424</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873549554470547,43.619554402542299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:24</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8736712209625</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6195210701887</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873671220962498,43.619521070188597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:25</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87396788781646</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6190444052655</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873967887816455,43.619044405265441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:26</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87473788537226</SimpleData>
+		<SimpleData name="F05_COMMEN">43,619696079541</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874737885372255,43.619696079540894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:27</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87406955286893</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6199627409628</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.874069552868931,43.619962740962713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:28</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87372288686682</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6199494046649</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873722886866815,43.619949404664773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:30</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87393955079807</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6214527422909</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87393955079807,43.621452742290771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:32</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87257788641995</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6215893976991</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87257788641995,43.62158939769899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:33</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87292122013714</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6209410661806</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872921220137136,43.620941066180499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:34</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87272122079076</SimpleData>
+		<SimpleData name="F05_COMMEN">43,620759397519</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872721220790764,43.620759397518853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:35</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87296455466025</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6201293985277</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872964554660251,43.620129398527602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:36</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87318288790357</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6199277333782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873182887903568,43.619927733378105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:37</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87238788966316</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6197477263252</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872387889663159,43.619747726325059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:41</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87227955903631</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6181560560406</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872279559036306,43.61815605604049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:47</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87259622692166</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6170010567991</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.872596226921655,43.617001056798976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:50</SimpleData>
+		<SimpleData name="F01_TYPE_D">Taxi</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87002289909627</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6166060339888</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.870022899096273,43.61660603398871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:55</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87396289377022</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6152177322752</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.873962893770219,43.615217732275042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:56</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87550622400864</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6153060791054</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.875506224008638,43.615306079105302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:57</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87558955749668</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6151010795004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.875589557496683,43.615101079500263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:57</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87556455766484</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6150227458259</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.875564557664841,43.615022745825826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 11:59</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,8769912208567</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6155077589304</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.876991220856699,43.61550775893032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 12:01</SimpleData>
+		<SimpleData name="F01_TYPE_D">Livraison</SimpleData>
+		<SimpleData name="F03_COMMEN">3,87858288478293</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6153027723859</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.878582884782933,43.615302772385824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 13:59</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88891787532548</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6077178532052</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.888917875325475,43.607717853205067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 14:00</SimpleData>
+		<SimpleData name="F01_TYPE_D">Autre</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88900787484556</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6079361875911</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.889007874845564,43.60793618759098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#VilleMTP_MTP_PlacesReserv">
+		<SimpleData name="F00_DATE_S">19/11/2010 14:01</SimpleData>
+		<SimpleData name="F01_TYPE_D">GIG/GIC</SimpleData>
+		<SimpleData name="F03_COMMEN">3,88852954273579</SimpleData>
+		<SimpleData name="F05_COMMEN">43,6077461831075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.888529542735792,43.607746183107409</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
