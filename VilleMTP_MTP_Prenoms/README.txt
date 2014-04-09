@@ -9,25 +9,13 @@ Fiche métadonnées
 
 * ID : 77
 
-* TITRE : Prénoms
+* URL : http://opendata.montpelliernumerique.fr/Prenoms
 
 * IDENTIFIANT : VilleMTP_MTP_Prenoms
 
-* DESCRIPTION : Cette donnée renseigne les prénoms les plus donnés à Montpellier sur la période 2000-2012, avec un focus sur l'année 2012. 
+* TITRE : Prénoms
 
-* COUVERTUTE GÉOGRAPHIQUE : Ville de Montpellier
-
-* LANGUE : français
-
-* DATE PUBLICATION : 2012-05-09
-
-* PÉRIODE VALIDITÉE : Annuelle
-
-* MISE À JOUR : 2013-04-24
-
-* PRORIÉTAIRE : Ville de Montpellier
-
-* DIFFUSEUR : Ville de Montpellier
+* DESCRIPTION : Cette donnée renseigne les prénoms les plus donnés à Montpellier sur la période 2000-2013, avec un focus sur l'année 2013.
 
 * CATÉGORIE : Démographie
 
@@ -36,6 +24,24 @@ Fiche métadonnées
 * LICENCE : LICENCE OUVERTE / OPEN LICENCE http://www.etalab.gouv.fr/pages/licence-ouverte-open-licence-5899923.html
 
 * MOTS CLÉS : prénom ; naissance ; statistique ; montpellier
+
+* DATE PUBLICATION : 2012-05-09
+
+* MISE À JOUR : 2014-04-08
+
+* COUVERTUTE GÉOGRAPHIQUE : Ville de Montpellier
+
+
+
+* PÉRIODE VALIDITÉE : Annuelle
+
+* PRORIÉTAIRE : Ville de Montpellier
+
+* DIFFUSEUR : Ville de Montpellier
+
+
+
+* LANGUE : français
 
 * TARIFICATION : Gratuite
 
