@@ -9,25 +9,71 @@ Fiche métadonnées
 
 * ID : 75
 
-* TITRE : Nombre de décès
+* URL : http://opendata.montpelliernumerique.fr/Nombre-de-deces
 
 * IDENTIFIANT : VilleMTP_MTP_NbreDeces
 
+* TITRE : Nombre de décès
+
 * DESCRIPTION : Cette donnée renseigne le nombre de décès depuis 2000. Elle est divisée entre le nombre de transcriptions de décès (montpelliérains de naissance décédés hors Montpellier), le nombre de décès sur la commune et le nombre de décès d’enfants sans vie. 
 
-* COUVERTUTE GÉOGRAPHIQUE : Ville de Montpellier
+.
 
-* LANGUE : français
+.
 
-* DATE PUBLICATION : 2012-04-25
+.
 
-* PÉRIODE VALIDITÉE : Annuelle
+.
 
-* MISE À JOUR : 2013-04-22
+.
 
-* PRORIÉTAIRE : Ville de Montpellier
+.
 
-* DIFFUSEUR : Ville de Montpellier
+.
+
+.
+
+. 
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. 
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. 
 
 * CATÉGORIE : Démographie
 
@@ -36,6 +82,24 @@ Fiche métadonnées
 * LICENCE : LICENCE OUVERTE / OPEN LICENCE http://www.etalab.gouv.fr/pages/licence-ouverte-open-licence-5899923.html
 
 * MOTS CLÉS : décès ; démographie ; population ; statistique ; montpellier 
+
+* DATE PUBLICATION : 2012-04-25
+
+* MISE À JOUR : 2014-04-11
+
+* COUVERTUTE GÉOGRAPHIQUE : Ville de Montpellier
+
+
+
+* PÉRIODE VALIDITÉE : Annuelle
+
+* PRORIÉTAIRE : Ville de Montpellier
+
+* DIFFUSEUR : Ville de Montpellier
+
+
+
+* LANGUE : français
 
 * TARIFICATION : Gratuite
 

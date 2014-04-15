@@ -1,6 +1,27 @@
 
 "ID","Statut","Titre","Identifiant","Description","Catégorie","Thème","Propriétaire","Diffuseur","Note","Couverture","Langue","Date publication","Periode validitée","Date mise à jour","Mots clés","Licence","URL",
  
+     131,"pub","Plan Local d'urbanisme de Montpellier","VilleMTP_MTP_PLU","Cette donnée renseigne le Plan Local d’Urbanisme (PLU).
+
+Créé par la loi Solidarité et Renouvellement Urbain (SRU) du 13 décembre 2000, le Plan Local d'Urbanisme (PLU) traduit sur la commune de Montpellier le projet global d'aménagement et d'urbanisme. Document réglementaire à l'échelle du 1/2000ème, il fixe les règles d'aménagement et d'usage des sols. 
+
+Les données géographiques s'organisent en 11 couches : ZoneUrba, Prescription_SURF,
+
+Prescription_LIN, Prescription_PCT, Info_SURF, Info_LIN, Info_PCT, Habillage_SURF,
+
+Habillage_LIN, Habillage_PCT, Habillage_TXT. 
+
+Elles contiennent : les pièces graphiques du PLU (règlement, annexes), les éléments d'habillage des pièces réglementaires (titre, légende, date d'édition, ...).
+
+Pour rappel, seul le PLU papier est opposable. Donnée produite par la Ville de Montpellier (Direction Aménagement et Programmation), elle est mise à disposition via le portail DSI open data. 
+
+La numérisation du Plan d’Occupation des Sols (POS), calée sur le référentiel cadastral a été mise en œuvre lors de la révision du POS en 1998. Ces données géographiques ont migré vers un applicatif ESRI en 2006, date d’approbation du Plan Local d’Urbanisme (PLU). Elles ont évolué au rythme des procédures d’évolution du PLU, conjointement avec l’environnement logiciel. En 2013, l’application de la norme INSPIRE et la dématérialisation des documents d’urbanisme à l’horizon 2016 a rendu nécessaire une nouvelle migration –achevée en décembre 2013&mdash; vers un modèle de données normé. 
+
+Ce modèle en place s’accompagnera d’évolutions continues de la donnée pour progresser en qualité (topologique, graphique,…) et en faciliter l’accès à l’usager. 
+
+Livraison des données : Géodatabase fichier, SHAPE, DWG (à venir) 
+
+Seul le PLU papier est opposable.","Urbanisme","Planification, cadastre","Ville de Montpellier","Ville de Montpellier","","Ville de Montpellier","français","15.04.2014","Annuelle","2014-04-15 00:00:00","plan local d’urbanisme ; PLU ; urbanisme ; aménagement : zonage ; prescription ; réglementation ; règlement ; servitude ; POS ; usage des sols ; Occupation des terres ; montpellier","LICENCE OUVERTE / OPEN LICENCE","http://opendata.montpelliernumerique.fr/Plan-Local-d-urbanisme-de" 
      130,"pub","Orthophoto 2013","VilleMTP_MTP_OrthoPhoto_2013","Il s’agit de l’orthophoto de la ville de Montpellier réalisée en 2013 (prise de vue d'été). 
 
 Une orthophoto se définit simplement comme une prise de vue aérienne de la surface terrestre. Le document d’origine est découpé en plus de 2441 dalles, ces dernières ont été assemblées en une seule dalle pour un confort de lecture. Le résultat est de fait un peu moins précis que le document d’origine, mais reste de très bonne qualité (précision 16 cm, en Lambert 93). 
@@ -330,7 +351,13 @@ Une orthophoto se définit simplement comme une prise de vue aérienne de la sur
 Il s’agit quand même d’un document de 3.6 go datant de 2011. Ce document est téléchargeable sous le format .ecw (Enhanced Compression Wavelet) qui nécessite un logiciel particulier pour être ouvert. Nous pouvons vous conseiller Quantum GIS qui est une solution SIG en open source. Une fois installé, il vous faudra faire : &#171; Ajouter une couche raster &#187;. 
 
 Cette données est aussi disponibles pour l'année 2009 et 2013","Urbanisme","Imagerie, cartes de base, occupation des terres","Ville de Montpellier","Ville de Montpellier","","Ville de Montpellier","français","13.06.2012","Annuelle","2012-06-13 00:00:00","orthophoto ; photo aérienne ; satellite : photographie : montepllier","LICENCE OUVERTE / OPEN LICENCE","http://opendata.montpelliernumerique.fr/Orthophoto-2011" 
-     81,"pub","Attribution des subventions","VilleMTP_MTP_AttribSub","Cette donnée renseigne le montant des subventions attribuées par la ville de Montpellier pour les années 2012 et 2013. À noter qu’il s’agit là des données issues des deux principales sessions d’attribution des subventions au titre de l'année en cours (février et mars), mais que d’autres dossiers de demande sont en cours d’instruction et pourront faire l’objet d’une attribution tout au long de l’année. 
+     81,"pub","Attribution des subventions","VilleMTP_MTP_AttribSub","Cette donnée renseigne le montant des subventions attribuées par la ville de Montpellier à partir de 2012. À noter qu’il s’agit là des données issues des deux principales sessions d’attribution des subventions au titre de l'année en cours (février et mars), mais que d’autres dossiers de demande sont en cours d’instruction et pourront faire l’objet d’une attribution tout au long de l’année. 
+
+Le fichier est composé de plusieurs onglets, le premier comporte toutes des subventions, le second est un récapitulatif par thème, et le troisième et quatrième est un détail pour la culture et les sports.
+
+La délibérations relatives aux subventions est disponible en dans le fichier pdf. 
+
+Les années précédentes sont compilées dans le fichier archive. 
 
 Ces attributions de subventions sont assorties d’engagements définis par la réglementation en vigueur et par les documents suivants qui garantissent la bonne utilisation des deniers publics, ainsi : 
 
@@ -338,15 +365,7 @@ Les structures bénéficiaires d’une subvention inférieure ou égale à 3 000
 
 Les structures bénéficiaires d’une subvention supérieure à 3 000 € s’engageront sur la base d’une convention avec la Ville de Montpellier. 
 
-Les subventions se répartissent en trois catégories : 
-
- Subvention de fonctionnement (F) pour la gestion des activités courantes de l’association ;
-
- Subvention pour une manifestation ou un projet (M) pour les frais liés à une manifestation, un tournoi, une conférence, une exposition.. .
-
- Subvention pour un investissement pour la réalisation de travaux, l’acquisition d’un véhicule ou du gros matériel (I). 
-
-Afin d’illustrer ces chiffres, nous avons créé une visualisation des données par grand thème pour 2012. ","Vie associative","Société","Ville de Montpellier","Ville de Montpellier","","Ville de Montpellier","français","22.05.2012","Annuelle","2013-05-13 00:00:00","subvention ; association ; aide ; financement ; montpellier","LICENCE OUVERTE / OPEN LICENCE","http://opendata.montpelliernumerique.fr/Attribution-des-subventions" 
+Les subventions se répartissent en trois catégories : Subvention de fonctionnement (F) pour la gestion des activités courantes de l’association ; Subvention pour une manifestation ou un projet (M) pour les frais liés à une manifestation, un tournoi, une conférence, une exposition.. . Subvention pour un investissement pour la réalisation de travaux, l’acquisition d’un véhicule ou du gros matériel (I).","Vie associative","Société","Ville de Montpellier","Ville de Montpellier","","Ville de Montpellier","français","22.05.2012","Annuelle","2014-04-10 00:00:00","subvention ; association ; aide ; financement ; montpellier","LICENCE OUVERTE / OPEN LICENCE","http://opendata.montpelliernumerique.fr/Attribution-des-subventions" 
      80,"pub","Indice prévisionnel de qualité de l'air","AirLR_LR_IndiceAir","Cette donnée renseigne l’indice prévisionnel de qualité de l’air en Languedoc Roussillon. Il est disponible sous le format .csv. 
 
 Le fichier .csv, mis à jour quotidiennement à 18h, concatène depuis le 23 mars 2012 les indices prévisionnels de qualité de l’air pour le lendemain dans 13 villes du Languedoc Roussillon (Alès ; Bagnols ; Béziers ; Carcassonne ; Lunel ; Mende ; Millau ; Montpellier ; Narbonne Nîmes ; Rodez ; Sète ; Perpignan).","Environnement","Climatologie, météorologie, atmosphère","AIR LR","AIR LR","","Région Languedoc-Roussillon","français","21.05.2012","Journalière","2013-06-18 00:00:00","air ; environnement ; qualité ; pollution ; indice qualité air ; AIR LR ; montpellier","LICENCE OUVERTE / OPEN LICENCE","http://opendata.montpelliernumerique.fr/Indice-previsionnel-de-qualite-de" 
@@ -356,7 +375,65 @@ AIR Languedoc-Roussillon est l'organisme agréé par l'État pour la mise en œu
      78,"pub","État civil","VilleMTP_MTP_EtatCivil","Cette donnée renseigne, par année, le nombre de naissance et de mariage ayant eu lieu dans la commune de Montpellier sur la période 2000-2013. A partir de l'année 2013 les mariages  pour tous  hommes et femmes sont aussi comptabilisés.","Démographie","Société","Ville de Montpellier","Ville de Montpellier","","Ville de Montpellier","français","09.05.2012","Annuelle","2014-04-08 00:00:00","mariage ; naissance ; état civil ; donnée sociodémographique ; statistique ; montpellier","LICENCE OUVERTE / OPEN LICENCE","http://opendata.montpelliernumerique.fr/Etat-civil" 
      77,"pub","Prénoms","VilleMTP_MTP_Prenoms","Cette donnée renseigne les prénoms les plus donnés à Montpellier sur la période 2000-2013, avec un focus sur l'année 2013.","Démographie","Société","Ville de Montpellier","Ville de Montpellier","","Ville de Montpellier","français","09.05.2012","Annuelle","2014-04-08 00:00:00","prénom ; naissance ; statistique ; montpellier","LICENCE OUVERTE / OPEN LICENCE","http://opendata.montpelliernumerique.fr/Prenoms" 
      76,"pub","Affichage libre","VilleMTP_MTP_AffichageLibre","Ce fichier renseigne l’emplacement des panneaux d’affichage libre de la Ville de Montpellier. L’affichage libre permet l’expression libre d’acteurs non lucratifs sur divers supports répartis sur une commune.","Equipements","Localisation","Ville de Montpellier","Ville de Montpellier","","Ville de Montpellier","français","25.04.2012","Annuelle","2013-05-06 00:00:00","affichage libre ; panneau ; expression ; liberté ; montpellier","LICENCE OUVERTE / OPEN LICENCE","http://opendata.montpelliernumerique.fr/Affichage-libre" 
-     75,"pub","Nombre de décès","VilleMTP_MTP_NbreDeces","Cette donnée renseigne le nombre de décès depuis 2000. Elle est divisée entre le nombre de transcriptions de décès (montpelliérains de naissance décédés hors Montpellier), le nombre de décès sur la commune et le nombre de décès d’enfants sans vie. ","Démographie","Société","Ville de Montpellier","Ville de Montpellier","","Ville de Montpellier","français","25.04.2012","Annuelle","2013-04-22 00:00:00","décès ; démographie ; population ; statistique ; montpellier ","LICENCE OUVERTE / OPEN LICENCE","http://opendata.montpelliernumerique.fr/Nombre-de-deces" 
+     75,"pub","Nombre de décès","VilleMTP_MTP_NbreDeces","Cette donnée renseigne le nombre de décès depuis 2000. Elle est divisée entre le nombre de transcriptions de décès (montpelliérains de naissance décédés hors Montpellier), le nombre de décès sur la commune et le nombre de décès d’enfants sans vie. 
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. 
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. 
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. ","Démographie","Société","Ville de Montpellier","Ville de Montpellier","","Ville de Montpellier","français","25.04.2012","Annuelle","2014-04-11 00:00:00","décès ; démographie ; population ; statistique ; montpellier ","LICENCE OUVERTE / OPEN LICENCE","http://opendata.montpelliernumerique.fr/Nombre-de-deces" 
      74,"pub","Accessibilité des établissements recevant du public (ERP)","VilleMTP_MTP_AccERP","Ce fichier renseigne l’accessibilité handicap de certains établissements recevant du public (ERP). La colonne ELM_ETAT correspond au niveau de mise en accessibilité (05= simple, 06=lourd, 07=complexe, 08=conforme).","Equipements","Structure, constructions humaines","Ville de Montpellier","Ville de Montpellier","","Ville de Montpellier","français","22.03.2012","Annuelle","2013-04-04 00:00:00","accessibilité ; ERP ; handicap ; bâtiment ; montpellier","LICENCE OUVERTE / OPEN LICENCE","http://opendata.montpelliernumerique.fr/Accessibilite-des-etablissements" 
      73,"pub","Budget exécuté 2005-2012","VilleMTP_MTP_BudgetAnt","Budget exécuté de la ville de Montpellier de 2005 à 2012.","Politique Publique &amp; Démocratie","Économie","Ville de Montpellier","Ville de Montpellier","","Ville de Montpellier","français","02.03.2012","Annuelle","2013-04-29 00:00:00","budget ; finance ; dépenses ; recettes ; impôt ; montpellier","LICENCE OUVERTE / OPEN LICENCE","http://opendata.montpelliernumerique.fr/Budget-execute-2005-2012" 
      72,"pub","Budget primitif","VilleMTP_MTP_BudgetPri","Budget primitif de la ville de Montpellier pour l’année 2013. Budget voté par l'assemblée locale en début d'exercice. Il fixe les enveloppes de crédits permettant d'engager les dépenses pendant la durée de l'exercice. 
