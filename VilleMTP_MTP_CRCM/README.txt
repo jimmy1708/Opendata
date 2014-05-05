@@ -29,7 +29,7 @@ Un compte rendu de conseil municipal est publié généralement une semaine apr�
 
 * DATE PUBLICATION : 2014-02-13
 
-* MISE À JOUR : 2014-04-02
+* MISE À JOUR : 2014-05-05
 
 * COUVERTUTE GÉOGRAPHIQUE : Ville de Montpellier
 
