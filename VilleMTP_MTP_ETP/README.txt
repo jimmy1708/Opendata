@@ -23,7 +23,7 @@ Fiche métadonnées
 
 * PÉRIODE VALIDITÉE : Hebdomadaire
 
-* MISE À JOUR : 2014-06-02
+* MISE À JOUR : 2014-06-23
 
 * PRORIÉTAIRE : Ville de Montpellier
 
