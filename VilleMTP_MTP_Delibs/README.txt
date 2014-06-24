@@ -43,7 +43,7 @@ Les précédentes listes sont compilées dans les fichiers VilleMTP_MTP_Delibs_A
 
 * DATE PUBLICATION : 2013-02-05
 
-* MISE À JOUR : 2014-05-05
+* MISE À JOUR : 2014-06-24
 
 * COUVERTUTE GÉOGRAPHIQUE : Ville de Montpellier
 

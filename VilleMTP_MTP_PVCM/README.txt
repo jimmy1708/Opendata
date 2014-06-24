@@ -29,7 +29,7 @@ Un procès verbal de conseil municipal doit être approuvé lors de la séance s
 
 * DATE PUBLICATION : 2014-02-13
 
-* MISE À JOUR : 2014-05-05
+* MISE À JOUR : 2014-06-23
 
 * COUVERTUTE GÉOGRAPHIQUE : Ville de Montpellier
 
